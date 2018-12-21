@@ -16,15 +16,12 @@ Elementet omhandler forskellig sikkerhedsudstyr \(IDS\) til monitorering. Derudo
 
 ### Litteraturliste
 
-Hvad skal de studerende læse: bog titel, forfatter, side tal.   
+Hvad skal de studerende læse: bog titel, forfatter, side tal.  
 Husk også at skrive ind hvis de skal forberede andet til denne undervisningsgang
 
-Primær litteratur:
-Applied Network Security Monitoring Collection, Detection, and Analysis, 2017 Chris Sanders
-ISBN: 9780124172081
+Primær litteratur: Applied Network Security Monitoring Collection, Detection, and Analysis, 2017 Chris Sanders ISBN: 9780124172081
 
-Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems, 3rd edition 2017, Chris Sanders
-ISBN: 9781593278021
+Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems, 3rd edition 2017, Chris Sanders ISBN: 9781593278021
 
 Sekundær litteratur: Skriv som ovenfor, men her indføres titler på artikler eller bøger der er kopieret fra
 
@@ -104,47 +101,27 @@ Paper M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 
 
 ## Plan
 
- **Security in TCP/IP protocol suite**
-Addressing and layering
-Network devices and secure network design
-Hvilke enheder, der anvender hvilke protokoller
-Paper M. Bellovin, S. (2002). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
+**Security in TCP/IP protocol suite** Addressing and layering Network devices and secure network design Background paper M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
 
- **Network Threats**
-ARP spoofing, Person in the middle attacks
-Network Sniffing
-Forskellige sniffing strategier og teknikker
+**Network Threats** ARP spoofing, Person in the middle attacks Network sniffing strategies and techniques 
 
-**Traffic inspection and firewalls 2 lessons**
-Generic IP Firewalls
-Next Generation firewalls, Deep Packet Inspection
+**Traffic inspection and firewalls** Generic IP Firewalls Next Generation firewalls, Deep Packet Inspection
 
-**Network Intrusion Detection**
-Suricata
-Zeek
+**Network Intrusion Detection** Suricata Zeek
 
-**DNS and Email Security**
-DNSSEC, DMARC, DKIM, DNS over TLS, DNS over HTTPS
+**Transport Layer Security TLS** [https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
 
-**Transport Layer Security TLS**
-https://da.wikipedia.org/wiki/Transport_Layer_Security
+**DNS and Email Security** DNSSEC, DMARC, DKIM SMTP TLS, DNS over TLS, DNS over HTTPS
 
 **Wifi Security**
 
-**Honeypots**
-An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied
-Bill Cheswick, AT&T Bell Laboratories
+**Virtual Private Networks** TLS VPN, OpenVPN, IPsec VPN, Linux VPN Microsoft Connect VPN
 
-**Network Management**
-Monitoring
-Centralized syslog and SNMP
+**Honeypots** An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied Bill Cheswick, AT&T Bell Laboratories
 
-**Virtual Private Networks**
-TLS VPN, OpenVPN, IPsec VPN, Linux VPN Microsoft Connect VPN
+**Network Management** Monitoring Centralized syslog and SNMP
 
-
-
-
+\*\*\*\*
 
 <table>
   <thead>
