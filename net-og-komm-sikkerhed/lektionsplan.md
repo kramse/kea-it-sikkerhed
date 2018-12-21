@@ -2,7 +2,7 @@
 description: Obligatoriske modul Ob 1 Netværks- og kommunikationssikkerhed (10 ECTS)
 ---
 
-# Lektionsplan Netværks- og kommunikationssikkerhed
+# Lektionsplan
 
 ## Fagets titel: Ob 1 Netværks- og kommunikationssikkerhed \(10 ECTS\)
 

@@ -5,7 +5,5 @@
 
 ## Net og komm sikkerhed
 
-* [Lektionsplan Netværks- og kommunikationssikkerhed](net-og-komm-sikkerhed/untitled-2.md)
-* [Untitled](net-og-komm-sikkerhed/untitled-1.md)
-* [Untitled](net-og-komm-sikkerhed/untitled.md)
+* [Lektionsplan](net-og-komm-sikkerhed/lektionsplan.md)
 
