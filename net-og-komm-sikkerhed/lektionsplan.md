@@ -23,11 +23,11 @@ Primær litteratur: Applied Network Security Monitoring Collection, Detection, a
 
 Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems, 3rd edition 2017, Chris Sanders ISBN: 9781593278021
 
-Sekundær litteratur: 
+Sekundær litteratur:
 
 * M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
 * An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied Bill Cheswick, AT&T Bell Laboratories
-* A Graduate Course in Applied Cryptography By Dan Boneh and Victor Shoup [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
+* A Graduate Course in Applied Cryptography By Dan Boneh and Victor Shoup<br/> [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 
 
 
@@ -107,25 +107,33 @@ Paper M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 
 
 ## Plan
 
-**Security in TCP/IP protocol suite** Addressing and layering Network devices and secure network design Background paper M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
+**Security in TCP/IP protocol suite**<br/>
+Addressing and layering Network devices and secure network design Background paper M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
 
-**Network Threats** ARP spoofing, Person in the middle attacks Network sniffing strategies and techniques 
+**Network Threats**<br/>
+ARP spoofing, Person in the middle attacks Network sniffing strategies and techniques
 
-**Traffic inspection and firewalls** Generic IP Firewalls Next Generation firewalls, Deep Packet Inspection
+**Traffic inspection and firewalls**<br/>
+Generic IP Firewalls Next Generation firewalls, Deep Packet Inspection
 
-**Network Intrusion Detection** Suricata Zeek
+**Network Intrusion Detection**<br/>
+Suricata Zeek
 
-**Transport Layer Security TLS** [https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
+**Transport Layer Security TLS**<br/> [https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
 
-**DNS and Email Security** DNSSEC, DMARC, DKIM SMTP TLS, DNS over TLS, DNS over HTTPS
+**DNS and Email Security**<br/>
+DNSSEC, DMARC, DKIM SMTP TLS, DNS over TLS, DNS over HTTPS
 
 **Wifi Security**
 
-**Virtual Private Networks** TLS VPN, OpenVPN, IPsec VPN, Linux VPN Microsoft Connect VPN
+**Virtual Private Networks**<br/>
+TLS VPN, OpenVPN, IPsec VPN, Linux VPN Microsoft Connect VPN
 
-**Honeypots** An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied Bill Cheswick, AT&T Bell Laboratories
+**Honeypots**<br/>
+An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied Bill Cheswick, AT&T Bell Laboratories
 
-**Network Management** Monitoring Centralized syslog and SNMP
+**Network Management**<br/>
+Monitoring Centralized syslog and SNMP
 
 \*\*\*\*
 
