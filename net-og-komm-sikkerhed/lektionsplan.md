@@ -23,7 +23,12 @@ Primær litteratur: Applied Network Security Monitoring Collection, Detection, a
 
 Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems, 3rd edition 2017, Chris Sanders ISBN: 9781593278021
 
-Sekundær litteratur: Skriv som ovenfor, men her indføres titler på artikler eller bøger der er kopieret fra
+Sekundær litteratur: 
+
+* M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
+* An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied Bill Cheswick, AT&T Bell Laboratories
+
+
 
 ### Specificerede læringsmål:
 
