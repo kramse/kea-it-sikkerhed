@@ -5,5 +5,5 @@
 
 ## Net og komm sikkerhed
 
-* [Lektionsplan](net-og-komm-sikkerhed/lektionsplan.md)
+* [Lektionsplan UDKAST](net-og-komm-sikkerhed/lektionsplan.md)
 
