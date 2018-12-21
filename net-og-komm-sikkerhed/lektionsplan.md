@@ -106,35 +106,34 @@ Paper M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 
 ## Plan
 
 **Security in TCP/IP protocol suite**  
- Addressing and layering Network devices and secure network design Background paper M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
+Addressing and layering Network devices and secure network design   
+Background paper M. Bellovin, S. \(2002\). _Security problems in the TCP/IP protocol suite_. 19. 10.1145/378444.378449.
 
 **Network Threats**  
- ARP spoofing, Person in the middle attacks Network sniffing strategies and techniques
+ARP spoofing, Person in the middle attacks Network sniffing strategies and techniques
 
 **Traffic inspection and firewalls**  
- Generic IP Firewalls Next Generation firewalls, Deep Packet Inspection
+Generic IP Firewalls Next Generation firewalls, Deep Packet Inspection
 
 **Network Intrusion Detection**  
- Suricata Zeek
+Suricata Zeek
 
 **Transport Layer Security TLS**  
- [https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
+[https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
 
 **DNS and Email Security**  
- DNSSEC, DMARC, DKIM SMTP TLS, DNS over TLS, DNS over HTTPS
+DNSSEC, DMARC, DKIM SMTP TLS, DNS over TLS, DNS over HTTPS
 
 **Wifi Security**
 
 **Virtual Private Networks**  
- TLS VPN, OpenVPN, IPsec VPN, Linux VPN Microsoft Connect VPN
+TLS VPN, OpenVPN, IPsec VPN, Linux VPN Microsoft Connect VPN
 
 **Honeypots**  
- An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied Bill Cheswick, AT&T Bell Laboratories
+Background paper _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ Bill Cheswick, AT&T Bell Laboratories
 
 **Network Management**  
  Monitoring Centralized syslog and SNMP
-
-\*\*\*\*
 
 <table>
   <thead>
