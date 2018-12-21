@@ -57,19 +57,103 @@ Den studerende kan:
 * Opsætte og konfigurere et IDS eller IPS.
 * kan håndtere relevante krypteringstiltag til sikring af netværkskommunikation
 
-
-
 ### Eksamensform:
 
-Lektionsplan
+Dato 9. april 2019
 
+### Lektioner
 
+Undervisningsformer:
 
-Dato
+* Tavleundervisning
+* Gruppeøvelser og cases, herunder praktiske øvelser med laptop
+
+#### Dato
 
 Mål
 
-Tema
+Den studerende opnår viden om \(samlet overblik for to moduler: 1/2\):
 
-Litteratur
+```text
+Sikkerhed i TCP/IP protokollerne
+```
 
+Den studerende kan i produktudviklingsprocessen:
+
+```text
+Beregne areal, tyngdepunkt, inertimoment og modstandsmoment for simple tværsnit (dvs. tværsnit som kan konstrueres ud fra rette liner og cirkelbuer). 
+Forstår hvordan et 3D-moduleringsprogram kan anvendes til at beregne både simple og mere komplicerede tværsnit. 
+```
+
+Den studerende kan efterfølgende:
+
+```text
+Overføre tilegnet viden og færdigheder til design af netværk og imødegå truslerne
+```
+
+Tema Sikkerhed i TCP/IP 
+
+Litteratur 
+
+Paper M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
+
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Dato</th>
+      <th style="text-align:left">Mål</th>
+      <th style="text-align:left">Tema</th>
+      <th style="text-align:left">Litteratur</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Skabe et godt udgangspunkt for læring</p>
+        <p>Introducere underviser og studerende</p>
+        <p>Konkretisere forventninger</p>
+      </td>
+      <td style="text-align:left">
+        <p>Velkommen og formål</p>
+        <p>Forventninger til uddannelsen/modulet</p>
+      </td>
+      <td style="text-align:left">Gennemgang af boglisten</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">TCP/IP Security</td>
+      <td style="text-align:left">Paper M. Bellovin, S. (2002). Security problems in the TCP/IP protocol
+        suite. 19. 10.1145/378444.378449.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Firewalls and low level attacks</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
