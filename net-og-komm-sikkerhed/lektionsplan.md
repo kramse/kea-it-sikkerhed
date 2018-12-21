@@ -27,6 +27,7 @@ Sekundær litteratur:
 
 * M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
 * An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied Bill Cheswick, AT&T Bell Laboratories
+* A Graduate Course in Applied Cryptography By Dan Boneh and Victor Shoup [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 
 
 
