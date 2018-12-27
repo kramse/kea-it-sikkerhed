@@ -19,15 +19,16 @@ Elementet omhandler forskellig sikkerhedsudstyr \(IDS\) til monitorering. Derudo
 Hvad skal de studerende læse: bog titel, forfatter, side tal.  
 Husk også at skrive ind hvis de skal forberede andet til denne undervisningsgang
 
-Primær litteratur: Applied Network Security Monitoring Collection, Detection, and Analysis, 2017 Chris Sanders ISBN: 9780124172081
+Primær litteratur: Applied Network Security Monitoring Collection, Detection, and Analysis, 2017 Chris Sanders ISBN: 9780124172081 forkortes ANSM
 
-Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems, 3rd edition 2017, Chris Sanders ISBN: 9781593278021
+Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems, 3rd edition 2017, Chris Sanders ISBN: 9781593278021 forkortes PPA
 
 Sekundær litteratur:
 
-* M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
-* An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied Bill Cheswick, AT&T Bell Laboratories
-* A Graduate Course in Applied Cryptography By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
+* _Security problems in the TCP/IP protocol suite_, S. M. Bellovin
+* _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied,_ Bill Cheswick, AT&T Bell Laboratories
+* _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
+* Strange Attractors and TCP/IP Sequence Number Analysis, Michal Zalewski [http://lcamtuf.coredump.cx/newtcp/](http://lcamtuf.coredump.cx/newtcp/)
 
 ### Specificerede læringsmål:
 
@@ -105,9 +106,11 @@ Paper M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 
 
 ## Plan
 
-**Security in TCP/IP protocol suite**  
-Addressing and layering Network devices and secure network design   
-Background paper M. Bellovin, S. \(2002\). _Security problems in the TCP/IP protocol suite_. 19. 10.1145/378444.378449.
+**Security in TCP/IP protocol suite**
+
+* Addressing and layering
+* Network devices
+* Secure network design  Background paper _Security problems in the TCP/IP protocol suite_, S. M. Bellovin
 
 **Network Threats**  
 ARP spoofing, Person in the middle attacks Network sniffing strategies and techniques
@@ -116,7 +119,7 @@ ARP spoofing, Person in the middle attacks Network sniffing strategies and techn
 Generic IP Firewalls Next Generation firewalls, Deep Packet Inspection
 
 **Network Intrusion Detection**  
-Suricata Zeek
+IDS, NIDS, HIDS, Suricata Zeek
 
 **Transport Layer Security TLS**  
 [https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
@@ -127,7 +130,7 @@ DNSSEC, DMARC, DKIM SMTP TLS, DNS over TLS, DNS over HTTPS
 **Wifi Security**
 
 **Virtual Private Networks**  
-TLS VPN, OpenVPN, IPsec VPN, Linux VPN Microsoft Connect VPN
+TLS VPN, OpenVPN, IPsec VPN, Linux VPN Microsoft Remote Access VPN
 
 **Honeypots**  
 Background paper _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ Bill Cheswick, AT&T Bell Laboratories
@@ -156,24 +159,18 @@ Background paper _An Evening with Berferd: In Which a Cracker is Lured, Endured,
         <p>Introducere underviser og studerende</p>
         <p>Konkretisere forventninger</p>
       </td>
-      <td style="text-align:left">Gennemgang af boglisten</td>
+      <td style="text-align:left">Gennemgang af litteraturlisten</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
+      <td style="text-align:left">Security in TCP/IP protocol suite</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">PPA til og med Kapitel 2<b><br /></b>Paper <em>Security problems in the TCP/IP protocol suite</em>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left">TCP/IP Security</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Paper M. Bellovin, S. (2002). Security problems in the TCP/IP protocol
-        suite. 19. 10.1145/378444.378449.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Network Threats</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
