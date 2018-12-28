@@ -18,25 +18,21 @@ Undervisningsmateriale vil primært være engelsk, men undervisningen foregår p
 
 ### Litteraturliste
 
-Dette kursus benytter tre bøger og et antal internetresourcer.
-Primær litteratur: Applied Network Security Monitoring Collection, Detection, and Analysis, 2017 Chris Sanders ISBN: 9780124172081 forkortes ANSM
+Dette kursus benytter tre bøger og et antal internetresourcer. Primær litteratur: Applied Network Security Monitoring Collection, Detection, and Analysis, 2017 Chris Sanders ISBN: 9780124172081 forkortes ANSM
 
 Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems, 3rd edition 2017, Chris Sanders ISBN: 9781593278021 forkortes PPA
 
-Linux Basics for Hackers
-Getting Started with Networking, Scripting, and Security in Kali
-by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 forkortes LBfH
+Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 forkortes LBfH
 
 Sekundær litteratur:
 
-* Kali Linux Revealed  Mastering the Penetration Testing Distribution https://www.kali.org/download-kali-linux-revealed-book/
+* Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/)
 * _Security problems in the TCP/IP protocol suite_, S. M. Bellovin
 * _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied,_ Bill Cheswick, AT&T Bell Laboratories
 * _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 * Strange Attractors and TCP/IP Sequence Number Analysis, Michal Zalewski [http://lcamtuf.coredump.cx/newtcp/](http://lcamtuf.coredump.cx/newtcp/)
 
 Underviseren samler papers så de nemt kan downloades.
-
 
 ### Specificerede læringsmål:
 
@@ -83,9 +79,7 @@ Undervisningsformer:
 * Tavleundervisning
 * Gruppeøvelser og cases, herunder praktiske øvelser med laptop
 
-Undervisningsdatoer:
-05/02 2019, 07/02 2019, 12/02 2019, 14/02 2019, 19/02 2019, 21/02 2019, 26/02 2019, 28/02 2019, 05/03 2019, 07/03 2019, 12/03 2019, 14/03 2019, 19/03 2019, 21/03 2019, 26/03 2019
-
+Undervisningsdatoer: 05/02 2019, 07/02 2019, 12/02 2019, 14/02 2019, 19/02 2019, 21/02 2019, 26/02 2019, 28/02 2019, 05/03 2019, 07/03 2019, 12/03 2019, 14/03 2019, 19/03 2019, 21/03 2019, 26/03 2019
 
 ## Plan
 
@@ -102,9 +96,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">
-      <p>5/2</p>
-      </td>
+      <td style="text-align:left">5/2</td>
       <td style="text-align:left">
         <p>Velkommen og formål</p>
         <p>Forventninger til uddannelsen/modulet</p>
@@ -117,187 +109,110 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
         <p>Forberede værktøjer til øvelserne</p>
       </td>
       <td style="text-align:left">
-      <p>Gennemgang af litteraturlisten.</p>
-      <p>Download af Kali Linux Revealed</p>
+        <p>Gennemgang af litteraturlisten.</p>
+        <p>Download af Kali Linux Revealed</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">7/2</td>
-      <td style="text-align:left">TCP/IP and Security in TCP/IP protocol suite</td>
+      <td style="text-align:left"><b>TCP/IP and Security in TCP/IP protocol suite</b>
+      </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">PPA til og med Kapitel 2<b><br /></b>Paper <em>Security problems in the TCP/IP protocol suite</em>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">12/2</td>
-      <td style="text-align:left">Network Security Threats</td>
+      <td style="text-align:left"><b>Network Security Threats</b>
+      </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">14/2</td>
+      <td style="text-align:left"><b>Traffic inspection and firewalls</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">19/2</td>
+      <td style="text-align:left"><b>Transport Layer Security TLS</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">21/2</td>
+      <td style="text-align:left"><b>Virtual Private Networks</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">26/2</td>
+      <td style="text-align:left"><b>Wifi Security</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">28/2</td>
+      <td style="text-align:left"><b>DNS and Email Security</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">5/3</td>
+      <td style="text-align:left"><b>Network Management</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">7/3</td>
+      <td style="text-align:left"><b>Network Intrusion Detection</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">12/3</td>
+      <td style="text-align:left"><b>Network Forensics</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">14/3</td>
+      <td style="text-align:left"><b>Honeypots</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>19/3</em> flyttes</td>
+      <td style="text-align:left"><b>Building Robust Networks</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>21/3</em> flyttes</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">
-      <p>19/2</p>        
-      </td>
-      <td style="text-align:left">
-      <p></p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
+      <td style="text-align:left">26/3</td>
+      <td style="text-align:left">Opsamling forberedelse til eksamen</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Alt læst i de tre primære bøger</td>
     </tr>
-    <tr>
-      <td style="text-align:left">
-      <p>21/2</p>        
-      </td>
-      <td style="text-align:left">
-      <p></p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-      <p>26/2</p>        
-      </td>
-      <td style="text-align:left">
-      <p></p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-      <p>28/2</p>        
-      </td>
-      <td style="text-align:left">
-      <p></p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-      <p>5/3</p>        
-      </td>
-      <td style="text-align:left">
-      <p></p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-      <p>7/3</p>        
-      </td>
-      <td style="text-align:left">
-      <p></p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-      <p>12/3</p>        
-      </td>
-      <td style="text-align:left">
-      <p></p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-      <p>14/3</p>        
-      </td>
-      <td style="text-align:left">
-      <p></p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-      <p><em>19/3</em> flyttes</p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-      <p><em>21/3</em> flyttes</p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-      <p>26/3</p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-      <td style="text-align:left">
-      <p> </p>        
-      </td>
-    </tr>
-</tbody>
-</table>
+  </tbody>
+</table>**Introduction and welcome**
 
-**Introduction and welcome**
 * Expectations for this course
 * Literature list walkthrough
 * Kali Linux introduction
@@ -313,7 +228,8 @@ Kali Linux is a toolbox we will use and participants will use a virtual machine
 
 Exercise run tcpdump, wireshark, traceroute, whois
 
-**Network Security Threats**  
+**Network Security Threats**
+
 * ARP spoofing, ICMP redirects, the classics
 * Person in the middle attacks
 * Network Scanning
@@ -322,26 +238,31 @@ Exercise run tcpdump, wireshark, traceroute, whois
 
 Exercise ARP spoofing and ettercap
 
-**Traffic inspection and firewalls**  
+**Traffic inspection and firewalls**
+
 * Network sniffing strategies and techniques
 * Generic IP Firewalls stateless filtering vs stateful inspection
 * Next Generation firewalls, Deep Packet Inspection
 * IEEE 802.1q
 * Common countermeasures in firewalls
 
-Exercise Nping, and pcap-diff https://github.com/isginf/pcap-diff
+Exercise Nping, and pcap-diff [https://github.com/isginf/pcap-diff](https://github.com/isginf/pcap-diff)
 
 **Transport Layer Security TLS**
+
 * Encryption
 * Diffie Helman exchange
-[https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
+
+  [https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
 
 Exercise/examples
-* mitmproxy https://mitmproxy.org/
-* sslsplit https://www.roe.ch/SSLsplit
-* sslstrip https://moxie.org/software/sslstrip/
 
-**Virtual Private Networks**  
+* mitmproxy [https://mitmproxy.org/](https://mitmproxy.org/)
+* sslsplit [https://www.roe.ch/SSLsplit](https://www.roe.ch/SSLsplit)
+* sslstrip [https://moxie.org/software/sslstrip/](https://moxie.org/software/sslstrip/)
+
+**Virtual Private Networks**
+
 * IPsec VPN
 * TLS VPN
 * OpenVPN
@@ -349,6 +270,7 @@ Exercise/examples
 * Microsoft Remote Access VPN
 
 **Wifi Security**
+
 * Wifi standarder IEEE 802.11
 * Authentication Protocols RADIUS, PAP, CHAP, EAP
 * IEEE 802.1x
@@ -356,47 +278,49 @@ Exercise/examples
 * Security problems in wireless encryption
 * Hacking wireless networks
 
-**DNS and Email Security**  
+**DNS and Email Security**
+
 * DNSSEC
 * DMARC
 * DKIM
 * SMTP TLS
 * DNS over TLS vs DNS over HTTPS
 
-**Network Management**  
+**Network Management**
+
 * Monitoring
 * Centralized management SSH, Jump hosts
 * SNMP version 2 vs version 3
 * Bruteforcing network devices SSH vs SNMP
 * Centralized syslog
 
-**Network Intrusion Detection**  
+**Network Intrusion Detection**
+
 * Intrusion Detection Systems
 * NIDS vs HIDS
 * Suricata Zeek
 * Network Security Data Visualization
 * Kibana Dashboards
 
-ENISA Presenting, correlating and filtering various feeds
-Handbook, Document for teachers
-https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook
+ENISA Presenting, correlating and filtering various feeds Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook)
 
 **Network Forensics**
+
 * Netflow data
 * Collect Network Evidence
 * Analyze Network data
 * Create Incident Reports
-Input from
 
-ENISA Forensic analysis, Network Incident Response
-https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2_forensic_analysis_ii-handbook
+  Input from
 
-ENISA Network Forensics, Handbook, Document for teachers
-https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook
+ENISA Forensic analysis, Network Incident Response [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2\_forensic\_analysis\_ii-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2_forensic_analysis_ii-handbook)
 
-http://www.honeynet.org/sites/default/files/files/KYT-Picviz_v1_0.pdf
+ENISA Network Forensics, Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook)
 
-**Honeypots**  
+[http://www.honeynet.org/sites/default/files/files/KYT-Picviz\_v1\_0.pdf](http://www.honeynet.org/sites/default/files/files/KYT-Picviz_v1_0.pdf)
+
+**Honeypots**
+
 * History of honeypots
 * Why use them research, production
 * Types of honeypots low vs high interaction
@@ -404,12 +328,14 @@ http://www.honeynet.org/sites/default/files/files/KYT-Picviz_v1_0.pdf
 
 Background paper _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ Bill Cheswick, AT&T Bell Laboratories
 
-also http://www.honeynet.org/ specielt http://www.honeynet.org/papers
+also [http://www.honeynet.org/](http://www.honeynet.org/) specielt [http://www.honeynet.org/papers](http://www.honeynet.org/papers)
 
 **Building Robust Networks**
+
 * Design a robust network
 * Isolation and segmentation
 * Routing Security
 * Switch and access security
 * Wireless security
 * Using reputation lists
+
