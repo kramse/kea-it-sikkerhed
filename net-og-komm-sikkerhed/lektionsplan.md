@@ -23,12 +23,19 @@ Primær litteratur: Applied Network Security Monitoring Collection, Detection, a
 
 Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems, 3rd edition 2017, Chris Sanders ISBN: 9781593278021 forkortes PPA
 
+Linux Basics for Hackers
+Getting Started with Networking, Scripting, and Security in Kali
+by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 forkortes LBfH
+
 Sekundær litteratur:
 
+* Kali Linux Revealed  Mastering the Penetration Testing Distribution https://www.kali.org/download-kali-linux-revealed-book/
 * _Security problems in the TCP/IP protocol suite_, S. M. Bellovin
 * _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied,_ Bill Cheswick, AT&T Bell Laboratories
 * _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 * Strange Attractors and TCP/IP Sequence Number Analysis, Michal Zalewski [http://lcamtuf.coredump.cx/newtcp/](http://lcamtuf.coredump.cx/newtcp/)
+
+Underviseren samler papers så de nemt kan downloades.
 
 ### Specificerede læringsmål:
 
@@ -75,68 +82,13 @@ Undervisningsformer:
 * Tavleundervisning
 * Gruppeøvelser og cases, herunder praktiske øvelser med laptop
 
-#### Dato
+Undervisningsdatoer:
+05/02 2019, 07/02 2019, 12/02 2019, 14/02 2019, 19/02 2019, 21/02 2019, 26/02 2019, 28/02 2019, 05/03 2019, 07/03 2019, 12/03 2019, 14/03 2019, 19/03 2019, 21/03 2019, 26/03 2019
 
-Mål
-
-Den studerende opnår viden om \(samlet overblik for to moduler: 1/2\):
-
-```text
-Sikkerhed i TCP/IP protokollerne
-```
-
-Den studerende kan i produktudviklingsprocessen:
-
-```text
-Beregne areal, tyngdepunkt, inertimoment og modstandsmoment for simple tværsnit (dvs. tværsnit som kan konstrueres ud fra rette liner og cirkelbuer).
-Forstår hvordan et 3D-moduleringsprogram kan anvendes til at beregne både simple og mere komplicerede tværsnit.
-```
-
-Den studerende kan efterfølgende:
-
-```text
-Overføre tilegnet viden og færdigheder til design af netværk og imødegå truslerne
-```
-
-Tema Sikkerhed i TCP/IP
-
-Litteratur
-
-Paper M. Bellovin, S. \(2002\). Security problems in the TCP/IP protocol suite. 19. 10.1145/378444.378449.
 
 ## Plan
 
-**Security in TCP/IP protocol suite**
-
-* Addressing and layering
-* Network devices
-* Secure network design  Background paper _Security problems in the TCP/IP protocol suite_, S. M. Bellovin
-
-**Network Threats**  
-ARP spoofing, Person in the middle attacks Network sniffing strategies and techniques
-
-**Traffic inspection and firewalls**  
-Generic IP Firewalls Next Generation firewalls, Deep Packet Inspection
-
-**Network Intrusion Detection**  
-IDS, NIDS, HIDS, Suricata Zeek
-
-**Transport Layer Security TLS**  
-[https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
-
-**DNS and Email Security**  
-DNSSEC, DMARC, DKIM SMTP TLS, DNS over TLS, DNS over HTTPS
-
-**Wifi Security**
-
-**Virtual Private Networks**  
-TLS VPN, OpenVPN, IPsec VPN, Linux VPN Microsoft Remote Access VPN
-
-**Honeypots**  
-Background paper _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ Bill Cheswick, AT&T Bell Laboratories
-
-**Network Management**  
- Monitoring Centralized syslog and SNMP
+Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
 
 <table>
   <thead>
@@ -149,42 +101,253 @@ Background paper _An Evening with Berferd: In Which a Cracker is Lured, Endured,
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p>5/2</p>
+      </td>
       <td style="text-align:left">
         <p>Velkommen og formål</p>
         <p>Forventninger til uddannelsen/modulet</p>
+        <p>Lave Kali Linux VM</p>
       </td>
       <td style="text-align:left">
         <p>Skabe et godt udgangspunkt for læring</p>
         <p>Introducere underviser og studerende</p>
         <p>Konkretisere forventninger</p>
+        <p>Forberede værktøjer til øvelserne</p>
       </td>
-      <td style="text-align:left">Gennemgang af litteraturlisten</td>
+      <td style="text-align:left">
+      <p>Gennemgang af litteraturlisten.</p>
+      <p>Download af Kali Linux Revealed</p>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">7/2</td>
       <td style="text-align:left">Security in TCP/IP protocol suite</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">PPA til og med Kapitel 2<b><br /></b>Paper <em>Security problems in the TCP/IP protocol suite</em>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">12/2</td>
       <td style="text-align:left">Network Threats</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">14/2</td>
       <td style="text-align:left">Firewalls and low level attacks</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p>19/2</p>        
+      </td>
+      <td style="text-align:left">
+      <p>Traffic inspection and firewalls</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
     </tr>
-  </tbody>
+    <tr>
+      <td style="text-align:left">
+      <p>21/2</p>        
+      </td>
+      <td style="text-align:left">
+      <p>Network Intrusion Detection</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+      <p>26/2</p>        
+      </td>
+      <td style="text-align:left">
+      <p>Transport Layer Security TLS</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+      <p>28/2</p>        
+      </td>
+      <td style="text-align:left">
+      <p>DNS and Email Security</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+      <p>5/3</p>        
+      </td>
+      <td style="text-align:left">
+      <p>Wifi Security</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+      <p>7/3</p>        
+      </td>
+      <td style="text-align:left">
+      <p>Virtual Private Networks</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+      <p>12/3</p>        
+      </td>
+      <td style="text-align:left">
+      <p>Honeypots</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+      <p>14/3</p>        
+      </td>
+      <td style="text-align:left">
+      <p>Network Management</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+      <p><em>19/3</em> flyttes</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+      <p><em>21/3</em> flyttes</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+      <p>26/3</p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+      <td style="text-align:left">
+      <p> </p>        
+      </td>
+    </tr>
+</tbody>
 </table>
+
+
+**Security in TCP/IP protocol suite**
+
+* Addressing and layering
+* Network devices
+* Common protocols, layer 2 and layer 3
+* Secure network design  Background paper _Security problems in the TCP/IP protocol suite_, S. M. Bellovin
+
+**Network Threats**  
+* ARP spoofing, ICMP redirects, the classics
+* Person in the middle attacks
+* Network Scanning
+* intro to routing protocols attacks
+* BGP intro and hijacking
+
+**Traffic inspection and firewalls**  
+* Network sniffing strategies and techniques
+* Generic IP Firewalls
+* Next Generation firewalls, Deep Packet Inspection
+
+**Network Intrusion Detection**  
+* IDS
+* NIDS vs HIDS
+* Suricata Zeek
+
+**Transport Layer Security TLS**
+* Encryption
+* Diffie Helman exchange
+[https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
+
+**DNS and Email Security**  
+* DNSSEC
+* DMARC
+* DKIM
+* SMTP TLS
+* DNS over TLS vs DNS over HTTPS
+
+**Wifi Security**
+* Wifi standarder IEEE 802.11
+* Security problems in wireless protocols
+* Security problems in wireless encryption
+* Hacking wireless networks
+
+**Virtual Private Networks**  
+* TLS VPN
+* OpenVPN
+* IPsec VPN
+* Linux VPN
+* Microsoft Remote Access VPN
+
+**Honeypots**  
+Background paper _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ Bill Cheswick, AT&T Bell Laboratories
+
+**Network Management**  
+ Monitoring Centralized syslog and SNMP
