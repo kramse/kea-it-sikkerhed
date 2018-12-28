@@ -14,11 +14,11 @@ Elementet går ud på at forstå og håndtere netværkssikkerhedstrusler samt im
 
 Elementet omhandler forskellig sikkerhedsudstyr \(IDS\) til monitorering. Derudover vurdering af sikkerheden i et netværk, udarbejdelse af plan til at lukke eventuelle sårbarheder i netværket samt gennemgang af forskellige VPN teknologier.
 
+Undervisningsmateriale vil primært være engelsk, men undervisningen foregår på dansk.
+
 ### Litteraturliste
 
-Hvad skal de studerende læse: bog titel, forfatter, side tal.  
-Husk også at skrive ind hvis de skal forberede andet til denne undervisningsgang
-
+Dette kursus benytter tre bøger og et antal internetresourcer.
 Primær litteratur: Applied Network Security Monitoring Collection, Detection, and Analysis, 2017 Chris Sanders ISBN: 9780124172081 forkortes ANSM
 
 Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems, 3rd edition 2017, Chris Sanders ISBN: 9781593278021 forkortes PPA
@@ -36,6 +36,7 @@ Sekundær litteratur:
 * Strange Attractors and TCP/IP Sequence Number Analysis, Michal Zalewski [http://lcamtuf.coredump.cx/newtcp/](http://lcamtuf.coredump.cx/newtcp/)
 
 Underviseren samler papers så de nemt kan downloades.
+
 
 ### Specificerede læringsmål:
 
@@ -122,20 +123,20 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
     </tr>
     <tr>
       <td style="text-align:left">7/2</td>
-      <td style="text-align:left">Security in TCP/IP protocol suite</td>
+      <td style="text-align:left">TCP/IP and Security in TCP/IP protocol suite</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">PPA til og med Kapitel 2<b><br /></b>Paper <em>Security problems in the TCP/IP protocol suite</em>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">12/2</td>
-      <td style="text-align:left">Network Threats</td>
+      <td style="text-align:left">Network Security Threats</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">14/2</td>
-      <td style="text-align:left">Firewalls and low level attacks</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -144,7 +145,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <p>19/2</p>        
       </td>
       <td style="text-align:left">
-      <p>Traffic inspection and firewalls</p>        
+      <p></p>        
       </td>
       <td style="text-align:left">
       <p> </p>        
@@ -158,7 +159,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <p>21/2</p>        
       </td>
       <td style="text-align:left">
-      <p>Network Intrusion Detection</p>        
+      <p></p>        
       </td>
       <td style="text-align:left">
       <p> </p>        
@@ -172,7 +173,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <p>26/2</p>        
       </td>
       <td style="text-align:left">
-      <p>Transport Layer Security TLS</p>        
+      <p></p>        
       </td>
       <td style="text-align:left">
       <p> </p>        
@@ -186,7 +187,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <p>28/2</p>        
       </td>
       <td style="text-align:left">
-      <p>DNS and Email Security</p>        
+      <p></p>        
       </td>
       <td style="text-align:left">
       <p> </p>        
@@ -200,7 +201,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <p>5/3</p>        
       </td>
       <td style="text-align:left">
-      <p>Wifi Security</p>        
+      <p></p>        
       </td>
       <td style="text-align:left">
       <p> </p>        
@@ -214,7 +215,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <p>7/3</p>        
       </td>
       <td style="text-align:left">
-      <p>Virtual Private Networks</p>        
+      <p></p>        
       </td>
       <td style="text-align:left">
       <p> </p>        
@@ -228,7 +229,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <p>12/3</p>        
       </td>
       <td style="text-align:left">
-      <p>Honeypots</p>        
+      <p></p>        
       </td>
       <td style="text-align:left">
       <p> </p>        
@@ -242,7 +243,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <p>14/3</p>        
       </td>
       <td style="text-align:left">
-      <p>Network Management</p>        
+      <p></p>        
       </td>
       <td style="text-align:left">
       <p> </p>        
@@ -296,35 +297,64 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
 </tbody>
 </table>
 
+**Introduction and welcome**
+* Expectations for this course
+* Literature list walkthrough
+* Kali Linux introduction
 
-**Security in TCP/IP protocol suite**
+Kali Linux is a toolbox we will use and participants will use a virtual machine
 
-* Addressing and layering
-* Network devices
+**TCP/IP and Security in TCP/IP protocol suite**
+
+* Addressing and layering OSI model vs internet model
+* Network devices Ethernet, bridges, switches, routers
 * Common protocols, layer 2 and layer 3
 * Secure network design  Background paper _Security problems in the TCP/IP protocol suite_, S. M. Bellovin
 
-**Network Threats**  
+Exercise run tcpdump, wireshark, traceroute, whois
+
+**Network Security Threats**  
 * ARP spoofing, ICMP redirects, the classics
 * Person in the middle attacks
 * Network Scanning
 * intro to routing protocols attacks
 * BGP intro and hijacking
 
+Exercise ARP spoofing and ettercap
+
 **Traffic inspection and firewalls**  
 * Network sniffing strategies and techniques
-* Generic IP Firewalls
+* Generic IP Firewalls stateless filtering vs stateful inspection
 * Next Generation firewalls, Deep Packet Inspection
+* IEEE 802.1q
+* Common countermeasures in firewalls
 
-**Network Intrusion Detection**  
-* IDS
-* NIDS vs HIDS
-* Suricata Zeek
+Exercise Nping, and pcap-diff https://github.com/isginf/pcap-diff
 
 **Transport Layer Security TLS**
 * Encryption
 * Diffie Helman exchange
 [https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
+
+Exercise/examples
+* mitmproxy https://mitmproxy.org/
+* sslsplit https://www.roe.ch/SSLsplit
+* sslstrip https://moxie.org/software/sslstrip/
+
+**Virtual Private Networks**  
+* IPsec VPN
+* TLS VPN
+* OpenVPN
+* Linux VPN
+* Microsoft Remote Access VPN
+
+**Wifi Security**
+* Wifi standarder IEEE 802.11
+* Authentication Protocols RADIUS, PAP, CHAP, EAP
+* IEEE 802.1x
+* Security problems in wireless protocols
+* Security problems in wireless encryption
+* Hacking wireless networks
 
 **DNS and Email Security**  
 * DNSSEC
@@ -333,21 +363,53 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
 * SMTP TLS
 * DNS over TLS vs DNS over HTTPS
 
-**Wifi Security**
-* Wifi standarder IEEE 802.11
-* Security problems in wireless protocols
-* Security problems in wireless encryption
-* Hacking wireless networks
+**Network Management**  
+* Monitoring
+* Centralized management SSH, Jump hosts
+* SNMP version 2 vs version 3
+* Bruteforcing network devices SSH vs SNMP
+* Centralized syslog
 
-**Virtual Private Networks**  
-* TLS VPN
-* OpenVPN
-* IPsec VPN
-* Linux VPN
-* Microsoft Remote Access VPN
+**Network Intrusion Detection**  
+* Intrusion Detection Systems
+* NIDS vs HIDS
+* Suricata Zeek
+* Network Security Data Visualization
+* Kibana Dashboards
+
+ENISA Presenting, correlating and filtering various feeds
+Handbook, Document for teachers
+https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook
+
+**Network Forensics**
+* Netflow data
+* Collect Network Evidence
+* Analyze Network data
+* Create Incident Reports
+Input from
+
+ENISA Forensic analysis, Network Incident Response
+https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2_forensic_analysis_ii-handbook
+
+ENISA Network Forensics, Handbook, Document for teachers
+https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook
+
+http://www.honeynet.org/sites/default/files/files/KYT-Picviz_v1_0.pdf
 
 **Honeypots**  
+* History of honeypots
+* Why use them research, production
+* Types of honeypots low vs high interaction
+* Honey nets
+
 Background paper _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ Bill Cheswick, AT&T Bell Laboratories
 
-**Network Management**  
- Monitoring Centralized syslog and SNMP
+also http://www.honeynet.org/ specielt http://www.honeynet.org/papers
+
+**Building Robust Networks**
+* Design a robust network
+* Isolation and segmentation
+* Routing Security
+* Switch and access security
+* Wireless security
+* Using reputation lists
