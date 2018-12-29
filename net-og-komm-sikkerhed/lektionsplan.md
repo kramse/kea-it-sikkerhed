@@ -122,7 +122,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p>PPA til og med Kapitel 2<b></p>
+      <p>PPA til og med Kapitel 4 - ca 66 sider<b></p>
       <p>ANSM kapitel 13 - ca. 44 sider</p>
       <p>Paper <em>Security problems in the TCP/IP protocol suite</em>
       </td>
@@ -132,7 +132,9 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <td style="text-align:left"><b>Network Security Threats</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p>PPA kapitel 5,6,10 - ca. 72 sider</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">14/2</td>
@@ -167,29 +169,20 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p></p>
+      <p>PPA kapitel 11 - ca. 20 sider</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">28/2</td>
-      <td style="text-align:left"><b>DNS and Email Security</b>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-      <p></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">5/3</td>
       <td style="text-align:left"><b>Network Management</b>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p></p>
+      <p>PPA kapitel 7,8,9 - ca. 76 sider </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/3</td>
+      <td style="text-align:left">5/3</td>
       <td style="text-align:left"><b>Network Intrusion Detection</b>
       </td>
       <td style="text-align:left"></td>
@@ -198,22 +191,31 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">12/3</td>
+      <td style="text-align:left">7/3</td>
       <td style="text-align:left"><b>Network Forensics</b>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p>ANSM kapitel 4,5,6,14,15 - ca. 140 sider</p>
+      <p>ANSM kapitel 4,5,6 - ca. 75 sider</p>
       <p>Bro documentation Intel framework, Suricata reputation support</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/3</td>
+      <td style="text-align:left">12/3</td>
       <td style="text-align:left"><b>Honeypots</b>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
       <p>ANSM kapitel 11,12 - ca. 54 sider</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">14/3</td>
+      <td style="text-align:left"><b>DNS and Email Security</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p>ANSM kapitel 14,15 - ca. 66 sider</p>
       </td>
     </tr>
     <tr>
@@ -316,15 +318,7 @@ Exercise go through the ones used by participants, how are they secured why/why 
 
 Exercises WPA hacking with a short password
 
-**DNS and Email Security**
 
-* DNSSEC
-* DMARC
-* DKIM
-* SMTP TLS
-* DNS over TLS vs DNS over HTTPS
-
-Exercises check some examples like Danske Bank using it, and how your own companies can start using it.
 
 **Network Management**
 
@@ -378,6 +372,16 @@ also [http://www.honeynet.org/](http://www.honeynet.org/) specielt [http://www.h
 
 Exercise run SSH honeypot and try brute-force it
 
+**DNS and Email Security**
+
+* DNSSEC
+* DMARC
+* DKIM
+* SMTP TLS
+* DNS over TLS vs DNS over HTTPS
+
+Exercises check some examples like Danske Bank using it, and how your own companies can start using it.
+
 **Building Robust Networks**
 
 * Design a robust network
@@ -394,8 +398,9 @@ Exercise We will design and build a sample network together
 * BCP38 RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing
 * MANRS https://www.manrs.org/isps/
 * Testing security, evaluating and reporting
-* DDoS protection
+* Hardened network device configurations
 * Jump hosts and management networks
+* DDoS protection
 * Check you network from outside RIPEstat, BGPmon
 
 Exercises look at your own networks, from the outside
