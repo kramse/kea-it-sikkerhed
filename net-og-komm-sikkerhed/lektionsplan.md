@@ -27,7 +27,9 @@ Linux Basics for Hackers Getting Started with Networking, Scripting, and Securit
 Sekundær litteratur:
 
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/)
-* _Security problems in the TCP/IP protocol suite_, S. M. Bellovin
+* _Security problems in the TCP/IP protocol suite_, S. M. Bellovin samt
+_A Look Back at “Security Problems in the TCP/IP Protocol Suite”_ https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf
+
 * _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied,_ Bill Cheswick, AT&T Bell Laboratories
 * _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 * Strange Attractors and TCP/IP Sequence Number Analysis, Michal Zalewski [http://lcamtuf.coredump.cx/newtcp/](http://lcamtuf.coredump.cx/newtcp/)
@@ -235,8 +237,9 @@ Exercise run tcpdump, wireshark, traceroute, whois
 * Network Scanning
 * intro to routing protocols attacks
 * BGP intro and hijacking
+* DDoS and flooding
 
-Exercise ARP spoofing and ettercap
+Exercise ARP spoofing and ettercap, EtherApe
 
 **Traffic inspection and firewalls**
 
@@ -248,10 +251,14 @@ Exercise ARP spoofing and ettercap
 
 Exercise Nping, and pcap-diff [https://github.com/isginf/pcap-diff](https://github.com/isginf/pcap-diff)
 
-**Transport Layer Security TLS**
+** Encrypting the network layer**
 
-* Encryption
+* Basic cryptography
+* Encryption Decryption
+* Hashing
+* Short introduction to algorithms RSA, AES
 * Diffie Helman exchange
+* Transport Layer Security (TLS)
 
   [https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
 
@@ -269,6 +276,8 @@ Exercise/examples
 * Linux VPN
 * Microsoft Remote Access VPN
 
+Exercise go through the ones used by participants, how are they secured why/why not
+
 **Wifi Security**
 
 * Wifi standarder IEEE 802.11
@@ -278,6 +287,8 @@ Exercise/examples
 * Security problems in wireless encryption
 * Hacking wireless networks
 
+Exercises WPA hacking with a short password
+
 **DNS and Email Security**
 
 * DNSSEC
@@ -286,6 +297,8 @@ Exercise/examples
 * SMTP TLS
 * DNS over TLS vs DNS over HTTPS
 
+Exercises check some examples like Danske Bank using it, and how your own companies can start using it.
+
 **Network Management**
 
 * Monitoring
@@ -293,6 +306,8 @@ Exercise/examples
 * SNMP version 2 vs version 3
 * Bruteforcing network devices SSH vs SNMP
 * Centralized syslog
+
+Exercise use SNMP and brute-force SNMP
 
 **Network Intrusion Detection**
 
@@ -303,6 +318,8 @@ Exercise/examples
 * Kibana Dashboards
 
 ENISA Presenting, correlating and filtering various feeds Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook)
+
+Exercise run Bro and Suricata on small pcaps
 
 **Network Forensics**
 
@@ -319,6 +336,8 @@ ENISA Network Forensics, Handbook, Document for teachers [https://www.enisa.euro
 
 [http://www.honeynet.org/sites/default/files/files/KYT-Picviz\_v1\_0.pdf](http://www.honeynet.org/sites/default/files/files/KYT-Picviz_v1_0.pdf)
 
+Exercise create a Kibana dashboard for looking at logs, run forensics similar to ENISA examples
+
 **Honeypots**
 
 * History of honeypots
@@ -330,12 +349,24 @@ Background paper _An Evening with Berferd: In Which a Cracker is Lured, Endured,
 
 also [http://www.honeynet.org/](http://www.honeynet.org/) specielt [http://www.honeynet.org/papers](http://www.honeynet.org/papers)
 
+Exercise run SSH honeypot and try brute-force it
+
 **Building Robust Networks**
 
 * Design a robust network
 * Isolation and segmentation
 * Routing Security
-* Switch and access security
+* Switch and access security, port security
 * Wireless security
 * Using reputation lists
 
+Exercise We will design and build a sample network together
+
+**Running a modern network**
+
+* BCP38 RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing
+* MANRS https://www.manrs.org/isps/
+* Testing security, evaluating and reporting
+* DDoS protection
+* Jump hosts and management networks
+* Check you network from outside RIPEstat, BGPmon
