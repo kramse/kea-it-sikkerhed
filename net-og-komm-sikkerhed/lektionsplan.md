@@ -26,7 +26,7 @@ Linux Basics for Hackers Getting Started with Networking, Scripting, and Securit
 
 Sekundær litteratur:
 
-* Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/)
+* Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) forkortes KLR
 * _Security problems in the TCP/IP protocol suite_, S. M. Bellovin samt
 _A Look Back at “Security Problems in the TCP/IP Protocol Suite”_ https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf
 
@@ -113,6 +113,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <td style="text-align:left">
         <p>Gennemgang af litteraturlisten.</p>
         <p>Download af Kali Linux Revealed</p>
+        <p>Identifikation af kapitler og afsnit fra KLR og LBfH til læsning som hjemmeopgave</p>
       </td>
     </tr>
     <tr>
@@ -120,7 +121,10 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <td style="text-align:left"><b>TCP/IP and Security in TCP/IP protocol suite</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left">PPA til og med Kapitel 2<b><br /></b>Paper <em>Security problems in the TCP/IP protocol suite</em>
+      <td style="text-align:left">
+      <p>PPA til og med Kapitel 2<b></p>
+      <p>ANSM kapitel 13 - ca. 44 sider</p>
+      <p>Paper <em>Security problems in the TCP/IP protocol suite</em>
       </td>
     </tr>
     <tr>
@@ -135,80 +139,103 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <td style="text-align:left"><b>Traffic inspection and firewalls</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p>ANSM kapitel 1,2,3 - ca. 73 sider</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">19/2</td>
       <td style="text-align:left"><b>Transport Layer Security TLS</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">21/2</td>
       <td style="text-align:left"><b>Virtual Private Networks</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">26/2</td>
       <td style="text-align:left"><b>Wifi Security</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">28/2</td>
       <td style="text-align:left"><b>DNS and Email Security</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">5/3</td>
       <td style="text-align:left"><b>Network Management</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">7/3</td>
       <td style="text-align:left"><b>Network Intrusion Detection</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p>ANSM kapitel 7,8,9,10 - ca. 140 sider</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">12/3</td>
       <td style="text-align:left"><b>Network Forensics</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p>ANSM kapitel 4,5,6,14,15 - ca. 140 sider</p>
+      <p>Bro documentation Intel framework, Suricata reputation support</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">14/3</td>
       <td style="text-align:left"><b>Honeypots</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p>ANSM kapitel 11,12 - ca. 54 sider</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><em>19/3</em> flyttes</td>
       <td style="text-align:left"><b>Building Robust Networks</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><em>21/3</em> flyttes</td>
-      <td style="text-align:left">Running a Modern Network</td>
+      <td style="text-align:left"><b>Running a Modern Network</b></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">26/3</td>
-      <td style="text-align:left">Opsamling forberedelse til eksamen</td>
+      <td style="text-align:left"><b>Opsamling forberedelse til eksamen</b></td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Alt læst i de tre primære bøger</td>
     </tr>
