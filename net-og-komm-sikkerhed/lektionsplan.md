@@ -202,7 +202,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
     </tr>
     <tr>
       <td style="text-align:left"><em>21/3</em> flyttes</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Running a Modern Network</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -362,7 +362,7 @@ Exercise run SSH honeypot and try brute-force it
 
 Exercise We will design and build a sample network together
 
-**Running a modern network**
+**Running a Modern Network**
 
 * BCP38 RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing
 * MANRS https://www.manrs.org/isps/
