@@ -38,6 +38,7 @@ http://www.wilyhacker.com/ forkortes Cheswick
 * Strange Attractors and TCP/IP Sequence Number Analysis, Michal Zalewski [http://lcamtuf.coredump.cx/newtcp/](http://lcamtuf.coredump.cx/newtcp/)
 * WireGuard: Next Generation Kernel Network Tunnel
 https://www.wireguard.com/papers/wireguard.pdf
+
 Underviseren samler papers så de nemt kan downloades.
 
 Websider benyttes også i undervisningen.
