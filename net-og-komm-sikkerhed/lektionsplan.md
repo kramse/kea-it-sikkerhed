@@ -30,11 +30,17 @@ Sekundær litteratur:
 * _Security problems in the TCP/IP protocol suite_, S. M. Bellovin samt
 _A Look Back at “Security Problems in the TCP/IP Protocol Suite”_ https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf
 
-* _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied,_ Bill Cheswick, AT&T Bell Laboratories
+* _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ , Bill Cheswick, AT&T Bell Laboratories
+* _Firewalls and Internet Security:
+Repelling the Wily Hacker_ , Second Edition, William R. Cheswick, Steven M. Bellovin, and Aviel D. Rubin
+http://www.wilyhacker.com/ forkortes Cheswick
 * _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 * Strange Attractors and TCP/IP Sequence Number Analysis, Michal Zalewski [http://lcamtuf.coredump.cx/newtcp/](http://lcamtuf.coredump.cx/newtcp/)
-
+* WireGuard: Next Generation Kernel Network Tunnel
+https://www.wireguard.com/papers/wireguard.pdf
 Underviseren samler papers så de nemt kan downloades.
+
+Websider benyttes også i undervisningen.
 
 ### Specificerede læringsmål:
 
@@ -100,15 +106,15 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
     <tr>
       <td style="text-align:left">5/2</td>
       <td style="text-align:left">
-        <p>Velkommen og formål</p>
-        <p>Forventninger til uddannelsen/modulet</p>
-        <p>Lave Kali Linux VM</p>
+        <p>Velkommen og formål</br>
+        Forventninger til uddannelsen/modulet</br>
+        Lave Kali Linux VM</p>
       </td>
       <td style="text-align:left">
-        <p>Skabe et godt udgangspunkt for læring</p>
-        <p>Introducere underviser og studerende</p>
-        <p>Konkretisere forventninger</p>
-        <p>Forberede værktøjer til øvelserne</p>
+        <p>Skabe et godt udgangspunkt for læring</br>
+        Introducere underviser og studerende</br>
+        Konkretisere forventninger</br>
+        Forberede værktøjer til øvelserne</p>
       </td>
       <td style="text-align:left">
         <p>Gennemgang af litteraturlisten.</p>
@@ -122,9 +128,9 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p>PPA til og med Kapitel 4 - ca 66 sider<b></p>
-      <p>ANSM kapitel 13 - ca. 44 sider</p>
-      <p>Paper <em>Security problems in the TCP/IP protocol suite</em>
+      <p>PPA til og med Kapitel 4 - ca 66 sider</br>
+      ANSM kapitel 13 - ca. 44 sider
+      Paper <em>Security problems in the TCP/IP protocol suite</em>
       </td>
     </tr>
     <tr>
@@ -142,7 +148,13 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p>ANSM kapitel 1,2,3 - ca. 73 sider</p>
+      <p>ANSM kapitel 1,2,3 - ca. 73 sider</br>
+      https://en.wikipedia.org/wiki/Firewall_(computing)</br>
+      http://www.wilyhacker.com/ Cheswick kapitel 2 og 3 PDF, ca 55 sider</p>
+      <p>skimmes:</br>
+      http://www.wilyhacker.com/1e/chap03.pdf
+      http://www.wilyhacker.com/1e/chap04.pdf
+      </p>
       </td>
     </tr>
     <tr>
@@ -151,7 +163,8 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p></p>
+      <p>Skimmes https://tools.ietf.org/html/rfc5246 The Transport Layer Security (TLS) Protocol Version 1.2
+</p>
       </td>
     </tr>
     <tr>
@@ -160,7 +173,15 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p></p>
+      <p>https://en.wikipedia.org/wiki/Virtual_private_network</br>
+      https://kb.juniper.net/InfoCenter/index?page=content&id=KB11104  IPSec VPN between JUNOS and Cisco IOS</p>
+      <p>skimmes:</br>
+      https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching</br>
+      https://en.wikipedia.org/wiki/OpenVPN</br>
+      https://en.wikipedia.org/wiki/IPsec</br>
+      https://en.wikipedia.org/wiki/DirectAccess</br>
+      https://www.wireguard.com/papers/wireguard.pdf
+      </p>
       </td>
     </tr>
     <tr>
@@ -196,8 +217,8 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p>ANSM kapitel 4,5,6 - ca. 75 sider</p>
-      <p>Bro documentation Intel framework, Suricata reputation support</p>
+      <p>ANSM kapitel 4,5,6 - ca. 75 sider</br>
+      Bro documentation Intel framework, Suricata reputation support</p>
       </td>
     </tr>
     <tr>
@@ -224,7 +245,9 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p></p>
+      <p>https://nsrc.org/workshops/2018/myren-nsrc-cndo/networking/cndo/en/presentations/Campus_Security_Overview.pdf</br>
+      https://nsrc.org/workshops/2018/tenet-nsrc-cndo/networking/cndo/en/presentations/Campus_Operations_BCP.pdf
+      <p>Download, men læs ikke https://nsrc.org/workshops/2015/apricot2015/raw-attachment/wiki/Track1Agenda/01-ISP-Network-Design.pdf</p>
       </td>
     </tr>
     <tr>
@@ -232,7 +255,9 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <td style="text-align:left"><b>Running a Modern Network</b></td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p></p>
+      <p>https://www.manrs.org/ bladre og læs specifikt https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
+      https://tools.ietf.org/pdf/bcp38.pdf
+      </p>
       </td>
     </tr>
     <tr>
@@ -242,7 +267,9 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <td style="text-align:left">Alt læst i de tre primære bøger</td>
     </tr>
   </tbody>
-</table>**Introduction and welcome**
+</table>
+
+**Introduction and welcome**
 
 * Expectations for this course
 * Literature list walkthrough
@@ -299,11 +326,10 @@ Exercise/examples
 
 **Virtual Private Networks**
 
-* IPsec VPN
-* TLS VPN
-* OpenVPN
-* Linux VPN
-* Microsoft Remote Access VPN
+* IPsec and L2TP/IPsec
+* TLS VPN with example OpenVPN
+* Linux Wireguard VPN
+* Microsoft DirectAccess and VPN (RAS)
 
 Exercise go through the ones used by participants, how are they secured why/why not
 
