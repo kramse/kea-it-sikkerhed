@@ -35,12 +35,33 @@ _A Look Back at “Security Problems in the TCP/IP Protocol Suite”_ https://ww
 http://www.wilyhacker.com/ forkortes Cheswick
 * _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 * _Strange Attractors and TCP/IP Sequence Number Analysis_ , Michal Zalewski [http://lcamtuf.coredump.cx/newtcp/](http://lcamtuf.coredump.cx/newtcp/)
-* WireGuard: Next Generation Kernel Network Tunnel
-https://www.wireguard.com/papers/wireguard.pdf
+* _WireGuard: Next Generation Kernel Network Tunnel_, https://www.wireguard.com/papers/wireguard.pdf
+
+* ENISA Presenting, correlating and filtering various feeds Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook)
+* ENISA Forensic analysis, Network Incident Response [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2\_forensic\_analysis\_ii-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2_forensic_analysis_ii-handbook)
+* ENISA Network Forensics, Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook)
+* [http://www.honeynet.org/sites/default/files/files/KYT-Picviz\_v1\_0.pdf](http://www.honeynet.org/sites/default/files/files/KYT-Picviz_v1_0.pdf)
+* _Campus Network Security: High Level
+Overview_ , Network Startup Resource Center  https://nsrc.org/workshops/2018/myren-nsrc-cndo/networking/cndo/en/presentations/Campus_Security_Overview.pdf
+* _Campus Operations Best Current Practice_, Network Startup Resource Center  https://nsrc.org/workshops/2018/tenet-nsrc-cndo/networking/cndo/en/presentations/Campus_Operations_BCP.pdf
+* Mutually Agreed Norms for Routing
+Security (MANRS) https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
+* RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks
 
 Underviseren samler papers så de nemt kan downloades.
 
 Websider benyttes også i undervisningen.
+
+### Hardware
+
+Da vi skal lave øvelser med opsamling af data vil det være en fordel at have et wireless netkort med USB.
+
+Det anbefales således at købe et USB wireless netkort, eksempelvis et af disse:
+* Billigste TP-link TL-WN722N hardware version 2.0 men kun 2.4GHz
+* Alfa AWUS036ACH 2.4GHz + 5GHz Dual-Band
+
+Begge de to virker glimrende med Kali Linux og til vores formål.
+
 
 ### Specificerede læringsmål:
 
@@ -99,7 +120,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <th style="text-align:left">Dato</th>
       <th style="text-align:left">Tema</th>
       <th style="text-align:left">Mål</th>
-      <th style="text-align:left">Litteratur</th>
+      <th style="text-align:left">Litteratur / Forberedelse</th>
     </tr>
   </thead>
   <tbody>
@@ -117,7 +138,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
         Forberede værktøjer til øvelserne</p>
       </td>
       <td style="text-align:left">
-        <p>Gennemgang af litteraturlisten.</p>
+        <p>Gennemgang af litteraturlisten vil ske når vi mødes.</p>
         <p>Download af Kali Linux Revealed</p>
         <p>Identifikation af kapitler og afsnit fra KLR og LBfH til læsning som hjemmeopgave</p>
       </td>
@@ -151,7 +172,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <p>ANSM kapitel 1,2,3 - ca. 73 sider</br>
       https://en.wikipedia.org/wiki/Firewall_(computing)</br>
       http://www.wilyhacker.com/ Cheswick kapitel 2 og 3 PDF, ca 55 sider</p>
-      <p>skimmes:</br>
+      <p>Skimmes kapitlerne fra 1st edition:</br>
       http://www.wilyhacker.com/1e/chap03.pdf
       http://www.wilyhacker.com/1e/chap04.pdf
       </p>
@@ -159,12 +180,13 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
     </tr>
     <tr>
       <td style="text-align:left">19/2</td>
-      <td style="text-align:left"><b>Transport Layer Security TLS</b>
+      <td style="text-align:left"><b>Encrypting the network layer</b>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-      <p>Skimmes https://tools.ietf.org/html/rfc5246 The Transport Layer Security (TLS) Protocol Version 1.2
-</p>
+      <p>Skimmes:</br>
+      https://tools.ietf.org/html/rfc5246 The Transport Layer Security (TLS) Protocol Version 1.2</br>
+      https://en.wikipedia.org/wiki/Transport_Layer_Security</p>
       </td>
     </tr>
     <tr>
@@ -175,7 +197,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <td style="text-align:left">
       <p>https://en.wikipedia.org/wiki/Virtual_private_network</br>
       https://kb.juniper.net/InfoCenter/index?page=content&id=KB11104  IPSec VPN between JUNOS and Cisco IOS</p>
-      <p>skimmes:</br>
+      <p>Skimmes:</br>
       https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching</br>
       https://en.wikipedia.org/wiki/OpenVPN</br>
       https://en.wikipedia.org/wiki/IPsec</br>
@@ -191,6 +213,9 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <td style="text-align:left"></td>
       <td style="text-align:left">
       <p>PPA kapitel 11 - ca. 20 sider</p>
+      <p>Skimmes:</br>
+      http://aircrack-ng.org/doku.php?id=cracking_wpa
+      </p>
       </td>
     </tr>
     <tr>
@@ -200,6 +225,8 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <td style="text-align:left"></td>
       <td style="text-align:left">
       <p>PPA kapitel 7,8,9 - ca. 76 sider </p>
+      <p>Skimmes:</br>
+      https://nsrc.org/workshops/2015/sanog25-nmm-tutorial/materials/snmp.pdf</p>
       </td>
     </tr>
     <tr>
@@ -236,6 +263,10 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
+      <p>Genlæs evt. PPA DNS s 120-129</p>
+      <p>https://en.wikipedia.org/wiki/Sender_Policy_Framework</br>
+      https://en.wikipedia.org/wiki/DMARC</br>
+      https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail</p>
       <p>ANSM kapitel 14,15 - ca. 66 sider</p>
       </td>
     </tr>
@@ -256,7 +287,8 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <td style="text-align:left"></td>
       <td style="text-align:left">
       <p>https://www.manrs.org/ bladre og læs specifikt https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
-      https://tools.ietf.org/pdf/bcp38.pdf
+      https://tools.ietf.org/pdf/bcp38.pdf</br>
+      RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks
       </p>
       </td>
     </tr>
@@ -274,6 +306,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
 * Expectations for this course
 * Literature list walkthrough
 * Kali Linux introduction
+* Kali Linux installation
 
 Kali Linux is a toolbox we will use and participants will use a virtual machine
 
@@ -291,7 +324,7 @@ Exercise run tcpdump, wireshark, traceroute, whois
 * ARP spoofing, ICMP redirects, the classics
 * Person in the middle attacks
 * Network Scanning
-* intro to routing protocols attacks
+* Intro to routing protocols attacks
 * BGP intro and hijacking
 * DDoS and flooding
 
@@ -302,7 +335,7 @@ Exercise ARP spoofing and ettercap, EtherApe
 * Network sniffing strategies and techniques
 * Generic IP Firewalls stateless filtering vs stateful inspection
 * Next Generation firewalls, Deep Packet Inspection
-* IEEE 802.1q
+* IEEE 802.1q VLAN
 * Common countermeasures in firewalls
 
 Exercise Nping, and pcap-diff [https://github.com/isginf/pcap-diff](https://github.com/isginf/pcap-diff)
@@ -316,13 +349,13 @@ Exercise Nping, and pcap-diff [https://github.com/isginf/pcap-diff](https://gith
 * Diffie Helman exchange
 * Transport Layer Security (TLS)
 
-  [https://da.wikipedia.org/wiki/Transport\_Layer\_Security](https://da.wikipedia.org/wiki/Transport_Layer_Security)
-
 Exercise/examples
 
 * mitmproxy [https://mitmproxy.org/](https://mitmproxy.org/)
 * sslsplit [https://www.roe.ch/SSLsplit](https://www.roe.ch/SSLsplit)
 * sslstrip [https://moxie.org/software/sslstrip/](https://moxie.org/software/sslstrip/)
+* https://www.ssllabs.com/ and sslscan checking servers
+
 
 **Virtual Private Networks**
 
@@ -331,7 +364,7 @@ Exercise/examples
 * Linux Wireguard VPN
 * Microsoft DirectAccess and VPN (RAS)
 
-Exercise go through the ones used by participants, how are they secured why/why not
+Exercise go through the ones used by participants, how are they secured why/why not. Sniff data without VPN and after VPN turned on
 
 **Wifi Security**
 
@@ -343,8 +376,6 @@ Exercise go through the ones used by participants, how are they secured why/why 
 * Hacking wireless networks
 
 Exercises WPA hacking with a short password
-
-
 
 **Network Management**
 
@@ -364,9 +395,10 @@ Exercise use SNMP and brute-force SNMP
 * Network Security Data Visualization
 * Kibana Dashboards
 
-ENISA Presenting, correlating and filtering various feeds Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook)
 
-Exercise run Bro and Suricata on small pcaps
+
+Exercise
+*run Bro and Suricata on small pcaps
 
 **Network Forensics**
 
@@ -375,15 +407,9 @@ Exercise run Bro and Suricata on small pcaps
 * Analyze Network data
 * Create Incident Reports
 
-  Input from
-
-ENISA Forensic analysis, Network Incident Response [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2\_forensic\_analysis\_ii-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2_forensic_analysis_ii-handbook)
-
-ENISA Network Forensics, Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook)
-
-[http://www.honeynet.org/sites/default/files/files/KYT-Picviz\_v1\_0.pdf](http://www.honeynet.org/sites/default/files/files/KYT-Picviz_v1_0.pdf)
-
-Exercise create a Kibana dashboard for looking at logs, run forensics similar to ENISA examples
+Exercises
+* run forensics similar to ENISA examples
+* create a Kibana dashboard for looking at logs
 
 **Honeypots**
 
@@ -392,21 +418,19 @@ Exercise create a Kibana dashboard for looking at logs, run forensics similar to
 * Types of honeypots low vs high interaction
 * Honey nets
 
-Background paper _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ Bill Cheswick, AT&T Bell Laboratories
 
-also [http://www.honeynet.org/](http://www.honeynet.org/) specielt [http://www.honeynet.org/papers](http://www.honeynet.org/papers)
 
 Exercise run SSH honeypot and try brute-force it
 
 **DNS and Email Security**
-
-* DNSSEC
-* DMARC
-* DKIM
+* DNS introduction
+* SMTP introduction
 * SMTP TLS
-* DNS over TLS vs DNS over HTTPS
+* SPF, DKIM, DMARC
+* DNSSEC - DNS integrity
+* DNS over TLS vs DNS over HTTPS - DNS encryption
 
-Exercises check some examples like Danske Bank using it, and how your own companies can start using it.
+Exercises check some examples like how danish banks are using DMARC, and how your own companies can start using it. SSLscan with SMTP TLS
 
 **Building Robust Networks**
 
