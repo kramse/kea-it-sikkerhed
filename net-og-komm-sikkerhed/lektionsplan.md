@@ -1,10 +1,11 @@
 ---
-description: Obligatoriske modul Ob 1 Netværks- og kommunikationssikkerhed (10 ECTS)
+description: Obligatoriske modul Ob 1 Netværks- og kommunikationssikkerhed (10 ECTS) Communication and Network Security
 ---
 
 # Lektionsplan UDKAST
 
 ## Fagets titel: Ob 1 Netværks- og kommunikationssikkerhed \(10 ECTS\)
+
 
 Underviser: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
 
