@@ -16,9 +16,9 @@ Elementet omhandler forskellig sikkerhedsudstyr \(IDS\) til monitorering. Derudo
 
 Undervisningsmateriale vil primært være engelsk, men undervisningen foregår på dansk.
 
-### Litteraturliste
+### Course reading list
 
-This course uses three books and a number of suppporting resources.
+This course uses three books and a number of supporting resources.
 
 Primary literature:
 
@@ -114,7 +114,7 @@ Undervisningsformer:
 
 Undervisningsdatoer: 05/02 2019, 07/02 2019, 12/02 2019, 14/02 2019, 19/02 2019, 21/02 2019, 26/02 2019, 28/02 2019, 05/03 2019, 07/03 2019, 12/03 2019, 14/03 2019, 19/03 2019, 21/03 2019, 26/03 2019
 
-## Plan 
+## Plan
 
 Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
 
