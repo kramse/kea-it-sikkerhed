@@ -8,62 +8,30 @@ description: Obligatoriske modul Ob 1 Netværks- og kommunikationssikkerhed (10 
 
 English: Communication and Network Security
 
-Underviser: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
+Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
 
-### Formål
+### Goals
 
-Elementet går ud på at forstå og håndtere netværkssikkerhedstrusler samt implementere og konfigurere udstyr til samme.
+The module is centered around network threats and implementing and configuring equipment in this area.
 
-Elementet omhandler forskellig sikkerhedsudstyr \(IDS\) til monitorering. Derudover vurdering af sikkerheden i et netværk, udarbejdelse af plan til at lukke eventuelle sårbarheder i netværket samt gennemgang af forskellige VPN teknologier.
+Module includes different security equipment like IDS for monitoring.
 
-Undervisningsmateriale vil primært være engelsk, men undervisningen foregår på dansk.
+The evaluation of security in a network, developing plans for closing security vulnerabilities in the network and a review of various VPN technologies.
 
-### Specificerede læringsmål:
+Teaching material will primarily be English, but the teaching will be in Danish.
 
-#### Viden
+See more about the course in the official curriculum.
 
-Den studerende har viden om og forståelse for:
+### Exam:
 
-* Netværkstrusler
-* Trådløs sikkerhed
-* Sikkerhed i TCP/IP
-* Adressering i de forskellige lag
-* Dybdegående kendskab til flere af de mest anvendte internet protokoller \(ssl\)
-* Hvilke enheder, der anvender hvilke protokoller
-* Forskellige sniffing strategier og teknikker
-* Netværk management \(overvågning/logning, snmp\)
-* Forskellige VPN setups
-* Gængse netværksenheder der bruges ifm. sikkerhed \(firewall, IDS/IPS, honeypot, DPI\).
+Date April 9. 2019
 
-#### Færdigheder
+### Teaching Methods:
 
-Den studerende kan:
+* Lecture lessons
+* Group exercises and cases, including practical exercises with laptop
 
-* Overvåge netværk samt netværkskomponenter, \(f.eks. IDS eller IPS, honeypot\)
-* Teste netværk for angreb rettet mod de mest anvendte protokoller
-* Identificere sårbarheder som et netværk kan have.
-
-#### Kompetencer
-
-Den studerende kan:
-
-* Håndtere udviklingsorienterede situationer herunder: designe, konstruere og implementere samt teste et sikkert netværk monitorere og administrere et netværks komponenter mht. it-sikkerhed
-* Udfærdige en rapport om de sårbarheder et netværk eventuelt skulle have \(red team report\)
-* Opsætte og konfigurere et IDS eller IPS.
-* kan håndtere relevante krypteringstiltag til sikring af netværkskommunikation
-
-### Eksamensform:
-
-Dato 9. april 2019
-
-### Lektioner
-
-Undervisningsformer:
-
-* Tavleundervisning
-* Gruppeøvelser og cases, herunder praktiske øvelser med laptop
-
-Undervisningsdatoer: 05/02 2019, 07/02 2019, 12/02 2019, 14/02 2019, 19/02 2019, 21/02 2019, 26/02 2019, 28/02 2019, 05/03 2019, 07/03 2019, 12/03 2019, 14/03 2019, 19/03 2019, 21/03 2019, 26/03 2019
+Teaching dates: 05/02 2019, 07/02 2019, 12/02 2019, 14/02 2019, 19/02 2019, 21/02 2019, 26/02 2019, 28/02 2019, 05/03 2019, 07/03 2019, 12/03 2019, 14/03 2019, 19/03 2019, 21/03 2019, 26/03 2019
 
 ### Course reading list
 
@@ -117,9 +85,9 @@ The following are two recommended models:
 Both work great in Kali Linux for our purposes.
 
 
-## Plan
+## Planning
 
-Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
+The detailed plan is below with a table summarizing lessons
 
 <table>
   <thead>
@@ -134,20 +102,19 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
     <tr>
       <td style="text-align:left">5/2</td>
       <td style="text-align:left">
-        <p>Velkommen og formål</br>
-        Forventninger til uddannelsen/modulet</br>
-        Lave Kali Linux VM</p>
+        <p>Welcome, goals and expectations</br>
+        Prepare Kali Linux VM - bring laptop</p>
       </td>
       <td style="text-align:left">
-        <p>Skabe et godt udgangspunkt for læring</br>
-        Introducere underviser og studerende</br>
-        Konkretisere forventninger</br>
-        Forberede værktøjer til øvelserne</p>
+        <p>Create a good starting point for learning </br>
+         Introduce lecturer and students </br>
+         Concrete Expectations </br>
+         Prepare tools for the exercises </p>
       </td>
       <td style="text-align:left">
-        <p>Gennemgang af litteraturlisten vil ske når vi mødes.</p>
-        <p>Download af Kali Linux Revealed</p>
-        <p>Identifikation af kapitler og afsnit fra KLR og LBfH til læsning som hjemmeopgave</p>
+      <p> Reviewing the literature list will occur when we meet. </p>
+         <p> Download Kali Linux Revealed </p>
+         <p> Identification of chapters and sections from KLR and LBfH for reading as home assignment </p>
       </td>
     </tr>
     <tr>
@@ -156,7 +123,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       </td>
       <td style="text-align:left">Understand basic IP protocols and inherent security problems</td>
       <td style="text-align:left">
-      <p>PPA til og med chapter 4 - ca 66 pages</br>
+      <p>PPA until and including chapter 4 - ca 66 pages</br>
       ANSM chapter 13 - 44 pages
       Paper <em>Security problems in the TCP/IP protocol suite</em>
       </td>
@@ -179,7 +146,7 @@ Den detaljerede plan er nedenfor med en tabel der opsummerer undervisningsgange
       <p>ANSM chapter 1,2,3 - 73 pages</br>
       https://en.wikipedia.org/wiki/Firewall_(computing)</br>
       http://www.wilyhacker.com/ Cheswick chapter 2 og 3 PDF, ca 55 pages</p>
-      <p>Skim kapitlerne fra 1st edition:</br>
+      <p>Skim chapters from 1st edition:</br>
       http://www.wilyhacker.com/1e/chap03.pdf
       http://www.wilyhacker.com/1e/chap04.pdf
       </p>
