@@ -68,7 +68,7 @@ Overview_ , Network Startup Resource Center  https://nsrc.org/workshops/2018/myr
 * _Campus Operations Best Current Practice_, Network Startup Resource Center  https://nsrc.org/workshops/2018/tenet-nsrc-cndo/networking/cndo/en/presentations/Campus_Operations_BCP.pdf
 * Mutually Agreed Norms for Routing
 Security (MANRS) https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
-* RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks
+* RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks https://tools.ietf.org/html/rfc2827
 
 These can be downloaded from the internet for free and may be gathered by the instructor for easy download.
 
@@ -114,7 +114,8 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">
       <p> Reviewing the literature list will occur when we meet. </p>
          <p> Download Kali Linux Revealed </p>
-         <p> Identification of chapters and sections from KLR and LBfH for reading as home assignment </p>
+         <p> Identification of chapters and sections from KLR and LBfH<br>
+        for reading as home assignment </p>
       </td>
     </tr>
     <tr>
@@ -126,7 +127,7 @@ The detailed plan is below with a table summarizing lessons
       <p>PPA until and including chapter 4 - ca 66 pages</br>
       ANSM chapter 13 - 44 pages
       Paper <em>Security problems in the TCP/IP protocol suite</em>
-      and A Look Back at "Security Problems ..."
+      and <em>A Look Back at "Security Problems ..."</em></p>
       </td>
     </tr>
     <tr>
