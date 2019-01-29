@@ -70,6 +70,7 @@ Overview_ , Network Startup Resource Center  https://nsrc.org/workshops/2018/myr
 Security (MANRS) https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
 * RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks https://tools.ietf.org/html/rfc2827
 
+
 These can be downloaded from the internet for free and may be gathered by the instructor for easy download.
 
 Also the course will use internet links and pages.
@@ -124,7 +125,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Understand basic IP protocols and inherent security problems</td>
       <td style="text-align:left">
-      <p>PPA until and including chapter 4 - ca 66 pages</br>
+      <p>PPA until and including chapter 4 - ca 75 pages</br>
       ANSM chapter 13 - 44 pages
       Paper <em>Security problems in the TCP/IP protocol suite</em>
       and <em>A Look Back at "Security Problems ..."</em></p>
@@ -136,7 +137,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Know common threats in networks, and solutions</td>
       <td style="text-align:left">
-      <p>PPA chapter 5,6,10 - 72 pages</p>
+      <p>PPA chapter 5,6,7,8,12 - 124 pages</p>
       </td>
     </tr>
     <tr>
@@ -188,7 +189,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Knowledge of Wireless 802.11 and security methods used</td>
       <td style="text-align:left">
-      <p>PPA chapter 11 - 20 pages</p>
+      <p>PPA chapter 13 - 22 pages</p>
       <p>Skim:</br>
       http://aircrack-ng.org/doku.php?id=cracking_wpa
       </p>
@@ -200,7 +201,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Understand why managed networks are more secure</td>
       <td style="text-align:left">
-      <p>PPA chapter 7,8,9 - 76 pages </p>
+      <p>PPA chapter 9,10,11 - 94 pages </p>
       <p>Skim:</br>
       https://nsrc.org/workshops/2015/sanog25-nmm-tutorial/materials/snmp.pdf</p>
       </td>
@@ -239,7 +240,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Learn the role of DNS in securing networks and systems</td>
       <td style="text-align:left">
-      <p>Re-read PPA DNS pages 120-129</p>
+      <p>Re-read PPA DNS pages 173-183</p>
       <p>https://en.wikipedia.org/wiki/Sender_Policy_Framework</br>
       https://en.wikipedia.org/wiki/DMARC</br>
       https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail</p>
