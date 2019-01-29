@@ -50,7 +50,7 @@ It is recommended to buy these books. The cost for all three will be about 1.000
 Supporting literature:
 
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
-* _Security problems in the TCP/IP protocol suite_, S. M. Bellovin samt
+* _Security problems in the TCP/IP protocol suite_, S. M. Bellovin https://www.cs.columbia.edu/~smb/papers/ipext.pdf samt
 _A Look Back at “Security Problems in the TCP/IP Protocol Suite”_ https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf
 * _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ , Bill Cheswick, AT&T Bell Laboratories
 * _Firewalls and Internet Security: Repelling the Wily Hacker_ , Second Edition, William R. Cheswick, Steven M. Bellovin, and Aviel D. Rubin
