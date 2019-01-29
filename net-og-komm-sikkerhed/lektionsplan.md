@@ -126,6 +126,7 @@ The detailed plan is below with a table summarizing lessons
       <p>PPA until and including chapter 4 - ca 66 pages</br>
       ANSM chapter 13 - 44 pages
       Paper <em>Security problems in the TCP/IP protocol suite</em>
+      and A Look Back at "Security Problems ..."
       </td>
     </tr>
     <tr>
