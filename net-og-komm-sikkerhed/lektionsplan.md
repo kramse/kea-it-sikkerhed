@@ -10,6 +10,11 @@ English: Communication and Network Security
 
 Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
 
+This document is written on Gitbook, and then exported to PDF.
+https://zencurity.gitbook.io/kea-it-sikkerhed/net-og-komm-sikkerhed/lektionsplan
+
+The PDF export seem to have problems with the big table, please check the Gitbook version if in doubt about reading list.
+
 ### Goals
 
 The module is centered around network threats and implementing and configuring equipment in this area.
@@ -52,7 +57,7 @@ Supporting literature:
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 * _Security problems in the TCP/IP protocol suite_, S. M. Bellovin https://www.cs.columbia.edu/~smb/papers/ipext.pdf samt
 _A Look Back at “Security Problems in the TCP/IP Protocol Suite”_ https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf
-* _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ , Bill Cheswick, AT&T Bell Laboratorieshttp://www.cheswick.com/ches/papers/berferd.pdf
+* _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ , Bill Cheswick, AT&T Bell Laboratories http://www.cheswick.com/ches/papers/berferd.pdf
 * _Firewalls and Internet Security: Repelling the Wily Hacker_ , Second Edition, William R. Cheswick, Steven M. Bellovin, and Aviel D. Rubin
 http://www.wilyhacker.com/ - shortened Cheswick
 * _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
@@ -137,7 +142,8 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Know common threats in networks, and solutions</td>
       <td style="text-align:left">
-      <p>PPA chapter 5,6,7,8,12 - 124 pages</p>
+      <p>PPA chapter 5,6,7,8,12 - 124 pages</p><br>
+      <p>Strange Attractors and TCP/IP Sequence Number Analysis</p>
       </td>
     </tr>
     <tr>
@@ -322,7 +328,9 @@ Exercises
 * Common countermeasures in firewalls
 
 Exercise
-* Nping, and pcap-diff [https://github.com/isginf/pcap-diff](https://github.com/isginf/pcap-diff)
+* Nping
+* Try pcap-diff [https://github.com/isginf/pcap-diff](https://github.com/isginf/pcap-diff)
+* Nmap scanning basics
 
 ** Encrypting the network layer**
 
