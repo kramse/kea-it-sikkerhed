@@ -293,7 +293,7 @@ The detailed plan is below with a table summarizing lessons
 
 Kali Linux is a toolbox we will use and participants will use a virtual machine
 
-Exercise
+Exercises
 * Kali Linux installation
 
 **TCP/IP and Security in TCP/IP protocol suite**
@@ -318,6 +318,8 @@ Exercises
 Exercises
 * ARP spoofing and ettercap
 * EtherApe
+* Nmap and Nping
+* Pcap-diff [https://github.com/isginf/pcap-diff](https://github.com/isginf/pcap-diff)
 
 **Traffic inspection and firewalls**
 
@@ -328,8 +330,6 @@ Exercises
 * Common countermeasures in firewalls
 
 Exercise
-* Nping
-* Try pcap-diff [https://github.com/isginf/pcap-diff](https://github.com/isginf/pcap-diff)
 * Nmap scanning basics
 
 ** Encrypting the network layer**
