@@ -163,7 +163,7 @@ The detailed plan is below with a table summarizing lessons
     </tr>
     <tr>
       <td style="text-align:left">19/2</td>
-      <td style="text-align:left"><b>Encrypting the network layer</b>
+      <td style="text-align:left"><b>Encrypting the network</b>
       </td>
       <td style="text-align:left">Know how math, algorithms and protocols are used to ensure confidentiality and integrity</td>
       <td style="text-align:left">
@@ -329,10 +329,10 @@ Exercises
 * IEEE 802.1q VLAN
 * Common countermeasures in firewalls
 
-Exercise
+Exercises
 * Nmap scanning basics
 
-** Encrypting the network layer**
+**Encrypting the network**
 
 * Basic cryptography
 * Encryption Decryption
@@ -364,7 +364,7 @@ Exercises
 
 * Wifi standarder IEEE 802.11
 * Authentication Protocols RADIUS, PAP, CHAP, EAP
-* IEEE 802.1x
+* Port Based Network Access Control IEEE 802.1x
 * Security problems in wireless protocols
 * Security problems in wireless encryption
 * Hacking wireless networks
