@@ -370,6 +370,7 @@ Exercises
 * Hacking wireless networks
 
 Exercise
+* Wifi scanning, aka wardriving
 * WPA hacking with a short password
 
 **Network Management**
