@@ -379,7 +379,7 @@ Exercise
 * Bruteforcing network devices SSH vs SNMP
 * Centralized management SSH, Jump hosts
 * Monitoring
-* Centralized syslog
+
 
 Exercise
 * Run SNMP walk
@@ -398,6 +398,7 @@ Exercise
 
 **Network Forensics**
 
+* Centralized syslog
 * Netflow data
 * Collect Network Evidence
 * Analyze Network data
