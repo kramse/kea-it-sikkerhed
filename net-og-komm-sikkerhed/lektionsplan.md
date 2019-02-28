@@ -375,14 +375,15 @@ Exercise
 
 **Network Management**
 
-* Monitoring
-* Centralized management SSH, Jump hosts
 * SNMP version 2 vs version 3
 * Bruteforcing network devices SSH vs SNMP
+* Centralized management SSH, Jump hosts
+* Monitoring
 * Centralized syslog
 
 Exercise
-* use SNMP and brute-force SNMP
+* Run SNMP walk
+* Try brute-force SNMP
 
 **Network Intrusion Detection**
 
