@@ -228,7 +228,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">Introduction to network investigations</td>
       <td style="text-align:left">
       <p>ANSM chapter 4,5,6 - 75 pages</br>
-      Bro documentation Intel framework, Suricata reputation support</p>
+      Zeek documentation Intel framework, Suricata reputation support</p>
       </td>
     </tr>
     <tr>
@@ -394,7 +394,7 @@ Exercise
 * Kibana Dashboards
 
 Exercise
-* run Bro and Suricata on small pcaps
+* Run Zeek and Suricata on small pcaps
 
 **Network Forensics**
 
@@ -405,8 +405,8 @@ Exercise
 * Create Incident Reports
 
 Exercises
-* run forensics similar to ENISA examples
-* create a Kibana dashboard for looking at logs
+* Run forensics similar to ENISA examples
+* Create a Kibana dashboard for looking at logs
 
 **Honeypots**
 
@@ -416,7 +416,7 @@ Exercises
 * Honey nets
 
 Exercise
-* run SSH honeypot and try brute-force it
+* Run SSH honeypot and try brute-force it
 
 **DNS and Email Security**
 * DNS introduction
@@ -427,7 +427,7 @@ Exercise
 * DNS over TLS vs DNS over HTTPS - DNS encryption
 
 Exercises
-* check some examples like how danish banks are using DMARC, and how your own companies can start using it
+* Check some examples like how danish banks are using DMARC, and how your own companies can start using it
 * SSLscan with SMTP TLS
 
 **Building Robust Networks**
