@@ -228,7 +228,8 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">Introduction to network investigations</td>
       <td style="text-align:left">
       <p>ANSM chapter 4,5,6 - 75 pages</br>
-      Zeek documentation Intel framework, Suricata reputation support</p>
+      Zeek documentation Intel framework https://docs.zeek.org/en/stable/frameworks/intel.html<br>
+      Suricata reputation support https://suricata.readthedocs.io/en/suricata-4.0.5/reputation/index.html</p>
       </td>
     </tr>
     <tr>
