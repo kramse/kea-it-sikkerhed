@@ -403,6 +403,7 @@ Exercise
 * Netflow data
 * Collect Network Evidence
 * Analyze Network data
+* Network Forensics
 * Create Incident Reports
 
 Exercises
@@ -452,7 +453,8 @@ We will design and build a sample network together
 **Running a Modern Network**
 
 * BCP38 RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing
-* MANRS https://www.manrs.org/isps/
+* Mutually Agreed Norms for Routing
+Security (MANRS) https://www.manrs.org/isps/
 * Testing security, evaluating and reporting
 * Hardened network device configurations
 * Jump hosts and management networks
