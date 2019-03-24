@@ -436,10 +436,12 @@ Exercises
 
 * Design a robust network
 * Isolation and segmentation
-* Routing Security
+* (Routing Security) removed, see Running a Modern Network slide set
 * Switch and access security, port security
-* Wireless security
-* Using reputation lists
+* (Wireless security) removed - see Wireless Security slide set
+* (Using reputation lists) removed - see Network Intrusion Detection slide set
+
+Parts removed, to make room for practical exercises.
 
 Exercise
 We will design and build a sample network together
