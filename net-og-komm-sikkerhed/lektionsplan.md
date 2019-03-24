@@ -445,12 +445,11 @@ Parts removed, to make room for practical exercises.
 
 Exercise
 We will design and build a sample network together
-* Configure port security
-* VLANs
-* Routing and RPF
+* VLANs, Routing and RPF
 * Wifi, WPA and guest network
-* Monitoring
-* IDS with Bro and Suricata
+* Monitoring - setup LibreNMS
+* IDS with Bro and Suricata  - if we have time
+* Configure port security  - if we have time
 
 **Running a Modern Network**
 
