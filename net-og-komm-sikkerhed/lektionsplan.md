@@ -448,7 +448,7 @@ We will design and build a sample network together
 * VLANs, Routing and RPF
 * Wifi, WPA and guest network
 * Monitoring - setup LibreNMS
-* IDS with Bro and Suricata  - if we have time
+* IDS with Zeek and Suricata  - if we have time
 * Configure port security  - if we have time
 
 **Running a Modern Network**
