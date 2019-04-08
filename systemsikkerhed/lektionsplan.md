@@ -66,14 +66,14 @@ UNFINISHED, currently a copy from another course
   <thead>
     <tr>
       <th style="text-align:left">Dato</th>
-      <th style="text-align:left">Tema</th>
-      <th style="text-align:left">Mål</th>
-      <th style="text-align:left">Litteratur / Forberedelse</th>
+      <th style="text-align:left">Theme</th>
+      <th style="text-align:left">Goal</th>
+      <th style="text-align:left">Litterature / Preparation</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">5/2</td>
+      <td style="text-align:left">23/4</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Kali Linux VM - bring laptop</p>
@@ -87,26 +87,153 @@ UNFINISHED, currently a copy from another course
       <td style="text-align:left">
       <p> Reviewing the literature list will occur when we meet. </p>
          <p> Download Kali Linux Revealed </p>
-         <p> Identification of chapters and sections from KLR and LBfH<br>
-        for reading as home assignment </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/2</td>
-      <td style="text-align:left"><b>...</b>
+      <td style="text-align:left">25/4</td>
+      <td style="text-align:left"><b>Overview of Computer Security</b>
       </td>
-      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left">         </td>
       <td style="text-align:left">
-      <p>Bishop until and including chapter X - ca XX pages</br>
-      Paper <em>Security problems in </em>
-      and </p>
+      <p>Bishop chapters 1 and 2 - ca 50 pages</br>
+
+      </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">26/3</td>
+      <td style="text-align:left">30/4</td>
+      <td style="text-align:left"><b>Computer Security Models</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapters 3 - ca 55 pages</br>
+
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2/5</td>
+      <td style="text-align:left"><b>Security Policies / Confidentiality Policies</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapters 4 and 5 - ca 65 pages</br>
+      Appendix G</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">7/5</td>
+      <td style="text-align:left"><b>integrity and Availability Policies</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapters 6 and 7 - ca 55 pages</br>
+
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">9/5</td>
+      <td style="text-align:left"><b>Hybrid Policies</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapters 8 and 9 - ca 60 pages</br>
+
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">14/5</td>
+      <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+      <p>Bishop chapters 23 and 24 - ca 105 pages</br>
+
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">16/5</td>
+      <td style="text-align:left"><b>Basic Cryptography</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapters 10,12,13 - ca  pages</br>
+      Skim chapter 11 Key management</p>
+      </td>
+    </tr>    <tr>
+      <td style="text-align:left">21/5</td>
+      <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapters 14,15,16 - ca 85 pages</br>
+
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">23/5</td>
+      <td style="text-align:left"><b>Information Flow</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapters 17 and 18 - ca 85 pages</br>
+
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">28/5</td>
+      <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapters 25 26 - ca 80 pages</br>
+
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">4/6</td>
+      <td style="text-align:left"><b>Forensics 2: Incident Response</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapter 27 - ca 40 pages</br>
+
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">6/6</td>
+      <td style="text-align:left"><b>System Security in Practice</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapters 28,29,30 - ca XX pages</br>
+
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11/6</td>
+      <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
+      </td>
+      <td style="text-align:left">         </td>
+      <td style="text-align:left">
+      <p>Bishop chapters X - ca XX pages</br>
+      Paper <em>CIS Controls</em>
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">13/6</td>
       <td style="text-align:left"><b>Summary and prepare for the exam</b></td>
       <td style="text-align:left">Summary of the course</td>
-      <td style="text-align:left">Everything read in the primary books</td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
