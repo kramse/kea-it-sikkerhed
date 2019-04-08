@@ -39,7 +39,8 @@ This course uses three books and a number of supporting resources.
 
 Primary literature:
 
-* Computer Security: Art and Science, Matt Bishop ISBN: 9780321712332
+* Gray Hat Hacking: The Ethical Hacker's Handbook, fifth edition
+Allen Harper ISBN: 9781260108415
 
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
