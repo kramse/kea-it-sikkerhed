@@ -41,12 +41,13 @@ Primary literature:
 
 * Computer Security: Art and Science, Matt Bishop ISBN: 9780321712332
 
+Supporting literature:
+
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
 It is recommended to buy these books.
 
-Supporting literature:
-
+Internet resources
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 * More to come
 
