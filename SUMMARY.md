@@ -7,3 +7,6 @@
 
 * [Lektionsplan](net-og-komm-sikkerhed/lektionsplan.md)
 
+## Systemsikkerhed
+
+* [Lektionsplan](systemsikkerhed/lektionsplan.md)
