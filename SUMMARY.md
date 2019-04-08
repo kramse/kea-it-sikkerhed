@@ -7,6 +7,14 @@
 
 * [Lektionsplan](net-og-komm-sikkerhed/lektionsplan.md)
 
+## Softwaresikkerhed
+
+* [Lektionsplan](softwaresikkerhed/lektionsplan.md)
+
 ## Systemsikkerhed
 
 * [Lektionsplan](systemsikkerhed/lektionsplan.md)
+
+## Netværkspenetrationstest
+
+* [Lektionsplan](penetrationstest/lektionsplan.md)
