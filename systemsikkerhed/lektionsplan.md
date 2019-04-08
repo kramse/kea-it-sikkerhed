@@ -24,14 +24,15 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date XXXX. 2019
+Dates: tuesday 25/06 exam
 
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates:
+Teaching dates: tuesdays and thursdays
+23/04, 25/04, 30/04, 02/05, 07/05, 09/05, 14/05, 16/05, 21/05, 23/05, 28/05, 04/06, 06/06, 11/06, 13/06
 
 ### Course reading list
 

@@ -41,7 +41,7 @@ Primary literature:
 
 * The Art of Software Security Assessment Identifying and Preventing
 Software Vulnerabilities
-Mark Dowd ISBN: 9780321444424
+Mark Dowd, John McDonald, Justin Schuh ISBN: 9780321444424
 * The Art of Software Security Testing Identifying Software Security Flaws
 Chris Wysopal ISBN: 9780321304865
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
