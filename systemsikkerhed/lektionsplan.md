@@ -59,7 +59,7 @@ These can be downloaded from the internet for free and may be gathered by the in
 Also the course will use internet links and pages. Some inspired by the course https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/related-resources/
 
 Control Hijacking Attacks
-* [Smashing The Stack For Fun And Profit), Aleph One](http://www.phrack.com/issues.html?issue=49&amp;id=14#article)
+* [Smashing The Stack For Fun And Profit), Aleph One](http://www.phrack.com/issues.html?issue=49&id=14#article)
 * [Bypassing non-executable-stack during exploitation using return-to-libc](http://css.csail.mit.edu/6.858/2014/readings/return-to-libc.pdf)
  by c0ntex.
 * [Basic Integer Overflows](http://www.phrack.com/issues.html?issue=60&amp;id=10#article) by blexim.
