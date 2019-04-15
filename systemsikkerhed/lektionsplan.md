@@ -249,7 +249,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 28,29,30 - ca 95 pages</br>
-
+      DBMS Security
       </p>
       </td>
     </tr>
@@ -282,3 +282,73 @@ Kali Linux is a toolbox we will use and participants will use a virtual machine
 
 Exercises
 * Kali Linux installation
+
+**Overview of Computer Security**
+
+Exercises
+*
+
+**Computer Security Models**
+
+Exercises
+*
+
+**Security Policies / Confidentiality Policies**
+
+Exercises
+*
+
+**integrity and Availability Policies**
+
+Exercises
+*
+
+**Hybrid Policies**
+
+Exercises
+*
+
+**Malware, Intrusion, Vulnerabilities**
+
+Exercises
+*
+
+**Basic Cryptography**
+
+Exercises
+*
+
+**Secure Systems Design and Implementation**
+
+Exercises
+*
+
+** **
+
+Exercises
+*
+
+**Information Flow**
+
+Exercises
+*
+
+**Forensics 1: Auditing and Intrusion Detection**
+
+Exercises
+*
+
+**Forensics 2: Incident Response**
+
+Exercises
+*
+
+**System Security in Practice**
+
+Exercises
+*
+
+**Benchmarking and Auditing Recap**
+
+Exercises
+*
