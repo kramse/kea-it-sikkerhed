@@ -50,13 +50,10 @@ Supporting literature:
 
 It is recommended to buy these books.
 
+Also the course will use internet links and pages. Some inspired by other courses on the same subjects, like https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/related-resources/
+
 Supporting Internet resources
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
-* More to come
-
-These can be downloaded from the internet for free and may be gathered by the instructor for easy download.
-
-Also the course will use internet links and pages. Some inspired by the course https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/related-resources/
 
 Control Hijacking Attacks
 * [Smashing The Stack For Fun And Profit), Aleph One](http://www.phrack.com/issues.html?issue=49&id=14#article)
@@ -67,7 +64,6 @@ Control Hijacking Attacks
 Systems, Languages, and Applications](https://hovav.net/ucsd/dist/rop.pdf)
 RYAN ROEMER, ERIK BUCHANAN, HOVAV SHACHAM and STEFAN SAVAGE
 University of California, San Diego
-
 
 OS Security
 * [Secure Programming for Linux and Unix HOWTO](http://www.dwheeler.com/secure-programs/)), David Wheeler.
