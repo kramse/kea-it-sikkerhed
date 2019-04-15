@@ -113,7 +113,6 @@ UNFINISHED, papers listed above will be added soon
 <tr>
   <th style="text-align:left">Dato</th>
   <th style="text-align:left">Theme</th>
-  <th style="text-align:left">Goal</th>
   <th style="text-align:left">Litterature / Preparation</th>
 </tr>
 </thead>
@@ -125,12 +124,6 @@ UNFINISHED, papers listed above will be added soon
         Prepare Kali Linux VM - bring laptop</p>
       </td>
       <td style="text-align:left">
-        <p>Create a good starting point for learning </br>
-         Introduce lecturer and students </br>
-         Concrete Expectations </br>
-         Prepare tools for the exercises </p>
-      </td>
-      <td style="text-align:left">
       <p> Reviewing the literature list will occur when we meet. </p>
          <p> Download Kali Linux Revealed </p>
       </td>
@@ -139,7 +132,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">25/4</td>
       <td style="text-align:left"><b>Overview of Computer Security</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 1 and 2 - ca 50 pages</br>
 
@@ -150,7 +142,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">30/4</td>
       <td style="text-align:left"><b>Overview of Enterprise Attacks</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Read [ATT&CK 101 Blog Post](https://medium.com/mitre-attack/att-ck-101-17074d3bc62) - ca  pages</br> and browse
       [MITRE ATT&CK](https://attack.mitre.org/)
@@ -161,7 +152,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">2/5</td>
       <td style="text-align:left"><b>Security Policies / Confidentiality Policies</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 4 and 5 - ca 65 pages</br>
       Appendix G, </p>
@@ -171,7 +161,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">7/5</td>
       <td style="text-align:left"><b>Integrity and Availability Policies</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 6 and 7 - ca 55 pages</br>
       TCP Synfloods - an old yet current problem, BSDCan slides
@@ -182,7 +171,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">9/5</td>
       <td style="text-align:left"><b>Hybrid Policies</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 8 and 9 - ca 60 pages</br>
       Using Memory Errors to Attack a Virtual Machine paper and https://en.wikipedia.org/wiki/Row_hammer
@@ -193,7 +181,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">14/5</td>
       <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
       </td>
-      <td style="text-align:left"></td>
       <td style="text-align:left">
       <p>Bishop chapters 23 and 24 - ca 105 pages</br>
       Enterprise Survival Guide for Ransomware Attacks - 20 pages
@@ -204,7 +191,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">16/5</td>
       <td style="text-align:left"><b>Basic Cryptography</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 10,12,13</br>
       Skim chapter 11 Key management. Total - ca 164 pages<br>
@@ -214,7 +200,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">(21/5) To be moved!</td>
       <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 14,15,16 - ca 85 pages</br>
 
@@ -225,7 +210,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">(23/5) To be moved!</td>
       <td style="text-align:left"><b>Information Flow</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 17 and 18 - ca 85 pages</br>
       Capsicum: practical capabilities for UNIX
@@ -236,7 +220,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">28/5</td>
       <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 25 and 26 - ca 80 pages</br>
       And at least 27.4 - or chapter 27 too
@@ -247,7 +230,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">4/6</td>
       <td style="text-align:left"><b>Forensics 2: Incident Response</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapter 27 - ca 40 pages</br>
       Incident Handler's Handbook - ca 18 pages
@@ -258,7 +240,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">6/6</td>
       <td style="text-align:left"><b>System Security in Practice</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 28,29,30 - ca 95 pages</br>
       DBMS Security
@@ -269,7 +250,6 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">11/6</td>
       <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
       </td>
-      <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p>
       </td>
@@ -278,16 +258,18 @@ UNFINISHED, papers listed above will be added soon
     <tr>
       <td style="text-align:left">13/6</td>
       <td style="text-align:left"><b>Summary and prepare for the exam</b></td>
-      <td style="text-align:left">Summary of the course</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Summary of the course, prepare for exam</td>
     </tr>
   </tbody>
 </table>
 
 **Introduction and welcome**
 
+* Create a good starting point for learning
+* Introduce lecturer and students
 * Expectations for this course
 * Literature list walkthrough
+* Prepare tools for the exercises
 * Kali and Debian Linux introduction
 
 Linux is a toolbox we will use and participants will use virtual machines
