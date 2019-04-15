@@ -62,7 +62,7 @@ Control Hijacking Attacks
 * [Smashing The Stack For Fun And Profit), Aleph One](http://www.phrack.com/issues.html?issue=49&id=14#article)
 * [Bypassing non-executable-stack during exploitation using return-to-libc](http://css.csail.mit.edu/6.858/2014/readings/return-to-libc.pdf)
  by c0ntex.
-* [Basic Integer Overflows](http://www.phrack.com/issues.html?issue=60&amp;id=10#article) by blexim.
+* [Basic Integer Overflows](http://www.phrack.com/issues.html?issue=60&id=10#article) by blexim.
 * [Intel Memory Protection Extensions](http://software.intel.com/en-us/articles/using-intel-mpx-with-the-intel-software-development-emulator)
 * [Intel 80386 Programmer's Reference Manual](http://css.csail.mit.edu/6.858/2014/readings/i386/toc.htm), 1987. Alternatively, in [PDF](http://css.csail.mit.edu/6.858/2014/readings/i386.pdf). Much shorter than the full current Intel architecture manuals below, but often sufficient.
 [Intel Architecture Software Developer Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html).
