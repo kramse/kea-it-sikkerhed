@@ -6,7 +6,7 @@ description: Valgfrie modul  VF1 Systemsikkerhed (10 ECTS) System Security
 
 ## Fagets titel: VF1 Systemsikkerhed \(10 ECTS\)
 
-English: System Security
+English: Computer Systems Security
 
 Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
 
@@ -17,7 +17,9 @@ The PDF export seem to have problems with the big table, please check the Gitboo
 
 ### Goals
 
-The module is centered around ...
+The module is centered around the design and implementation of secure computer systems.
+ Topics include operating system (OS) security, capabilities, information flow control, and more.
+
 Teaching material will primarily be English, but the teaching will be in Danish.
 
 See more about the course in the official curriculum.
@@ -191,7 +193,7 @@ UNFINISHED, currently a copy from another course
       </td>
       <td style="text-align:left">         </td>
       <td style="text-align:left">
-      <p>Bishop chapters 25 26 - ca 80 pages</br>
+      <p>Bishop chapters 25 and 26 - ca 80 pages</br>
 
       </p>
       </td>
@@ -224,8 +226,7 @@ UNFINISHED, currently a copy from another course
       </td>
       <td style="text-align:left">         </td>
       <td style="text-align:left">
-      <p>Bishop chapters X - ca XX pages</br>
-      Paper <em>CIS Controls</em>
+      <p>Paper <em>CIS Controls</em>
       </p>
       </td>
     </tr>
