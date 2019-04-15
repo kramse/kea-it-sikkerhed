@@ -63,6 +63,7 @@ Control Hijacking Attacks
 * [Return-Oriented Programming:Systems, Languages, and Applications](https://hovav.net/ucsd/dist/rop.pdf)
 Ryan Roemer, Erik Buchanan, Hovav Shacam and Stefan Savage University of California, San Diego
 * [MITRE ATT&CK](https://attack.mitre.org/) a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations, read the [ATT&CK 101 Blog Post](https://medium.com/mitre-attack/att-ck-101-17074d3bc62)
+* [Enterprise Survival Guide for Ransomware Attacks](https://www.sans.org/reading-room/whitepapers/incident/enterprise-survival-guide-ransomware-attacks-36962), Shafqat Mehmoon, SANS Information Securiy Reading Room
 
 OS Security
 * [Secure Programming for Linux and Unix HOWTO](http://www.dwheeler.com/secure-programs/)), David Wheeler.
@@ -71,6 +72,8 @@ OS Security
 * [Wedge: Splitting Applications into Reduced-Privilege Compartments](http://css.csail.mit.edu/6.858/2014/readings/wedge.pdf) by Andrea Bittau, Petr Marchenko, Mark Handley, and Brad Karp.
 * [Capsicum: practical capabilities for UNIX](https://www.usenix.org/legacy/event/sec10/tech/full_papers/Watson.pdf) Robert N. M. Watson University of Cambridge, Jonathan Anderson University of Cambridge, Ben Laurie Google UK Ltd., Kris Kennaway Google UK Ltd.
 * [Removing ROP Gadgets from OpenBSD](https://www.openbsd.org/papers/asiabsdcon2019-rop-paper.pdf) Todd Mortimer mortimer@openbsd.org
+* [TCP Synfloods - an old yet current problem, and improving pf's response to it](http://quigon.bsws.de/papers/2017/bsdcan/)
+Henning Brauer, BSDCan 2017
 
 Exploiting Hardware Bugs and Crypto Related
 * [Bug Attacks on RSA](http://www.cs.technion.ac.il/~yanivca/BugAttacks.pdf), by Eli Biham, Yaniv Carmeli, and Adi Shamir.
@@ -140,12 +143,12 @@ UNFINISHED, papers listed above will be added soon
     </tr>
     <tr>
       <td style="text-align:left">30/4</td>
-      <td style="text-align:left"><b>Computer Security Models</b>
+      <td style="text-align:left"><b>Overview of Enterprise Attacks</b>
       </td>
       <td style="text-align:left">         </td>
       <td style="text-align:left">
-      <p>Bishop chapters 3 - ca 55 pages</br>
-
+      <p>Read [ATT&CK 101 Blog Post](https://medium.com/mitre-attack/att-ck-101-17074d3bc62) - ca  pages</br> and browse
+      [MITRE ATT&CK](https://attack.mitre.org/)
       </p>
       </td>
     </tr>
@@ -161,7 +164,7 @@ UNFINISHED, papers listed above will be added soon
     </tr>
     <tr>
       <td style="text-align:left">7/5</td>
-      <td style="text-align:left"><b>integrity and Availability Policies</b>
+      <td style="text-align:left"><b>Integrity and Availability Policies</b>
       </td>
       <td style="text-align:left">         </td>
       <td style="text-align:left">
@@ -188,7 +191,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left"></td>
       <td style="text-align:left">
       <p>Bishop chapters 23 and 24 - ca 105 pages</br>
-
+      Enterprise Survival Guide for Ransomware Attacks - 20 pages
       </p>
       </td>
     </tr>
@@ -279,17 +282,24 @@ UNFINISHED, papers listed above will be added soon
 
 * Expectations for this course
 * Literature list walkthrough
-* Kali Linux introduction
+* Kali and Debian Linux introduction
 
-Kali Linux is a toolbox we will use and participants will use a virtual machine
+Linux is a toolbox we will use and participants will use virtual machines
 
 Exercises
 * Kali Linux installation
+* Debian Linux installation
 
 **Overview of Computer Security**
 
+* Confidentiality, Integrity and Availability
+* Cost-Benefit Analysis
+* Risk Analysis
+* Human Issues
+* Access Control Matrix
+
 Exercises
-*
+* Risk Analysis
 
 **Computer Security Models**
 
@@ -298,13 +308,31 @@ Exercises
 
 **Security Policies / Confidentiality Policies**
 
-Exercises
-*
+* Security policy
+* Discretionary Access Control (DAC)
+* Mandatory Access Control (MAC)
+* Example Acceptable Use Policies
+* Example Academic Computer Security Policy from the book
+* Confidentiality Policies Bell-LaPadula Model
 
-**integrity and Availability Policies**
+Exercises
+* Find your AUP for the ISPs we use, you use, your company uses
+* A look at SE Linux
+
+
+
+**ISntegrity and Availability Policies**
+
+* Accuracy vs disclosure
+* The Biba Model
+* Clark-Wilson Integrity Model
+* Trust models
+* Deadlocks
+* Availability and flooding attacks
 
 Exercises
-*
+* Databases - discussion about Relational Database Management System RDBMS Model and NoSQL
+* SYN flooding exercise
 
 **Hybrid Policies**
 
@@ -313,6 +341,7 @@ Exercises
 
 **Malware, Intrusion, Vulnerabilities**
 
+* Ransomware
 Exercises
 *
 
