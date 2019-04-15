@@ -96,7 +96,6 @@ Policies, governance and best Practice
 
 The detailed plan is below with a table summarizing lessons
 
-UNFINISHED, papers listed above will be added soon
 <table>
   <thead>
     <tr>
@@ -135,6 +134,20 @@ UNFINISHED, papers listed above will be added soon
       </p>
       </td>
     </tr>
+    </tbody>
+  </table>
+
+UNFINISHED, papers listed above will be added soon
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left)Dato</th>
+      <th style="text-align:left)Theme</th>
+      <th style="text-align:left)Goal</th>
+      <th style="text-align:left)Litterature / Preparation</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td style="text-align:left)30/4</td>
       <td style="text-align:left)<b>Computer Security Models</b>
