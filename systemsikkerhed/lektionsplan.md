@@ -62,6 +62,7 @@ Control Hijacking Attacks
 * [Basic Integer Overflows](http://www.phrack.com/issues.html?issue=60&id=10#article) by blexim.
 * [Return-Oriented Programming:Systems, Languages, and Applications](https://hovav.net/ucsd/dist/rop.pdf)
 Ryan Roemer, Erik Buchanan, Hovav Shacam and Stefan Savage University of California, San Diego
+* [MITRE ATT&CK](https://attack.mitre.org/) a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations, read the [ATT&CK 101 Blog Post](https://medium.com/mitre-attack/att-ck-101-17074d3bc62)
 
 OS Security
 * [Secure Programming for Linux and Unix HOWTO](http://www.dwheeler.com/secure-programs/)), David Wheeler.
@@ -85,6 +86,8 @@ Computer Forensics
 * ENISA Presenting, correlating and filtering various feeds Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook)
 * ENISA Forensic analysis, Network Incident Response [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2\_forensic\_analysis\_ii-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2_forensic_analysis_ii-handbook)
 * ENISA Network Forensics, Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook)
+* [Incident Handler's Handbook](https://www.sans.org/reading-room/whitepapers/incident/paper/33901)
+by Patrick Kral, SANS Information Securiy Reading Room
 
 Policies, governance and best Practice
 * [Campus Network Security: High Level Overview](https://nsrc.org/workshops/2018/myren-nsrc-cndo/networking/cndo/en/presentations/Campus_Security_Overview.pdf) , Network Startup Resource Center  
@@ -238,7 +241,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapter 27 - ca 40 pages</br>
-
+      Incident Handler's Handbook - ca 18 pages
       </p>
       </td>
     </tr>
