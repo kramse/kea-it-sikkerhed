@@ -84,7 +84,9 @@ CPU Protections
 
 The detailed plan is below with a table summarizing lessons
 
-UNFINISHED, currently a copy from another course
+UNFINISHED, papers listed above will be added soon
+
+
 <table>
   <thead>
     <tr>
