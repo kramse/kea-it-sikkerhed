@@ -78,6 +78,8 @@ Henning Brauer, BSDCan 2017
 Exploiting Hardware Bugs and Crypto Related
 * [Bug Attacks on RSA](http://www.cs.technion.ac.il/~yanivca/BugAttacks.pdf), by Eli Biham, Yaniv Carmeli, and Adi Shamir.
 * [Using Memory Errors to Attack a Virtual Machine](https://www.cs.princeton.edu/~appel/papers/memerr.pdf) by Sudhakar Govindavajhala and Andrew Appel
+* [Flipping Bits in Memory Without Accessing Them:
+An Experimental Study of DRAM Disturbance Errors](http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf) Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu, see also [Exploiting the DRAM rowhammer bug to gain kernel privileges](https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html)
 * _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 
 CPU Protections
@@ -159,7 +161,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 4 and 5 - ca 65 pages</br>
-      Appendix G</p>
+      Appendix G, Capsicum: practical capabilities for UNIX</p>
       </td>
     </tr>
     <tr>
@@ -169,7 +171,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 6 and 7 - ca 55 pages</br>
-
+      TCP Synfloods - an old yet current problem, BSDCan slides
       </p>
       </td>
     </tr>
@@ -180,7 +182,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 8 and 9 - ca 60 pages</br>
-
+      Using Memory Errors to Attack a Virtual Machine paper and https://en.wikipedia.org/wiki/Row_hammer
       </p>
       </td>
     </tr>
@@ -301,10 +303,12 @@ Exercises
 Exercises
 * Risk Analysis
 
-**Computer Security Models**
+**Overview of Enterprise Attacks**
+
+* Get an idea of the MITRE ATT&CK framework
 
 Exercises
-*
+* Run Armitage Hail-Mary against Metasploitable, describe attacks that succeeded in relation to MITRE ATT&CK framework
 
 **Security Policies / Confidentiality Policies**
 
@@ -319,9 +323,7 @@ Exercises
 * Find your AUP for the ISPs we use, you use, your company uses
 * A look at SE Linux
 
-
-
-**ISntegrity and Availability Policies**
+**Integrity and Availability Policies**
 
 * Accuracy vs disclosure
 * The Biba Model
@@ -329,6 +331,7 @@ Exercises
 * Trust models
 * Deadlocks
 * Availability and flooding attacks
+* Protection against TCP Synfloods
 
 Exercises
 * Databases - discussion about Relational Database Management System RDBMS Model and NoSQL
@@ -336,8 +339,14 @@ Exercises
 
 **Hybrid Policies**
 
+* Chinese Wall model - Confidentiality and Integrity
+* Medical records security policy
+* Role-based Access Control (RBAC)
+* Side Channels and Deducibility
+* Row hammer
+
 Exercises
-*
+* Find example medical security policies
 
 **Malware, Intrusion, Vulnerabilities**
 
