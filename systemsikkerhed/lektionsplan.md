@@ -96,6 +96,7 @@ Policies, governance and best Practice
 
 The detailed plan is below with a table summarizing lessons
 
+UNFINISHED, papers listed above will be added soon
 <table>
   <thead>
     <tr>
@@ -134,20 +135,6 @@ The detailed plan is below with a table summarizing lessons
       </p>
       </td>
     </tr>
-    </tbody>
-  </table>
-
-UNFINISHED, papers listed above will be added soon
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left)Dato</th>
-      <th style="text-align:left)Theme</th>
-      <th style="text-align:left)Goal</th>
-      <th style="text-align:left)Litterature / Preparation</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td style="text-align:left)30/4</td>
       <td style="text-align:left)<b>Computer Security Models</b>
@@ -272,9 +259,10 @@ UNFINISHED, papers listed above will be added soon
       </td>
       <td style="text-align:left)         </td>
       <td style="text-align:left)
-      <p>CIS controls</p>
+      <p>CIS controls </p>
       </td>
     </tr>
+
     <tr>
       <td style="text-align:left)13/6</td>
       <td style="text-align:left)<b>Summary and prepare for the exam</b></td>
