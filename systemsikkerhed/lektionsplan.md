@@ -60,8 +60,7 @@ Control Hijacking Attacks
 * [Bypassing non-executable-stack during exploitation using return-to-libc](http://css.csail.mit.edu/6.858/2014/readings/return-to-libc.pdf)
  by c0ntex.
 * [Basic Integer Overflows](http://www.phrack.com/issues.html?issue=60&id=10#article) by blexim.
-* [Return-Oriented Programming:
-Systems, Languages, and Applications](https://hovav.net/ucsd/dist/rop.pdf)
+* [Return-Oriented Programming:Systems, Languages, and Applications](https://hovav.net/ucsd/dist/rop.pdf)
 RYAN ROEMER, ERIK BUCHANAN, HOVAV SHACHAM and STEFAN SAVAGE
 University of California, San Diego
 
@@ -70,7 +69,14 @@ OS Security
 * [Setuid demystified](http://www.cs.berkeley.edu/~daw/papers/setuid-usenix02.pdf) by Hao Chen, David Wagner, and Drew Dean.
 * [Some thoughts on security after ten years of qmail 1.0](http://cr.yp.to/qmail/qmailsec-20071101.pdf) Daniel J. Bernstein.
 * [Wedge: Splitting Applications into Reduced-Privilege Compartments](http://css.csail.mit.edu/6.858/2014/readings/wedge.pdf) by Andrea Bittau, Petr Marchenko, Mark Handley, and Brad Karp.
-* [Capsicum: practical capabilities for UNIX](https://www.usenix.org/legacy/event/sec10/tech/full_papers/Watson.pdf)
+* [Capsicum: practical capabilities for UNIX](https://www.usenix.org/legacy/event/sec10/tech/full_papers/Watson.pdf) Robert N. M. Watson
+University of Cambridge
+Jonathan Anderson
+University of Cambridge
+Ben Laurie
+Google UK Ltd.
+Kris Kennaway
+Google UK Ltd.
 * [Removing ROP Gadgets from OpenBSD](https://www.openbsd.org/papers/asiabsdcon2019-rop-paper.pdf) Todd Mortimer mortimer@openbsd.org
 
 Exploiting Hardware Bugs
