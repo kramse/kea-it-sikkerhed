@@ -90,15 +90,13 @@ Policies, governance and best Practice
 * [Campus Network Security: High Level Overview](https://nsrc.org/workshops/2018/myren-nsrc-cndo/networking/cndo/en/presentations/Campus_Security_Overview.pdf) , Network Startup Resource Center  
 * [Campus Operations Best Current Practice](https://nsrc.org/workshops/2018/tenet-nsrc-cndo/networking/cndo/en/presentations/Campus_Operations_BCP.pdf), Network Startup Resource Center  
 * [Mutually Agreed Norms for Routing Security (MANRS)](https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf)
-
+* [CIS Controls](https://learn.cisecurity.org/cis-controls-download) Requires
 
 ## Planning
 
 The detailed plan is below with a table summarizing lessons
 
 UNFINISHED, papers listed above will be added soon
-
-
 <table>
   <thead>
     <tr>
