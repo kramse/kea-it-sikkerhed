@@ -100,6 +100,8 @@ Policies, governance and best Practice
 * [Mutually Agreed Norms for Routing Security (MANRS)](https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf)
 * [CIS Controls](https://learn.cisecurity.org/cis-controls-download) Requires giving your email
 * [PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019](https://www.pcisecuritystandards.org/documents/PCI_DSS_V2.0_Best_Practices_for_Maintaining_PCI_DSS_Compliance.pdf?agreement=true&time=1555354264656)
+* [NIST Special Publication 800-63B
+Digital Identity Guidelines: Authentication and Lifecycle Management](https://pages.nist.gov/800-63-3/sp800-63b.html)
 
 ## Planning
 
@@ -162,7 +164,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 4 and 5 - ca 65 pages</br>
-      Appendix G, Capsicum: practical capabilities for UNIX</p>
+      Appendix G, </p>
       </td>
     </tr>
     <tr>
@@ -205,7 +207,8 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 10,12,13</br>
-      Skim chapter 11 Key management. Total - ca 164 pages</p>
+      Skim chapter 11 Key management. Total - ca 164 pages<br>
+      Skim NIST Special Publication 800-63B</p>
       </td>
     </tr>    <tr>
       <td style="text-align:left">(21/5) To be moved!</td>
@@ -225,7 +228,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 17 and 18 - ca 85 pages</br>
-
+      Capsicum: practical capabilities for UNIX
       </p>
       </td>
     </tr>
@@ -367,23 +370,41 @@ Exercises
 
 **Basic Cryptography**
 
+* Basic Cryptography
+* Symmetric Cryptosystems
+* Data Encryption Standard (DES) / Advanced Encryption Standard (AES)
+* Public Key Cryptography
+* Stream and Block Ciphers
+* Example cryptosystems OpenPGP, IPsec, Transport Layer Security (TLS)
+* Authentication and Password security, NIST guidelines
+
 Exercises
-*
+* sslscan scan various sites for TLS settings, Qualys SSLLabs
+* Try Nmap and Ikescan
+* Try ssh scanners, similar to sslscan
+* Crack your own passwords
 
 **Secure Systems Design and Implementation**
 
-Exercises
-*
+* Principle of least privilege, fail-safe defaults, separation of privilege etc.
+* Files, objects, users, groups and roles
+* Naming and Certificates
+* DNSSEC
+* Access Control Lists
 
-** **
-
 Exercises
-*
+* DNSSEC, SPF, DMARC - DNS based updates to your email domain security
+
 
 **Information Flow**
 
+* Firewall Flow Controls
+* Confinement and isolation
+* Virtual Machines and Sandboxes
+* Covert Channels
+
 Exercises
-*
+* Research VM escapes
 
 **Forensics 1: Auditing and Intrusion Detection**
 
@@ -418,7 +439,7 @@ Exercises
 * Work on our model network, each team has a router and an attacker - prevent most of the attacks on the Metasploitable server by firewall configuration
 * Investigate Debian as a server - default settings for Web, we will install a system which requires database and web server configured
 * Configure SSH keys
-* Crack your own passwords
+
 
 **Benchmarking and Auditing Recap**
 
