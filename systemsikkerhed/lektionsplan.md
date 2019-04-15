@@ -259,8 +259,7 @@ UNFINISHED, papers listed above will be added soon
       </td>
       <td style="text-align:left)         </td>
       <td style="text-align:left)
-      <p>Paper <em>CIS Controls</em>
-      </p>
+      <p>CIS controls</p>
       </td>
     </tr>
     <tr>
