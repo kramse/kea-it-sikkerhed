@@ -99,6 +99,7 @@ Policies, governance and best Practice
 * [Campus Operations Best Current Practice](https://nsrc.org/workshops/2018/tenet-nsrc-cndo/networking/cndo/en/presentations/Campus_Operations_BCP.pdf), Network Startup Resource Center  
 * [Mutually Agreed Norms for Routing Security (MANRS)](https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf)
 * [CIS Controls](https://learn.cisecurity.org/cis-controls-download) Requires giving your email
+* [PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019](https://www.pcisecuritystandards.org/documents/PCI_DSS_V2.0_Best_Practices_for_Maintaining_PCI_DSS_Compliance.pdf?agreement=true&time=1555354264656)
 
 ## Planning
 
@@ -267,7 +268,7 @@ UNFINISHED, papers listed above will be added soon
       </td>
       <td style="text-align:left">         </td>
       <td style="text-align:left">
-      <p>CIS controls </p>
+      <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p>
       </td>
     </tr>
 
@@ -421,5 +422,7 @@ Exercises
 
 **Benchmarking and Auditing Recap**
 
+* Using CIS controls and Visa PCI
+
 Exercises
-*
+* Evaluate our network, quick gap analysis for becoming PCI compliant
