@@ -199,7 +199,7 @@ UNFINISHED, papers listed above will be added soon
       Skim chapter 11 Key management. Total - ca 164 pages</p>
       </td>
     </tr>    <tr>
-      <td style="text-align:left">21/5</td>
+      <td style="text-align:left">(21/5) To be moved!</td>
       <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
       </td>
       <td style="text-align:left">         </td>
@@ -210,7 +210,7 @@ UNFINISHED, papers listed above will be added soon
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">23/5</td>
+      <td style="text-align:left">(23/5) To be moved!</td>
       <td style="text-align:left"><b>Information Flow</b>
       </td>
       <td style="text-align:left">         </td>
