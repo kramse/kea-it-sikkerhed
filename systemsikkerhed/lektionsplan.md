@@ -162,8 +162,8 @@ UNFINISHED, currently a copy from another course
       </td>
       <td style="text-align:left">         </td>
       <td style="text-align:left">
-      <p>Bishop chapters 10,12,13 - ca  pages</br>
-      Skim chapter 11 Key management</p>
+      <p>Bishop chapters 10,12,13</br>
+      Skim chapter 11 Key management. Total - ca 164 pages</p>
       </td>
     </tr>    <tr>
       <td style="text-align:left">21/5</td>
@@ -215,7 +215,7 @@ UNFINISHED, currently a copy from another course
       </td>
       <td style="text-align:left">         </td>
       <td style="text-align:left">
-      <p>Bishop chapters 28,29,30 - ca XX pages</br>
+      <p>Bishop chapters 28,29,30 - ca 95 pages</br>
 
       </p>
       </td>
