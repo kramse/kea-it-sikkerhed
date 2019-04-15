@@ -56,8 +56,26 @@ Internet resources
 
 These can be downloaded from the internet for free and may be gathered by the instructor for easy download.
 
-Also the course will use internet links and pages.
+Also the course will use internet links and pages. Some inspired by the course https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/related-resources/
 
+Control Hijacking Attacks
+* [Smashing The Stack For Fun And Profit), Aleph One](http://www.phrack.com/issues.html?issue=49&amp;id=14#article)
+* [Bypassing non-executable-stack during exploitation using return-to-libc](http://css.csail.mit.edu/6.858/2014/readings/return-to-libc.pdf)
+ by c0ntex.
+* [Basic Integer Overflows](http://www.phrack.com/issues.html?issue=60&amp;id=10#article) by blexim.
+* [Intel Memory Protection Extensions](http://software.intel.com/en-us/articles/using-intel-mpx-with-the-intel-software-development-emulator)
+* [Intel 80386 Programmer's Reference Manual](http://css.csail.mit.edu/6.858/2014/readings/i386/toc.htm), 1987. Alternatively, in [PDF](http://css.csail.mit.edu/6.858/2014/readings/i386.pdf). Much shorter than the full current Intel architecture manuals below, but often sufficient.
+[Intel Architecture Software Developer Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html).
+
+OS Security
+* [Secure Programming for Linux and Unix HOWTO](http://www.dwheeler.com/secure-programs/)), David Wheeler.
+* [Setuid demystified](http://www.cs.berkeley.edu/~daw/papers/setuid-usenix02.pdf) by Hao Chen, David Wagner, and Drew Dean.
+* [Some thoughts on security after ten years of qmail 1.0](http://cr.yp.to/qmail/qmailsec-20071101.pdf) Daniel J. Bernstein.
+* [Wedge: Splitting Applications into Reduced-Privilege Compartments](http://css.csail.mit.edu/6.858/2014/readings/wedge.pdf) by Andrea Bittau, Petr Marchenko, Mark Handley, and Brad Karp.
+
+Exploiting Hardware Bugs
+* [Bug Attacks on RSA](http://www.cs.technion.ac.il/~yanivca/BugAttacks.pdf), by Eli Biham, Yaniv Carmeli, and Adi Shamir.
+* [Using Memory Errors to Attack a Virtual Machine](https://www.cs.princeton.edu/~appel/papers/memerr.pdf) by Sudhakar Govindavajhala and Andrew Appel.
 
 ## Planning
 
@@ -67,174 +85,174 @@ UNFINISHED, currently a copy from another course
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Dato</th>
-      <th style="text-align:left">Theme</th>
-      <th style="text-align:left">Goal</th>
-      <th style="text-align:left">Litterature / Preparation</th>
+      <th style="text-align:left)Dato</th>
+      <th style="text-align:left)Theme</th>
+      <th style="text-align:left)Goal</th>
+      <th style="text-align:left)Litterature / Preparation</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">23/4</td>
-      <td style="text-align:left">
+      <td style="text-align:left)23/4</td>
+      <td style="text-align:left)
         <p>Welcome, goals and expectations</br>
         Prepare Kali Linux VM - bring laptop</p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left)
         <p>Create a good starting point for learning </br>
          Introduce lecturer and students </br>
          Concrete Expectations </br>
          Prepare tools for the exercises </p>
       </td>
-      <td style="text-align:left">
+      <td style="text-align:left)
       <p> Reviewing the literature list will occur when we meet. </p>
          <p> Download Kali Linux Revealed </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">25/4</td>
-      <td style="text-align:left"><b>Overview of Computer Security</b>
+      <td style="text-align:left)25/4</td>
+      <td style="text-align:left)<b>Overview of Computer Security</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapters 1 and 2 - ca 50 pages</br>
 
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">30/4</td>
-      <td style="text-align:left"><b>Computer Security Models</b>
+      <td style="text-align:left)30/4</td>
+      <td style="text-align:left)<b>Computer Security Models</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapters 3 - ca 55 pages</br>
 
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">2/5</td>
-      <td style="text-align:left"><b>Security Policies / Confidentiality Policies</b>
+      <td style="text-align:left)2/5</td>
+      <td style="text-align:left)<b>Security Policies / Confidentiality Policies</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapters 4 and 5 - ca 65 pages</br>
       Appendix G</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/5</td>
-      <td style="text-align:left"><b>integrity and Availability Policies</b>
+      <td style="text-align:left)7/5</td>
+      <td style="text-align:left)<b>integrity and Availability Policies</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapters 6 and 7 - ca 55 pages</br>
 
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9/5</td>
-      <td style="text-align:left"><b>Hybrid Policies</b>
+      <td style="text-align:left)9/5</td>
+      <td style="text-align:left)<b>Hybrid Policies</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapters 8 and 9 - ca 60 pages</br>
 
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/5</td>
-      <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
+      <td style="text-align:left)14/5</td>
+      <td style="text-align:left)<b>Malware, Intrusion, Vulnerabilities</b>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
+      <td style="text-align:left)</td>
+      <td style="text-align:left)
       <p>Bishop chapters 23 and 24 - ca 105 pages</br>
 
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">16/5</td>
-      <td style="text-align:left"><b>Basic Cryptography</b>
+      <td style="text-align:left)16/5</td>
+      <td style="text-align:left)<b>Basic Cryptography</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapters 10,12,13</br>
       Skim chapter 11 Key management. Total - ca 164 pages</p>
       </td>
     </tr>    <tr>
-      <td style="text-align:left">21/5</td>
-      <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
+      <td style="text-align:left)21/5</td>
+      <td style="text-align:left)<b>Secure Systems Design and Implementation</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapters 14,15,16 - ca 85 pages</br>
 
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">23/5</td>
-      <td style="text-align:left"><b>Information Flow</b>
+      <td style="text-align:left)23/5</td>
+      <td style="text-align:left)<b>Information Flow</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapters 17 and 18 - ca 85 pages</br>
 
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/5</td>
-      <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
+      <td style="text-align:left)28/5</td>
+      <td style="text-align:left)<b>Forensics 1: Auditing and Intrusion Detection</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapters 25 and 26 - ca 80 pages</br>
 
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">4/6</td>
-      <td style="text-align:left"><b>Forensics 2: Incident Response</b>
+      <td style="text-align:left)4/6</td>
+      <td style="text-align:left)<b>Forensics 2: Incident Response</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapter 27 - ca 40 pages</br>
 
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">6/6</td>
-      <td style="text-align:left"><b>System Security in Practice</b>
+      <td style="text-align:left)6/6</td>
+      <td style="text-align:left)<b>System Security in Practice</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Bishop chapters 28,29,30 - ca 95 pages</br>
 
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/6</td>
-      <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
+      <td style="text-align:left)11/6</td>
+      <td style="text-align:left)<b>Benchmarking and Auditing Recap</b>
       </td>
-      <td style="text-align:left">         </td>
-      <td style="text-align:left">
+      <td style="text-align:left)         </td>
+      <td style="text-align:left)
       <p>Paper <em>CIS Controls</em>
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">13/6</td>
-      <td style="text-align:left"><b>Summary and prepare for the exam</b></td>
-      <td style="text-align:left">Summary of the course</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left)13/6</td>
+      <td style="text-align:left)<b>Summary and prepare for the exam</b></td>
+      <td style="text-align:left)Summary of the course</td>
+      <td style="text-align:left)</td>
     </tr>
   </tbody>
 </table>
