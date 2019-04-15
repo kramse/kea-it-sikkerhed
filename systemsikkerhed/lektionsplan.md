@@ -235,7 +235,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">         </td>
       <td style="text-align:left">
       <p>Bishop chapters 25 and 26 - ca 80 pages</br>
-
+      And at least 27.4 - or chapter 27 too
       </p>
       </td>
     </tr>
@@ -350,9 +350,19 @@ Exercises
 
 **Malware, Intrusion, Vulnerabilities**
 
+* Trojan horses, Rootkits, computer viruses
 * Ransomware
+* Computer worms, from Morris Worm to today
+* Bots and botnets
+* Phishing and spear phishing
+* Sandboxing, Java and browsers
+* Penetration testing
+* Common Vulnerabilities and Exposure CVE
+* Common Weaknesses and Exposures CWE
+
 Exercises
-*
+* Make a non-privileged user, make a system directory writable, create root cronjob without path
+* Discuss when to use Anti-virus and "endpoint security"
 
 **Basic Cryptography**
 
@@ -376,18 +386,38 @@ Exercises
 
 **Forensics 1: Auditing and Intrusion Detection**
 
+* Auditing and logging
+* Volatility and file systems
+* Intrusion Detection
+* Host and Networks Based Intrusion Detection (HIDS/NIDS)
+* Network Security Monitoring
+
 Exercises
-*
+* Centralized syslogging and example system
+* Open a file system dump
 
 **Forensics 2: Incident Response**
 
+* Attack and Response
+* Attack graphs
+* Attack surfaces, and reducing them
+* Intrusion Handling, phases
+
 Exercises
-*
+* Clean or rebuild a server
+* Cloud environments influence on incident response
 
 **System Security in Practice**
 
+* Network security
+* Infrastructure security
+* Implement a small scale enterprise network
+
 Exercises
-*
+* Work on our model network, each team has a router and an attacker - prevent most of the attacks on the Metasploitable server by firewall configuration
+* Investigate Debian as a server - default settings for Web, we will install a system which requires database and web server configured
+* Configure SSH keys
+* Crack your own passwords
 
 **Benchmarking and Auditing Recap**
 
