@@ -56,7 +56,7 @@ Supporting Internet resources
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 
 Control Hijacking Attacks
-* [Smashing The Stack For Fun And Profit)](http://www.phrack.com/issues.html?issue=49&id=14#article), Aleph One
+* [Smashing The Stack For Fun And Profit](http://www.phrack.com/issues.html?issue=49&id=14#article), Aleph One
 * [Bypassing non-executable-stack during exploitation using return-to-libc](http://css.csail.mit.edu/6.858/2014/readings/return-to-libc.pdf)
  by c0ntex.
 * [Basic Integer Overflows](http://www.phrack.com/issues.html?issue=60&id=10#article) by blexim.
@@ -78,14 +78,8 @@ Henning Brauer, BSDCan 2017
 Exploiting Hardware Bugs and Crypto Related
 * [Bug Attacks on RSA](http://www.cs.technion.ac.il/~yanivca/BugAttacks.pdf), by Eli Biham, Yaniv Carmeli, and Adi Shamir.
 * [Using Memory Errors to Attack a Virtual Machine](https://www.cs.princeton.edu/~appel/papers/memerr.pdf) by Sudhakar Govindavajhala and Andrew Appel
-* [Flipping Bits in Memory Without Accessing Them:
-An Experimental Study of DRAM Disturbance Errors](http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf) Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu, see also [Exploiting the DRAM rowhammer bug to gain kernel privileges](https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html)
+* [Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors](http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf) Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu, see also [Exploiting the DRAM rowhammer bug to gain kernel privileges](https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html)
 * _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
-
-CPU Protections
-* [Intel Memory Protection Extensions](http://software.intel.com/en-us/articles/using-intel-mpx-with-the-intel-software-development-emulator)
-* [Intel 80386 Programmer's Reference Manual](http://css.csail.mit.edu/6.858/2014/readings/i386/toc.htm), 1987. Alternatively, in [PDF](http://css.csail.mit.edu/6.858/2014/readings/i386.pdf). Much shorter than the full current Intel architecture manuals below, but often sufficient.
-[Intel Architecture Software Developer Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html).
 
 Computer Forensics
 * ENISA Presenting, correlating and filtering various feeds Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook)
@@ -100,8 +94,7 @@ Policies, governance and best Practice
 * [Mutually Agreed Norms for Routing Security (MANRS)](https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf)
 * [CIS Controls](https://learn.cisecurity.org/cis-controls-download) Requires giving your email
 * [PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019](https://www.pcisecuritystandards.org/documents/PCI_DSS_V2.0_Best_Practices_for_Maintaining_PCI_DSS_Compliance.pdf?agreement=true&time=1555354264656)
-* [NIST Special Publication 800-63B
-Digital Identity Guidelines: Authentication and Lifecycle Management](https://pages.nist.gov/800-63-3/sp800-63b.html)
+* [NIST Special Publication 800-63B Digital Identity Guidelines: Authentication and Lifecycle Management](https://pages.nist.gov/800-63-3/sp800-63b.html)
 
 ## Planning
 
@@ -154,7 +147,10 @@ UNFINISHED, papers listed above will be added soon
       </td>
       <td style="text-align:left">
       <p>Bishop chapters 4 and 5 - ca 65 pages</br>
-      Appendix G, </p>
+      Appendix G,
+      Browse: Campus Network Security: High Level Overview , Network Startup Resource Center  
+Campus Operations Best Current Practice, Network Startup Resource Center  
+Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
@@ -173,7 +169,8 @@ UNFINISHED, papers listed above will be added soon
       </td>
       <td style="text-align:left">
       <p>Bishop chapters 8 and 9 - ca 60 pages</br>
-      Using Memory Errors to Attack a Virtual Machine paper and https://en.wikipedia.org/wiki/Row_hammer
+      Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
+      https://en.wikipedia.org/wiki/Row_hammer
       </p>
       </td>
     </tr>
@@ -183,7 +180,7 @@ UNFINISHED, papers listed above will be added soon
       </td>
       <td style="text-align:left">
       <p>Bishop chapters 23 and 24 - ca 105 pages</br>
-      Enterprise Survival Guide for Ransomware Attacks - 20 pages
+      Smashing The Stack For Fun And Profit, Bypassing non-executable-stack during exploitation using return-to-libc, Basic Integer Overflows, Return-Oriented Programming
       </p>
       </td>
     </tr>
@@ -194,7 +191,8 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">
       <p>Bishop chapters 10,12,13</br>
       Skim chapter 11 Key management. Total - ca 164 pages<br>
-      Skim NIST Special Publication 800-63B</p>
+      Skim NIST Special Publication 800-63B<br>
+      Enterprise Survival Guide for Ransomware Attacks - 20 pages</p>
       </td>
     </tr>    <tr>
       <td style="text-align:left">(21/5) To be moved!</td>
@@ -203,6 +201,9 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">
       <p>Bishop chapters 14,15,16 - ca 85 pages</br>
 
+      Skim, Setuid demystified,
+Some thoughts on security after ten years of qmail 1.0,
+Wedge: Splitting Applications into Reduced-Privilege Compartments
       </p>
       </td>
     </tr>
@@ -212,7 +213,8 @@ UNFINISHED, papers listed above will be added soon
       </td>
       <td style="text-align:left">
       <p>Bishop chapters 17 and 18 - ca 85 pages</br>
-      Capsicum: practical capabilities for UNIX
+      Capsicum: practical capabilities for UNIX<br>
+      Removing ROP Gadgets from OpenBSD
       </p>
       </td>
     </tr>
@@ -223,6 +225,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left">
       <p>Bishop chapters 25 and 26 - ca 80 pages</br>
       And at least 27.4 - or chapter 27 too
+      Download and browse the ENISA papers listed under Computer Forensics in the reading list
       </p>
       </td>
     </tr>
