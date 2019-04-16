@@ -137,7 +137,7 @@ UNFINISHED, papers listed above will be added soon
       </td>
       <td style="text-align:left">
       <p>Read [ATT&CK 101 Blog Post](https://medium.com/mitre-attack/att-ck-101-17074d3bc62) - ca  pages</br> and browse
-      [MITRE ATT&CK](https://attack.mitre.org/)
+      <a href="https://attack.mitre.org/">MITRE ATT&CK</a>
       </p>
       </td>
     </tr>
