@@ -136,7 +136,7 @@ UNFINISHED, papers listed above will be added soon
       <td style="text-align:left"><b>Overview of Enterprise Attacks</b>
       </td>
       <td style="text-align:left">
-      <p>Read [ATT&CK 101 Blog Post](https://medium.com/mitre-attack/att-ck-101-17074d3bc62) - ca  pages</br> and browse
+      <p>Read <a href="https://medium.com/mitre-attack/att-ck-101-17074d3bc62">ATT&CK 101 Blog Post</a> and browse
       <a href="https://attack.mitre.org/">MITRE ATT&CK</a>
       </p>
       </td>
