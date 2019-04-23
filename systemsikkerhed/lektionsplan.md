@@ -119,7 +119,7 @@ UNFINISHED, papers listed above will be added soon
       </td>
       <td style="text-align:left">
       <p> Reviewing the literature list will occur when we meet. </p>
-         <p> Download Kali Linux Revealed </p>
+         <p> Download Kali Linux Revealed <br>Create VMs</p>
       </td>
     </tr>
     <tr>
