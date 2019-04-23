@@ -158,17 +158,17 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Integrity and Availability Policies</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 6 and 7 - ca 55 pages</br>
+      <p>Read: Bishop chapters 6 and chapter 7, skim math parts</br>
       TCP Synfloods - an old yet current problem, BSDCan slides
       </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">9/5</td>
-      <td style="text-align:left"><b>Hybrid Policies</b>
+      <td style="text-align:left"><b>Hybrid Policies / Breaking out</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 8 and 9 - ca 60 pages</br>
+      <p>Bishop chapters 8 -  skim math parts ca 25 pages</br>
       Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
       https://en.wikipedia.org/wiki/Row_hammer
       </p>
