@@ -339,6 +339,22 @@ Exercises
 Exercises
 * Find example medical security policies
 
+**Basic Cryptography**
+
+* Basic Cryptography
+* Symmetric Cryptosystems
+* Data Encryption Standard (DES) / Advanced Encryption Standard (AES)
+* Public Key Cryptography
+* Stream and Block Ciphers
+* Example cryptosystems OpenPGP, IPsec, Transport Layer Security (TLS)
+* Authentication and Password security, NIST guidelines
+
+Exercises
+* sslscan scan various sites for TLS settings, Qualys SSLLabs
+* Try Nmap and Ikescan
+* Try ssh scanners, similar to sslscan
+* Crack your own passwords
+
 **Malware, Intrusion, Vulnerabilities**
 
 * Trojan horses, Rootkits, computer viruses
@@ -355,21 +371,7 @@ Exercises
 * Make a non-privileged user, make a system directory writable, create root cronjob without path
 * Discuss when to use Anti-virus and "endpoint security"
 
-**Basic Cryptography**
 
-* Basic Cryptography
-* Symmetric Cryptosystems
-* Data Encryption Standard (DES) / Advanced Encryption Standard (AES)
-* Public Key Cryptography
-* Stream and Block Ciphers
-* Example cryptosystems OpenPGP, IPsec, Transport Layer Security (TLS)
-* Authentication and Password security, NIST guidelines
-
-Exercises
-* sslscan scan various sites for TLS settings, Qualys SSLLabs
-* Try Nmap and Ikescan
-* Try ssh scanners, similar to sslscan
-* Crack your own passwords
 
 **Secure Systems Design and Implementation**
 
