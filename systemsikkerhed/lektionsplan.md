@@ -212,7 +212,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       <td style="text-align:left"><b>Information Flow</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 17 and 18 - ca 85 pages</br>
+      <p>Skim: Bishop chapters 17 and 18 - ca 85 pages</br>
       Capsicum: practical capabilities for UNIX<br>
       Removing ROP Gadgets from OpenBSD
       </p>
