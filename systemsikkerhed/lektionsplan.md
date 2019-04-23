@@ -334,7 +334,7 @@ Exercises
 * Medical records security policy
 * Role-based Access Control (RBAC)
 * Side Channels and Deducibility
-* Memopry Errors and Row hammer
+* Memory Errors and Row hammer
 
 Exercises
 * Find example medical security policies
@@ -413,7 +413,7 @@ Exercises
 * Intrusion Handling, phases
 
 Exercises
-* Clean or rebuild a server
+* Clean or rebuild a server, use example Debian with your cron job vuln as example
 * Cloud environments influence on incident response
 
 **System Security in Practice**
