@@ -95,6 +95,7 @@ Policies, governance and best Practice
 * [CIS Controls](https://learn.cisecurity.org/cis-controls-download) Requires giving your email
 * [PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019](https://www.pcisecuritystandards.org/documents/PCI_DSS_V2.0_Best_Practices_for_Maintaining_PCI_DSS_Compliance.pdf?agreement=true&time=1555354264656)
 * [NIST Special Publication 800-63B Digital Identity Guidelines: Authentication and Lifecycle Management](https://pages.nist.gov/800-63-3/sp800-63b.html)
+* [IT Security Guidelines for Transport Layer Security (TLS)](https://www.ncsc.nl/english/current-topics/factsheets/it-security-guidelines-for-transport-layer-security-tls.html)
 
 ## Planning
 
@@ -190,9 +191,10 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
       <td style="text-align:left">
       <p>Bishop chapters 10,12,13</br>
-      Skim chapter 11 Key management. Total - ca 164 pages<br>
+      Skim chapter 11 Key Management. Total - ca 164 pages<br>
       Skim NIST Special Publication 800-63B<br>
-      Enterprise Survival Guide for Ransomware Attacks - 20 pages</p>
+      Enterprise Survival Guide for Ransomware Attacks - 20 pages<br>
+      IT Security Guidelines for Transport Layer Security</p>
       </td>
     </tr>    <tr>
       <td style="text-align:left">(21/5) To be moved!</td>
@@ -307,6 +309,7 @@ Exercises
 * Example Acceptable Use Policies
 * Example Academic Computer Security Policy from the book
 * Confidentiality Policies Bell-LaPadula Model
+* More examples from the real world
 
 Exercises
 * Find your AUP for the ISPs we use, you use, your company uses
@@ -332,7 +335,7 @@ Exercises
 * Medical records security policy
 * Role-based Access Control (RBAC)
 * Side Channels and Deducibility
-* Row hammer
+* Memopry Errors and Row hammer
 
 Exercises
 * Find example medical security policies
@@ -340,9 +343,9 @@ Exercises
 **Malware, Intrusion, Vulnerabilities**
 
 * Trojan horses, Rootkits, computer viruses
-* Ransomware
 * Computer worms, from Morris Worm to today
 * Bots and botnets
+* Ransomware
 * Phishing and spear phishing
 * Sandboxing, Java and browsers
 * Penetration testing
@@ -374,8 +377,8 @@ Exercises
 * Principle of least privilege, fail-safe defaults, separation of privilege etc.
 * Files, objects, users, groups and roles
 * Naming and Certificates
-* DNSSEC
 * Access Control Lists
+* DNSSEC
 
 Exercises
 * DNSSEC, SPF, DMARC - DNS based updates to your email domain security
