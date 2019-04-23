@@ -312,7 +312,7 @@ Exercises
 
 Exercises
 * Find your AUP for the ISPs we use, you use, your company uses
-* A look at SE Linux
+* A look at SELinux an example Mandatory Access Control system
 
 **Integrity and Availability Policies**
 
