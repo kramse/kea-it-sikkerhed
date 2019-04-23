@@ -189,9 +189,8 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Basic Cryptography</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 10,12,13</br>
-      Skim chapter 11 Key Management. Total - ca 164 pages<br>
-      Skim NIST Special Publication 800-63B<br>
+      <p>Read Bishop chapter 10, chapter 11 until and including 11.3, chapter 12 until 12.4, chapter 13 until 13.5<br>
+      Skim: NIST Special Publication 800-63B<br>
       Enterprise Survival Guide for Ransomware Attacks - 20 pages<br>
       IT Security Guidelines for Transport Layer Security</p>
       </td>
