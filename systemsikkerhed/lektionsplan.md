@@ -101,7 +101,6 @@ Policies, governance and best Practice
 
 The detailed plan is below with a table summarizing lessons
 
-UNFINISHED, papers listed above will be added soon
 <table>
 <thead>
 <tr>
