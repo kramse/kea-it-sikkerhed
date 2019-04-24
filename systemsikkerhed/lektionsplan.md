@@ -365,7 +365,7 @@ Exercises
 * Sandboxing, Java and browsers
 * Penetration testing
 * Common Vulnerabilities and Exposure CVE
-* Common Weaknesses and Exposures CWE
+* Common Weakness Enumeration CWE
 
 Exercises
 * Make a non-privileged user, make a system directory writable, create root cronjob without path
