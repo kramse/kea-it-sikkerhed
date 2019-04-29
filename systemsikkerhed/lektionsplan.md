@@ -147,6 +147,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">
       <p>Bishop chapters 4 and 5 - ca 65 pages</br>
+      Perhaps skip/skim some policy language examples<br>
       Appendix G,
       Browse: Campus Network Security: High Level Overview , Network Startup Resource Center  
 Campus Operations Best Current Practice, Network Startup Resource Center  
