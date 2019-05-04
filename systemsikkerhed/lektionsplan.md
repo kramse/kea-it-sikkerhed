@@ -34,7 +34,9 @@ Dates: tuesday 25/06 exam
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates: tuesdays and thursdays
-23/04, 25/04, 30/04, 02/05, 07/05, 09/05, 14/05, 16/05, 21/05, 23/05, 28/05, 04/06, 06/06, 11/06, 13/06
+23/04, 25/04, 30/04, 02/05, 07/05, 09/05, 14/05, 16/05, 28/05, 04/06, 06/06, 11/06, 13/06, 18/6, 20/6
+
+Dates cancelled: 21/05, 23/05, replaced
 
 ### Course reading list
 
@@ -147,7 +149,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">
       <p>Bishop chapters 4 and 5 - ca 65 pages</br>
-      Perhaps skip/skim some policy language examples<br>
+      Perhaps skip/skim some policy language examples, skip 4.7<br>
       Appendix G,
       Browse: Campus Network Security: High Level Overview , Network Startup Resource Center  
 Campus Operations Best Current Practice, Network Startup Resource Center  
@@ -197,7 +199,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">(21/5) To be moved!</td>
+      <td style="text-align:left">28/5</td>
       <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
       </td>
       <td style="text-align:left">
@@ -210,7 +212,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">(23/5) To be moved!</td>
+      <td style="text-align:left">4/6</td>
       <td style="text-align:left"><b>Information Flow</b>
       </td>
       <td style="text-align:left">
@@ -221,7 +223,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/5</td>
+      <td style="text-align:left">6/6</td>
       <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
       </td>
       <td style="text-align:left">
@@ -232,7 +234,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">4/6</td>
+      <td style="text-align:left">11/6</td>
       <td style="text-align:left"><b>Forensics 2: Incident Response</b>
       </td>
       <td style="text-align:left">
@@ -242,7 +244,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">6/6</td>
+      <td style="text-align:left">13/6</td>
       <td style="text-align:left"><b>System Security in Practice</b>
       </td>
       <td style="text-align:left">
@@ -252,7 +254,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/6</td>
+      <td style="text-align:left">18/6</td>
       <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
       </td>
       <td style="text-align:left">
@@ -261,7 +263,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
     </tr>
 
     <tr>
-      <td style="text-align:left">13/6</td>
+      <td style="text-align:left">20/6</td>
       <td style="text-align:left"><b>Summary and prepare for the exam</b></td>
       <td style="text-align:left">Summary of the course, prepare for exam</td>
     </tr>
