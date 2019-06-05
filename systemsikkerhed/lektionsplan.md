@@ -83,12 +83,15 @@ Exploiting Hardware Bugs and Crypto Related
 * [Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors](http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf) Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu, see also [Exploiting the DRAM rowhammer bug to gain kernel privileges](https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html)
 * _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 
-Computer Forensics
+Computer Forensics, Incident Response, Intrusion Detection
 * ENISA Presenting, correlating and filtering various feeds Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/presenting-correlating-and-filtering-various-feeds-handbook)
 * ENISA Forensic analysis, Network Incident Response [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2\_forensic\_analysis\_ii-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2_forensic_analysis_ii-handbook)
 * ENISA Network Forensics, Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook)
 * [Incident Handler's Handbook](https://www.sans.org/reading-room/whitepapers/incident/paper/33901)
 by Patrick Kral, SANS Information Securiy Reading Room
+* [An Intrusion-Detection Model](http://www.cs.colostate.edu/~cs656/reading/ieee-se-13-2.pdf), Dorothy E. Denning
+IEEE Transactions on Software Engineering ( Volume: SE-13 , Issue: 2 , Feb. 1987 )
+* [Forensic Discovery](http://fish2.com/security/wf-book.pdf) Dan Farmer, Wietse Venema,  Addison-Wesley Professional, 2005
 
 Policies, governance and best Practice
 * [Campus Network Security: High Level Overview](https://nsrc.org/workshops/2018/myren-nsrc-cndo/networking/cndo/en/presentations/Campus_Security_Overview.pdf) , Network Startup Resource Center  
@@ -228,7 +231,6 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
       <td style="text-align:left">
       <p>Bishop chapters 25 and 26 - ca 80 pages</br>
-      And at least 27.4 - or chapter 27 too
       Download and browse the ENISA papers listed under Computer Forensics in the reading list
       </p>
       </td>
@@ -334,13 +336,15 @@ Exercises
 **Hybrid Policies**
 
 * Chinese Wall model - Confidentiality and Integrity
-* Medical records security policy
+* Clinical Information Systems security model
+* Originator Controlled Access Control
 * Role-based Access Control (RBAC)
+* Break-the-glass Policies
 * Side Channels and Deducibility
 * Memory Errors and Row hammer
 
 Exercises
-* Find example medical security policies
+* RBAC Access permissions on GitHub
 
 **Basic Cryptography**
 
