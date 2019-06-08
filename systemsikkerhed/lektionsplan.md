@@ -18,7 +18,7 @@ The PDF export seem to have problems with the big table, please check the Gitboo
 ### Goals
 
 The module is centered around the design and implementation of secure computer systems.
- Topics include operating system (OS) security, capabilities, information flow control, and more.
+ Topics include operating system (OS) security, capabilities, and more.
 
 Teaching material will primarily be English, but the teaching will be in Danish.
 
@@ -412,6 +412,7 @@ Exercises
 
 Exercises
 * Centralized syslogging and example system
+* Create Kibana Dashboard
 * Open a file system dump
 
 **Forensics 2: Incident Response**
@@ -420,6 +421,7 @@ Exercises
 * Attack graphs
 * Attack surfaces, and reducing them
 * Intrusion Handling, phases
+* Digital forensics
 
 Exercises
 * Clean or rebuild a server, use example Debian with your cron job vuln as example
