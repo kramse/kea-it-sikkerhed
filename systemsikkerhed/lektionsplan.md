@@ -49,6 +49,8 @@ Primary literature:
 Supporting literature:
 
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
+* Forensics Discovery Dan Farmer, Wietse Venema 2004, Addison-Wesley
+
 
 It is recommended to buy these books.
 
