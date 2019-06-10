@@ -169,6 +169,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <p>Read: Bishop chapters 6 and chapter 7, skim math parts</br>
       TCP Synfloods - an old yet current problem, BSDCan slides
       </p>
+      <p>DBMS Security</p>
       </td>
     </tr>
     <tr>
@@ -253,7 +254,6 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
       <td style="text-align:left">
       <p>Bishop chapters 28,29,30 - ca 95 pages</br>
-      DBMS Security
       </p>
       </td>
     </tr>
