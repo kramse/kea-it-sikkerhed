@@ -90,7 +90,7 @@ Computer Forensics, Incident Response, Intrusion Detection
 * ENISA Forensic analysis, Network Incident Response [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2\_forensic\_analysis\_ii-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/2016-resources/exe2_forensic_analysis_ii-handbook)
 * ENISA Network Forensics, Handbook, Document for teachers [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/documents/network-forensics-handbook)
 * [Incident Handler's Handbook](https://www.sans.org/reading-room/whitepapers/incident/paper/33901)
-by Patrick Kral, SANS Information Securiy Reading Room
+by Patrick Kral, SANS Information Security Reading Room
 * [An Intrusion-Detection Model](http://www.cs.colostate.edu/~cs656/reading/ieee-se-13-2.pdf), Dorothy E. Denning
 IEEE Transactions on Software Engineering ( Volume: SE-13 , Issue: 2 , Feb. 1987 )
 * [Forensic Discovery](http://fish2.com/security/wf-book.pdf) Dan Farmer, Wietse Venema,  Addison-Wesley Professional, 2005
@@ -423,7 +423,9 @@ Exercises
 * Attack graphs
 * Attack surfaces, and reducing them
 * Intrusion Handling, phases
-* Digital forensics
+* Incident Response
+* Digital forensics / Computer Forensics
+* Honeypots
 
 Exercises
 * Clean or rebuild a server, use example Debian with your cron job vuln as example
@@ -436,14 +438,21 @@ Exercises
 * Implement a small scale enterprise network
 
 Exercises
-* Work on our model network, each team has a router and an attacker - prevent most of the attacks on the Metasploitable server by firewall configuration
-* Investigate Debian as a server - default settings for Web, we will install a system which requires database and web server configured
-* Configure SSH keys
+Work on our model network, each team has a server and an attacker - reduce attack surface on the server by configuration
+* Configure VLAN on switch for the uplink
+* Enable central logging
+* Configure SSH keys for more secure access
+* Enable firewall
+
 
 
 **Benchmarking and Auditing Recap**
 
-* Using CIS controls and Visa PCI
+* Benchmarking standards
+* CIS controls Center for Internet Security
+* PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019\\
+Payment Card Industry Data Security Standard
+
 
 Exercises
-* Evaluate our network, quick gap analysis for becoming PCI compliant
+* Evaluate our network, write a scope before doing PCI compliance
