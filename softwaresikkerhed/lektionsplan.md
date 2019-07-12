@@ -189,7 +189,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">8/10</td>
-      <td style="text-align:left"><b>Web Applications</b></td>
+      <td style="text-align:left"><b>Web application hacking</b></td>
       <td style="text-align:left">
       <p>This week AoSSA chapters 17,18 approx 120 pages.</p>
       </td>
@@ -197,7 +197,7 @@ The detailed plan is below with a table summarizing lessons.
 
     <tr>
       <td style="text-align:left">9/10</td>
-      <td style="text-align:left"><b>Web Applications</b>
+      <td style="text-align:left"><b>Web application hacking</b>
       </td>
       <td style="text-align:left">
       <p>This week AoSSA chapters 17,18 approx 120 pages.</p>
@@ -226,3 +226,109 @@ Kali Linux is a toolbox we will use and participants will use a virtual machine
 
 Exercises
 * Kali Linux installation
+
+**Lab setup and programming knowledge**
+
+*
+*
+
+Exercises
+*
+
+**Initial overview, SDLC and risk ranking**
+
+*
+*
+
+Exercises
+*
+
+
+**Software Programming**
+
+*
+*
+
+Exercises
+*
+
+
+**Building blocks**
+
+*
+*
+
+Exercises
+*
+
+
+**Strings and Metacharacters**
+
+*
+*
+
+Exercises
+*
+
+
+**Unix architecture and examples**
+
+*
+*
+
+Exercises
+*
+
+
+**Windows architecture and examples**
+
+*
+*
+
+Exercises
+*
+
+
+**Fuzzing**
+
+*
+*
+
+Exercises
+*
+
+
+**Network Attacks**
+
+*
+*
+
+Exercises
+*
+
+
+**Web application hacking**
+
+*
+*
+
+Exercises
+*
+
+
+**Web application hacking**
+
+*
+*
+
+Exercises
+*
+
+
+**Web application hacking**
+
+*
+*
+
+Exercises
+*
