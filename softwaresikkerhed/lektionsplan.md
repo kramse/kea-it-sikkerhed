@@ -35,6 +35,17 @@ Date 22/10 2019
 Teaching dates:
 27/08 2019, 29/08 2019, 03/09 2019, 10/09 2019, 11/09 2019, 12/09 2019, 17/09 2019, 19/09 2019, 24/09 2019, 01/10 2019, 03/10 2019, 08/10 2019, 09/10 2019, 10/10 2019
 
+### Hardware
+
+Since we are going to be doing exercises, each team will need two virtual machines.
+
+The following are two recommended models:
+* One based on Debian 9, running software servers and web applications
+* One based on Kali Linux, running attacks against software
+
+Read more about these at [https://github.com/kramse/kramse-labs](https://github.com/kramse/kramse-labs)
+
+
 ### Course reading list
 
 This course uses three books and a number of supporting resources.
