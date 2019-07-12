@@ -33,7 +33,7 @@ Date 22/10 2019
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates:
-27/08 2019, 29/08 2019, 03/09 2019, 10/09 2019, 11/09 2019, 12/09 2019, 17/09 2019, 19/09 2019, 24/09 2019, 01/10 2019, 03/10 2019, 08/10 2019, 09/10 2019, 10/10 2019
+27/8 2019, 29/8 2019, 03/9 2019, 10/9 2019, 11/9 2019, 12/9 2019, 17/9 2019, 19/9 2019, 24/9 2019, 01/10 2019, 03/10 2019, 08/10 2019, 09/10 2019, 10/10 2019
 
 ### Hardware
 
@@ -54,9 +54,9 @@ Primary literature:
 
 * The Art of Software Security Assessment Identifying and Preventing
 Software Vulnerabilities
-Mark Dowd, John McDonald, Justin Schuh ISBN: 9780321444424
+Mark Dowd, John McDonald, Justin Schuh ISBN: 9780321444424, AoSSA
 * The Art of Software Security Testing Identifying Software Security Flaws
-Chris Wysopal ISBN: 9780321304865
+Chris Wysopal ISBN: 9780321304865, AoST
 
 It is recommended to buy these books.
 
@@ -79,18 +79,18 @@ UNFINISHED, currently a copy from another course
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Dato</th>
-      <th style="text-align:left">Tema</th>
-      <th style="text-align:left">Mål</th>
-      <th style="text-align:left">Litteratur / Forberedelse</th>
+      <th style="text-align:left">Week</th>
+      <th style="text-align:left">Theme</th>
+      <th style="text-align:left">Goals</th>
+      <th style="text-align:left">Litterature / Preparation</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">27/8</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
-        Prepare Kali Linux VM - bring laptop</p>
+        Prepare Virtual Machines - bring laptop</p>
       </td>
       <td style="text-align:left">
         <p>Create a good starting point for learning </br>
@@ -103,6 +103,55 @@ UNFINISHED, currently a copy from another course
          <p> Download Kali Linux Revealed </p>
          <p> Identification of chapters and sections from KLR and LBfH<br>
         for reading as home assignment </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">29/8</td>
+      <td style="text-align:left"><b>...</b>
+      </td>
+      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left">
+      <p>Bishop until and including chapter X - ca XX pages</br>
+      Paper <em>Security problems in </em>
+      and </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3/9</td>
+      <td style="text-align:left"><b>...</b>
+      </td>
+      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left">
+      <p>AoST chapters 1,2,3,4,5 - ca 100 pages - start reading the book. Dont need to read all before the day. Also start reading first chapters of the AoSSA</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10/9</td>
+      <td style="text-align:left"><b>...</b>
+      </td>
+      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left">
+      <p>This week AoSSA chapters 1,2,3,4</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">12/9</td>
+      <td style="text-align:left"><b>...</b>
+      </td>
+      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left">
+      <p>This week AoSSA chapters 1,2,3,4</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>...</b>
+      </td>
+      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left">
+      <p>Bishop until and including chapter X - ca XX pages</br>
+      Paper <em>Security problems in </em>
+      and </p>
       </td>
     </tr>
     <tr>
