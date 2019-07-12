@@ -189,7 +189,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">8/10</td>
-      <td style="text-align:left"><b>Network attacks</b></td>
+      <td style="text-align:left"><b>Web Applications</b></td>
       <td style="text-align:left">
       <p>This week AoSSA chapters 17,18 approx 120 pages.</p>
       </td>
