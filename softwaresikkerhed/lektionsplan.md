@@ -143,17 +143,17 @@ The detailed plan is below with a table summarizing lessons
 
     <tr>
       <td style="text-align:left">17/9</td>
-      <td style="text-align:left"><b>Software audit and review</b>
+      <td style="text-align:left"><b>Unix architecture and examples</b>
       </td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>AoSSA chapters 9,10 approx 166 pages. Skim reading!</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">19/9</td>
-      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left"><b>Windows architecture and examples</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>AoSSA chapters 11,12 approx 129 pages. Skim reading!</p>
       </td>
     </tr>
 
