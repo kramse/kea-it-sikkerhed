@@ -105,17 +105,19 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">29/8</td>
       <td style="text-align:left"><b>Lab setup and programming knowledge</b><p>Do some initial programming</p></td>
       <td style="text-align:left">
-      <p>Linux introduction and familiarisation </p>
+      <p>Linux introduction and familiarisation </p><p>AoST chapters 1,2,3,4,5 - ca 100 pages - start reading the book. Dont need to read all before the day.</p><p> Also start reading first chapters of the AoSSA</p>
       </td>
     </tr>
+
     <tr>
       <td style="text-align:left">3/9</td>
       <td style="text-align:left"><b>Initial overview, SDLC and risk ranking</b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>AoST chapters 1,2,3,4,5 - ca 100 pages - start reading the book. Dont need to read all before the day.</p><p> Also start reading first chapters of the AoSSA</p>
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
       </td>
     </tr>
+
     <tr>
       <td style="text-align:left">10/9</td>
       <td style="text-align:left"><b>Software audit and review</b>
@@ -125,38 +127,80 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">12/9</td>
+      <td style="text-align:left">11/9</td>
       <td style="text-align:left"><b>Software audit and review</b></td>
       <td style="text-align:left">
       <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
       </td>
     </tr>
+
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"><b>...</b>
+      <td style="text-align:left">17/9</td>
+      <td style="text-align:left"><b>Software audit and review</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop until and including chapter X - ca XX pages</br>
-      Paper <em>Security problems in </em>
-      and </p>
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"><b>...</b>
+      <td style="text-align:left">19/9</td>
+      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left">
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="text-align:left">24/9</td>
+      <td style="text-align:left"><b>Software audit and review</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop until and including chapter X - ca XX pages</br>
-      Paper <em>Security problems in </em>
-      and </p>
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="text-align:left">1/10</td>
+      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left">
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="text-align:left">3/10</td>
+      <td style="text-align:left"><b>Software audit and review</b>
+      </td>
+      <td style="text-align:left">
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"><b>Summary and prepare for the exam</b></td>
-      <td style="text-align:left">Summary of the course</td>
-      <td style="text-align:left">Everything read in the primary books</td>
+      <td style="text-align:left">8/10</td>
+      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left">
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      </td>
     </tr>
+
+    <tr>
+      <td style="text-align:left">9/10</td>
+      <td style="text-align:left"><b>Software audit and review</b>
+      </td>
+      <td style="text-align:left">
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10/10</td>
+      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left">
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      </td>
+    </tr>
+
+
   </tbody>
 </table>
 
