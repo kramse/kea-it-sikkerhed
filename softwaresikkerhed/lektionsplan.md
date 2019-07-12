@@ -17,14 +17,15 @@ The PDF export seem to have problems with the big table, please check the Gitboo
 
 ### Goals
 
-The module is centered around ...
+The module is centered around software security including software quality, software flaws, vulnerabilities, software APIs, error handling and software architecture.
+
 Teaching material will primarily be English, but the teaching will be in Danish.
 
 See more about the course in the official curriculum.
 
 ### Exam:
 
-Date XXXX. 2019
+Date 22/10 2019
 
 ### Teaching Methods:
 
@@ -32,6 +33,7 @@ Date XXXX. 2019
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates:
+27/08 2019, 29/08 2019, 03/09 2019, 10/09 2019, 11/09 2019, 12/09 2019, 17/09 2019, 19/09 2019, 24/09 2019, 01/10 2019, 03/10 2019, 08/10 2019, 09/10 2019, 10/10 2019
 
 ### Course reading list
 
@@ -44,12 +46,12 @@ Software Vulnerabilities
 Mark Dowd, John McDonald, Justin Schuh ISBN: 9780321444424
 * The Art of Software Security Testing Identifying Software Security Flaws
 Chris Wysopal ISBN: 9780321304865
-* Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
 It is recommended to buy these books.
 
 Supporting literature:
 
+* Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 * More to come
 
