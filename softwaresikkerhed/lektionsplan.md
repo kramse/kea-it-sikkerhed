@@ -35,6 +35,8 @@ Date 22/10 2019
 Teaching dates:
 27/8 2019, 29/8 2019, 3/9 2019, 10/9 2019, 11/9 2019, 12/9 2019, 17/9 2019, 19/9 2019, 24/9 2019, 1/10 2019, 3/10 2019, 8/10 2019, 9/10 2019, 10/10 2019
 
+Make sure to mark dates in your calendar - some weeks will have lessons tuesday/thursdays, some weeks will have three days in a row - tuesday, wednesday, thursday.
+
 ### Hardware
 
 Since we are going to be doing exercises, each team will need two virtual machines.
@@ -161,35 +163,35 @@ The detailed plan is below with a table summarizing lessons.
 
     <tr>
       <td style="text-align:left">24/9</td>
-      <td style="text-align:left"><b>Software audit and review</b>
+      <td style="text-align:left"><b>Fuzzing</b>
       </td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>AoST chapters 10,11,12 approx 65 pages.</p><p>Start reading AoSSA chapters 14,15,16 after tuesday.</p>
       </td>
     </tr>
 
 
     <tr>
       <td style="text-align:left">1/10</td>
-      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left"><b>Network Attacks</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>AoSSA chapters 14,15,16 <b>approx 170 pages!</b></p>
       </td>
     </tr>
 
     <tr>
       <td style="text-align:left">3/10</td>
-      <td style="text-align:left"><b>Software audit and review</b>
+      <td style="text-align:left"><b>Web application hacking</b>
       </td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>AoST chapters 6,7,8,9 approx 72 pages.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">8/10</td>
       <td style="text-align:left"><b>Network attacks</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>This week AoSSA chapters 17,18 approx 120 pages.</p>
       </td>
     </tr>
 
@@ -198,14 +200,14 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Web Applications</b>
       </td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>This week AoSSA chapters 17,18 approx 120 pages.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">10/10</td>
-      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left"><b>Web applications and summary</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>We will do a practice exam and talk about exam subjects.</p>
       </td>
     </tr>
 
