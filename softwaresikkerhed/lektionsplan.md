@@ -205,7 +205,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">10/10</td>
-      <td style="text-align:left"><b>Web applications and summary</b></td>
+      <td style="text-align:left"><b>General questions and summary</b></td>
       <td style="text-align:left">
       <p>We will do a practice exam and talk about exam subjects.</p>
       </td>
