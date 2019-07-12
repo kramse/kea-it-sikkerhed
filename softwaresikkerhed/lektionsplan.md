@@ -118,7 +118,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Initial overview, SDLC and risk ranking</b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p><p>Also begin reading 6,5</p>
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p><p>Also begin reading 6,5,7,8</p>
       </td>
     </tr>
 
