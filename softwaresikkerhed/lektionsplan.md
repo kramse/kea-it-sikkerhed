@@ -75,13 +75,12 @@ Also the course will use internet links and pages.
 
 The detailed plan is below with a table summarizing lessons
 
-UNFINISHED, currently a copy from another course
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Week</th>
-      <th style="text-align:left">Theme / Goals</th>
-      <th style="text-align:left">Litterature / Preparation</th>
+      <th style="text-align:left;width:10%">Week</th>
+      <th style="text-align:left;width:45%">Theme / Goals</th>
+      <th style="text-align:left;width:45%">Litterature / Preparation</th>
     </tr>
   </thead>
   <tbody>
