@@ -107,20 +107,19 @@ UNFINISHED, currently a copy from another course
     </tr>
     <tr>
       <td style="text-align:left">29/8</td>
-      <td style="text-align:left"><b>...</b>
+      <td style="text-align:left"><b>Lab setup and programming knowledge</b>
       </td>
-      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left">Do some initial programming</td>
       <td style="text-align:left">
-      <p>Bishop until and including chapter X - ca XX pages</br>
-      Paper <em>Security problems in </em>
+      <p>Linux introduction and familiarisation</em>
       and </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">3/9</td>
-      <td style="text-align:left"><b>...</b>
+      <td style="text-align:left"><b>Initial overview and SDLC</b>
       </td>
-      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left">Get an overview of the subject</td>
       <td style="text-align:left">
       <p>AoST chapters 1,2,3,4,5 - ca 100 pages - start reading the book. Dont need to read all before the day. Also start reading first chapters of the AoSSA</p>
       </td>
@@ -129,9 +128,9 @@ UNFINISHED, currently a copy from another course
       <td style="text-align:left">10/9</td>
       <td style="text-align:left"><b>...</b>
       </td>
-      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left">Get an overview of the subject</td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4</p>
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
       </td>
     </tr>
     <tr>
