@@ -79,8 +79,8 @@ The detailed plan is below with a table summarizing lessons
   <thead>
     <tr>
       <th style="text-align:left;width:10%">Week</th>
-      <th style="text-align:left;width:45%">Theme / Goals</th>
-      <th style="text-align:left;width:45%">Litterature / Preparation</th>
+      <th style="width:45%">Theme / Goals</th>
+      <th style="width:45%">Litterature / Preparation</th>
     </tr>
   </thead>
   <tbody>
@@ -135,7 +135,6 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"></td>
       <td style="text-align:left"><b>...</b>
       </td>
-      <td style="text-align:left">Understand ...  and inherent security problems</td>
       <td style="text-align:left">
       <p>Bishop until and including chapter X - ca XX pages</br>
       Paper <em>Security problems in </em>
@@ -146,7 +145,6 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"></td>
       <td style="text-align:left"><b>...</b>
       </td>
-      <td style="text-align:left">Understand ...  and inherent security problems</td>
       <td style="text-align:left">
       <p>Bishop until and including chapter X - ca XX pages</br>
       Paper <em>Security problems in </em>
