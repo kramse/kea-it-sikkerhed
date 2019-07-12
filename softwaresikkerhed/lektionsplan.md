@@ -114,30 +114,30 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><b>Initial overview, SDLC and risk ranking</b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p><p>Also begin reading 6,5</p>
       </td>
     </tr>
 
     <tr>
       <td style="text-align:left">10/9</td>
-      <td style="text-align:left"><b>Software audit and review</b>
+      <td style="text-align:left"><b>Software Programming</b>
       </td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>This week AoSSA chapters 6,5 approx 129 pages.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">11/9</td>
-      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left"><b>Building blocks</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>This week AoSSA chapter 7 approx 90 pages.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">12/9</td>
-      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left"><b>Strings and Metacharacters</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      <p>This week AoSSA chapter 8 approx 70 pages.</p>
       </td>
     </tr>
 
@@ -185,7 +185,7 @@ The detailed plan is below with a table summarizing lessons
     </tr>
     <tr>
       <td style="text-align:left">8/10</td>
-      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left"><b>Network attacks</b></td>
       <td style="text-align:left">
       <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
       </td>
@@ -193,7 +193,7 @@ The detailed plan is below with a table summarizing lessons
 
     <tr>
       <td style="text-align:left">9/10</td>
-      <td style="text-align:left"><b>Software audit and review</b>
+      <td style="text-align:left"><b>Web Applications</b>
       </td>
       <td style="text-align:left">
       <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
