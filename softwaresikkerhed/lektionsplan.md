@@ -73,7 +73,9 @@ Also the course will use internet links and pages.
 
 ## Planning
 
-The detailed plan is below with a table summarizing lessons
+The detailed plan is below with a table summarizing lessons.
+
+**Note: contains lot of pages, learn to skim and skip chapters and parts that don't interest you. In real life we don't have time to read every word!**
 
 <table>
   <thead>
