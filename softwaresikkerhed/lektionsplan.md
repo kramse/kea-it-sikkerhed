@@ -33,7 +33,7 @@ Date 22/10 2019
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates:
-27/8 2019, 29/8 2019, 03/9 2019, 10/9 2019, 11/9 2019, 12/9 2019, 17/9 2019, 19/9 2019, 24/9 2019, 01/10 2019, 03/10 2019, 08/10 2019, 09/10 2019, 10/10 2019
+27/8 2019, 29/8 2019, 3/9 2019, 10/9 2019, 11/9 2019, 12/9 2019, 17/9 2019, 19/9 2019, 24/9 2019, 1/10 2019, 3/10 2019, 8/10 2019, 9/10 2019, 10/10 2019
 
 ### Hardware
 
@@ -133,6 +133,13 @@ The detailed plan is below with a table summarizing lessons
       <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">12/9</td>
+      <td style="text-align:left"><b>Software audit and review</b></td>
+      <td style="text-align:left">
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
+      </td>
+    </tr>
 
     <tr>
       <td style="text-align:left">17/9</td>
@@ -199,7 +206,6 @@ The detailed plan is below with a table summarizing lessons
       <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
       </td>
     </tr>
-
 
   </tbody>
 </table>
