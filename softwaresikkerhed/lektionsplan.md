@@ -80,8 +80,7 @@ UNFINISHED, currently a copy from another course
   <thead>
     <tr>
       <th style="text-align:left">Week</th>
-      <th style="text-align:left">Theme</th>
-      <th style="text-align:left">Goals</th>
+      <th style="text-align:left">Theme / Goals</th>
       <th style="text-align:left">Litterature / Preparation</th>
     </tr>
   </thead>
@@ -91,8 +90,6 @@ UNFINISHED, currently a copy from another course
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Virtual Machines - bring laptop</p>
-      </td>
-      <td style="text-align:left">
         <p>Create a good starting point for learning </br>
          Introduce lecturer and students </br>
          Concrete Expectations </br>
@@ -107,39 +104,32 @@ UNFINISHED, currently a copy from another course
     </tr>
     <tr>
       <td style="text-align:left">29/8</td>
-      <td style="text-align:left"><b>Lab setup and programming knowledge</b>
-      </td>
-      <td style="text-align:left">Do some initial programming</td>
+      <td style="text-align:left"><b>Lab setup and programming knowledge</b><p>Do some initial programming</p></td>
       <td style="text-align:left">
-      <p>Linux introduction and familiarisation</em>
-      and </p>
+      <p>Linux introduction and familiarisation </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">3/9</td>
-      <td style="text-align:left"><b>Initial overview and SDLC</b>
-      </td>
-      <td style="text-align:left">Get an overview of the subject</td>
+      <td style="text-align:left"><b>Initial overview, SDLC and risk ranking</b>
+<p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>AoST chapters 1,2,3,4,5 - ca 100 pages - start reading the book. Dont need to read all before the day. Also start reading first chapters of the AoSSA</p>
+      <p>AoST chapters 1,2,3,4,5 - ca 100 pages - start reading the book. Dont need to read all before the day.</p><p> Also start reading first chapters of the AoSSA</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">10/9</td>
-      <td style="text-align:left"><b>...</b>
+      <td style="text-align:left"><b>Software audit and review</b>
       </td>
-      <td style="text-align:left">Get an overview of the subject</td>
       <td style="text-align:left">
       <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">12/9</td>
-      <td style="text-align:left"><b>...</b>
-      </td>
-      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left"><b>Software audit and review</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4</p>
+      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p>
       </td>
     </tr>
     <tr>
