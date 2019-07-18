@@ -54,11 +54,11 @@ This course uses three books and a number of supporting resources.
 
 Primary literature:
 
+* The Art of Software Security Testing Identifying Software Security Flaws
+Chris Wysopal ISBN: 9780321304865, AoST or the Green Book
 * The Art of Software Security Assessment Identifying and Preventing
 Software Vulnerabilities
-Mark Dowd, John McDonald, Justin Schuh ISBN: 9780321444424, AoSSA
-* The Art of Software Security Testing Identifying Software Security Flaws
-Chris Wysopal ISBN: 9780321304865, AoST
+Mark Dowd, John McDonald, Justin Schuh ISBN: 9780321444424, AoSSA or the Red Book
 
 It is recommended to buy these books.
 
@@ -72,10 +72,6 @@ This book introduces the Linux operating system commands, using Kali Linux as ex
 Also the course will use internet links and pages. These can be downloaded from the internet often for free and may be gathered by the instructor for easy download.
 
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
-
-
-
-
 
 
 
