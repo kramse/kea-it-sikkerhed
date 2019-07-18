@@ -262,6 +262,11 @@ Exercises
 * Common  Secure Design Issues
 * Poor Use of Cryptography
 * Input Validation
+* Basic Cryptography introduction
+* Symmetric Cryptosystems
+* Data Encryption Standard (DES) / Advanced Encryption Standard (AES)
+* Public Key Cryptography
+* Stream and Block Ciphers
 
 Exercises
 
