@@ -73,6 +73,15 @@ Also the course will use internet links and pages. These can be downloaded from 
 
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 
+We will also use the OWASP Juice Shop Tool Project as a running example. This is an application which is modern AND designed to have security flaws.
+
+Read more about this project at [https://www.owasp.org/index.php/OWASP_Juice_Shop_Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) and
+[https://github.com/bkimminich/juice-shop](https://github.com/bkimminich/juice-shop)
+
+It is recommended to buy the _Pwning OWASP Juice Shop_
+Official companion guide to the OWASP Juice Shop.
+
+From [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99
 
 
 ## Planning
@@ -120,7 +129,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Initial overview, </b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>AoST chapters 1,2 - ca  pages - start reading the green book.</p>
+      <p>AoST chapters 1,2 - ca 50 pages</p>
       </td>
     </tr>
 
@@ -129,21 +138,21 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>SDLC and risk ranking</b>
       </td>
       <td style="text-align:left">
-      <p>AoST chapters 3,4,5 - ca  pages</p>
+      <p>AoST chapters 3,4,5 - ca 50 pages</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">11/9</td>
       <td style="text-align:left"><b>Web application hacking intro</b></td>
       <td style="text-align:left">
-      <p>AoST chapters 6,7,8,9 approx 72 pages.</p>
+      <p>AoST chapters 6,7,8,9 - ca 72 pages.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">12/9</td>
       <td style="text-align:left"><b>Fuzzing intro</b></td>
       <td style="text-align:left">
-      <p>AoST chapters 10,11,12 approx 65 pages.</p>
+      <p>AoST chapters 10,11,12 - ca 65 pages.</p>
       </td>
     </tr>
 
@@ -151,7 +160,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">17/9</td>
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 6,5 approx 129 pages.</p>
+      <p>This week AoSSA chapters 6,5 - ca 129 pages.</p>
 
       </td>
     </tr>
@@ -159,7 +168,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">19/9</td>
       <td style="text-align:left"><b>Building blocks</b></td>
      <td style="text-align:left">
-     <p>AoSSA chapter 7 approx 90 pages.</p>
+     <p>AoSSA chapter 7 - ca 90 pages.</p>
       </td>
     </tr>
 
@@ -167,7 +176,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">24/9</td>
       <td style="text-align:left"><b>Strings and Metacharacters</b></td>
       <td style="text-align:left">
-      <p>AoSSA chapter 8 approx 70 pages.</p>
+      <p>AoSSA chapter 8 - ca 70 pages.</p>
       </td>
     </tr>
 
@@ -176,7 +185,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">1/10</td>
       <td style="text-align:left"><b>Network Attacks intro</b></td>
       <td style="text-align:left">
-      <p>AoSSA chapters 14,15<b>approx 90 pages!</b></p>
+      <p>AoSSA chapters 14,15 - ca 90 pages!</p>
       </td>
     </tr>
 
@@ -184,7 +193,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">3/10</td>
       <td style="text-align:left"><b>Network Attacks</b></td>
       <td style="text-align:left">
-      <p>AoSSA chapter 16<b>approx 80 pages!</b></p>
+      <p>AoSSA chapter 16 - ca 80 pages!</p>
       </td>
     </tr>
     <tr>
@@ -221,22 +230,36 @@ This plan will make us read all of the green book AoST and parts of the red one 
 
 * Expectations for this course
 * Literature list walkthrough
-* Kali Linux introduction
+* Linux introduction
 
-Kali Linux is a toolbox we will use and participants will use a virtual machine
+Debian and Kali Linux are toolboxes we will use and participants will use virtual machines
 
 Exercises
+* Debian Linux installation
 * Kali Linux installation
 
 **Lab setup and programming knowledge**
 
 *
-*
+* Find the level of programming in the group
 
 Exercises
-*
+* Run small programs: Python, Shell script
+* Setup JuiceShop
 
-**Initial overview, SDLC and risk ranking**
+**Initial Overview**
+
+* Introduction to Methods
+* Strategies for Security Testing
+* Design vs Implementation
+* Common  Secure Design Issues
+* Poor Use of Cryptography
+* Input Validation
+
+Exercises
+* Try a few attacks in the JuiceShop
+
+** SDLC and Risk Ranking**
 
 *
 *
