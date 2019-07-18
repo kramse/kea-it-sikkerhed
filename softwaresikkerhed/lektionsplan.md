@@ -219,7 +219,7 @@ The detailed plan is below with a table summarizing lessons.
   </tbody>
 </table>
 
-This plan will make us read almost all of the primary books, except AoSSA chapter 13 which is left as an optional reading.
+This plan will make us read all of the green book AoST and parts of the red one AoSSA - the rest is left as an optional reading.
 
 **Introduction and welcome**
 
