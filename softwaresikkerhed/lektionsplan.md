@@ -127,7 +127,7 @@ The detailed plan is below with a table summarizing lessons.
 
     <tr>
       <td style="text-align:left">3/9</td>
-      <td style="text-align:left"><b>Initial overview, </b>
+      <td style="text-align:left"><b>Initial Overview of Software Security</b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
       <p>AoST chapters 1,2 - ca 50 pages</p>
@@ -228,9 +228,12 @@ This plan will make us read all of the green book AoST and parts of the red one 
 
 **Introduction and welcome**
 
+* Create a good starting point for learning
+* Introduce lecturer and students
 * Expectations for this course
 * Literature list walkthrough
-* Linux introduction
+* Prepare tools for the exercises
+* Kali and Debian Linux introduction
 
 Debian and Kali Linux are toolboxes we will use and participants will use virtual machines
 
@@ -251,7 +254,7 @@ Exercises
 * Run parts of a Django tutorial
 * Setup JuiceShop environment, app and proxy
 
-**Initial Overview**
+**Initial Overview of Software Security**
 
 * Introduction to Methods
 * Strategies for Security Testing
@@ -335,7 +338,9 @@ Exercises
 * Internet Protocol
 * TCP and UDP
 * Firewalls and related issues
-
+* Intrusion Detection
+* Host and Networks Based Intrusion Detection (HIDS/NIDS)
+* Network Security Monitoring
 
 Exercises
 *
@@ -357,24 +362,35 @@ Exercises
 * Review using the red book, similarities to green book
 * Repetition, common problems, how to improve software security
 * How to do Review and audit of software
+* Attack and Response
+* Attack graphs
+* Attack surfaces, and reducing them
+* Common Vulnerabilities and Exposure CVE
+* Common Weakness Enumeration CWE
+* MITRE ATT&CK framework
+
 
 Exercises
 *
 
 **Security Design**
 
-*
-*
+* How to reach the goal of secure design
+* Security Principles for software
+* Principle of least privilege, fail-safe defaults, separation of privilege etc.
+* Files, objects, users, groups and roles
+* Security by Design
+* Privacy by Design
+* Benchmarking standards
+* CIS controls Center for Internet Security
 
 Exercises
-*
+* How should software be designed today
 
 
 **General questions and summary**
 
-*
-* Security by Design
-* Privacy by Design
+* Summary of the course
 
 Exercises
 
