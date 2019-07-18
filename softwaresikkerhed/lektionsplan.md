@@ -21,7 +21,8 @@ The module is centered around software security including software quality, soft
 
 Teaching material will primarily be English, but the teaching will be in Danish.
 
-See more about the course in the official curriculum.
+See more about the course in the official curriculum which can be downloaded from the main page [https://kompetence.kea.dk/uddannelser/it-digitalt/diplom-i-it-sikkerhed](https://kompetence.kea.dk/uddannelser/it-digitalt/diplom-i-it-sikkerhed)
+- near the top "Download studieordningen".
 
 ### Exam:
 
@@ -143,7 +144,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">11/9</td>
-      <td style="text-align:left"><b>Web application hacking intro</b></td>
+      <td style="text-align:left"><b>Web Application Hacking Intro</b></td>
       <td style="text-align:left">
       <p>AoST chapters 6,7,8,9 - ca 72 pages.</p>
       </td>
@@ -166,7 +167,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">19/9</td>
-      <td style="text-align:left"><b>Building blocks</b></td>
+      <td style="text-align:left"><b>Program Building blocks</b></td>
      <td style="text-align:left">
      <p>AoSSA chapter 7 - ca 90 pages.</p>
       </td>
@@ -183,7 +184,7 @@ The detailed plan is below with a table summarizing lessons.
 
     <tr>
       <td style="text-align:left">1/10</td>
-      <td style="text-align:left"><b>Network Attacks intro</b></td>
+      <td style="text-align:left"><b>Network Attacks Intro</b></td>
       <td style="text-align:left">
       <p>AoSSA chapters 14,15 - ca 90 pages!</p>
       </td>
@@ -193,15 +194,14 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">3/10</td>
       <td style="text-align:left"><b>Network Attacks</b></td>
       <td style="text-align:left">
-      <p>AoSSA chapter 16 - ca 80 pages!</p>
+      <p>AoSSA chapter 16 - ca 80 pages!</p><p>Will also use examples from chapters 17,18 so browse Table of Contents for those.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">8/10</td>
       <td style="text-align:left"><b>Software Assessment</b></td>
       <td style="text-align:left">
-      <p>Skim AoSSA chapters 1,2,3 this week</b></p>
-      <p>Read AoSSA chapter 4 this week</b></p>
+      <p>AoSSA chapters 1,2,3,4 - many pages, skim if you need to.</b></p>
       </td>
     </tr>
 
@@ -240,12 +240,16 @@ Exercises
 
 **Lab setup and programming knowledge**
 
-*
+* Linux introduction and familiarisation
+* Learn difference between compiled program C, and scripted Python
+* Introduce Python programming
+* Run programs, servers and applications, how to
 * Find the level of programming in the group
 
 Exercises
 * Run small programs: Python, Shell script
-* Setup JuiceShop
+* Run parts of a Django tutorial
+* Setup JuiceShop environment, app and proxy
 
 **Initial Overview**
 
@@ -257,18 +261,43 @@ Exercises
 * Input Validation
 
 Exercises
-* Try a few attacks in the JuiceShop
 
-** SDLC and Risk Ranking**
 
-*
-*
+**SDLC and Risk Ranking**
+
+* Software Development Lifecycle
+* Secure Software Development Lifecycle
+* Phases of SSDL
+* Roles and Responsibilities
 
 Exercises
-*
+* Choose a few real vulnerabilities, prioritize them
 
 
-**Software Programming**
+**Web Application Hacking Intro**
+
+* Generic Fault Injection
+* Attacking Authentication
+* Session IDs
+* Common web application issues
+
+Exercises
+* Try a few attacks in the JuiceShop with web proxy
+
+
+**Fuzzing Intro**
+
+* What is Fuzzing
+* Example fuzzers
+* Web fuzzing
+* Exploitability
+
+Exercises
+* Try running brute force and fuzzing
+* Try American fuzzy lop [http://lcamtuf.coredump.cx/afl/](http://lcamtuf.coredump.cx/afl/)
+
+
+**Software Programming & Memory Corruption**
 
 * Memory Corruption Errors
 * Buffer overflows, stack errors
@@ -276,49 +305,37 @@ Exercises
 * Shell code
 
 Exercises
-* Writing a small buffer overflow
+* Writing and expoloiting a small buffer overflow
+* Run debugger
 
 
-**Building blocks**
+**Program Building blocks**
 
-*
-*
+* Common constructs
+* Recurring code patterns
+* Example programs with flaws: OpenSSH, OpenSSL, Windows MS-RPC DCOM, Linux teardrop
 
 Exercises
-*
+* Work through some of the examples from the book on the white board, what really happened
 
 
 **Strings and Metacharacters**
 
-*
-*
+* Processing strings
+* C String handling
+* Metacharacters
+* Character sets and unicode
 
 Exercises
-*
+* Recommendations for handling strings, how does Python help, how does Django handle strings, and input validation
 
 
-**Unix architecture and examples**
+**Network Attacks Intro**
 
-*
-*
+* Internet Protocol
+* TCP and UDP
+* Firewalls and related issues
 
-Exercises
-*
-
-
-**Windows architecture and examples**
-
-*
-*
-
-Exercises
-*
-
-
-**Fuzzing**
-
-*
-*
 
 Exercises
 *
@@ -326,6 +343,26 @@ Exercises
 
 **Network Attacks**
 
+* Auditing Application Protocols
+* Example protocols and vulnerabilities
+* ASN.1 problems
+* Examples from AoSSA chapters 17 and 18
+
+Exercises
+* Examples from AoSSA chapters 17 and 18
+
+
+**Software Assessment**
+
+* Review using the red book, similarities to green book
+* Repetition, common problems, how to improve software security
+* How to do Review and audit of software
+
+Exercises
+*
+
+**Security Design**
+
 *
 *
 
@@ -333,28 +370,12 @@ Exercises
 *
 
 
-**Web application hacking**
+**General questions and summary**
 
 *
-*
+* Security by Design
+* Privacy by Design
 
 Exercises
-*
 
-
-**Web application hacking**
-
-*
-*
-
-Exercises
-*
-
-
-**Web application hacking**
-
-*
-*
-
-Exercises
-*
+* Practice Exam
