@@ -270,6 +270,7 @@ Exercises
 
 Exercises
 
+* sslscan scan various sites for TLS settings, Qualys SSLLabs
 
 **SDLC and Risk Ranking**
 
@@ -348,7 +349,7 @@ Exercises
 * Network Security Monitoring
 
 Exercises
-*
+* SYN flooding exercise
 
 
 **Network Attacks**
@@ -376,7 +377,7 @@ Exercises
 
 
 Exercises
-*
+* Layout a plan for securing the Juice Shop
 
 **Security Design**
 
