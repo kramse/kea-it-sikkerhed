@@ -138,14 +138,14 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">11/9</td>
-      <td style="text-align:left"><b>Web application hacking</b></td>
+      <td style="text-align:left"><b>Web application hacking intro</b></td>
       <td style="text-align:left">
       <p>AoST chapters 6,7,8,9 approx 72 pages.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">12/9</td>
-      <td style="text-align:left"><b>Fuzzing</b></td>
+      <td style="text-align:left"><b>Fuzzing intro</b></td>
       <td style="text-align:left">
       <p>AoST chapters 10,11,12 approx 65 pages.</p>
       </td>
@@ -153,26 +153,25 @@ The detailed plan is below with a table summarizing lessons.
 
     <tr>
       <td style="text-align:left">17/9</td>
-      <td style="text-align:left"><b>Unix architecture and examples</b>
-      </td>
+      <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
-      <p>AoSSA chapters 9,10 approx 166 pages. Skim reading!</p>
+      <p>This week AoSSA chapters 6,5 approx 129 pages.</p>
+
       </td>
     </tr>
     <tr>
       <td style="text-align:left">19/9</td>
-      <td style="text-align:left"><b>Windows architecture and examples</b></td>
-      <td style="text-align:left">
-      <p>AoSSA chapters 11,12 approx 129 pages. Skim reading!</p>
+      <td style="text-align:left"><b>Building blocks</b></td>
+     <td style="text-align:left">
+     <p>This week AoSSA chapter 7 approx 90 pages.</p>
       </td>
     </tr>
 
     <tr>
       <td style="text-align:left">24/9</td>
-      <td style="text-align:left"><b>Fuzzing</b>
-      </td>
+      <td style="text-align:left"><b>Strings and Metacharacters</b></td>
       <td style="text-align:left">
-      <p>AoST chapters 10,11,12 approx 65 pages.</p><p>Start reading AoSSA chapters 14,15,16 after tuesday.</p>
+      <p>This week AoSSA chapter 8 approx 70 pages.</p>
       </td>
     </tr>
 
