@@ -138,16 +138,16 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">11/9</td>
-      <td style="text-align:left"><b>Building blocks</b></td>
+      <td style="text-align:left"><b>Web application hacking</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapter 7 approx 90 pages.</p>
+      <p>AoST chapters 6,7,8,9 approx 72 pages.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">12/9</td>
-      <td style="text-align:left"><b>Strings and Metacharacters</b></td>
+      <td style="text-align:left"><b>Fuzzing</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapter 8 approx 70 pages.</p>
+      <p>AoST chapters 10,11,12 approx 65 pages.</p>
       </td>
     </tr>
 
