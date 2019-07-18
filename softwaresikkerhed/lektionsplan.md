@@ -62,15 +62,21 @@ Chris Wysopal ISBN: 9780321304865, AoST
 
 It is recommended to buy these books.
 
+
 Supporting literature:
 
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
+
+This book introduces the Linux operating system commands, using Kali Linux as example. The tools presented include a lot of generic Unix tools. If you have no experience with Linux or Unix it is recommended to buy this book.
+
+Also the course will use internet links and pages. These can be downloaded from the internet often for free and may be gathered by the instructor for easy download.
+
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
-* More to come
 
-These can be downloaded from the internet for free and may be gathered by the instructor for easy download.
 
-Also the course will use internet links and pages.
+
+
+
 
 
 ## Planning
@@ -109,25 +115,25 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">29/8</td>
       <td style="text-align:left"><b>Lab setup and programming knowledge</b><p>Do some initial programming</p></td>
       <td style="text-align:left">
-      <p>Linux introduction and familiarisation </p><p>AoST chapters 1,2,3,4,5 - ca 100 pages - start reading the book. Dont need to read all before the day.</p><p> Also start reading first chapters of the AoSSA</p>
+      <p>Linux introduction and familiarisation </p>
       </td>
     </tr>
 
     <tr>
       <td style="text-align:left">3/9</td>
-      <td style="text-align:left"><b>Initial overview, SDLC and risk ranking</b>
+      <td style="text-align:left"><b>Initial overview, </b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 1,2,3,4 approx 150 pages.</p><p>Also begin reading 6,5,7,8</p>
+      <p>AoST chapters 1,2 - ca  pages - start reading the green book.</p>
       </td>
     </tr>
 
     <tr>
       <td style="text-align:left">10/9</td>
-      <td style="text-align:left"><b>Software Programming</b>
+      <td style="text-align:left"><b>SDLC and risk ranking</b>
       </td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 6,5 approx 129 pages.</p>
+      <p>AoST chapters 3,4,5 - ca  pages</p>
       </td>
     </tr>
     <tr>
@@ -246,11 +252,13 @@ Exercises
 
 **Software Programming**
 
-*
-*
+* Memory Corruption Errors
+* Buffer overflows, stack errors
+* C language issues
+* Shell code
 
 Exercises
-*
+* Writing a small buffer overflow
 
 
 **Building blocks**
