@@ -163,7 +163,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">19/9</td>
       <td style="text-align:left"><b>Building blocks</b></td>
      <td style="text-align:left">
-     <p>This week AoSSA chapter 7 approx 90 pages.</p>
+     <p>AoSSA chapter 7 approx 90 pages.</p>
       </td>
     </tr>
 
@@ -171,41 +171,41 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">24/9</td>
       <td style="text-align:left"><b>Strings and Metacharacters</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapter 8 approx 70 pages.</p>
+      <p>AoSSA chapter 8 approx 70 pages.</p>
       </td>
     </tr>
 
 
     <tr>
       <td style="text-align:left">1/10</td>
-      <td style="text-align:left"><b>Network Attacks</b></td>
+      <td style="text-align:left"><b>Network Attacks intro</b></td>
       <td style="text-align:left">
-      <p>AoSSA chapters 14,15,16 <b>approx 170 pages!</b></p>
+      <p>AoSSA chapters 14,15<b>approx 90 pages!</b></p>
       </td>
     </tr>
 
     <tr>
       <td style="text-align:left">3/10</td>
-      <td style="text-align:left"><b>Web application hacking</b>
-      </td>
+      <td style="text-align:left"><b>Network Attacks</b></td>
       <td style="text-align:left">
-      <p>AoST chapters 6,7,8,9 approx 72 pages.</p>
+      <p>AoSSA chapter 16<b>approx 80 pages!</b></p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">8/10</td>
-      <td style="text-align:left"><b>Web application hacking</b></td>
+      <td style="text-align:left"><b>Software Assessment</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 17,18 approx 120 pages.</p>
+      <p>Skim AoSSA chapters 1,2,3 this week</b></p>
+      <p>Read AoSSA chapter 4 this week</b></p>
       </td>
     </tr>
 
     <tr>
       <td style="text-align:left">9/10</td>
-      <td style="text-align:left"><b>Web application hacking</b>
+      <td style="text-align:left"><b>Security Design</b>
       </td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 17,18 approx 120 pages.</p>
+      <p></p>
       </td>
     </tr>
     <tr>
