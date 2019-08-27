@@ -119,9 +119,10 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">29/8</td>
-      <td style="text-align:left"><b>Lab setup and programming knowledge</b><p>Do some initial programming</p></td>
+      <td style="text-align:left"><b>Lab setup and Programming Knowledge</b><p>Do some initial programming</p></td>
       <td style="text-align:left">
       <p>Linux introduction and familiarisation </p>
+      <p>AoST chapters 1</p>
       </td>
     </tr>
 
@@ -130,7 +131,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Initial Overview of Software Security</b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>AoST chapters 1,2 - ca 50 pages</p>
+      <p>AoST chapters 2</p>
       </td>
     </tr>
 
@@ -226,7 +227,7 @@ The detailed plan is below with a table summarizing lessons.
 
 This plan will make us read all of the green book AoST and parts of the red one AoSSA - the rest is left as an optional reading.
 
-**Introduction and welcome**
+**Introduction and Welcome**
 
 * Create a good starting point for learning
 * Introduce lecturer and students
@@ -241,13 +242,17 @@ Exercises
 * Debian Linux installation
 * Kali Linux installation
 
-**Lab setup and programming knowledge**
+**Lab Setup and Programming Knowledge**
 
 * Linux introduction and familiarisation
 * Learn difference between compiled program C, and scripted Python
 * Introduce Python programming
 * Run programs, servers and applications, how to
 * Find the level of programming in the group
+
+Initial Overview of Software Security
+* Introduction to Methods
+* Strategies for Security Testing
 
 Exercises
 * Run small programs: Python, Shell script
