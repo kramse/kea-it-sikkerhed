@@ -261,8 +261,6 @@ Exercises
 
 **Initial Overview of Software Security**
 
-* Introduction to Methods
-* Strategies for Security Testing
 * Design vs Implementation
 * Common  Secure Design Issues
 * Poor Use of Cryptography
