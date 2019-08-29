@@ -84,6 +84,41 @@ Official companion guide to the OWASP Juice Shop.
 
 From [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99
 
+Supporting Internet resources
+* Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed
+-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
+
+Control Hijacking Attacks
+* [Smashing The Stack For Fun And Profit](http://www.phrack.com/issues.html?issue=49&id=14#article), Aleph One
+* [Bypassing non-executable-stack during exploitation using return-to-libc](http://css.csail.mit.edu/6.858/2014/readings/return-to-libc.pdf)
+ by c0ntex.
+* [Basic Integer Overflows](http://www.phrack.com/issues.html?issue=60&id=10#article) by blexim.
+* [Return-Oriented Programming:Systems, Languages, and Applications](https://hovav.net/ucsd/dist/rop.pdf)
+Ryan Roemer, Erik Buchanan, Hovav Shacam and Stefan Savage University of California, San Diego
+* [MITRE ATT&CK](https://attack.mitre.org/) a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations, read the [ATT&CK 101 Blog Post](https://medium.com/mitre-attack/att-ck-101-17074d3bc62)
+
+
+
+OS Security
+* [Secure Programming for Linux and Unix HOWTO](http://www.dwheeler.com/secure-programs/)), David Wheeler.
+* [Setuid demystified](http://www.cs.berkeley.edu/~daw/papers/setuid-usenix02.pdf) by Hao Chen, David Wagner, and Drew Dean.
+* [Removing ROP Gadgets from OpenBSD](https://www.openbsd.org/papers/asiabsdcon2019-rop-paper.pdf) Todd Mortimer mortimer@openbsd.org
+* [TCP Synfloods - an old yet current problem, and improving pf's response to it](http://quigon.bsws.de/papers/2017/bsdcan/)
+Henning Brauer, BSDCan 2017
+
+
+Exploiting Hardware Bugs and Crypto Related
+* [Bug Attacks on RSA](http://www.cs.technion.ac.il/~yanivca/BugAttacks.pdf), by Eli Biham, Yaniv Carmeli, and Adi Shamir.
+* [Using Memory Errors to Attack a Virtual Machine](https://www.cs.princeton.edu/~appel/papers/memerr.pdf) by Sudhakar Govindavajhala and Andrew
+Appel
+* [Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors](http://users.ece.cmu.edu/~yoonguk/papers/kim
+-isca14.pdf) Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu, see also [Explo
+iting the DRAM rowhammer bug to gain kernel privileges](https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html
+)
+* _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://cr
+ypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
+
+
 
 ## Planning
 
@@ -188,6 +223,8 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Network Attacks Intro</b></td>
       <td style="text-align:left">
       <p>AoSSA chapters 14,15 - ca 90 pages!</p>
+      <p>TCP Synfloods - an old yet current problem, BSDCan slides
+      </p>
       </td>
     </tr>
 
@@ -242,17 +279,18 @@ Exercises
 * Debian Linux installation
 * Kali Linux installation
 
-**Lab Setup and Programming Knowledge**
+**Overview, Programming Knowledge and Lab Setup**
 
-* Linux introduction and familiarisation
-* Learn difference between compiled program C, and scripted Python
-* Introduce Python programming
-* Run programs, servers and applications, how to
-* Find the level of programming in the group
 
 Initial Overview of Software Security
 * Introduction to Methods
 * Strategies for Security Testing
+
+Get lab environment ready
+* Linux introduction and familiarisation
+* Introduce Python programming
+* Run programs, servers and applications, how to
+* Find the level of programming in the group
 
 Exercises
 * Run small programs: Python, Shell script
