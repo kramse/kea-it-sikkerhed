@@ -161,7 +161,8 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Initial Overview of Software Security</b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>AoST chapters 2</p>
+      <p>Curriculum: AoST chapters 2</p>
+      <p>Supporting litterature: _Secure Programming for Linux and Unix HOWTO_ and _A Graduate Course in Applied Cryptography_</p>
       </td>
     </tr>
 
