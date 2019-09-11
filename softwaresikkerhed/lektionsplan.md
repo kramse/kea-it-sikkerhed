@@ -86,6 +86,8 @@ From [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggeste
 
 Supporting Internet resources
 
+
+
 Control Hijacking Attacks
 * [Smashing The Stack For Fun And Profit](http://www.phrack.com/issues.html?issue=49&id=14#article), Aleph One
 * [Bypassing non-executable-stack during exploitation using return-to-libc](http://css.csail.mit.edu/6.858/2014/readings/return-to-libc.pdf)
@@ -97,7 +99,8 @@ Ryan Roemer, Erik Buchanan, Hovav Shacam and Stefan Savage University of Califor
 
 
 
-OS Security
+OS Security and secure coding
+* [Secure Coding Best Practices Handbook](https://info.veracode.com/secure-coding-best-practices-hand-book-guide-resource.html) Veracode
 * [Secure Programming for Linux and Unix HOWTO](http://www.dwheeler.com/secure-programs/)), David Wheeler.
 * [Setuid demystified](http://www.cs.berkeley.edu/~daw/papers/setuid-usenix02.pdf) by Hao Chen, David Wagner, and Drew Dean.
 * [Removing ROP Gadgets from OpenBSD](https://www.openbsd.org/papers/asiabsdcon2019-rop-paper.pdf) Todd Mortimer mortimer@openbsd.org
@@ -308,7 +311,7 @@ Exercises
 Exercises
 
 * sslscan scan various sites for TLS settings, Qualys SSLLabs
-* Buffer Overflow 101 
+* Buffer Overflow 101
 
 **SDLC and Risk Ranking**
 
@@ -323,7 +326,7 @@ Exercises
 
 **Web Application Hacking Intro**
 
-* Generic Fault Injection
+* Generic Network Fault Injection
 * Attacking Authentication
 * Session IDs
 * Common web application issues
@@ -340,7 +343,7 @@ Exercises
 * Exploitability
 
 Exercises
-* Try running brute force and fuzzing
+* Try Wireshark for decoding protocols
 * Try American fuzzy lop [http://lcamtuf.coredump.cx/afl/](http://lcamtuf.coredump.cx/afl/)
 
 
