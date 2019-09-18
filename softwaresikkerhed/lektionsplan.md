@@ -352,11 +352,9 @@ Exercises
 * Memory Corruption Errors
 * Buffer overflows, stack errors
 * C language issues
-* Shell code
 
 Exercises
-* Writing and expoloiting a small buffer overflow
-* Run debugger
+* Pointers and Structure padding
 
 
 **Program Building blocks**
