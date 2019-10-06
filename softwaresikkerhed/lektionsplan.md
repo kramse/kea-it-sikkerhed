@@ -92,7 +92,7 @@ System Design and Architecture
 [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design)
 * This in danish summarizing the implications of General Data Protection Regulation (GDPR)
 [https://www.dubex.dk/aktuelt/nyheder/det-skal-du-vide-om-privacy-by-design-ny-vejledning](https://www.dubex.dk/aktuelt/nyheder/det-skal-du-vide-om-privacy-by-design-ny-vejledning)
-* Article recommends doing Privacy Impact Assessment (PIA)[https://itb.dk/persondataforordningen/privacy-by-design-default/](https://itb.dk/persondataforordningen/privacy-by-design-default/)
+* Article recommends doing Privacy Impact Assessment (PIA) [https://itb.dk/persondataforordningen/privacy-by-design-default/](https://itb.dk/persondataforordningen/privacy-by-design-default/)
 * ENISA, EU security office, reports about Privacy by Design [Privacy and Data Protection by Design](https://www.enisa.europa.eu/publications/privacy-and-data-protection-by-design) and
 [Privacy by design in big data](https://www.enisa.europa.eu/publications/big-data-protection)
 
