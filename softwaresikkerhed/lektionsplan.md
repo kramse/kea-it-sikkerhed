@@ -88,7 +88,7 @@ Supporting Internet resources
 
 System Design and Architecture
 * [Security by Design Principles, OWASP](https://www.owasp.org/index.php/Security_by_Design_Principles)
-* Wikipedia article about \emph{Privacy by Design}
+* Wikipedia article about Privacy by Design
 [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design)
 * This in danish summarizing the implications of General Data Protection Regulation (GDPR)
 [https://www.dubex.dk/aktuelt/nyheder/det-skal-du-vide-om-privacy-by-design-ny-vejledning](https://www.dubex.dk/aktuelt/nyheder/det-skal-du-vide-om-privacy-by-design-ny-vejledning)
@@ -256,8 +256,8 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Security Design</b>
       </td>
       <td style="text-align:left">
-      <p> [Security by Design Principles, OWASP](https://www.owasp.org/index.php/Security_by_Design_Principles)
-      [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design)</p>
+      <p> Security by Design Principles, OWASP https://www.owasp.org/index.php/Security_by_Design_Principles
+      Wikipedia Privacy by Design https://en.wikipedia.org/wiki/Privacy_by_design </p>
       </td>
     </tr>
     <tr>
