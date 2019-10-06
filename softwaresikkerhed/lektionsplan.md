@@ -256,7 +256,8 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Security Design</b>
       </td>
       <td style="text-align:left">
-      <p></p>
+      <p> [Security by Design Principles, OWASP](https://www.owasp.org/index.php/Security_by_Design_Principles)
+      [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design)</p>
       </td>
     </tr>
     <tr>
