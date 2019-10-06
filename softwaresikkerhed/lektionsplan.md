@@ -86,7 +86,16 @@ From [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggeste
 
 Supporting Internet resources
 
-
+System Design and Architecture
+* [Security by Design Principles, OWASP](https://www.owasp.org/index.php/Security_by_Design_Principles)
+* Wikipedia article about \emph{Privacy by Design}
+[Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design)
+* This in danish summarizing the implications of General Data Protection Regulation (GDPR)
+[https://www.dubex.dk/aktuelt/nyheder/det-skal-du-vide-om-privacy-by-design-ny-vejledning](https://www.dubex.dk/aktuelt/nyheder/det-skal-du-vide-om-privacy-by-design-ny-vejledning)
+* Article recommends doing Privacy Impact Assessment (PIA)[https://itb.dk/persondataforordningen/privacy-by-design-default/]
+(https://itb.dk/persondataforordningen/privacy-by-design-default/)
+* ENISA, EU security office, reports about Privacy by Design [Privacy and Data Protection by Design](https://www.enisa.europa.eu/publications/privacy-and-data-protection-by-design) and
+[Privacy by design in big data](https://www.enisa.europa.eu/publications/big-data-protection)
 
 Control Hijacking Attacks
 * [Smashing The Stack For Fun And Profit](http://www.phrack.com/issues.html?issue=49&id=14#article), Aleph One
