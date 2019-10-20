@@ -10,28 +10,30 @@ English: Penetration testing
 
 Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
 
-This document is written on Gitbook, and then exported to PDF.
-https://zencurity.gitbook.io/kea-it-sikkerhed/penetrationstest/lektionsplan
+This document is written in markdown, uploadet to GitHub and then processed by Gitbook.
 
-The PDF export seem to have problems with the big table, please check the Gitbook version if in doubt about reading list.
+The link for this is:
+https://zencurity.gitbook.io/kea-it-sikkerhed/penetrationstest/lektionsplan
 
 ### Goals
 
-The module is centered around ...
+The module is centered around penetration testing and executing penetration testing. You will be expected to be able to perform basic penetration testing, and gather information about new vulnerabilities. You will be presented for and expected to execute relevant tools for this purpose.
+
 Teaching material will primarily be English, but the teaching will be in Danish.
 
-See more about the course in the official curriculum.
+See more about the course in the official curriculum which can be downloaded from the main page [https://kompetence.kea.dk/uddannelser/it-digitalt/diplom-i-it-sikkerhed](https://kompetence.kea.dk/uddannelser/it-digitalt/diplom-i-it-sikkerhed)
+- near the top "Download studieordningen".
 
 ### Exam:
 
-Date XXXX. 2019
+Date 17/12 2019
 
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates:
+Teaching dates: 24/10 2019, 05/11 2019, 07/11 2019, 14/11 2019, 21/11 2019, 28/11 2019, 05/12 2019
 
 ### Course reading list
 
@@ -41,7 +43,6 @@ Primary literature:
 
 * Gray Hat Hacking: The Ethical Hacker's Handbook, fifth edition
 Allen Harper ISBN: 9781260108415
-
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
 It is recommended to buy these books.
