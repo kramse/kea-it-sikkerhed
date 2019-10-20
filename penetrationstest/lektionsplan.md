@@ -146,8 +146,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">
       <p>Curriculum: Grayhat chapters 2-3,11</p>
       <p>Supporting litterature: _Smashing The Stack For Fun And Profit_,
-      _Bypassing non-executable-stack during exploitation using return-to-libc_ and _Basic Integer Overflows_
-      </p>
+      _Bypassing non-executable-stack during exploitation using return-to-libc_ and _Basic Integer Overflows_</p>
       </td>
     </tr>
 
@@ -155,25 +154,21 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">14/11</td>
       <td style="text-align:left"><p><b>Network spoofing and Cracking Passwords</b></p></td>
       <td style="text-align:left">
-      <p>Curriculum: Grayhat chapters 10,15</p>
-      <p>Supporting litterature: </p>
-      </td>
+      <p>Curriculum: Grayhat chapters 10,15</p></td>
     </tr>
     <tr>
       <td style="text-align:left">21/11</td>
       <td style="text-align:left"><p><b>Network Attacks and Advanced Vulnerabilities</b></p></td>
       <td style="text-align:left">
       <p>Curriculum: Grayhat chapters 12-14</p>
-      <p>Supporting litterature: </p>
+      <p>Supporting litterature: _Return-Oriented Programming:Systems, Languages, and Applications_</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">28/11</td>
       <td style="text-align:left"><p><b>Web Application Hacking</b> - and some IoT</p></td>
       <td style="text-align:left">
-      <p>Grayhat chapters Skim 22-25</p>
-      <p>Supporting litterature: </p>
-      </td>
+      <p>Grayhat chapters Skim 22-25</p></td>
     </tr>
 
     <tr>
