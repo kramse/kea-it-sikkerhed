@@ -145,7 +145,9 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><p><b>Programming and basic buffer overflows</b></p></td>
       <td style="text-align:left">
       <p>Curriculum: Grayhat chapters 2-3,11</p>
-      <p>Supporting litterature: </p>
+      <p>Supporting litterature: _Smashing The Stack For Fun And Profit_,
+      _Bypassing non-executable-stack during exploitation using return-to-libc_ and _Basic Integer Overflows_
+      </p>
       </td>
     </tr>
 
@@ -191,15 +193,3 @@ The detailed plan is below with a table summarizing lessons.
 
   </tbody>
 </table>
-
-
-**Introduction and welcome**
-
-* Expectations for this course
-* Literature list walkthrough
-* Kali Linux introduction
-
-Kali Linux is a toolbox we will use and participants will use a virtual machine
-
-Exercises
-* Kali Linux installation
