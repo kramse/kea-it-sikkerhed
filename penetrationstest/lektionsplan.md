@@ -53,28 +53,25 @@ The book LBfH introduces the Linux operating system commands, using Kali Linux a
 Supporting literature:
 
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
-* More to come
 
+We will also use the OWASP Juice Shop Tool Project as a running example. This is an application which is modern AND designed to have security flaws. Read more about this project at:
 
-We will also use the OWASP Juice Shop Tool Project as a running example. This is an application which is modern AND designed to have security flaws.
-
-Read more about this project at [https://www.owasp.org/index.php/OWASP_Juice_Shop_Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) and
+[https://www.owasp.org/index.php/OWASP_Juice_Shop_Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) and
 [https://github.com/bkimminich/juice-shop](https://github.com/bkimminich/juice-shop)
 
 
 It is recommended to buy the _Pwning OWASP Juice Shop_
-Official companion guide to the OWASP Juice Shop.
+Official companion guide to the OWASP Juice Shop from [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99
 
-From [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99
-
-
-Most of these can be downloaded from the internet.
 
 Also the course will use internet links and pages.
 
 
 
-Supporting Internet resources
+### Supporting Internet resources
+
+
+Most of these can be downloaded from the internet.
 
 System Design and Architecture
 * [Security by Design Principles, OWASP](https://www.owasp.org/index.php/Security_by_Design_Principles)
