@@ -168,7 +168,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">28/11</td>
       <td style="text-align:left"><p><b>Web Application Hacking</b> - and some IoT</p></td>
       <td style="text-align:left">
-      <p>Grayhat chapters Skim 22-25</p></td>
+      <p>Grayhat chapters Skim 22-25</p><p>Familiarize yourself with <i>Pwning OWASP Juice Shop</i></p></td>
     </tr>
 
     <tr>
