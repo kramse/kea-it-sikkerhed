@@ -8,7 +8,7 @@ description: Valgfrie modul VF 3 Netværkspenetrationstest (5 ECTS) Penetration 
 
 English: Penetration testing
 
-Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
+Teacher: Henrik Lund Kramshøj hlk@zencurity.dk +45 2026 6000
 
 This document is written in markdown, uploadet to GitHub and then processed by Gitbook.
 
