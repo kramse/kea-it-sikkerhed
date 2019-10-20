@@ -61,7 +61,7 @@ We will also use the OWASP Juice Shop Tool Project as a running example. This is
 
 
 It is recommended to buy the _Pwning OWASP Juice Shop_
-Official companion guide to the OWASP Juice Shop from [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99
+Official companion guide to the OWASP Juice Shop from [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99. Alternatively read online at [https://pwning.owasp-juice.shop/](https://pwning.owasp-juice.shop/)
 
 
 Also the course will use internet links and pages.
