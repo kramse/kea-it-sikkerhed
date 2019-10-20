@@ -37,7 +37,7 @@ Teaching dates: 24/10 2019, 05/11 2019, 07/11 2019, 14/11 2019, 21/11 2019, 28/1
 
 ### Course reading list
 
-This course uses three books and a number of supporting resources.
+This course uses a few books and a number of supporting resources.
 
 Primary literature:
 
@@ -59,30 +59,28 @@ Also the course will use internet links and pages.
 
 ## Planning
 
-The detailed plan is below with a table summarizing lessons
+The detailed plan is below with a table summarizing lessons.
 
-UNFINISHED, currently a copy from another course
+**Note: contains lot of pages, learn to skim and skip chapters and parts that don't interest you. In real life we don't have time to read every word!**
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Dato</th>
-      <th style="text-align:left">Tema</th>
-      <th style="text-align:left">Mål</th>
-      <th style="text-align:left">Litteratur / Forberedelse</th>
+      <th style="text-align:left;width:10%">Date</th>
+      <th style="width:45%">Theme / Goals</th>
+      <th style="width:45%">Litterature / Preparation</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">5/2</td>
+      <td style="text-align:left">24/10</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
-        Prepare Kali Linux VM - bring laptop</p>
-      </td>
-      <td style="text-align:left">
+        Prepare Virtual Machines - bring laptop</p>
         <p>Create a good starting point for learning </br>
          Introduce lecturer and students </br>
          Concrete Expectations </br>
-         Prepare tools for the exercises </p>
+         Prepare tools for the exercises.<b>Lab setup</b> </p>
       </td>
       <td style="text-align:left">
       <p> Reviewing the literature list will occur when we meet. </p>
@@ -92,24 +90,66 @@ UNFINISHED, currently a copy from another course
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/2</td>
-      <td style="text-align:left"><b>...</b>
-      </td>
-      <td style="text-align:left">Understand ...  and inherent security problems</td>
+      <td style="text-align:left">5/11</td>
+      <td style="text-align:left"><b>Lab setup and Programming Knowledge</b><p>Do some initial programming</p></td>
       <td style="text-align:left">
-      <p>Bishop until and including chapter X - ca XX pages</br>
-      Paper <em>Security problems in </em>
-      and </p>
+      <p>Linux introduction and familiarisation </p>
+      <p>AoST chapters 1</p>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="text-align:left">7/11</td>
+      <td style="text-align:left"><b>Initial Overview of Software Security</b>
+<p>Get an overview of the subject</p></td>
+      <td style="text-align:left">
+      <p>Curriculum: AoST chapters 2</p>
+      <p>Supporting litterature: _Secure Programming for Linux and Unix HOWTO_ and _A Graduate Course in Applied Cryptography_</p>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="text-align:left">14/11</td>
+      <td style="text-align:left"><b>SDLC and risk ranking</b>
+      </td>
+      <td style="text-align:left">
+      <p>AoST chapters 3,4,5 - ca 50 pages</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">26/3</td>
-      <td style="text-align:left"><b>Summary and prepare for the exam</b></td>
-      <td style="text-align:left">Summary of the course</td>
-      <td style="text-align:left">Everything read in the primary books</td>
+      <td style="text-align:left">21/11</td>
+      <td style="text-align:left"><b>Web Application Hacking Intro</b></td>
+      <td style="text-align:left">
+      <p>AoST chapters 6,7,8,9 - ca 72 pages.</p>
+      </td>
     </tr>
+    <tr>
+      <td style="text-align:left">28/11</td>
+      <td style="text-align:left"><b>Fuzzing intro</b></td>
+      <td style="text-align:left">
+      <p>AoST chapters 10,11,12 - ca 65 pages.</p>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="text-align:left">5/12</td>
+      <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
+      <td style="text-align:left">
+      <p>This week AoSSA chapters 6,5 - ca 129 pages.</p>
+
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">17/12</td>
+      <td style="text-align:left"><b>Exam date</b></td>
+     <td style="text-align:left">
+     <p></p>
+      </td>
+    </tr>
+
   </tbody>
 </table>
+
 
 **Introduction and welcome**
 

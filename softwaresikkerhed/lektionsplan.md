@@ -135,7 +135,7 @@ The detailed plan is below with a table summarizing lessons.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left;width:10%">Week</th>
+      <th style="text-align:left;width:10%">Date</th>
       <th style="width:45%">Theme / Goals</th>
       <th style="width:45%">Litterature / Preparation</th>
     </tr>
