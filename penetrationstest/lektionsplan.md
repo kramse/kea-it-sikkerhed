@@ -56,7 +56,7 @@ Supporting literature:
 
 We will also use the OWASP Juice Shop Tool Project as a running example. This is an application which is modern AND designed to have security flaws. Read more about this project at:
 
-[https://www.owasp.org/index.php/OWASP_Juice_Shop_Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) and
+[https://github.com/kramse/security-courses/tree/master/courses/pentest/nmap-workshop](https://github.com/kramse/security-courses/tree/master/courses/pentest/nmap-workshop) and
 [https://github.com/bkimminich/juice-shop](https://github.com/bkimminich/juice-shop)
 
 
