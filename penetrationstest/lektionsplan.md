@@ -77,16 +77,16 @@ System Design and Architecture
 * [Security by Design Principles, OWASP](https://www.owasp.org/index.php/Security_by_Design_Principles)
 
 Control Hijacking Attacks
-* [Smashing The Stack For Fun And Profit](http://www.phrack.com/issues.html?issue=49&id=14#article), Aleph One
+* [Smashing The Stack For Fun And Profit](http://www.phrack.com/issues.html?issue=49&id=14#article), by Aleph One
 * [Bypassing non-executable-stack during exploitation using return-to-libc](http://css.csail.mit.edu/6.858/2014/readings/return-to-libc.pdf)
- by c0ntex.
-* [Basic Integer Overflows](http://www.phrack.com/issues.html?issue=60&id=10#article) by blexim.
+ by c0ntex
+* [Basic Integer Overflows](http://www.phrack.com/issues.html?issue=60&id=10#article) by blexim
 * [Return-Oriented Programming:Systems, Languages, and Applications](https://hovav.net/ucsd/dist/rop.pdf)
 Ryan Roemer, Erik Buchanan, Hovav Shacam and Stefan Savage University of California, San Diego
 * [MITRE ATT&CK](https://attack.mitre.org/) a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations, read the [ATT&CK 101 Blog Post](https://medium.com/mitre-attack/att-ck-101-17074d3bc62)
 
 * [Removing ROP Gadgets from OpenBSD](https://www.openbsd.org/papers/asiabsdcon2019-rop-paper.pdf) Todd Mortimer mortimer@openbsd.org
-
+* [ERNW WHITEPAPER 68: SECURITY ASSESSMENT OF CISCO ACI](https://static.ernw.de/whitepaper/ERNW_Whitepaper68_Vulnerability_Assessment_Cisco_ACI_signed.pdf) describes serious vulnerabilities of various kinds in a modern device from a well known vendor
 
 
 Policies, governance and best Practice
