@@ -39,12 +39,16 @@ Teaching dates: tuesdays and thursdays
 Dates cancelled: 21/05, 23/05, replaced
 
 ### Course reading list
-
-This course uses three books and a number of supporting resources.
+This course uses a few books and a number of supporting resources.
 
 Primary literature:
 
 * Computer Security: Art and Science, Matt Bishop ISBN: 9780321712332
+* Defensive Security Handbook: Best Practices for Securing Infrastructure, Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7
+
+Publisher: O'Reilly Media
+
+Release Date: April 2017
 
 Supporting literature:
 
