@@ -26,7 +26,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Dates: 31/03 2020 exam
+Date: 31/03 2020 exam
 
 ### Teaching Methods:
 
