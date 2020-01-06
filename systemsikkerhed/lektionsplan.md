@@ -49,12 +49,9 @@ It is recommended to buy these books.
 Supporting literature - optional to buy, but recommended:
 
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
-* Forensics Discovery, Dan Farmer, Wietse Venema 2004, Addison-Wesley. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it 
+* Forensics Discovery, Dan Farmer, Wietse Venema 2004, Addison-Wesley. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it
 
-
-
-
-Also the course will use internet links and pages. Some inspired by other courses on the same subjects, like https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/related-resources/
+Also the course will use internet links and pages.
 
 Supporting Internet resources
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
