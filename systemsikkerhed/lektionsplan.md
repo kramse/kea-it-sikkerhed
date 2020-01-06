@@ -36,8 +36,6 @@ Dates: 31/03 2020 exam
 Teaching dates: tuesdays and thursdays
 28/01 2020, 30/01 2020, 04/02 2020, 06/02 2020, 11/02 2020, 13/02 2020, 18/02 2020, 20/02 2020, 25/02 2020, 27/02 2020, 03/03 2020, 05/03 2020, 10/03 2020, 12/03 2020
 
-Dates cancelled: 21/05, 23/05, replaced
-
 ### Course reading list
 This course uses a few books and a number of supporting resources.
 
