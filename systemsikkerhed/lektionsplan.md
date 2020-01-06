@@ -26,7 +26,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Dates: tuesday 25/06 exam
+Dates: 31/03 2020 exam
 
 ### Teaching Methods:
 
@@ -34,7 +34,7 @@ Dates: tuesday 25/06 exam
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates: tuesdays and thursdays
-23/04, 25/04, 30/04, 02/05, 07/05, 09/05, 14/05, 16/05, 28/05, 04/06, 06/06, 11/06, 13/06, 18/6, 20/6
+28/01 2020, 30/01 2020, 04/02 2020, 06/02 2020, 11/02 2020, 13/02 2020, 18/02 2020, 20/02 2020, 25/02 2020, 27/02 2020, 03/03 2020, 05/03 2020, 10/03 2020, 12/03 2020
 
 Dates cancelled: 21/05, 23/05, replaced
 
@@ -45,10 +45,6 @@ Primary literature:
 
 * Computer Security: Art and Science, Matt Bishop ISBN: 9780321712332
 * Defensive Security Handbook: Best Practices for Securing Infrastructure, Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7
-
-Publisher: O'Reilly Media
-
-Release Date: April 2017
 
 Supporting literature:
 
