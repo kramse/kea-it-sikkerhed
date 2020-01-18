@@ -13,8 +13,6 @@ Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
 This document is written on Gitbook, and then exported to PDF.
 https://zencurity.gitbook.io/kea-it-sikkerhed/systemsikkerhed/lektionsplan
 
-The PDF export seem to have problems with the big table, please check the Gitbook version if in doubt about reading list.
-
 ### Goals
 
 The module is centered around the design and implementation of secure computer systems.
