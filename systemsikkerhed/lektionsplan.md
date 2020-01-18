@@ -34,7 +34,7 @@ Date: 31/03 2020 exam
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates: tuesdays and thursdays
-28/01 2020, 30/01 2020, 04/02 2020, 06/02 2020, 11/02 2020, 13/02 2020, 18/02 2020, 20/02 2020, 25/02 2020, 27/02 2020, 03/03 2020, 05/03 2020, 10/03 2020, 12/03 2020
+28/1 2020, 30/1 2020, 4/2 2020, 6/2 2020, 11/2 2020, 13/2 2020, 18/2 2020, 20/2 2020, 25/2 2020, 27/2 2020, 3/3 2020, 5/3 2020, 10/3 2020, 12/3 2020
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
@@ -174,7 +174,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Hybrid Policies / Breaking out</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH chapters 3-5/p>
+      <p>Read DSH chapters 3-5</p>
       <p>Bishop chapters 8 -  skim math parts ca 25 pages</br>
       Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
       https://en.wikipedia.org/wiki/Row_hammer
@@ -232,7 +232,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
       <td style="text-align:left">
       <p>Bishop chapters 25 and 26 </br>
-      <p>Read DSH chapters 19-20/p>
+      <p>Read DSH chapters 19-20</p>
       Download and browse the ENISA papers listed under Computer Forensics in the reading list
       </p>
       </td>
@@ -242,7 +242,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       <td style="text-align:left"><b>Forensics 2: Incident Response</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH chapters 6-7/p>
+      <p>Read DSH chapters 6-7</p>
       <p>Bishop chapter 27 - ca 40 pages</br>
       Incident Handler's Handbook - ca 18 pages
       </p>
@@ -263,7 +263,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH chapters 8, skim chapters 10-12/p>
+      <p>Read DSH chapters 8, skim chapters 10-12</p>
       <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p>
       </td>
     </tr>
