@@ -18,3 +18,7 @@
 ## Netværkspenetrationstest
 
 * [Lektionsplan](penetrationstest/lektionsplan.md)
+
+## System integration
+
+* [Lektionsplan](system-integration/lektionsplan.md)
