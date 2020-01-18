@@ -41,9 +41,9 @@ This course uses a few books and a number of supporting resources.
 
 Primary literature:
 
-* Computer Security: Art and Science, Matt Bishop ISBN: 9780321712332 1388 pages
-* Defensive Security Handbook: Best Practices for Securing Infrastructure, Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7 284 pages
-* Forensics Discovery, Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it
+* Computer Security: Art and Science, Matt Bishop ISBN: 9780321712332 1388 pages - referenced as Bishop below
+* Defensive Security Handbook: Best Practices for Securing Infrastructure, Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7 284 pages - short DSH
+* Forensics Discovery, Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it. Referenced below as FD
 
 It is recommended to buy these books. Note: we won't read all chapters and pages.
 
@@ -130,7 +130,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><b>Overview of Computer Security</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 1 and 2 - ca 50 pages</br>
+      <p>Bishop ch 1 and 2, DSH ch 1-2
 
       </p>
       </td>
@@ -150,7 +150,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><b>Security Policies / Confidentiality Policies</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 4 and 5 - ca 65 pages</br>
+      <p>Bishop ch 4 and 5</br>
       Perhaps skip/skim some policy language examples, skip 4.7<br>
       Appendix G,
       Browse: Campus Network Security: High Level Overview , Network Startup Resource Center  
@@ -163,7 +163,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Integrity and Availability Policies</b>
       </td>
       <td style="text-align:left">
-      <p>Read: Bishop chapters 6 and chapter 7, skim math parts</br>
+      <p>Read: Bishop ch 6 and 7, skim math parts</br>
       TCP Synfloods - an old yet current problem, BSDCan slides
       </p>
       <p>DBMS Security</p>
@@ -174,8 +174,8 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Hybrid Policies / Breaking out</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH chapters 3-5</p>
-      <p>Bishop chapters 8 -  skim math parts ca 25 pages</br>
+      <p>Read DSH ch 3-5</p>
+      <p>Bishop ch 8 -  skim math parts</br>
       Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
       https://en.wikipedia.org/wiki/Row_hammer
       </p>
@@ -186,9 +186,9 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Basic Cryptography</b>
       </td>
       <td style="text-align:left">
-      <p>Read Bishop chapter 10, chapter 11 until and including 11.3, chapter 12 until 12.4, chapter 13 until 13.5<br>
+      <p>Read Bishop ch 10, 11 until and including 11.3, 12 until 12.4, 13 until 13.5<br>
       Skim: NIST Special Publication 800-63B<br>
-      Enterprise Survival Guide for Ransomware Attacks - 20 pages<br>
+      Enterprise Survival Guide for Ransomware Attacks<br>
       IT Security Guidelines for Transport Layer Security</p>
       </td>
     </tr>
@@ -197,7 +197,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
       </td>
       <td style="text-align:left">
-      <p>Read Bishop chapter 23 and skim chapter 24</br>
+      <p>Read Bishop ch 23 and skim 24, FD ch 5-6</br>
       Smashing The Stack For Fun And Profit, Bypassing non-executable-stack during exploitation using return-to-libc, Basic Integer Overflows, Return-Oriented Programming
       </p>
       </td>
@@ -207,7 +207,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 14,15,16 - ca 85 pages</br>
+      <p>Bishop ch 14-16</br>
 
       Skim, Setuid demystified,
 Some thoughts on security after ten years of qmail 1.0,
@@ -217,10 +217,10 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
     </tr>
     <tr>
       <td style="text-align:left">27/2</td>
-      <td style="text-align:left"><b>Information Flow</b>
+      <td style="text-align:left"><b>Capabilities</b>
       </td>
       <td style="text-align:left">
-      <p>Skim: Bishop chapter 18 -  skim math parts</br>
+      <p>Skim: Bishop ch 18 -  skim math parts</br>
       Skim:Capsicum: practical capabilities for UNIX
       Removing ROP Gadgets from OpenBSD
       </p>
@@ -231,8 +231,8 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 25 and 26 </br>
-      <p>Read DSH chapters 19-20</p>
+      <p>Bishop ch 25 and 26, FD ch 1-4 and appendix B</p>
+      <p>Read DSH ch 19-20</p>
       Download and browse the ENISA papers listed under Computer Forensics in the reading list
       </p>
       </td>
@@ -242,9 +242,9 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       <td style="text-align:left"><b>Forensics 2: Incident Response</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH chapters 6-7</p>
-      <p>Bishop chapter 27 - ca 40 pages</br>
-      Incident Handler's Handbook - ca 18 pages
+      <p>Read DSH ch 6-7</p>
+      <p>Bishop ch 27</br>
+      Incident Handler's Handbook
       </p>
       </td>
     </tr>
@@ -253,8 +253,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       <td style="text-align:left"><b>System Security in Practice</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH chapters 1-2/p>
-      <p>Skim: Bishop chapters 28,29,30</br>
+      <p>Skim: Bishop ch 28,29,30</br>
       </p>
       </td>
     </tr>
@@ -263,7 +262,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH chapters 8, skim chapters 10-12</p>
+      <p>Read DSH ch 8, skim ch 10-12</p>
       <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p>
       </td>
     </tr>
