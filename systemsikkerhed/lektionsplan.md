@@ -41,15 +41,15 @@ This course uses a few books and a number of supporting resources.
 
 Primary literature:
 
-* Computer Security: Art and Science, Matt Bishop ISBN: 9780321712332
-* Defensive Security Handbook: Best Practices for Securing Infrastructure, Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7
+* Computer Security: Art and Science, Matt Bishop ISBN: 9780321712332 1388 pages
+* Defensive Security Handbook: Best Practices for Securing Infrastructure, Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7 284 pages
+* Forensics Discovery, Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it
 
-It is recommended to buy these books.
+It is recommended to buy these books. Note: we won't read all chapters and pages.
 
 Supporting literature - optional to buy, but recommended:
 
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
-* Forensics Discovery, Dan Farmer, Wietse Venema 2004, Addison-Wesley. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it
 
 Also the course will use internet links and pages.
 
@@ -115,7 +115,7 @@ The detailed plan is below with a table summarizing lessons
 </thead>
 <tbody>
     <tr>
-      <td style="text-align:left">23/4</td>
+      <td style="text-align:left">28/1</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Kali Linux VM - bring laptop</p>
@@ -126,7 +126,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">25/4</td>
+      <td style="text-align:left">30/1</td>
       <td style="text-align:left"><b>Overview of Computer Security</b>
       </td>
       <td style="text-align:left">
@@ -136,7 +136,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">30/4</td>
+      <td style="text-align:left">4/2</td>
       <td style="text-align:left"><b>Overview of Enterprise Attacks</b>
       </td>
       <td style="text-align:left">
@@ -146,7 +146,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">2/5</td>
+      <td style="text-align:left">6/2</td>
       <td style="text-align:left"><b>Security Policies / Confidentiality Policies</b>
       </td>
       <td style="text-align:left">
@@ -159,7 +159,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/5</td>
+      <td style="text-align:left">11/2</td>
       <td style="text-align:left"><b>Integrity and Availability Policies</b>
       </td>
       <td style="text-align:left">
@@ -170,10 +170,11 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9/5</td>
+      <td style="text-align:left">13/2</td>
       <td style="text-align:left"><b>Hybrid Policies / Breaking out</b>
       </td>
       <td style="text-align:left">
+      <p>Read DSH chapters 3-5/p>
       <p>Bishop chapters 8 -  skim math parts ca 25 pages</br>
       Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
       https://en.wikipedia.org/wiki/Row_hammer
@@ -181,7 +182,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/5</td>
+      <td style="text-align:left">18/2</td>
       <td style="text-align:left"><b>Basic Cryptography</b>
       </td>
       <td style="text-align:left">
@@ -192,17 +193,17 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">16/5</td>
+      <td style="text-align:left">20/2</td>
       <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 23 and 24 - ca 105 pages</br>
+      <p>Read Bishop chapter 23 and skim chapter 24</br>
       Smashing The Stack For Fun And Profit, Bypassing non-executable-stack during exploitation using return-to-libc, Basic Integer Overflows, Return-Oriented Programming
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/5</td>
+      <td style="text-align:left">25/2</td>
       <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
       </td>
       <td style="text-align:left">
@@ -215,57 +216,61 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">4/6</td>
+      <td style="text-align:left">27/2</td>
       <td style="text-align:left"><b>Information Flow</b>
       </td>
       <td style="text-align:left">
-      <p>Skim: Bishop chapters 17 and 18 - ca 85 pages</br>
-      Capsicum: practical capabilities for UNIX<br>
+      <p>Skim: Bishop chapter 18 -  skim math parts</br>
+      Skim:Capsicum: practical capabilities for UNIX
       Removing ROP Gadgets from OpenBSD
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">6/6</td>
+      <td style="text-align:left">3/3</td>
       <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 25 and 26 - ca 80 pages</br>
+      <p>Bishop chapters 25 and 26 </br>
+      <p>Read DSH chapters 19-20/p>
       Download and browse the ENISA papers listed under Computer Forensics in the reading list
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/6</td>
+      <td style="text-align:left">5/3</td>
       <td style="text-align:left"><b>Forensics 2: Incident Response</b>
       </td>
       <td style="text-align:left">
+      <p>Read DSH chapters 6-7/p>
       <p>Bishop chapter 27 - ca 40 pages</br>
       Incident Handler's Handbook - ca 18 pages
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">13/6</td>
+      <td style="text-align:left">10/3</td>
       <td style="text-align:left"><b>System Security in Practice</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop chapters 28,29,30 - ca 95 pages</br>
+      <p>Read DSH chapters 1-2/p>
+      <p>Skim: Bishop chapters 28,29,30</br>
       </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">18/6</td>
+      <td style="text-align:left">12/3</td>
       <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
       </td>
       <td style="text-align:left">
+      <p>Read DSH chapters 8, skim chapters 10-12/p>
       <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p>
       </td>
     </tr>
 
     <tr>
-      <td style="text-align:left">20/6</td>
-      <td style="text-align:left"><b>Summary and prepare for the exam</b></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Prepare for the exam</b></td>
       <td style="text-align:left">Summary of the course, prepare for exam</td>
     </tr>
   </tbody>
