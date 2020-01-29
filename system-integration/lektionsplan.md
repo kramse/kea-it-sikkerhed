@@ -63,7 +63,7 @@ The detailed plan is below with a table summarizing lessons
 </thead>
 <tbody>
 <tr>
-  <td style="text-align:left">Day 0 Feb 3 - 2 lessons</td>
+  <td style="text-align:left">Day 0 Feb 3 </br> 2 lessons</td>
   <td style="text-align:left">
     <p>Welcome, goals and expectations</br>
     </p>
