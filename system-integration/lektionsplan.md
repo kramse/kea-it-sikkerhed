@@ -73,7 +73,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 1 Feb 10 - 4 lessons </td>
+  <td style="text-align:left">Day 1 Feb 10 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -83,7 +83,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 2 Feb 17 - 4 lessons </td>
+  <td style="text-align:left">Day 2 Feb 17 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -93,7 +93,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 3 Feb 24 - 4 lessons </td>
+  <td style="text-align:left">Day 3 Feb 24 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -103,7 +103,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 4 March 2 - 4 lessons </td>
+  <td style="text-align:left">Day 4 March 2 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -113,7 +113,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 5 March 9 - 4 lessons </td>
+  <td style="text-align:left">Day 5 March 9 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -123,7 +123,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 6 March 23 - 4 lessons </td>
+  <td style="text-align:left">Day 6 March 23 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -133,7 +133,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 7 March 30 - 4 lessons </td>
+  <td style="text-align:left">Day 7 March 30 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -143,7 +143,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 8 April 20 - 4 lessons </td>
+  <td style="text-align:left">Day 8 April 20 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -153,7 +153,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 9 April 27 - 4 lessons </td>
+  <td style="text-align:left">Day 9 April 27 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -163,7 +163,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 10 May 4 - 4 lessons </td>
+  <td style="text-align:left">Day 10 May 4 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -173,7 +173,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 11 May 18 - 4 lessons </td>
+  <td style="text-align:left">Day 11 May 18 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
@@ -183,7 +183,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 12 May 25 - 4 lessons </td>
+  <td style="text-align:left">Day 12 May 25 </br>4 lessons </td>
   <td style="text-align:left">
     <p> </br>
     </p>
