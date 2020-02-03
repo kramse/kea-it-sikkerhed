@@ -6,6 +6,8 @@ description: Modul System integration (10 ECTS) System Security
 
 ## Fagets titel: System Integration \(10 ECTS\)
 
+### General information
+
 English: System Integration
 
 Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
