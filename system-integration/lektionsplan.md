@@ -57,17 +57,16 @@ This course uses a few books and a number of supporting resources.
 
 Primary literature:
 
-* TBA
+* _Enterprise Integration Patterns_, Gregor Hohpe and Bobby Woolf, 2004
+ISBN: 978-0-321-20068-6 EIP for short
+* _Camel in action_, Claus Ibsen and Jonathan Anstey, 2018
+ISBN: 978-1-61729-293-4
+* _Service‑Oriented Architecture: Analysis and Design for Services and Microservices_, Thomas Erl, 2017
+ISBN: 978-0-13-385858-7
 
 It is recommended to buy these books. Note: we won't read all chapters and pages.
 
-Supporting literature - optional to buy, but recommended:
-
-* TBA
-
 Also the course will use internet links and pages.
-
-Supporting Internet resources
 
 ## Planning
 
