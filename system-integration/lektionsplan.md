@@ -1,5 +1,5 @@
 ---
-description: Modul System integration (10 ECTS) System Security
+description: Modul System integration (10 ECTS)
 ---
 
 # Lektionsplan
@@ -230,7 +230,7 @@ The detailed plan is below with a table summarizing lessons
   </tbody>
 </table>
 
-## Detailed plan
+## Detailed Plan
 
 **Introduction and welcome**
 
@@ -239,7 +239,7 @@ The detailed plan is below with a table summarizing lessons
 * Expectations for this course
 * Literature list walkthrough
 * Prepare tools for the exercises
-* Kali and Debian Linux introduction
+
 
 Linux is a toolbox we will use and participants will use virtual machines
 
