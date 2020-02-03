@@ -23,7 +23,24 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date:  2020 exam
+Date: xx/xx 2020 exam
+
+Deliverables and Exam Procedure
+
+* The course ends with a successful examination. The exam is individual, oral, censored, graded.
+* The duration of the exam is up to 30 minutes.
+* At the exam students can expect being asked any questions related to the learning objectives and presented material.
+
+Pre-conditions
+
+Students need to fulfill certain requirements  completed mandatory tasks - to qualify for participating in the exam.
+Fulfilling the requirements automatically signs the student up for an exam. Alternatively, failing in delivering a mandatory
+task on time prevents the student from taking part in the exam.
+
+ Deliverables:
+* 2 Mandatory assignments which can be team work up to 3 students
+* Both mandatory assignments are required in order to be entitled to the exam
+
 
 ### Teaching Methods:
 
@@ -200,6 +217,8 @@ The detailed plan is below with a table summarizing lessons
     </tr>
   </tbody>
 </table>
+
+## Detailed plan
 
 **Introduction and welcome**
 
