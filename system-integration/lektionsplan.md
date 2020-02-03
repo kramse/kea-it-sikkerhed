@@ -113,7 +113,6 @@ The detailed plan is below with a table summarizing lessons
   <td style="text-align:left">
   <p>Camel book chapter 1-2</p>
   </td>
-
 </tr>
 <tr>
   <td style="text-align:left">Day 3 Feb 24 </br>4 lessons </td>
@@ -125,7 +124,6 @@ The detailed plan is below with a table summarizing lessons
   <td style="text-align:left">
   <p>Camel ch 3</p>
   </td>
-
 </tr>
 <tr>
   <td style="text-align:left">Day 4 March 2 </br>4 lessons </td>
@@ -155,7 +153,7 @@ The detailed plan is below with a table summarizing lessons
     </p>
   </td>
   <td style="text-align:left">
-  <p>SOA ch 3-5</p>
+  <p>SOA ch 1-5</p>
   </td>
 </tr>
 <tr>
@@ -183,12 +181,12 @@ The detailed plan is below with a table summarizing lessons
 <tr>
   <td style="text-align:left">Day 9 April 27 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> asynchronous and synchronous/br>
+    <p> asynchronous and synchronous</br>
     APIs, versioning, contracts
     </p>
   </td>
   <td style="text-align:left">
-  <p>SOA ch 10</p>
+  <p>SOA ch 10 and Appendix B</p>
   </td>
 </tr>
 <tr>
@@ -204,12 +202,13 @@ The detailed plan is below with a table summarizing lessons
 <tr>
   <td style="text-align:left">Day 11 May 18 </br>4 lessons </td>
   <td style="text-align:left">
-    <p>Running integration</br>
+    <p>Integration examples and standards</br>
+    Running integration
     Management, Logs, Monitoring, Security - using systems we have used above as examples
     </p>
   </td>
   <td style="text-align:left">
-  <p> Camel ch 14-16</p>
+  <p>EIP 13-14 Camel ch 14-16, SOA Appendix A</p>
   </td>
 </tr>
 <tr>
