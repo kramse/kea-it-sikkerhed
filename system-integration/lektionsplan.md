@@ -95,121 +95,131 @@ The detailed plan is below with a table summarizing lessons
 <tr>
   <td style="text-align:left">Day 1 Feb 10 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>Integration intro</br>
+    Java Apps, Tomcat, XML config, TCP/IP, DNS, HTTP intro<br>
+    Git intro
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>EIP book chapter 1-2</p>
   </td>
 </tr>
 <tr>
   <td style="text-align:left">Day 2 Feb 17 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>Starting out with Camel</br>
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>Camel book chapter 1-2</p>
   </td>
+
 </tr>
 <tr>
   <td style="text-align:left">Day 3 Feb 24 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>SOAP, WSDL, XML data</br>
+    JSON, WebServices, investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>Camel ch 3</p>
   </td>
+
 </tr>
 <tr>
   <td style="text-align:left">Day 4 March 2 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>Messaging, MQ systems</br>
+    Publish-Subscribe
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>EIP ch 3-4, Camel ch 5</p>
   </td>
 </tr>
 <tr>
   <td style="text-align:left">Day 5 March 9 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>JMS</br>
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>EIP ch 5-6, Camel ch 6</p>
   </td>
 </tr>
 <tr>
   <td style="text-align:left">Day 6 March 23 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>SOA, EAI, ESB - connecting the dots</br>
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>SOA ch 3-5</p>
   </td>
 </tr>
 <tr>
   <td style="text-align:left">Day 7 March 30 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>Modern patterns and services</br>
+    REST, Microservices
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>SOA ch 6-7, Camel ch 7,10</p>
   </td>
 </tr>
 <tr>
   <td style="text-align:left">Day 8 April 20 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>Continued from day 7</br>
+    GRPC, msgpack, protobuf, apache thrift etc.
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>SOA ch 8-9 plus articles</p>
   </td>
 </tr>
 <tr>
   <td style="text-align:left">Day 9 April 27 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p> asynchronous and synchronous/br>
+    APIs, versioning, contracts
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>SOA ch 10</p>
   </td>
 </tr>
 <tr>
   <td style="text-align:left">Day 10 May 4 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>Transactions and idempotency</br>
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>Camel ch 12-13</p>
   </td>
 </tr>
 <tr>
   <td style="text-align:left">Day 11 May 18 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>Running integration</br>
+    Management, Logs, Monitoring, Security - using systems we have used above as examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p> Camel ch 14-16</p>
   </td>
 </tr>
 <tr>
   <td style="text-align:left">Day 12 May 25 </br>4 lessons </td>
   <td style="text-align:left">
-    <p> </br>
+    <p>Cloud and Cloud integration</br>
     </p>
   </td>
   <td style="text-align:left">
-  <p>  </p>
+  <p>Camel 18</p>
   </td>
 </tr>
 
