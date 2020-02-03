@@ -15,11 +15,12 @@ Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
 This document is written on Gitbook, and then exported to PDF.
 https://zencurity.gitbook.io/kea-it-sikkerhed/system-integration/lektionsplan
 
+Teaching material will primarily be English, but the teaching will be in Danish.
+
 ### Goals
 
 This subject element must help ensure that the student develops the competencies to be able to work with technical system integration. After completing this module, the student must be able to integrate existing systems in connection with the development of new systems, and develop new systems supporting future integration.
 
-Teaching material will primarily be English, but the teaching will be in Danish.
 
 See more about the course in the official curriculum.
 
