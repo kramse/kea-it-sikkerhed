@@ -129,7 +129,7 @@ The detailed plan is below with a table summarizing lessons
   <td style="text-align:left">Day 4 March 2 </br>4 lessons </td>
   <td style="text-align:left">
     <p>Messaging, MQ systems</br>
-    Publish-Subscribe
+    Publish-Subscribe, Enterprise Integration Patterns
     </p>
   </td>
   <td style="text-align:left">
@@ -139,7 +139,8 @@ The detailed plan is below with a table summarizing lessons
 <tr>
   <td style="text-align:left">Day 5 March 9 </br>4 lessons </td>
   <td style="text-align:left">
-    <p>JMS</br>
+    <p>Using components, JMS</br>
+    databases
     </p>
   </td>
   <td style="text-align:left">
