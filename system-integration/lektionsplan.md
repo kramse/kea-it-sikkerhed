@@ -121,7 +121,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>Camel ch 3</p>
+  <p>Camel chapter 3</p>
   </td>
 </tr>
 <tr>
@@ -132,7 +132,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>EIP ch 3-4, Camel ch 5</p>
+  <p>EIP chapter 3-4, Camel chapter 5</p>
   </td>
 </tr>
 <tr>
@@ -143,7 +143,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>EIP ch 5-6, Camel ch 6</p>
+  <p>EIP chapter 5-6, Camel chapter 6</p>
   </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>SOA ch 1-5</p>
+  <p>SOA chapter 1-5</p>
   </td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>SOA ch 6-7, Camel ch 7,10</p>
+  <p>SOA chapter 6-7, Camel chapter 7,10</p>
   </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>SOA ch 8-9 plus articles</p>
+  <p>SOA chapter 8-9 plus articles</p>
   </td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>SOA ch 10 and Appendix B</p>
+  <p>SOA chapter 10 and Appendix B</p>
   </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>Camel ch 12-13</p>
+  <p>Camel chapter 12-13</p>
   </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>EIP 13-14 Camel ch 14-16, SOA Appendix A</p>
+  <p>EIP 13-14 Camel chapter 14-16, SOA Appendix A</p>
   </td>
 </tr>
 <tr>
