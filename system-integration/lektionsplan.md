@@ -116,8 +116,8 @@ The detailed plan is below with a table summarizing lessons
 <tr>
   <td style="text-align:left">Day 3 Feb 24 </br>4 lessons </td>
   <td style="text-align:left">
-    <p>SOAP, WSDL, XML data</br>
-    JSON, WebServices, investigate examples
+    <p>Data overview, XML data, JSON<br>
+Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
