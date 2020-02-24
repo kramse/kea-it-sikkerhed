@@ -68,6 +68,10 @@ It is recommended to buy these books. Note: we won't read all chapters and pages
 
 Also the course will use internet links and pages.
 
+Supporting literature - optional to buy, but recommended:
+
+* Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
+
 ## Planning
 
 The detailed plan is below with a table summarizing lessons
