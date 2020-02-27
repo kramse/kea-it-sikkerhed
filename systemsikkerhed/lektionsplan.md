@@ -398,12 +398,12 @@ Exercises
 * DNSSEC, SPF, DMARC - DNS based updates to your email domain security
 
 
-**Information Flow**
+**Confinement and isolation**
 
-* Firewall Flow Controls
 * Confinement and isolation
 * Virtual Machines and Sandboxes
 * Covert Channels
+* Firewall Flow Controls
 
 Exercises
 * Research VM escapes
