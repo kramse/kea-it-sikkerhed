@@ -35,7 +35,7 @@ Date: 31/03 2020 exam
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates: tuesdays and thursdays
-28/1 2020, 30/1 2020, 4/2 2020, 6/2 2020, 11/2 2020, 13/2 2020, 18/2 2020, 20/2 2020, 25/2 2020, 27/2 2020, 3/3 2020, 5/3 2020, 10/3 2020, 12/3 2020
+28/1 2020, 30/1 2020, 4/2 2020, 6/2 2020, 11/2 2020, 13/2 2020, 18/2 2020, 20/2 2020, 25/2 2020, 27/2 2020, 3/3 2020, 5/3 2020, 10/3 2020, 11/3 2020
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
@@ -259,7 +259,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">12/3</td>
+      <td style="text-align:left">11/3</td>
       <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
       </td>
       <td style="text-align:left">
