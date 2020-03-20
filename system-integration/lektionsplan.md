@@ -64,6 +64,7 @@ ISBN: 978-1-61729-293-4
 * _Service‑Oriented Architecture: Analysis and Design for Services and Microservices_, Thomas Erl, 2017
 ISBN: 978-0-13-385858-7
 
+
 It is recommended to buy these books. Note: we won't read all chapters and pages.
 
 Also the course will use internet links and pages.
@@ -71,6 +72,8 @@ Also the course will use internet links and pages.
 Supporting literature - optional to buy, but recommended:
 
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
+* _Microservices for Java Developers_ , Christian Posta, 2016 O’Reilly https://www.oreilly.com/programming/free/files/microservices-for-java-developers.pdf
+
 
 ## Planning
 
@@ -168,7 +171,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>SOA chapter 6-7, Camel chapter 7,10</p>
+  <p>SOA chapter 6-7, Camel chapter 7,10, Microservices for Java chapter 1</p>
   </td>
 </tr>
 <tr>
