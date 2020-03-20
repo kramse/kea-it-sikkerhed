@@ -71,7 +71,7 @@ Also the course will use internet links and pages.
 
 Supporting literature - optional to buy, but recommended:
 
-* Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
+* _Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali_ by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 * _Microservices for Java Developers_ , Christian Posta, 2016 O’Reilly https://www.oreilly.com/programming/free/files/microservices-for-java-developers.pdf
 
 
