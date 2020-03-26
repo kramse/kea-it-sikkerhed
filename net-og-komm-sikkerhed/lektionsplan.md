@@ -29,14 +29,15 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date April 9. 2019
+Date June 11. 2019
 
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
+* 17:00 - 20:30 Online meetup and exercises - planned!
 
-Teaching dates: 05/02 2019, 07/02 2019, 12/02 2019, 14/02 2019, 19/02 2019, 21/02 2019, 26/02 2019, 28/02 2019, 05/03 2019, 07/03 2019, 12/03 2019, 14/03 2019, 19/03 2019, 21/03 2019, 26/03 2019
+Teaching dates: 14/4 2019, 16/4 2019, 21/4 2019, 23/4 2019, 28/4 2019, 30/4 2019, 5/5 2019, 7/5 2019, 12/5 2019, 14/5 2019, 19/5 2019, 20/5 2019, 26/5 2019, 28/5 2019
 
 ### Course reading list
 
@@ -106,7 +107,7 @@ The detailed plan is below with a table summarizing lessons
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">5/2</td>
+      <td style="text-align:left">14/4</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Kali Linux VM - bring laptop</p>
@@ -125,7 +126,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/2</td>
+      <td style="text-align:left">16/4</td>
       <td style="text-align:left"><b>TCP/IP and Security in TCP/IP protocol suite</b>
       </td>
       <td style="text-align:left">Understand basic IP protocols and inherent security problems</td>
@@ -137,7 +138,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">12/2</td>
+      <td style="text-align:left">21/4</td>
       <td style="text-align:left"><b>Network Security Threats</b>
       </td>
       <td style="text-align:left">Know common threats in networks, and solutions</td>
@@ -147,7 +148,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/2</td>
+      <td style="text-align:left">23/4</td>
       <td style="text-align:left"><b>Traffic inspection and firewalls</b>
       </td>
       <td style="text-align:left">Understand basic firewall technologies</td>
@@ -162,7 +163,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">19/2</td>
+      <td style="text-align:left">28/4</td>
       <td style="text-align:left"><b>Encrypting the network</b>
       </td>
       <td style="text-align:left">Know how math, algorithms and protocols are used to ensure confidentiality and integrity</td>
@@ -173,7 +174,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">21/2</td>
+      <td style="text-align:left">30/4</td>
       <td style="text-align:left"><b>Virtual Private Networks</b>
       </td>
       <td style="text-align:left">Know methods of connecting securely across insecure networks</td>
@@ -190,7 +191,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">26/2</td>
+      <td style="text-align:left">5/5</td>
       <td style="text-align:left"><b>Wifi Security</b>
       </td>
       <td style="text-align:left">Knowledge of Wireless 802.11 and security methods used</td>
@@ -202,7 +203,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/2</td>
+      <td style="text-align:left">7/5</td>
       <td style="text-align:left"><b>Network Management</b>
       </td>
       <td style="text-align:left">Understand why managed networks are more secure</td>
@@ -213,7 +214,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">5/3</td>
+      <td style="text-align:left">12/5</td>
       <td style="text-align:left"><b>Network Intrusion Detection</b>
       </td>
       <td style="text-align:left">Learn how to sniff and detect network problems using IDS</td>
@@ -222,7 +223,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/3</td>
+      <td style="text-align:left">14/5</td>
       <td style="text-align:left"><b>Network Forensics</b>
       </td>
       <td style="text-align:left">Introduction to network investigations</td>
@@ -233,7 +234,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">12/3</td>
+      <td style="text-align:left">19/5</td>
       <td style="text-align:left"><b>Honeypots</b>
       </td>
       <td style="text-align:left">See how systems can attract attackers and monitor attacks</td>
@@ -242,7 +243,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/3</td>
+      <td style="text-align:left">20/5</td>
       <td style="text-align:left"><b>DNS and Email Security</b>
       </td>
       <td style="text-align:left">Learn the role of DNS in securing networks and systems</td>
@@ -255,7 +256,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>19/3</em> flyttes</td>
+      <td style="text-align:left">26/5</td>
       <td style="text-align:left"><b>Building Robust Networks</b>
       </td>
       <td style="text-align:left">Learn the process of securing a network using security components</td>
@@ -267,7 +268,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>21/3</em> flyttes</td>
+      <td style="text-align:left">28/5</td>
       <td style="text-align:left"><b>Running a Modern Network</b></td>
       <td style="text-align:left">Learn that your network is part of the bigger Internet, your security affects others</td>
       <td style="text-align:left">
@@ -278,7 +279,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">26/3</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"><b>Summary and prepare for the exam</b></td>
       <td style="text-align:left">Summary of the course</td>
       <td style="text-align:left">Everything read in the primary books</td>
