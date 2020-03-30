@@ -183,9 +183,6 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   <p>SOA chapter 7, Camel chapter 10</p>
     </p>
   </td>
-  <td style="text-align:left">
-  <p>SOA chapter 8-9 plus articles</p>
-  </td>
 </tr>
 <tr>
   <td style="text-align:left">Day 9 April 27 </br>4 lessons </td>
@@ -195,7 +192,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </p>
   </td>
   <td style="text-align:left">
-  <p>SOA chapter 10 and Appendix B</p>
+  <p>SOA chapter 8,9,10 and Appendix B</p>
   </td>
 </tr>
 <tr>
