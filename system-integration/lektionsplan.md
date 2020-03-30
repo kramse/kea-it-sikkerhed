@@ -89,7 +89,7 @@ The detailed plan is below with a table summarizing lessons
 </thead>
 <tbody>
 <tr>
-  <td style="text-align:left">Day 0 Feb 3 </br> 2 lessons</td>
+  <td style="text-align:left">Day 0 Feb 3</td>
   <td style="text-align:left">
     <p>Welcome, goals and expectations</br>
     </p>
@@ -99,7 +99,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 1 Feb 10 </br>4 lessons </td>
+  <td style="text-align:left">Day 1 Feb 10</td>
   <td style="text-align:left">
     <p>Integration intro</br>
     Java Apps, Tomcat, XML config, TCP/IP, DNS, HTTP intro<br>
@@ -111,7 +111,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 2 Feb 17 </br>4 lessons </td>
+  <td style="text-align:left">Day 2 Feb 17</td>
   <td style="text-align:left">
     <p>Starting out with Camel</br>
     </p>
@@ -121,7 +121,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 3 Feb 24 </br>4 lessons </td>
+  <td style="text-align:left">Day 3 Feb 24</td>
   <td style="text-align:left">
     <p>Data overview, XML data, JSON<br>
 Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
@@ -132,7 +132,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 4 March 2 </br>4 lessons </td>
+  <td style="text-align:left">Day 4 March 2</td>
   <td style="text-align:left">
     <p>Messaging, MQ systems</br>
     Publish-Subscribe, Enterprise Integration Patterns
@@ -143,7 +143,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 5 March 9 </br>4 lessons </td>
+  <td style="text-align:left">Day 5 March 9</td>
   <td style="text-align:left">
     <p>Using components, JMS</br>
     databases
@@ -154,7 +154,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 6 March 23 </br>4 lessons </td>
+  <td style="text-align:left">Day 6 March 23</td>
   <td style="text-align:left">
     <p>SOA, EAI, ESB - connecting the dots</br>
     </p>
@@ -164,21 +164,23 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 7 March 30 </br>4 lessons </td>
+  <td style="text-align:left">Day 7 March 30</td>
   <td style="text-align:left">
-    <p>Modern patterns and services</br>
-    REST, Microservices
-    </p>
+    <p>Microservices</p>
   </td>
   <td style="text-align:left">
-  <p>SOA chapter 6-7, Camel chapter 7,10, Microservices for Java chapter 1</p>
+  <p>SOA chapter 6, Camel chapter 7, Microservices for Java chapter 1</p>
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 8 April 20 </br>4 lessons </td>
+  <td style="text-align:left">Day 8 April 20</td>
   <td style="text-align:left">
-    <p>Continued from day 7</br>
-    GRPC, msgpack, protobuf, apache thrift etc.
+    <p>
+    REST
+    </p>
+  </td>
+  <td style="text-align:left">
+  <p>SOA chapter 7, Camel chapter 10</p>
     </p>
   </td>
   <td style="text-align:left">
@@ -222,6 +224,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   <td style="text-align:left">Day 12 May 25 </br>4 lessons </td>
   <td style="text-align:left">
     <p>Cloud and Cloud integration</br>
+    GRPC, msgpack, protobuf, apache thrift etc.
     </p>
   </td>
   <td style="text-align:left">
