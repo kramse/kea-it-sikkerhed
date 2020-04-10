@@ -29,7 +29,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date June 11. 2019
+Date June 11. 2020
 
 ### Teaching Methods:
 
@@ -37,7 +37,7 @@ Date June 11. 2019
 * Group exercises and cases, including practical exercises with laptop
 * 17:00 - 20:30 Online meetup and exercises - planned!
 
-Teaching dates: 14/4 2019, 16/4 2019, 21/4 2019, 23/4 2019, 28/4 2019, 30/4 2019, 5/5 2019, 7/5 2019, 12/5 2019, 14/5 2019, 19/5 2019, 20/5 2019, 26/5 2019, 28/5 2019
+Teaching dates: 14/4 2020, 16/4 2020, 21/4 2020, 23/4 2020, 28/4 2020, 30/4 2020, 5/5 2020, 7/5 2020, 12/5 2020, 14/5 2020, 19/5 2020, 20/5 2020, 26/5 2020, 28/5 2020
 
 ### Course reading list
 
