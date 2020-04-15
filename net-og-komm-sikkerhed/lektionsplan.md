@@ -281,7 +281,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"></td>
       <td style="text-align:left"><b>Summary and prepare for the exam</b></td>
       <td style="text-align:left">Summary of the course</td>
-      <td style="text-align:left">Everything read in the primary books</td>
+      <td style="text-align:left">Everything read in the primary books, listed above</td>
     </tr>
   </tbody>
 </table>
