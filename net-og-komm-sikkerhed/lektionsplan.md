@@ -248,11 +248,12 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Learn the role of DNS in securing networks and systems</td>
       <td style="text-align:left">
+      <p>Read ANSM chapter 14,15 - 66 pages</p>
       <p>Re-read PPA DNS pages 173-183</p>
-      <p>https://en.wikipedia.org/wiki/Sender_Policy_Framework</br>
+      <p>Browse https://en.wikipedia.org/wiki/Sender_Policy_Framework</br>
       https://en.wikipedia.org/wiki/DMARC</br>
       https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail</p>
-      <p>ANSM chapter 14,15 - 66 pages</p>
+
       </td>
     </tr>
     <tr>
@@ -261,10 +262,9 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Learn the process of securing a network using security components</td>
       <td style="text-align:left">
-      <p>Read
-      <p>ANSM chapter 5,6 - 50 pages</br>
-      _Campus Network Security: High Level Overview_</br>
-      _Campus Operations Best Current Practice_ from NSRC</p
+      <p>Read ANSM chapter 5,6 - 50 pages,</br>
+      _Campus Network Security: High Level Overview_ NSRC,</br>
+      _Campus Operations Best Current Practice_ NSRC</p>
       <p>Download, but dont read it all https://nsrc.org/workshops/2015/apricot2015/raw-attachment/wiki/Track1Agenda/01-ISP-Network-Design.pdf</p>
       </td>
     </tr>
@@ -274,8 +274,8 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">Learn that your network is part of the bigger Internet, your security affects others</td>
       <td style="text-align:left">
       <p>Browse https://www.manrs.org/  and read these https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
-      https://tools.ietf.org/pdf/bcp38.pdf</br>
-      Browse 
+      https://tools.ietf.org/pdf/bcp38.pdf</p>
+      <p>Skim
       RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks
       </p>
       </td>
