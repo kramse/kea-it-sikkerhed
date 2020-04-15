@@ -178,6 +178,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Know methods of connecting securely across insecure networks</td>
       <td style="text-align:left">
+      <p>ANSM chapter 7,8 - 54 pages</p>
       <p>https://en.wikipedia.org/wiki/Virtual_private_network</br>
       https://kb.juniper.net/InfoCenter/index?page=content&id=KB11104  IPSec VPN between JUNOS and Cisco IOS</p>
       <p>Skim:</br>
@@ -218,7 +219,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Learn how to sniff and detect network problems using IDS</td>
       <td style="text-align:left">
-      <p>ANSM chapter 7,8,9,10 - 140 pages</p>
+      <p>ANSM chapter 9,10 - 86 pages</p>
       </td>
     </tr>
     <tr>
