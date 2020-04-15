@@ -129,8 +129,8 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Understand basic IP protocols and inherent security problems</td>
       <td style="text-align:left">
-      <p>PPA chapters 1,2,3 - 52 pages</br>
-      ANSM chapter 13 - 44 pages
+      <p>Read:PPA chapters 1,2,3 - 52 pages,</br>
+      ANSM chapter 13 - 44 pages</p>
       Skim papers <em>Security problems in the TCP/IP protocol suite</em>
       and <em>A Look Back at "Security Problems ..."</em></p>
       </td>
@@ -141,8 +141,8 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Know common threats in networks, and solutions</td>
       <td style="text-align:left">
-      <p>PPA chapters 4,5,6 - 66 pages</p><br>
-      Skim papers <em>Strange Attractors and TCP/IP Sequence Number Analysis</em></p>
+      <p>Read:PPA chapters 4,5,6 - 66 pages</p>
+      <p>Skim papers <em>Strange Attractors and TCP/IP Sequence Number Analysis</em></p>
       </td>
     </tr>
     <tr>
@@ -151,7 +151,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Understand basic firewall technologies</td>
       <td style="text-align:left">
-      <p>ANSM chapter 1,2,3 - 73 pages</br>
+      <p>Read:ANSM chapter 1,2,3 - 73 pages</br>
       https://en.wikipedia.org/wiki/Firewall_(computing)</br>
       http://www.wilyhacker.com/ Cheswick chapter 2 og 3 PDF, ca 55 pages</p>
       <p>Skim chapters from 1st edition:</br>
@@ -166,7 +166,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Know how math, algorithms and protocols are used to ensure confidentiality and integrity</td>
       <td style="text-align:left">
-      <p>PPA chapters 7,8,9 - 80 pages </p><br>
+      <p>Read:PPA chapters 7,8,9 - 80 pages </p><br>
       <p>Skim table of contents of
       RFC5246 The TLS Protocol Version 1.2</br> and the wikipedia page
       https://en.wikipedia.org/wiki/Transport_Layer_Security</p>
@@ -178,7 +178,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Know methods of connecting securely across insecure networks</td>
       <td style="text-align:left">
-      <p>ANSM chapter 7,8 - 54 pages</p>
+      <p>Read:ANSM chapter 7,8 - 54 pages,</p>
       <p>https://en.wikipedia.org/wiki/Virtual_private_network</br>
       https://kb.juniper.net/InfoCenter/index?page=content&id=KB11104  IPSec VPN between JUNOS and Cisco IOS</p>
       <p>Skim:</br>
@@ -196,7 +196,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Knowledge of Wireless 802.11 and security methods used</td>
       <td style="text-align:left">
-      <p>PPA chapters 12, 13 - 60 pages</p>
+      <p>Read:PPA chapters 12, 13 - 60 pages</p>
       <p>Skim:</br>
       http://aircrack-ng.org/doku.php?id=cracking_wpa
       </p>
@@ -208,7 +208,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Understand why managed networks are more secure</td>
       <td style="text-align:left">
-      <p>PPA chapter 10,11 - 58 pages </p>
+      <p>Read: PPA chapter 10,11 - 58 pages </p>
       <p>Skim:</br>
       https://nsrc.org/workshops/2015/sanog25-nmm-tutorial/materials/snmp.pdf</p>
       </td>
@@ -248,8 +248,8 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Learn the role of DNS in securing networks and systems</td>
       <td style="text-align:left">
-      <p>Read ANSM chapter 14,15 - 66 pages</p>
-      <p>Re-read PPA DNS pages 173-183</p>
+      <p>Read:ANSM chapter 14,15 - 66 pages</p>
+      <p>Re-Read:PPA DNS pages 173-183</p>
       <p>Browse https://en.wikipedia.org/wiki/Sender_Policy_Framework</br>
       https://en.wikipedia.org/wiki/DMARC</br>
       https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail</p>
@@ -262,10 +262,10 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Learn the process of securing a network using security components</td>
       <td style="text-align:left">
-      <p>Read ANSM chapter 5,6 - 50 pages,</br>
+      <p>Read:ANSM chapter 5,6 - 50 pages,</br>
       _Campus Network Security: High Level Overview_ NSRC,</br>
       _Campus Operations Best Current Practice_ NSRC</p>
-      <p>Download, but dont read it all https://nsrc.org/workshops/2015/apricot2015/raw-attachment/wiki/Track1Agenda/01-ISP-Network-Design.pdf</p>
+      <p>Download, but dont Read:it all https://nsrc.org/workshops/2015/apricot2015/raw-attachment/wiki/Track1Agenda/01-ISP-Network-Design.pdf</p>
       </td>
     </tr>
     <tr>
@@ -273,7 +273,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><b>Running a Modern Network</b></td>
       <td style="text-align:left">Learn that your network is part of the bigger Internet, your security affects others</td>
       <td style="text-align:left">
-      <p>Browse https://www.manrs.org/  and read these https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
+      <p>Browse https://www.manrs.org/  and Read:these https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
       https://tools.ietf.org/pdf/bcp38.pdf</p>
       <p>Skim
       RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks
@@ -284,7 +284,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"></td>
       <td style="text-align:left"><b>Summary and prepare for the exam</b></td>
       <td style="text-align:left">Summary of the course</td>
-      <td style="text-align:left">Everything read in the primary books, listed above</td>
+      <td style="text-align:left">Everything Read:in the primary books, listed above</td>
     </tr>
   </tbody>
 </table>
