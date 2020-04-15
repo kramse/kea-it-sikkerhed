@@ -228,7 +228,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Introduction to network investigations</td>
       <td style="text-align:left">
-      <p>ANSM chapter 4,5,6 - 75 pages</br>
+      <p>ANSM chapter 4 - 24 pages</br>
       Zeek documentation Intel framework https://docs.zeek.org/en/stable/frameworks/intel.html<br>
       Suricata reputation support https://suricata.readthedocs.io/en/suricata-4.0.5/reputation/index.html</p>
       </td>
@@ -262,8 +262,8 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">Learn the process of securing a network using security components</td>
       <td style="text-align:left">
       <p>Read</br>
-      https://nsrc.org/workshops/2018/myren-nsrc-cndo/networking/cndo/en/presentations/Campus_Security_Overview.pdf</br>
-      https://nsrc.org/workshops/2018/tenet-nsrc-cndo/networking/cndo/en/presentations/Campus_Operations_BCP.pdf
+      <p>ANSM chapter 5,6 - 50 pages</br>
+      _Campus Network Security: High Level Overview_ _Campus Operations Best Current Practice_ from Network Startup Resource Center  </p
       <p>Download, but dont read it all https://nsrc.org/workshops/2015/apricot2015/raw-attachment/wiki/Track1Agenda/01-ISP-Network-Design.pdf</p>
       </td>
     </tr>
