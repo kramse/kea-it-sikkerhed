@@ -61,7 +61,7 @@ _A Look Back at “Security Problems in the TCP/IP Protocol Suite”_ https://ww
 * _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ , Bill Cheswick, AT&T Bell Laboratories http://www.cheswick.com/ches/papers/berferd.pdf
 * _Firewalls and Internet Security: Repelling the Wily Hacker_ , Second Edition, William R. Cheswick, Steven M. Bellovin, and Aviel D. Rubin
 http://www.wilyhacker.com/ - shortened Cheswick
-* _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
+* _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) Download latest version - currently version 0.5 [https://toc.cryptobook.us/book.pdff](https://toc.cryptobook.us/book.pdf)
 * _RFC5246 The Transport Layer Security (TLS)_ https://tools.ietf.org/html/rfc5246
 * _Strange Attractors and TCP/IP Sequence Number Analysis_ , Michal Zalewski [http://lcamtuf.coredump.cx/newtcp/](http://lcamtuf.coredump.cx/newtcp/)
 * _WireGuard: Next Generation Kernel Network Tunnel_, https://www.wireguard.com/papers/wireguard.pdf
