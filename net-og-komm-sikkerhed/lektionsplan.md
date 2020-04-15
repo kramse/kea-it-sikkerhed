@@ -261,9 +261,10 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Learn the process of securing a network using security components</td>
       <td style="text-align:left">
-      <p>Read</br>
+      <p>Read
       <p>ANSM chapter 5,6 - 50 pages</br>
-      _Campus Network Security: High Level Overview_ _Campus Operations Best Current Practice_ from Network Startup Resource Center  </p
+      _Campus Network Security: High Level Overview_</br>
+      _Campus Operations Best Current Practice_ from NSRC</p
       <p>Download, but dont read it all https://nsrc.org/workshops/2015/apricot2015/raw-attachment/wiki/Track1Agenda/01-ISP-Network-Design.pdf</p>
       </td>
     </tr>
@@ -272,8 +273,9 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><b>Running a Modern Network</b></td>
       <td style="text-align:left">Learn that your network is part of the bigger Internet, your security affects others</td>
       <td style="text-align:left">
-      <p>Browse https://www.manrs.org/  and read this https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
+      <p>Browse https://www.manrs.org/  and read these https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
       https://tools.ietf.org/pdf/bcp38.pdf</br>
+      Browse 
       RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks
       </p>
       </td>
