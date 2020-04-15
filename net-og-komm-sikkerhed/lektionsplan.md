@@ -131,7 +131,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">
       <p>Read: PPA chapters 1,2,3 - 52 pages,</br>
       ANSM chapter 13 - 44 pages</p>
-      Skim papers <em>Security problems in the TCP/IP protocol suite</em>
+      <p>Skim papers <em>Security problems in the TCP/IP protocol suite</em>
       and <em>A Look Back at "Security Problems ..."</em></p>
       </td>
     </tr>
