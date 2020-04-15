@@ -131,7 +131,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">
       <p>Read: PPA chapters 1,2,3 - 52 pages,</br>
       ANSM chapter 13 - 44 pages</p>
-      <p>Skim papers <em>Security problems in the TCP/IP protocol suite</em>
+      <p>Skim: papers <em>Security problems in the TCP/IP protocol suite</em>
       and <em>A Look Back at "Security Problems ..."</em></p>
       </td>
     </tr>
@@ -142,7 +142,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">Know common threats in networks, and solutions</td>
       <td style="text-align:left">
       <p>Read: PPA chapters 4,5,6 - 66 pages</p>
-      <p>Skim papers <em>Strange Attractors and TCP/IP Sequence Number Analysis</em></p>
+      <p>Skim: papers <em>Strange Attractors and TCP/IP Sequence Number Analysis</em></p>
       </td>
     </tr>
     <tr>
@@ -154,7 +154,7 @@ The detailed plan is below with a table summarizing lessons
       <p>Read: ANSM chapter 1,2,3 - 73 pages</br>
       https://en.wikipedia.org/wiki/Firewall_(computing)</br>
       http://www.wilyhacker.com/ Cheswick chapter 2 og 3 PDF, ca 55 pages</p>
-      <p>Skim chapters from 1st edition:</br>
+      <p>Skim: chapters from 1st edition:</br>
       http://www.wilyhacker.com/1e/chap03.pdf
       http://www.wilyhacker.com/1e/chap04.pdf
       </p>
@@ -167,7 +167,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">Know how math, algorithms and protocols are used to ensure confidentiality and integrity</td>
       <td style="text-align:left">
       <p>Read: PPA chapters 7,8,9 - 80 pages </p>
-      <p>Skim table of contents of
+      <p>Skim: table of contents of
       RFC5246 The TLS Protocol Version 1.2</br> and the wikipedia page
       https://en.wikipedia.org/wiki/Transport_Layer_Security</p>
       </td>
@@ -275,7 +275,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">
       <p>Browse https://www.manrs.org/  and Read:these https://www.manrs.org/wp-content/uploads/2018/09/MANRS_PDF_Sep2016.pdf
       https://tools.ietf.org/pdf/bcp38.pdf</p>
-      <p>Skim
+      <p>Skim:
       RFC2827: Network Ingress Filtering: Defeating Denial of Service Attacks
       </p>
       </td>
