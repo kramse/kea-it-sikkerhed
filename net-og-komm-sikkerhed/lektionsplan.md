@@ -129,9 +129,9 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Understand basic IP protocols and inherent security problems</td>
       <td style="text-align:left">
-      <p>PPA until and including chapter 4 - ca 75 pages</br>
+      <p>PPA chapters 1,2,3 - 52 pages</br>
       ANSM chapter 13 - 44 pages
-      Paper <em>Security problems in the TCP/IP protocol suite</em>
+      Skim papers <em>Security problems in the TCP/IP protocol suite</em>
       and <em>A Look Back at "Security Problems ..."</em></p>
       </td>
     </tr>
@@ -141,8 +141,8 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Know common threats in networks, and solutions</td>
       <td style="text-align:left">
-      <p>PPA chapter 5,6,7,8,12 - 124 pages</p><br>
-      <p>Strange Attractors and TCP/IP Sequence Number Analysis</p>
+      <p>PPA chapters 4,5,6 - 66 pages</p><br>
+      Skim papers <em>Strange Attractors and TCP/IP Sequence Number Analysis</em></p>
       </td>
     </tr>
     <tr>
@@ -166,8 +166,9 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Know how math, algorithms and protocols are used to ensure confidentiality and integrity</td>
       <td style="text-align:left">
-      <p>Skim:</br>
-      https://tools.ietf.org/html/rfc5246 The Transport Layer Security (TLS) Protocol Version 1.2</br>
+      <p>PPA chapters 7,8,9 - 80 pages </p><br>
+      <p>Skim table of contents of
+      RFC5246 The TLS Protocol Version 1.2</br> and the wikipedia page
       https://en.wikipedia.org/wiki/Transport_Layer_Security</p>
       </td>
     </tr>
@@ -194,7 +195,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Knowledge of Wireless 802.11 and security methods used</td>
       <td style="text-align:left">
-      <p>PPA chapter 13 - 22 pages</p>
+      <p>PPA chapters 12, 13 - 60 pages</p>
       <p>Skim:</br>
       http://aircrack-ng.org/doku.php?id=cracking_wpa
       </p>
@@ -206,7 +207,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Understand why managed networks are more secure</td>
       <td style="text-align:left">
-      <p>PPA chapter 9,10,11 - 94 pages </p>
+      <p>PPA chapter 10,11 - 58 pages </p>
       <p>Skim:</br>
       https://nsrc.org/workshops/2015/sanog25-nmm-tutorial/materials/snmp.pdf</p>
       </td>
