@@ -188,7 +188,8 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   <td style="text-align:left">Day 9 April 27 </br>4 lessons </td>
   <td style="text-align:left">
     <p> asynchronous and synchronous</br>
-    APIs, versioning, contracts
+    APIs, versioning, contracts</br>
+    GRPC, msgpack, protobuf, apache thrift etc.
     </p>
   </td>
   <td style="text-align:left">
@@ -220,8 +221,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
 <tr>
   <td style="text-align:left">Day 12 May 25 </br>4 lessons </td>
   <td style="text-align:left">
-    <p>Cloud and Cloud integration</br>
-    GRPC, msgpack, protobuf, apache thrift etc.
+    <p>Cloud and Cloud integration
     </p>
   </td>
   <td style="text-align:left">
