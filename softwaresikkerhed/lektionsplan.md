@@ -57,7 +57,6 @@ Primary literature:
 
 * The Art of Software Security Testing Identifying Software Security Flaws,
 Chris Wysopal, 2006, ISBN: 9780321304865, AoST or the Green Book
-
 * Web Application Security, Andrew Hoffman, 2020, ISBN: 9781492053118 called WAS below
 * Hacking, 2nd Edition: The Art of Exploitation, Jon Erickson, February 2008, ISBN-13: 9781593271442
 * 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them, Michael Howard, David LeBlanc, John Viega, ISBN: 9780071626750, 2010 The McGraw-Hill Companies
@@ -252,11 +251,11 @@ The detailed plan is below with a table summarizing lessons.
 
     <tr>
       <td style="text-align:left">6/10</td>
-      <td style="text-align:left"><b>Security Design</b>
+      <td style="text-align:left"><b>Security Design and Defense</b>
       </td>
       <td style="text-align:left">
       <p> Security by Design Principles, OWASP https://www.owasp.org/index.php/Security_by_Design_Principles
-      Wikipedia Privacy by Design https://en.wikipedia.org/wiki/Privacy_by_design </p>
+      Wikipedia Privacy by Design https://en.wikipedia.org/wiki/Privacy_by_design . WAS chapters chapters 17-21, very short chapters </p>
       </td>
     </tr>
     <tr>
@@ -270,7 +269,7 @@ The detailed plan is below with a table summarizing lessons.
   </tbody>
 </table>
 
-This plan will make us read all of the green book AoST and all of the white WAS one AoSSA. This will be the exam materials. The rest is left as an optional reading.
+This plan will make us read parts of the books.  Only chapters listed will be part of the exam. The rest is left as an optional reading.
 
 **Introduction and Welcome**
 
