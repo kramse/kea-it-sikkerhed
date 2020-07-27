@@ -59,7 +59,11 @@ Primary literature:
 Chris Wysopal, 2006, ISBN: 9780321304865, named AoST or the Green Book
 * Web Application Security, Andrew Hoffman, 2020, ISBN: 9781492053118 called WAS below
 * Hacking, 2nd Edition: The Art of Exploitation, Jon Erickson, February 2008, ISBN-13: 9781593271442, called just hacking below
-* 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them, Michael Howard, David LeBlanc, John Viega, ISBN: 9780071626750, 2010 The McGraw-Hill Companies, named 24-deadly below
+
+It is recommended to buy the _Pwning OWASP Juice Shop_
+Official companion guide to the OWASP Juice Shop.
+
+From [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99
 
 It is recommended to buy these books.
 
@@ -79,10 +83,8 @@ We will also use the OWASP Juice Shop Tool Project as a running example. This is
 Read more about this project at [https://www.owasp.org/index.php/OWASP_Juice_Shop_Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) and
 [https://github.com/bkimminich/juice-shop](https://github.com/bkimminich/juice-shop)
 
-It is recommended to buy the _Pwning OWASP Juice Shop_
-Official companion guide to the OWASP Juice Shop.
 
-From [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99
+* 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them, Michael Howard, David LeBlanc, John Viega, ISBN: 9780071626750, 2010 The McGraw-Hill Companies, named 24-deadly below
 
 Supporting Internet resources
 
