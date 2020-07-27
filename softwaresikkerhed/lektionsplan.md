@@ -188,16 +188,16 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">8/9</td>
-      <td style="text-align:left"><b>Web Application Hacking Intro</b></td>
+      <td style="text-align:left"><b>Web Application Security: Recon</b></td>
       <td style="text-align:left">
       <p>AoST chapters 6,7,8,9 - ca 72 pages.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">10/9</td>
-      <td style="text-align:left"><b>Fuzzing intro</b></td>
+      <td style="text-align:left"><b>Web Application Security</b></td>
       <td style="text-align:left">
-      <p>AoST chapters 10,11,12 - ca 65 pages.</p>
+      <p>WAS chapters 1-8, very short chapters </p>
       </td>
     </tr>
 
@@ -237,16 +237,16 @@ The detailed plan is below with a table summarizing lessons.
 
     <tr>
       <td style="text-align:left">29/9</td>
-      <td style="text-align:left"><b>Network Attacks</b></td>
+      <td style="text-align:left"><b>Hacking Web Applications: Offensive</b></td>
       <td style="text-align:left">
-      <p>AoSSA chapter 16 - ca 80 pages!</p><p>Will also use examples from chapters 17,18 so browse Table of Contents for those.</p>
+      <p>WAS chapters 9-16, very short chapters</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">1/10</td>
-      <td style="text-align:left"><b>Software Assessment</b></td>
+      <td style="text-align:left"><b>Fuzzing intro</b></td>
       <td style="text-align:left">
-      <p>AoSSA chapters 1,2,3,4 - many pages, skim if you need to.</b></p>
+      <p>AoST chapters 10,11,12 - ca 65 pages</b></p>
       </td>
     </tr>
 
