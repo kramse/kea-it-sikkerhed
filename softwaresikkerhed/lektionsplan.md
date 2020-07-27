@@ -56,9 +56,11 @@ This course uses three books and a number of supporting resources.
 Primary literature:
 
 * The Art of Software Security Testing Identifying Software Security Flaws,
-Chris Wysopal ISBN: 9780321304865, AoST or the Green Book
+Chris Wysopal, 2006, ISBN: 9780321304865, AoST or the Green Book
 
-* Web Application Security, Andrew Hoffman, ISBN: 9781492053118 called WAS below
+* Web Application Security, Andrew Hoffman, 2020, ISBN: 9781492053118 called WAS below
+* Hacking, 2nd Edition: The Art of Exploitation, Jon Erickson, February 2008, ISBN-13: 9781593271442
+* 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them, Michael Howard, David LeBlanc, John Viega, ISBN: 9780071626750, 2010 The McGraw-Hill Companies
 
 It is recommended to buy these books.
 
@@ -203,36 +205,35 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">15/9</td>
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
-      <p>This week AoSSA chapters 6,5 - ca 129 pages.</p>
-
+      <p>Next three evenings Hacking chapters 1-3 - browse if you need to, many pages.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">17/9</td>
-      <td style="text-align:left"><b>Program Building blocks</b></td>
+      <td style="text-align:left"><b>Program Building blocks and exploitation</b></td>
      <td style="text-align:left">
-     <p>AoSSA chapter 7 - ca 90 pages.</p>
+     <p>Hacking chapters 1-3</p>
       </td>
     </tr>
 
     <tr>
       <td style="text-align:left">22/9</td>
-      <td style="text-align:left"><b>Strings and Metacharacters</b></td>
+      <td style="text-align:left"><b>Strings and Pointers</b></td>
       <td style="text-align:left">
-      <p>AoSSA chapter 8 - ca 70 pages.</p>
+      <p>Hacking chapters 1-3</p>
       </td>
     </tr>
-
 
     <tr>
       <td style="text-align:left">24/9</td>
       <td style="text-align:left"><b>Network Attacks Intro</b></td>
       <td style="text-align:left">
-      <p>AoSSA chapters 14,15 - ca 90 pages!</p>
+      <p>Hacking chapters 4 browse!</p>
       <p>TCP Synfloods - an old yet current problem, BSDCan slides
       </p>
       </td>
     </tr>
+
 
     <tr>
       <td style="text-align:left">29/9</td>
