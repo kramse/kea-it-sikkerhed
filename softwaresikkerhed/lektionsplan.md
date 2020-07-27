@@ -56,10 +56,10 @@ This course uses three books and a number of supporting resources.
 Primary literature:
 
 * The Art of Software Security Testing Identifying Software Security Flaws,
-Chris Wysopal, 2006, ISBN: 9780321304865, AoST or the Green Book
+Chris Wysopal, 2006, ISBN: 9780321304865, named AoST or the Green Book
 * Web Application Security, Andrew Hoffman, 2020, ISBN: 9781492053118 called WAS below
-* Hacking, 2nd Edition: The Art of Exploitation, Jon Erickson, February 2008, ISBN-13: 9781593271442
-* 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them, Michael Howard, David LeBlanc, John Viega, ISBN: 9780071626750, 2010 The McGraw-Hill Companies
+* Hacking, 2nd Edition: The Art of Exploitation, Jon Erickson, February 2008, ISBN-13: 9781593271442, called just hacking below
+* 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them, Michael Howard, David LeBlanc, John Viega, ISBN: 9780071626750, 2010 The McGraw-Hill Companies, named 24-deadly below
 
 It is recommended to buy these books.
 
@@ -172,7 +172,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Initial Overview of Software Security</b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>Curriculum: AoST chapters 2</p>
+      <p>Curriculum: AoST chapters 2, 24-deadly introduction before page 1</p>
       <p>Supporting litterature: _Secure Programming for Linux and Unix HOWTO_ and _A Graduate Course in Applied Cryptography_</p>
       </td>
     </tr>
@@ -194,7 +194,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">10/9</td>
-      <td style="text-align:left"><b>Web Application Security</b></td>
+      <td style="text-align:left"><b>Web Application Security: Recon and Offensive</b></td>
       <td style="text-align:left">
       <p>WAS chapters 1-8, very short chapters </p>
       </td>
@@ -202,13 +202,22 @@ The detailed plan is below with a table summarizing lessons.
 
     <tr>
       <td style="text-align:left">15/9</td>
+      <td style="text-align:left"><b>Hacking Web Applications: Offensive</b></td>
+      <td style="text-align:left">
+      <p>WAS chapters 9-16, very short chapters</p>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="text-align:left">17/9</td>
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
-      <p>Next three evenings Hacking chapters 1-3 - browse if you need to, many pages.</p>
+      <p>Next three evenings Hacking chapters 1-3 and 24-deadly chapters 5-8 - browse if you need to, many pages.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">17/9</td>
+      <td style="text-align:left">22/9</td>
       <td style="text-align:left"><b>Program Building blocks and exploitation</b></td>
      <td style="text-align:left">
      <p>Hacking chapters 1-3</p>
@@ -216,7 +225,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">22/9</td>
+      <td style="text-align:left">24/9</td>
       <td style="text-align:left"><b>Strings and Pointers</b></td>
       <td style="text-align:left">
       <p>Hacking chapters 1-3</p>
@@ -224,7 +233,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">24/9</td>
+      <td style="text-align:left">29/9</td>
       <td style="text-align:left"><b>Network Attacks Intro</b></td>
       <td style="text-align:left">
       <p>Hacking chapters 4 browse!</p>
@@ -233,14 +242,6 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
 
-
-    <tr>
-      <td style="text-align:left">29/9</td>
-      <td style="text-align:left"><b>Hacking Web Applications: Offensive</b></td>
-      <td style="text-align:left">
-      <p>WAS chapters 9-16, very short chapters</p>
-      </td>
-    </tr>
     <tr>
       <td style="text-align:left">1/10</td>
       <td style="text-align:left"><b>Fuzzing intro</b></td>
