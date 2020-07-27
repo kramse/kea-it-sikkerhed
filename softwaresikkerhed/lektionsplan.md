@@ -26,7 +26,7 @@ See more about the course in the official curriculum which can be downloaded fro
 
 ### Exam:
 
-Date 22/10 2019
+Date 20/10 2020
 
 ### Teaching Methods:
 
@@ -34,7 +34,7 @@ Date 22/10 2019
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates:
-27/8 2019, 29/8 2019, 3/9 2019, 10/9 2019, 11/9 2019, 12/9 2019, 17/9 2019, 19/9 2019, 24/9 2019, 1/10 2019, 3/10 2019, 8/10 2019, 9/10 2019, 10/10 2019
+25/8 2020, 27/8 2020, 1/9 2020, 3/9 2020, 8/9 2020, 10/9 2020, 15/9 2020, 17/9 2020, 22/9 2020, 24/9 2020, 29/10 2020, 1/10 2020, 6/10 2020, 8/10 2020
 
 Make sure to mark dates in your calendar - some weeks will have lessons tuesday/thursdays, some weeks will have three days in a row - tuesday, wednesday, thursday.
 
@@ -43,7 +43,7 @@ Make sure to mark dates in your calendar - some weeks will have lessons tuesday/
 Since we are going to be doing exercises, each team will need two virtual machines.
 
 The following are two recommended models:
-* One based on Debian 9, running software servers and web applications
+* One based on Debian, running software servers and web applications
 * One based on Kali Linux, running attacks against software
 
 Read more about these at [https://github.com/kramse/kramse-labs](https://github.com/kramse/kramse-labs)
@@ -55,11 +55,10 @@ This course uses three books and a number of supporting resources.
 
 Primary literature:
 
-* The Art of Software Security Testing Identifying Software Security Flaws
+* The Art of Software Security Testing Identifying Software Security Flaws,
 Chris Wysopal ISBN: 9780321304865, AoST or the Green Book
-* The Art of Software Security Assessment Identifying and Preventing
-Software Vulnerabilities
-Mark Dowd, John McDonald, Justin Schuh ISBN: 9780321444424, AoSSA or the Red Book
+
+* Web Application Security, Andrew Hoffman, ISBN: 9781492053118 called WAS below
 
 It is recommended to buy these books.
 
@@ -142,7 +141,7 @@ The detailed plan is below with a table summarizing lessons.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">27/8</td>
+      <td style="text-align:left">25/8</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Virtual Machines - bring laptop</p>
@@ -159,7 +158,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">29/8</td>
+      <td style="text-align:left">27/8</td>
       <td style="text-align:left"><b>Lab setup and Programming Knowledge</b><p>Do some initial programming</p></td>
       <td style="text-align:left">
       <p>Linux introduction and familiarisation </p>
@@ -168,7 +167,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">3/9</td>
+      <td style="text-align:left">1/9</td>
       <td style="text-align:left"><b>Initial Overview of Software Security</b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
@@ -178,7 +177,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">10/9</td>
+      <td style="text-align:left">3/9</td>
       <td style="text-align:left"><b>SDLC and risk ranking</b>
       </td>
       <td style="text-align:left">
@@ -186,14 +185,14 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/9</td>
+      <td style="text-align:left">8/9</td>
       <td style="text-align:left"><b>Web Application Hacking Intro</b></td>
       <td style="text-align:left">
       <p>AoST chapters 6,7,8,9 - ca 72 pages.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">12/9</td>
+      <td style="text-align:left">10/9</td>
       <td style="text-align:left"><b>Fuzzing intro</b></td>
       <td style="text-align:left">
       <p>AoST chapters 10,11,12 - ca 65 pages.</p>
@@ -201,7 +200,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">17/9</td>
+      <td style="text-align:left">15/9</td>
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
       <p>This week AoSSA chapters 6,5 - ca 129 pages.</p>
@@ -209,7 +208,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">19/9</td>
+      <td style="text-align:left">17/9</td>
       <td style="text-align:left"><b>Program Building blocks</b></td>
      <td style="text-align:left">
      <p>AoSSA chapter 7 - ca 90 pages.</p>
@@ -217,7 +216,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">24/9</td>
+      <td style="text-align:left">22/9</td>
       <td style="text-align:left"><b>Strings and Metacharacters</b></td>
       <td style="text-align:left">
       <p>AoSSA chapter 8 - ca 70 pages.</p>
@@ -226,7 +225,7 @@ The detailed plan is below with a table summarizing lessons.
 
 
     <tr>
-      <td style="text-align:left">1/10</td>
+      <td style="text-align:left">24/9</td>
       <td style="text-align:left"><b>Network Attacks Intro</b></td>
       <td style="text-align:left">
       <p>AoSSA chapters 14,15 - ca 90 pages!</p>
@@ -236,14 +235,14 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">3/10</td>
+      <td style="text-align:left">29/9</td>
       <td style="text-align:left"><b>Network Attacks</b></td>
       <td style="text-align:left">
       <p>AoSSA chapter 16 - ca 80 pages!</p><p>Will also use examples from chapters 17,18 so browse Table of Contents for those.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8/10</td>
+      <td style="text-align:left">1/10</td>
       <td style="text-align:left"><b>Software Assessment</b></td>
       <td style="text-align:left">
       <p>AoSSA chapters 1,2,3,4 - many pages, skim if you need to.</b></p>
@@ -251,7 +250,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">9/10</td>
+      <td style="text-align:left">6/10</td>
       <td style="text-align:left"><b>Security Design</b>
       </td>
       <td style="text-align:left">
@@ -260,7 +259,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">10/10</td>
+      <td style="text-align:left">8/10</td>
       <td style="text-align:left"><b>General questions and summary</b></td>
       <td style="text-align:left">
       <p>We will do a practice exam and talk about exam subjects.</p>
@@ -270,7 +269,7 @@ The detailed plan is below with a table summarizing lessons.
   </tbody>
 </table>
 
-This plan will make us read all of the green book AoST and parts of the red one AoSSA - the rest is left as an optional reading.
+This plan will make us read all of the green book AoST and all of the white WAS one AoSSA. This will be the exam materials. The rest is left as an optional reading.
 
 **Introduction and Welcome**
 
