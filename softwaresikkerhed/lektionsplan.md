@@ -65,7 +65,7 @@ Official companion guide to the OWASP Juice Shop.
 
 From [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99
 
-It is recommended to buy these books.
+It is recommended to buy these books listed above.
 
 
 Supporting literature:
