@@ -70,11 +70,13 @@ It is recommended to buy these books.
 
 Supporting literature:
 
+* 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them, Michael Howard, David LeBlanc, John Viega, ISBN: 9780071626750, 2010 The McGraw-Hill Companies, named 24-deadly below
+
+Additional software security problems, listed language agnostically and with small examples. Highly recommended for programmers.
+
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
 This book introduces the Linux operating system commands, using Kali Linux as example. The tools presented include a lot of generic Unix tools. If you have no experience with Linux or Unix it is recommended to buy this book.
-
-Also the course will use internet links and pages. These can be downloaded from the internet often for free and may be gathered by the instructor for easy download.
 
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 
@@ -83,10 +85,9 @@ We will also use the OWASP Juice Shop Tool Project as a running example. This is
 Read more about this project at [https://www.owasp.org/index.php/OWASP_Juice_Shop_Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) and
 [https://github.com/bkimminich/juice-shop](https://github.com/bkimminich/juice-shop)
 
-
-* 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them, Michael Howard, David LeBlanc, John Viega, ISBN: 9780071626750, 2010 The McGraw-Hill Companies, named 24-deadly below
-
 Supporting Internet resources
+
+Also the course will use internet links and pages. These can be downloaded from the internet often for free and may be gathered by the instructor for easy download.
 
 System Design and Architecture
 * [Security by Design Principles, OWASP](https://www.owasp.org/index.php/Security_by_Design_Principles)
