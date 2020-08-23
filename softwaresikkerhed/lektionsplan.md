@@ -120,12 +120,12 @@ Henning Brauer, BSDCan 2017
 
 
 Exploiting Hardware Bugs and Crypto Related
-* [Bug Attacks on RSA](http://www.cs.technion.ac.il/~yanivca/BugAttacks.pdf), by Eli Biham, Yaniv Carmeli, and Adi Shamir.
+* [Bug Attacks on RSA](https://css.csail.mit.edu/6.858/2011/readings/rsa-bug-attacks.pdf), by Eli Biham, Yaniv Carmeli, and Adi Shamir.
 * [Using Memory Errors to Attack a Virtual Machine](https://www.cs.princeton.edu/~appel/papers/memerr.pdf) by Sudhakar Govindavajhala and Andrew
 Appel
 * [Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors](http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf) Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu, see also [Explo
 iting the DRAM rowhammer bug to gain kernel privileges](https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html)
-* _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) [https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup\_0\_4.pdf](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
+* _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/)
 
 
 
@@ -176,7 +176,7 @@ The detailed plan is below with a table summarizing lessons.
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
       <p>Curriculum: AoST chapters 2, 24-deadly introduction before page 1</p>
-      <p>Supporting litterature: _Secure Programming for Linux and Unix HOWTO_ and _A Graduate Course in Applied Cryptography_</p>
+      <p>Supporting litterature: _Secure Programming for Linux and Unix HOWTO_ </p>
       </td>
     </tr>
 
@@ -208,6 +208,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Hacking Web Applications: Offensive</b></td>
       <td style="text-align:left">
       <p>WAS chapters 9-16, very short chapters</p>
+      <p>Browse: _Secure Coding Best Practices Handbook Veracode_</p>
       </td>
     </tr>
 
@@ -216,7 +217,10 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">17/9</td>
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
-      <p>Next three evenings Hacking chapters 1-3 and 24-deadly chapters 5-8 - browse if you need to, many pages.</p>
+      <p>Next three evenings Hacking chapters 1-3 and if you have it 24-deadly chapters 5-8 - browse if you need to, many pages.</p>
+      <p>Browse: Smashing The Stack For Fun And Profit, Aleph One,
+Bypassing non-executable-stack during exploitation using return-to-libc
+by c0ntex, Basic Integer Overflows by blexim.</p>
       </td>
     </tr>
     <tr>
@@ -232,6 +236,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Strings and Pointers</b></td>
       <td style="text-align:left">
       <p>Hacking chapters 1-3</p>
+      <p>Browse: _Return-Oriented Programming:Systems, Languages, and Applications_ and _Removing ROP Gadgets from OpenBSD_</p>
       </td>
     </tr>
 
@@ -239,8 +244,8 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">29/9</td>
       <td style="text-align:left"><b>Network Attacks Intro</b></td>
       <td style="text-align:left">
-      <p>Hacking chapters 4 browse!</p>
-      <p>TCP Synfloods - an old yet current problem, BSDCan slides
+      <p>Hacking chapter 4 browse!</p>
+      <p>_TCP Synfloods - an old yet current problem_
       </p>
       </td>
     </tr>
@@ -250,7 +255,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Fuzzing intro</b></td>
       <td style="text-align:left">
       <p>AoST chapters 10,11,12 - ca 65 pages</b></p>
-      </td>
+      <p>Browse: _Bug Attacks on RSA_, _Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors_ and _Using Memory Errors to Attack a Virtual Machine_ </p></td>
     </tr>
 
     <tr>
