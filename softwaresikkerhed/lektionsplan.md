@@ -193,6 +193,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Web Application Security: Recon</b></td>
       <td style="text-align:left">
       <p>AoST chapters 6,7,8,9 - ca 72 pages.</p>
+      <p>Look at: Getting started with Burp Suite [https://portswigger.net/support/getting-started-with-burp-suite](https://portswigger.net/support/getting-started-with-burp-suite)</p>
       </td>
     </tr>
     <tr>
