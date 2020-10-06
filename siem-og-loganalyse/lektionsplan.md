@@ -1,5 +1,5 @@
 ---
-description: Obligatoriske modul  OB2 Softwaresikkerhed (10 ECTS) Software Security
+description: Valgfrit modul  VF4 SIEM og log-analyse (5 ECTS)
 ---
 
 # Lektionsplan
@@ -56,10 +56,23 @@ This course uses three books and a number of supporting resources.
 
 Primary literature:
 
-* TBD
+* Data-Driven Security: Analysis, Visualization and Dashboards
+Jay Jacobs, Bob Rudis
+ISBN: 978-1-118-79372-5 February 2014
+https://datadrivensecurity.info/
+
+* Crafting the InfoSec Playbook: Security Monitoring and Incident Response Master Plan
+by Jeff Bollinger, Brandon Enright, and Matthew Valites
+
+* Intelligence-Driven Incident Response ISBN: 9781491934944
+Scott Roberts		
+
+* Security Operations Center Building, Operating, and Maintaining your SOC
+ISBN: 9780134052014 Joseph Muniz
 
 It is recommended to buy these books.
 
+Also the course will use internet links and pages. These can be downloaded from the internet often for free and may be gathered by the instructor for easy download.
 
 Supporting literature:
 
@@ -67,7 +80,10 @@ Supporting literature:
 
 This book introduces the Linux operating system commands, using Kali Linux as example. The tools presented include a lot of generic Unix tools. If you have no experience with Linux or Unix it is recommended to buy this book.
 
-Also the course will use internet links and pages. These can be downloaded from the internet often for free and may be gathered by the instructor for easy download.
+Installing and running the specific Linux distributions used is described in these books
+
+* The Debian Administrator’s Handbook, Raphaël Hertzog and Roland Mas
+[https://debian-handbook.info/](https://debian-handbook.info/) - shortened DEB
 
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 
