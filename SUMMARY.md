@@ -19,6 +19,10 @@
 
 * [Lektionsplan](penetrationstest/lektionsplan.md)
 
+## SIEM and log analysis
+
+* [Lektionsplan](siem-og-loganalyse/lektionsplan.md)
+
 ## System integration
 
 * [Lektionsplan](system-integration/lektionsplan.md)
