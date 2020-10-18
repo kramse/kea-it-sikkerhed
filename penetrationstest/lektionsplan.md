@@ -26,14 +26,14 @@ See more about the course in the official curriculum which can be downloaded fro
 
 ### Exam:
 
-Date 17/12 2019
+Date 24/11 2020
 
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates: 24/10 2019, 05/11 2019, 07/11 2019, 14/11 2019, 21/11 2019, 28/11 2019, 05/12 2019
+Teaching dates: 22/10 2020, 27/10 2020, 29/10 2020, 3/11 2020, 5/11 2020, 10/11 2020, 12/11 2020
 
 ### Course reading list
 
