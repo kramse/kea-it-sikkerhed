@@ -27,15 +27,14 @@ See more about the course in the official curriculum which can be downloaded fro
 ### Exam:
 
 Date
-TBD
+7/1 2021
 
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates:
-TBD
+Teaching dates: 26/11 2020, 1/12 2020, 3/12 2020, 8/12 2020, 10/12 2020, 15/12 2020, 17/12 2020
 
 Make sure to mark dates in your calendar - some weeks will have lessons tuesday/thursdays, some weeks will have three days in a row - tuesday, wednesday, thursday.
 
