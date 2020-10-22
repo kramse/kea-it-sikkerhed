@@ -63,7 +63,14 @@ The book LBfH introduces the Linux operating system commands, using Kali Linux a
 
 Supporting literature:
 
+Installing and running the specific Linux distributions used is described in these books
+
+* The Debian Administrator’s Handbook, Raphaël Hertzog and Roland Mas
+[https://debian-handbook.info/](https://debian-handbook.info/) - shortened DEB
+
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
+
+
 
 We will also use the OWASP Juice Shop Tool Project as a running example. This is an application which is modern AND designed to have security flaws. Read more about this project at:
 
@@ -126,7 +133,7 @@ The detailed plan is below with a table summarizing lessons.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">24/10</td>
+      <td style="text-align:left">22/10</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Virtual Machines - bring laptop</p>
@@ -143,7 +150,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">5/11</td>
+      <td style="text-align:left">27/10</td>
       <td style="text-align:left"><p><b>Ethics and executing pentest</b></p></td>
       <td style="text-align:left">
       <p></p>
@@ -152,7 +159,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">7/11</td>
+      <td style="text-align:left">29/10</td>
       <td style="text-align:left"><p><b>Programming and basic buffer overflows</b></p></td>
       <td style="text-align:left">
       <p>Curriculum: Grayhat chapters 2-3,11</p>
@@ -162,13 +169,13 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">14/11</td>
+      <td style="text-align:left">3/11</td>
       <td style="text-align:left"><p><b>Network spoofing and Cracking Passwords</b></p></td>
       <td style="text-align:left">
       <p>Curriculum: Grayhat chapters 10,15</p></td>
     </tr>
     <tr>
-      <td style="text-align:left">21/11</td>
+      <td style="text-align:left">5/11</td>
       <td style="text-align:left"><p><b>Network Attacks and Advanced Vulnerabilities</b></p></td>
       <td style="text-align:left">
       <p>Curriculum: Grayhat chapters 12-14</p>
@@ -176,26 +183,18 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/11</td>
+      <td style="text-align:left">10/11</td>
       <td style="text-align:left"><p><b>Web Application Hacking</b> - and some IoT</p></td>
       <td style="text-align:left">
       <p>Grayhat chapters Skim 22-25</p><p>Familiarize yourself with _Pwning OWASP Juice Shop_</p></td>
     </tr>
 
     <tr>
-      <td style="text-align:left">5/12</td>
+      <td style="text-align:left">12/11</td>
       <td style="text-align:left"><p><b>Managing Pentests and Vulnerabilities</b></p></td>
       <td style="text-align:left">
       <p>Supporting litterature: Familiarize yourself with sources listed above at _Policies, governance and best Practice_. Will also run some Metasploit to to everything together</p>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left">17/12</td>
-      <td style="text-align:left"><b>Exam date</b></td>
-     <td style="text-align:left">
-     <p></p>
-      </td>
-    </tr>
-
   </tbody>
 </table>
