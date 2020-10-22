@@ -10,8 +10,7 @@ English: SIEM and Log Analysis
 
 Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
 
-This document is written on Gitbook, and then exported to PDF.
-https://zencurity.gitbook.io/kea-it-sikkerhed/siem-og-loganalyse/lektionsplan
+This document is written in markdown, uploadet to GitHub and then processed by Gitbook.
 
 The PDF export seem to have problems with the big table, please check the Gitbook version if in doubt about reading list.
 
