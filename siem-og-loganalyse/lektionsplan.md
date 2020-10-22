@@ -86,6 +86,14 @@ Installing and running the specific Linux distributions used is described in the
 
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 
+
+### Supporting Internet resources
+
+
+Most of these can be downloaded from the internet.
+
+TBD
+
 ## Planning
 
 The detailed plan is below with a table summarizing lessons.
