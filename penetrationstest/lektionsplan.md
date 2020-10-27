@@ -93,6 +93,7 @@ Most of these can be downloaded from the internet.
 
 System Design and Architecture
 * [Security by Design Principles, OWASP](https://www.owasp.org/index.php/Security_by_Design_Principles)
+* [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 
 Control Hijacking Attacks
 * [Smashing The Stack For Fun And Profit](http://www.phrack.com/issues.html?issue=49&id=14#article), by Aleph One
