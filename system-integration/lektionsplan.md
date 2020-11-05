@@ -10,7 +10,8 @@ description: Modul System integration (10 ECTS)
 
 English: System Integration
 
-Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
+Teacher: Henrik Kramselund Jereminsen hkj@zencurity.dk +45 2026 6000
+
 
 This document is written on Gitbook, and then exported to PDF.
 https://zencurity.gitbook.io/kea-it-sikkerhed/system-integration/lektionsplan

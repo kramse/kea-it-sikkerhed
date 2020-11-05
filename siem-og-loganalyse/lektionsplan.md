@@ -8,7 +8,7 @@ description: Valgfrit modul  VF4 SIEM og log-analyse (5 ECTS)
 
 English: SIEM and Log Analysis
 
-Teacher: Henrik Lund Kramshøj hlk@zencurity.com +45 2026 6000
+Teacher: Henrik Kramselund Jereminsen hkj@zencurity.dk +45 2026 6000
 
 This document is written in markdown, uploadet to GitHub and then processed by Gitbook.
 
