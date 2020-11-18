@@ -87,6 +87,10 @@ Installing and running the specific Linux distributions used is described in the
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 
 
+In the Network and Communications Security course we use this book:
+* Applied Network Security Monitoring Collection, Detection, and Analysis, 2014 Chris Sanders ISBN: 9780124172081 -- I highly recommend this book
+
+
 ### Supporting Internet resources
 
 
@@ -97,7 +101,17 @@ TBD - more being added
 * The JavaScript Object Notation (JSON) Data Interchange Format RFC7159
 [https://tools.ietf.org/html/rfc7159](https://tools.ietf.org/html/rfc7159)
 
+* Privacy by design in big data: An overview of privacy enhancing technologies in
+the era of big data analytics, ENISA
+[https://www.enisa.europa.eu/publications/big-data-protection/at_download/fullReport](https://www.enisa.europa.eu/publications/big-data-protection/at_download/fullReport)
 
+* [https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
+
+Other relevant papers and documents can often be found in the NIST publications, Special Publications series 800: https://csrc.nist.gov/publications/sp800 Example the [Guide to Computer Security
+Log Management](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf)
+
+
+https://csrc.nist.gov/publications/sp800
 
 ## Planning
 
@@ -105,6 +119,7 @@ The detailed plan is below with a table summarizing lessons.
 
 **Note: might contain lot of pages, learn to skim and skip chapters and parts that don't interest you. In real life we don't have time to read every word!**
 
+Also I have decided to include very few papers in this course. Remember to check references in the books for supplementary reading.
 <table>
   <thead>
     <tr>
@@ -200,8 +215,9 @@ The detailed plan is below with a table summarizing lessons.
      SOC 11. Reacting to events and Incidents 16,
 CIP 6 Operationalize! 27</p>
 <p>
-Papers:
-State-of-the-art\ analysis\ of\ data\ protection\ in\ big\ data\ architectures.pdf</p>
+Papers: Skim table of contents
+Privacy by design in big data: An overview of privacy enhancing technologies in
+the era of big data analytics, ENISA </p>
       </td>
     </tr>
   </tbody>
