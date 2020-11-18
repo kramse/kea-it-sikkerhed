@@ -93,10 +93,7 @@ In the Network and Communications Security course we use this book:
 
 ### Supporting Internet resources
 
-
-Most of these can be downloaded from the internet.
-
-TBD - more being added
+Apart from the books a lot of blogs, papers and other resources are available. Often these can be downloaded from the internet.
 
 * The JavaScript Object Notation (JSON) Data Interchange Format RFC7159
 [https://tools.ietf.org/html/rfc7159](https://tools.ietf.org/html/rfc7159)
@@ -109,11 +106,14 @@ the era of big data analytics, ENISA
 Lockheed Martin Corporation
 [https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 
+* The Diamond Model of Intrusion Analysis, Sergio Caltagirone, Andrew Pendergast, Christopher Betz [http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
+
 Other relevant papers and documents can often be found in the NIST publications, Special Publications series 800: https://csrc.nist.gov/publications/sp800 Example the [Guide to Computer Security
 Log Management](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf)
-
-
 https://csrc.nist.gov/publications/sp800
+
+
+
 
 ## Planning
 
