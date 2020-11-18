@@ -202,8 +202,6 @@ CIP 6 Operationalize! 27</p>
 <p>
 Papers:
 State-of-the-art\ analysis\ of\ data\ protection\ in\ big\ data\ architectures.pdf</p>
-
-     <p> chapter 7 </p>
       </td>
     </tr>
   </tbody>
