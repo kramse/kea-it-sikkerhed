@@ -105,7 +105,9 @@ TBD - more being added
 the era of big data analytics, ENISA
 [https://www.enisa.europa.eu/publications/big-data-protection/at_download/fullReport](https://www.enisa.europa.eu/publications/big-data-protection/at_download/fullReport)
 
-* [https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
+* Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, Eric M. Hutchins , Michael J. Cloppert, Rohan M. Amin, Ph.D.
+Lockheed Martin Corporation
+[https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 
 Other relevant papers and documents can often be found in the NIST publications, Special Publications series 800: https://csrc.nist.gov/publications/sp800 Example the [Guide to Computer Security
 Log Management](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf)
