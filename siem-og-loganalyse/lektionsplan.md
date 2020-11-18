@@ -134,8 +134,8 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">1/12</td>
-      <td style="text-align:left"><b>Initial Overview of </b>
-<p>Get an overview of the subject</p></td>
+      <td style="text-align:left"><b>Initial Overview of SIEM Terms</b>
+      <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
       <p>Books: approx 61 pages without the skim part, lots of pictures</p>
       <p>DDS 1. The Journey to Data-Driven Security 18,
@@ -148,7 +148,8 @@ The detailed plan is below with a table summarizing lessons.
 
     <tr>
       <td style="text-align:left">3/12</td>
-      <td style="text-align:left"><b></b>
+      <td style="text-align:left"><b>Hello world of Security Data Analysis</b>
+      <p>Get started with some data types and sources</p>
       </td>
       <td style="text-align:left">
       <p>Books: about 61 pages, lots of pictures
@@ -159,7 +160,7 @@ Do exercises if you feel like it, notice how small valuable programs can be</p>
     </tr>
     <tr>
       <td style="text-align:left">8/12</td>
-      <td style="text-align:left"><b></b></td>
+      <td style="text-align:left"><b>Storing and  Processing data</b></td>
       <td style="text-align:left">
       <p>Books: 23 pages, but also parts of CIP 7!</p>
       <p>CIP 4 A Data-Centric Approach to Security Monitoring 23</p>
