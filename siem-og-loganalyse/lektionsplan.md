@@ -58,16 +58,16 @@ Primary literature:
 * Data-Driven Security: Analysis, Visualization and Dashboards
 Jay Jacobs, Bob Rudis
 ISBN: 978-1-118-79372-5 February 2014
-https://datadrivensecurity.info/
+https://datadrivensecurity.info/ - short DDS
 
 * Crafting the InfoSec Playbook: Security Monitoring and Incident Response Master Plan
-by Jeff Bollinger, Brandon Enright, and Matthew Valites
+by Jeff Bollinger, Brandon Enright, and Matthew Valites ISBN: 9781491949405 - short CIP
 
-* Intelligence-Driven Incident Response ISBN: 9781491934944
-Scott Roberts		
+* Intelligence-Driven Incident Response
+Scott Roberts	ISBN: 9781491934944 - short IDI
 
-* Security Operations Center Building, Operating, and Maintaining your SOC
-ISBN: 9780134052014 Joseph Muniz
+* Security Operations Center: Building, Operating, and Maintaining your SOC
+ISBN: 9780134052014 Joseph Muniz - short SOC
 
 It is recommended to buy these books.
 
@@ -92,16 +92,18 @@ Installing and running the specific Linux distributions used is described in the
 
 Most of these can be downloaded from the internet.
 
-TBD
+TBD - more being added
+
+* The JavaScript Object Notation (JSON) Data Interchange Format RFC7159
+[https://tools.ietf.org/html/rfc7159](https://tools.ietf.org/html/rfc7159)
+
+
 
 ## Planning
 
 The detailed plan is below with a table summarizing lessons.
 
-**Unfinished - do not trust yet, copied from software security**
-
-
-**Note: contains lot of pages, learn to skim and skip chapters and parts that don't interest you. In real life we don't have time to read every word!**
+**Note: might contain lot of pages, learn to skim and skip chapters and parts that don't interest you. In real life we don't have time to read every word!**
 
 <table>
   <thead>
@@ -124,64 +126,83 @@ The detailed plan is below with a table summarizing lessons.
       </td>
       <td style="text-align:left">
       <p> Reviewing the literature list will occur when we meet. </p>
-         <p> Download Kali Linux Revealed </p>
-         <p> Identification of chapters and sections from KLR and LBfH<br>
+         <p> Download resources </p>
+         <p> Identification of chapters from books<br>
         for reading as home assignment </p>
+        <b>Start lab setup and programming knowledge</b>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">1/12</td>
-      <td style="text-align:left"><b>Lab setup and programming knowledge</b><p>Do some initial programming</p></td>
+      <td style="text-align:left"><b>Initial Overview of </b>
+<p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>Linux introduction and familiarisation </p>
+      <p>Books: approx 61 pages without the skim part, lots of pictures</p>
+      <p>DDS 1. The Journey to Data-Driven Security 18,
+      DDS 2. Building Your Analytics Toolbox: R and Python 17,
+      CIP 1 Incident Response Fundamentals 13,
+      CIP 2 What Are You Trying to Protect? 13</p>
+      <p>Skim CIP 3 What Are the Threats? 14</p>
       </td>
     </tr>
 
     <tr>
       <td style="text-align:left">3/12</td>
-      <td style="text-align:left"><b>Initial Overview of </b>
-<p>Get an overview of the subject</p></td>
-      <td style="text-align:left">
-      <p>AoST chapters 1,2 - ca 50 pages</p>
-      </td>
-    </tr>
-
-    <tr>
-      <td style="text-align:left">8/12</td>
       <td style="text-align:left"><b></b>
       </td>
       <td style="text-align:left">
-      <p>AoST chapters 3,4,5 - ca 50 pages</p>
+      <p>Books: about 61 pages, lots of pictures
+DDS 3. Learning the "Hello World" of Security Data Analysis 31
+DDS 4. Performing Exploratory Security Data Analysis 30
+Do exercises if you feel like it, notice how small valuable programs can be</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8/12</td>
+      <td style="text-align:left"><b></b></td>
+      <td style="text-align:left">
+      <p>Books: 23 pages, but also parts of CIP 7!</p>
+      <p>CIP 4 A Data-Centric Approach to Security Monitoring 23</p>
+      <p>Skim read: CIP 7 Tools of the Trade 57, we need to know NetFlow, DNS, and HTTP proxy logs in the real-world,
+      Skim read: DDS 8. Breaking Up with Your Relational Database 25</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">10/12</td>
-      <td style="text-align:left"><b></b></td>
+      <td style="text-align:left"><b>Visualization</b></td>
       <td style="text-align:left">
-      <p>AoST chapters 6,7,8,9 - ca 72 pages.</p>
+      <p>Books - approx 44 pages </p>
+      <p>DDS 6. Visualizing Security Data 22,
+      DDS 10. Designing Effective Security Dashboards 22</p>
+      <p>Skim:
+      DDS 11. Building Interactive Security Visualizations 26</p>
       </td>
     </tr>
+
     <tr>
       <td style="text-align:left">15/12</td>
-      <td style="text-align:left"><b></b></td>
+      <td style="text-align:left"><b>Baseline Your Data</b></td>
       <td style="text-align:left">
-      <p>AoST chapters 10,11,12 - ca 65 pages.</p>
-      </td>
-    </tr>
-
-    <tr>
-      <td style="text-align:left">17/9</td>
-      <td style="text-align:left"><b></b></td>
-      <td style="text-align:left">
-      <p>This week  chapters 6,5 - ca 129 pages.</p>
-
+      <p>Books - approx 64 pages</p>
+      <p>DDS 7. Learning from Security Breaches VERIS 28,
+      DDS 12. Moving Toward Data-Driven Security 11,
+      IDIR 1. Introduction 8
+      IDIR 2. Basics of Intelligence 17 </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">17/12</td>
-      <td style="text-align:left"><b></b></td>
+      <td style="text-align:left"><b>Operate, Respond and Forensics</b></td>
      <td style="text-align:left">
-     <p> chapter 7 - ca 90 pages.</p>
+     <p>Books - approx 68 pages</p>
+     <p>SOC 7. vuln management 25,
+     SOC 11. Reacting to events and Incidents 16,
+CIP 6 Operationalize! 27</p>
+<p>
+Papers:
+State-of-the-art\ analysis\ of\ data\ protection\ in\ big\ data\ architectures.pdf</p>
+
+     <p> chapter 7 </p>
       </td>
     </tr>
   </tbody>
