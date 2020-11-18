@@ -129,7 +129,7 @@ The detailed plan is below with a table summarizing lessons.
          <p> Download resources </p>
          <p> Identification of chapters from books<br>
         for reading as home assignment </p>
-        <b>Start lab setup and asses programming knowledge</b>
+        <p>Start lab setup and asses programming knowledge</p>
       </td>
     </tr>
     <tr>
