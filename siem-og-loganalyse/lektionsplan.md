@@ -224,3 +224,24 @@ the era of big data analytics, ENISA </p>
     </tr>
   </tbody>
 </table>
+
+
+We are reading mostly from the DDS book, but we are also skipping a few chapters.
+
+We are skipping these:
+DDS 5. From Maps to Regression 33 pages - skipped, as Elasticsearch provides the math we need
+
+DDS 9. Demystifying Machine Learning 25 pages - skipped, as this is complex subject in itself
+
+Note a recent book was published about this subject: Machine Learning and Security
+Clarence Chio	ISBN: 9781491979907
+
+We also skipped other chapters, which I would have liked to include:
+
+SOC 1. Introduction to Security Operations and the SOC 33 pages
+
+SOC 2. Overview of SOC Technologies 32 pages
+
+SOC 6. Security Event Generation and Collection 66 pages
+
+I have tried to include important conclusions from those chapters in the slides.
