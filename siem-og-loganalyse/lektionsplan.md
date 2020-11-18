@@ -129,7 +129,7 @@ The detailed plan is below with a table summarizing lessons.
          <p> Download resources </p>
          <p> Identification of chapters from books<br>
         for reading as home assignment </p>
-        <b>Start lab setup and programming knowledge</b>
+        <b>Start lab setup and asses programming knowledge</b>
       </td>
     </tr>
     <tr>
@@ -138,10 +138,10 @@ The detailed plan is below with a table summarizing lessons.
       <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
       <p>Books: approx 61 pages without the skim part, lots of pictures</p>
-      <p>DDS 1. The Journey to Data-Driven Security 18,
-      DDS 2. Building Your Analytics Toolbox: R and Python 17,
-      CIP 1 Incident Response Fundamentals 13,
-      CIP 2 What Are You Trying to Protect? 13</p>
+      <p>DDS 1. The Journey to Data-Driven Security 18</p>
+      <p>DDS 2. Building Your Analytics Toolbox: R and Python 17</p>
+      <p>CIP 1 Incident Response Fundamentals 13</p>
+      <p>CIP 2 What Are You Trying to Protect? 13</p>
       <p>Skim CIP 3 What Are the Threats? 14</p>
       </td>
     </tr>
@@ -152,10 +152,10 @@ The detailed plan is below with a table summarizing lessons.
       <p>Get started with some data types and sources</p>
       </td>
       <td style="text-align:left">
-      <p>Books: about 61 pages, lots of pictures
-DDS 3. Learning the "Hello World" of Security Data Analysis 31
-DDS 4. Performing Exploratory Security Data Analysis 30
-Do exercises if you feel like it, notice how small valuable programs can be</p>
+      <p>Books: about 61 pages, lots of pictures</p>
+<p>DDS 3. Learning the "Hello World" of Security Data Analysis 31</p>
+<p>DDS 4. Performing Exploratory Security Data Analysis 30</p>
+<p>Do exercises if you feel like it, notice how small valuable programs can be</p>
       </td>
     </tr>
     <tr>
@@ -164,8 +164,8 @@ Do exercises if you feel like it, notice how small valuable programs can be</p>
       <td style="text-align:left">
       <p>Books: 23 pages, but also parts of CIP 7!</p>
       <p>CIP 4 A Data-Centric Approach to Security Monitoring 23</p>
-      <p>Skim read: CIP 7 Tools of the Trade 57, we need to know NetFlow, DNS, and HTTP proxy logs in the real-world,
-      Skim read: DDS 8. Breaking Up with Your Relational Database 25</p>
+      <p>Skim read: CIP 7 Tools of the Trade 57, need to know NetFlow, DNS, and HTTP proxy logs in the real-world</p>
+      <p>Skim read: DDS 8. Breaking Up with Your Relational Database 25</p>
       </td>
     </tr>
     <tr>
@@ -185,10 +185,10 @@ Do exercises if you feel like it, notice how small valuable programs can be</p>
       <td style="text-align:left"><b>Baseline Your Data</b></td>
       <td style="text-align:left">
       <p>Books - approx 64 pages</p>
-      <p>DDS 7. Learning from Security Breaches VERIS 28,
-      DDS 12. Moving Toward Data-Driven Security 11,
-      IDIR 1. Introduction 8
-      IDIR 2. Basics of Intelligence 17 </p>
+      <p>DDS 7. Learning from Security Breaches VERIS 28</p>
+      <p>DDS 12. Moving Toward Data-Driven Security 11</p>
+      <p>IDIR 1. Introduction 8</p>
+      <p>IDIR 2. Basics of Intelligence 17 </p>
       </td>
     </tr>
     <tr>
