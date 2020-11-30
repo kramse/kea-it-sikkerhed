@@ -40,11 +40,10 @@ Make sure to mark dates in your calendar - some weeks will have lessons tuesday/
 
 ### Hardware
 
-Since we are going to be doing exercises, each team will need two virtual machines.
+Since we are going to be doing exercises, each team will need virtual machines.
 
-The following are two recommended models:
-* One based on Debian 9 or 10, running software servers and web applications
-* One based on Kali Linux, running attacks against software
+The following are recommended:
+* One based on Debian 10, running software servers and web applications
 
 Read more about these at [https://github.com/kramse/kramse-labs](https://github.com/kramse/kramse-labs)
 
