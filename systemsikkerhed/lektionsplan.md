@@ -28,7 +28,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: 31/03 2020 exam
+Date: 8/4 2021 exam
 
 ### Teaching Methods:
 
@@ -36,7 +36,8 @@ Date: 31/03 2020 exam
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates: tuesdays and thursdays
-28/1 2020, 30/1 2020, 4/2 2020, 6/2 2020, 11/2 2020, 13/2 2020, 18/2 2020, 20/2 2020, 25/2 2020, 27/2 2020, 3/3 2020, 5/3 2020, 10/3 2020, 11/3 2020
+2/2 2021, 4/2 2021, 9/2 2021, 11/2 2021, 16/2 2021, 18/2 2021, 23/2 2021, 25/2 2021, 2/3 2021, 4/3 2021, 9/3 2021, 11/3 2021, 16/3 2021, 18/3 2021
+
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
@@ -117,7 +118,7 @@ The detailed plan is below with a table summarizing lessons
 </thead>
 <tbody>
     <tr>
-      <td style="text-align:left">28/1</td>
+      <td style="text-align:left">2/2</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Kali Linux VM - bring laptop</p>
@@ -128,7 +129,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">30/1</td>
+      <td style="text-align:left">4/2</td>
       <td style="text-align:left"><b>Overview of Computer Security</b>
       </td>
       <td style="text-align:left">
@@ -138,7 +139,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">4/2</td>
+      <td style="text-align:left">9/2</td>
       <td style="text-align:left"><b>Overview of Enterprise Attacks</b>
       </td>
       <td style="text-align:left">
@@ -148,7 +149,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">6/2</td>
+      <td style="text-align:left">11/2</td>
       <td style="text-align:left"><b>Security Policies / Confidentiality Policies</b>
       </td>
       <td style="text-align:left">
@@ -161,7 +162,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/2</td>
+      <td style="text-align:left">16/2</td>
       <td style="text-align:left"><b>Integrity and Availability Policies</b>
       </td>
       <td style="text-align:left">
@@ -172,7 +173,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">13/2</td>
+      <td style="text-align:left">18/2</td>
       <td style="text-align:left"><b>Hybrid Policies / Breaking out</b>
       </td>
       <td style="text-align:left">
@@ -184,7 +185,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">18/2</td>
+      <td style="text-align:left">23/2</td>
       <td style="text-align:left"><b>Basic Cryptography</b>
       </td>
       <td style="text-align:left">
@@ -195,7 +196,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">20/2</td>
+      <td style="text-align:left">25/2</td>
       <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
       </td>
       <td style="text-align:left">
@@ -205,7 +206,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">25/2</td>
+      <td style="text-align:left">2/3</td>
       <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
       </td>
       <td style="text-align:left">
@@ -218,7 +219,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">27/2</td>
+      <td style="text-align:left">4/3</td>
       <td style="text-align:left"><b>Capabilities</b>
       </td>
       <td style="text-align:left">
@@ -229,7 +230,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">3/3</td>
+      <td style="text-align:left">9/3</td>
       <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
       </td>
       <td style="text-align:left">
@@ -240,7 +241,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">5/3</td>
+      <td style="text-align:left">11/3</td>
       <td style="text-align:left"><b>Forensics 2: Incident Response</b>
       </td>
       <td style="text-align:left">
@@ -251,7 +252,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">10/3</td>
+      <td style="text-align:left">16/3</td>
       <td style="text-align:left"><b>System Security in Practice</b>
       </td>
       <td style="text-align:left">
@@ -260,7 +261,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/3</td>
+      <td style="text-align:left">18/3</td>
       <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
       </td>
       <td style="text-align:left">
