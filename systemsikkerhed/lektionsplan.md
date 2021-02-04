@@ -200,7 +200,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
       </td>
       <td style="text-align:left">
-      <p>Read Bishop ch 23 and skim 24, FD ch 5-6</br>
+      <p>Read Bishop ch 23 and skim 24, Skim: FD ch 5-6</br>
       Smashing The Stack For Fun And Profit, Bypassing non-executable-stack during exploitation using return-to-libc, Basic Integer Overflows, Return-Oriented Programming
       </p>
       </td>
@@ -234,7 +234,7 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop ch 25 and 26, FD ch 1-4 and appendix B</p>
+      <p>Bishop ch 25 and 26, Skim: FD ch 1-4 and appendix B</p>
       <p>Read DSH ch 19-20</p>
       Download and browse the ENISA papers listed under Computer Forensics in the reading list
       </p>
