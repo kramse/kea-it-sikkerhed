@@ -153,8 +153,8 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><b>Security Policies / Confidentiality Policies</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop ch 4 and 5</br>
-      Perhaps skip/skim some policy language examples, skip 4.7<br>
+      <p>Bishop ch 4 and skim read ch 5</br>
+      Perhaps skip/skim some policy language examples, skip 4.7, skip 5.2.3 and similar math parts<br>
       Appendix G,
       Browse: Campus Network Security: High Level Overview , Network Startup Resource Center  
 Campus Operations Best Current Practice, Network Startup Resource Center  
@@ -189,7 +189,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Basic Cryptography</b>
       </td>
       <td style="text-align:left">
-      <p>Read Bishop ch 10, 11 until and including 11.3, 12 until 12.4, 13 until 13.5<br>
+      <p>Read Bishop ch 10, 11 until and including 11.4, 12 until and including 12.5.3.10, 13 until and including 13.5<br>
       Skim: NIST Special Publication 800-63B<br>
       Enterprise Survival Guide for Ransomware Attacks<br>
       IT Security Guidelines for Transport Layer Security</p>
