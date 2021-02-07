@@ -77,7 +77,15 @@ Also the course will use internet links and pages.
 Supporting literature - optional to buy, but recommended:
 
 * _Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali_ by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
+* _The Debian Administrator’s Handbook_, Raphaël Hertzog and Roland Mas can be downloaded from https://debian-handbook.info/
 * _Microservices for Java Developers_ , Christian Posta, 2016 O’Reilly https://www.oreilly.com/programming/free/files/microservices-for-java-developers.pdf
+
+
+## Exercises
+
+This course will have exercises that you are expected to run. They will require you to access a Linux virtual machine with Debian Linux.
+
+
 
 
 ## Planning
@@ -251,19 +259,3 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     </tr>
   </tbody>
 </table>
-
-## Detailed Plan
-
-**Introduction and welcome**
-
-* Create a good starting point for learning
-* Introduce lecturer and students
-* Expectations for this course
-* Literature list walkthrough
-* Prepare tools for the exercises
-
-
-Linux is a toolbox we will use and participants will use virtual machines
-
-Exercises
-* Debian Linux installation
