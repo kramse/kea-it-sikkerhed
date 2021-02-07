@@ -51,7 +51,11 @@ task on time prevents the student from taking part in the exam.
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates: mondays
+Teaching dates: mondays 08:15 - 11:45 and 12:30 - 15:00
+
+Watch out for exceptions; March 29., April 5., May 24.
+
+In total 14 days
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
@@ -90,7 +94,7 @@ The detailed plan is below with a table summarizing lessons
 </thead>
 <tbody>
 <tr>
-  <td style="text-align:left">Day 0 Feb 3</td>
+  <td style="text-align:left">Day 0 Feb 8</td>
   <td style="text-align:left">
     <p>Welcome, goals and expectations</br>
     </p>
@@ -100,7 +104,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 1 Feb 10</td>
+  <td style="text-align:left">Day 1 Feb 15</td>
   <td style="text-align:left">
     <p>Integration intro</br>
     Java Apps, Tomcat, XML config, TCP/IP, DNS, HTTP intro<br>
@@ -112,7 +116,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 2 Feb 17</td>
+  <td style="text-align:left">Day 2 Feb 22</td>
   <td style="text-align:left">
     <p>Starting out with Camel</br>
     </p>
@@ -122,7 +126,7 @@ The detailed plan is below with a table summarizing lessons
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 3 Feb 24</td>
+  <td style="text-align:left">Day 3 March 1</td>
   <td style="text-align:left">
     <p>Data overview, XML data, JSON<br>
 Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
@@ -133,7 +137,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 4 March 2</td>
+  <td style="text-align:left">Day 4 March 8</td>
   <td style="text-align:left">
     <p>Messaging, MQ systems</br>
     Publish-Subscribe, Enterprise Integration Patterns
@@ -144,7 +148,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 5 March 9</td>
+  <td style="text-align:left">Day 5 March 15</td>
   <td style="text-align:left">
     <p>Using components, JMS</br>
     databases
@@ -155,7 +159,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 6 March 23</td>
+  <td style="text-align:left">Day 6 March 22</td>
   <td style="text-align:left">
     <p>SOA, EAI, ESB - connecting the dots</br>
     </p>
@@ -165,7 +169,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 7 March 30</td>
+  <td style="text-align:left">Day 7 April 12</td>
   <td style="text-align:left">
     <p>Microservices</p>
   </td>
@@ -174,7 +178,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 8 April 20</td>
+  <td style="text-align:left">Day 8 April 19</td>
   <td style="text-align:left">
     <p>
     REST
@@ -186,7 +190,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 9 April 27 </br>4 lessons </td>
+  <td style="text-align:left">Day 9 April 26 </br>4 lessons </td>
   <td style="text-align:left">
     <p> asynchronous and synchronous</br>
     APIs, versioning, contracts</br>
@@ -198,7 +202,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 10 May 4 </br>4 lessons </td>
+  <td style="text-align:left">Day 10 May 3 </br>4 lessons </td>
   <td style="text-align:left">
     <p>Transactions and idempotency</br>
     </p>
@@ -208,7 +212,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 11 May 18 </br>4 lessons </td>
+  <td style="text-align:left">Day 11 May 10 </br>4 lessons </td>
   <td style="text-align:left">
     <p>Integration examples and standards</br>
     Running integration
@@ -220,7 +224,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 <tr>
-  <td style="text-align:left">Day 12 May 25 </br>4 lessons </td>
+  <td style="text-align:left">Day 12 May 17 </br>4 lessons </td>
   <td style="text-align:left">
     <p>Cloud and Cloud integration
     </p>
@@ -230,6 +234,16 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
   </td>
 </tr>
 
+<tr>
+  <td style="text-align:left">Day 13 May 31 </br>4 lessons </td>
+  <td style="text-align:left">
+    <p>Cloud and Cloud integration
+    </p>
+  </td>
+  <td style="text-align:left">
+  <p>Camel 18</p>
+  </td>
+</tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"><b>Prepare for the exam</b></td>
