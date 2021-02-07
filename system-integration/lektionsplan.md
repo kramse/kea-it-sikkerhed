@@ -27,7 +27,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Online exam: 29/6, 30/6 2020
+Online exam: xxxx 2021
 
 Deliverables and Exam Procedure
 
