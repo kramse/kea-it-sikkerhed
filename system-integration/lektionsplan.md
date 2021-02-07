@@ -85,6 +85,7 @@ Supporting literature - optional to buy, but recommended:
 
 This course will have exercises that you are expected to run. They will require you to access a Linux virtual machine with Debian Linux.
 
+We will spend some time the first day to get you started with this.
 
 
 
