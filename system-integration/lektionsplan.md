@@ -10,7 +10,9 @@ description: Modul System integration (10 ECTS)
 
 English: System Integration
 
-Teacher: Henrik Kramselund Jereminsen hkj@zencurity.dk +45 2026 6000
+Teacher: Morten Voetmann Christiansen, morc@kea.dk
+
+Secondary teacher: Henrik Kramselund Jereminsen hkj@zencurity.dk +45 2026 6000
 
 
 This document is written on Gitbook, and then exported to PDF.
