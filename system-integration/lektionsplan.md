@@ -2,13 +2,11 @@
 description: Modul System integration (10 ECTS)
 ---
 
-# Lektionsplan
+# Lecture planning
 
-## Fagets titel: System Integration \(10 ECTS\)
+## Course title: System Integration \(10 ECTS\)
 
 ### General information
-
-English: System Integration
 
 Teacher: Morten Voetmann Christiansen, morc@kea.dk
 
