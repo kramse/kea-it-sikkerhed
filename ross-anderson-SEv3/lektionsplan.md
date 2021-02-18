@@ -13,6 +13,11 @@ Coordinator: Henrik Kramselund Jereminsen hkj@zencurity.dk +45 2026 6000
 This document is written on Gitbook, and then exported to PDF.
 https://zencurity.gitbook.io/kea-it-sikkerhed/ross-anderson-SEv3/lektionsplan
 
+You can help develop the plan! Just make changes to this:
+https://github.com/kramse/kea-it-sikkerhed
+
+(Ask to be added, or send pull requests)
+
 ### Goals
 
 Read and discuss the book!
