@@ -62,11 +62,11 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"><b></b>
+      <td style="text-align:left">26/3 16:00 - 17:00</td>
+      <td style="text-align:left"><p>Psychology and Usability, Protocols</p>
       </td>
       <td style="text-align:left">
-      <p>chapter 3?</p>
+      <p>chapter 3 and 4 </p>
       </td>
     </tr>
   </tbody>
