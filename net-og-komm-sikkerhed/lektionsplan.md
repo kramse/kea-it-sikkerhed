@@ -29,7 +29,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date June 11. 2020
+Date: 15/6 2021
 
 ### Teaching Methods:
 
@@ -37,7 +37,7 @@ Date June 11. 2020
 * Group exercises and cases, including practical exercises with laptop
 * 17:00 - 20:30 Online meetup and exercises - planned!
 
-Teaching dates: 14/4 2020, 16/4 2020, 21/4 2020, 23/4 2020, 28/4 2020, 30/4 2020, 5/5 2020, 7/5 2020, 12/5 2020, 14/5 2020, 19/5 2020, 20/5 2020, 26/5 2020, 28/5 2020
+Teaching dates: 13/4 2021, 15/4 2021, 20/4 2021, 22/4 2021, 27/4 2021, 29/4 2021, 4/5 2021, 6/5 2021, 11/5 2021, 18/5 2021, 20/5 2021, 25/5 2021, 27/5 2021, 1/6 2021
 
 ### Course reading list
 
@@ -54,8 +54,9 @@ Primary literature:
 It is recommended to buy these books. The cost for all three will be about 1.000-1.100DKK
 
 Supporting literature:
-
+* _Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali_ by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - especially if you dont know any Linux/Unix
 * _Kali Linux Revealed  Mastering the Penetration Testing Distribution_ [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
+* _The Debian Administrator’s Handbook_, Raphaël Hertzog and Roland Mas can be downloaded from https://debian-handbook.info/
 * _Security problems in the TCP/IP protocol suite_, S. M. Bellovin https://www.cs.columbia.edu/~smb/papers/ipext.pdf samt
 _A Look Back at “Security Problems in the TCP/IP Protocol Suite”_ https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf
 * _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ , Bill Cheswick, AT&T Bell Laboratories http://www.cheswick.com/ches/papers/berferd.pdf
@@ -105,7 +106,7 @@ The detailed plan is below with a table summarizing lessons
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">14/4</td>
+      <td style="text-align:left">13/4</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Kali Linux VM - bring laptop</p>
@@ -124,7 +125,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">16/4</td>
+      <td style="text-align:left">15/4</td>
       <td style="text-align:left"><b>TCP/IP and Security in TCP/IP protocol suite</b>
       </td>
       <td style="text-align:left">Understand basic IP protocols and inherent security problems</td>
@@ -136,7 +137,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">21/4</td>
+      <td style="text-align:left">20/4</td>
       <td style="text-align:left"><b>Network Security Threats</b>
       </td>
       <td style="text-align:left">Know common threats in networks, and solutions</td>
@@ -146,7 +147,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">23/4</td>
+      <td style="text-align:left">22/4</td>
       <td style="text-align:left"><b>Traffic inspection and firewalls</b>
       </td>
       <td style="text-align:left">Understand basic firewall technologies</td>
@@ -161,7 +162,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/4</td>
+      <td style="text-align:left">27/4</td>
       <td style="text-align:left"><b>Encrypting the network</b>
       </td>
       <td style="text-align:left">Know how math, algorithms and protocols are used to ensure confidentiality and integrity</td>
@@ -173,7 +174,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">30/4</td>
+      <td style="text-align:left">29/4</td>
       <td style="text-align:left"><b>Virtual Private Networks</b>
       </td>
       <td style="text-align:left">Know methods of connecting securely across insecure networks</td>
@@ -191,7 +192,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">5/5</td>
+      <td style="text-align:left">4/5</td>
       <td style="text-align:left"><b>Wifi Security</b>
       </td>
       <td style="text-align:left">Knowledge of Wireless 802.11 and security methods used</td>
@@ -203,7 +204,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/5</td>
+      <td style="text-align:left">6/5</td>
       <td style="text-align:left"><b>Network Management</b>
       </td>
       <td style="text-align:left">Understand why managed networks are more secure</td>
@@ -214,7 +215,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">12/5</td>
+      <td style="text-align:left">11/5</td>
       <td style="text-align:left"><b>Network Intrusion Detection</b>
       </td>
       <td style="text-align:left">Learn how to sniff and detect network problems using IDS</td>
@@ -223,7 +224,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/5</td>
+      <td style="text-align:left">18/5</td>
       <td style="text-align:left"><b>Network Forensics</b>
       </td>
       <td style="text-align:left">Introduction to network investigations</td>
@@ -234,7 +235,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">19/5</td>
+      <td style="text-align:left">20/5</td>
       <td style="text-align:left"><b>Honeypots</b>
       </td>
       <td style="text-align:left">See how systems can attract attackers and monitor attacks</td>
@@ -243,7 +244,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">20/5</td>
+      <td style="text-align:left">25/5</td>
       <td style="text-align:left"><b>DNS and Email Security</b>
       </td>
       <td style="text-align:left">Learn the role of DNS in securing networks and systems</td>
@@ -253,11 +254,10 @@ The detailed plan is below with a table summarizing lessons
       <p>Browse https://en.wikipedia.org/wiki/Sender_Policy_Framework</br>
       https://en.wikipedia.org/wiki/DMARC</br>
       https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail</p>
-
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">26/5</td>
+      <td style="text-align:left">27/5</td>
       <td style="text-align:left"><b>Building Robust Networks</b>
       </td>
       <td style="text-align:left">Learn the process of securing a network using security components</td>
@@ -269,7 +269,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/5</td>
+      <td style="text-align:left">1/6</td>
       <td style="text-align:left"><b>Running a Modern Network</b></td>
       <td style="text-align:left">Learn that your network is part of the bigger Internet, your security affects others</td>
       <td style="text-align:left">
