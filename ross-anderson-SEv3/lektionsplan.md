@@ -10,7 +10,7 @@ description: Valgfrie modul  VF1 Systemsikkerhed (10 ECTS) System Security
 Coordinator: Henrik Kramselund Jereminsen hkj@zencurity.dk +45 2026 6000
 
 
-This document is written on Gitbook, and then exported to PDF.
+This document is written on Gitbook.
 https://zencurity.gitbook.io/kea-it-sikkerhed/ross-anderson-SEv3/lektionsplan
 
 You can help develop the plan! Just make changes to this:
