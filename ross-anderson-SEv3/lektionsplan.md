@@ -54,11 +54,11 @@ The detailed plan is below with a table summarizing lessons
     <tr>
       <td style="text-align:left">26/2</td>
       <td style="text-align:left">
-        <p>Welcome, goals and expectations</br>
-        Read Introduction and chapters 1-2</p>
+        <p>Welcome, goals and expectations</p>
       </td>
       <td style="text-align:left">
-      <p> Getting to know each other, get started.</p>
+      <p> Getting to know each other, get started.<br>
+      Read Introduction and chapters 1-2</p>
       </td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><p>Psychology and Usability, Protocols</p>
       </td>
       <td style="text-align:left">
-      <p>chapter 3 and 4 </p>
+      <p>Chapters 3 and 4 </p>
       </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><p>Cryptography and Access Control</p>
       </td>
       <td style="text-align:left">
-      <p>chapter 5 and 6 </p>
+      <p>chapters 5 and 6 </p>
       </td>
     </tr>
   </tbody>
