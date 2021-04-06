@@ -34,9 +34,9 @@ ISBN: 978-1-119-64281-7 November 2020 1232 Pages
 https://www.cl.cam.ac.uk/~rja14/book.html
 
 
-Meetup place, online, but where?
+Meetup place, online and we have a Signal group, ask Henrik to be added.
 
-Zoom, Jitsi, Big Blue Button?
+
 
 ## Planning
 
@@ -67,6 +67,14 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">
       <p>chapter 3 and 4 </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">16/4 16:00 - 17:00</td>
+      <td style="text-align:left"><p>Cryptography and Access Control</p>
+      </td>
+      <td style="text-align:left">
+      <p>chapter 5 and 6 </p>
       </td>
     </tr>
   </tbody>
