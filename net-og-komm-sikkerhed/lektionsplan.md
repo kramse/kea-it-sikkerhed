@@ -53,6 +53,10 @@ Primary literature:
 
 It is recommended to buy these books. The cost for all three will be about 1.000-1.100DKK
 
+Curriculum will be chapters from the books, listed below!
+
+Supporting literature is mostly background information, with a few exceptions. I do not expect you to read these in detail.
+
 Supporting literature:
 * _Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali_ by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - especially if you dont know any Linux/Unix
 * _Kali Linux Revealed  Mastering the Penetration Testing Distribution_ [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
@@ -90,6 +94,7 @@ The following are two recommended models:
 
 Both work great in Kali Linux for our purposes.
 
+Unfortunately the vendors change models often enough that the above are hard to find. I recommend using your favourite search engine and research which cards work with Kali Linux and airodump-ng.
 
 ## Planning
 
