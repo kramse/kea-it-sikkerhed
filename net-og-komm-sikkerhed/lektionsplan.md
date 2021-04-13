@@ -187,7 +187,7 @@ The detailed plan is below with a table summarizing lessons
       <p>Read: ANSM chapter 7,8 - 54 pages,</p>
       <p>https://en.wikipedia.org/wiki/Virtual_private_network</br>
       https://kb.juniper.net/InfoCenter/index?page=content&id=KB11104  IPSec VPN between JUNOS and Cisco IOS</p>
-      <p>Skim:</br>
+      <p>Skim:
       https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching</br>
       https://en.wikipedia.org/wiki/OpenVPN</br>
       https://en.wikipedia.org/wiki/IPsec</br>
