@@ -248,7 +248,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
     <p>Repetition and summary</p>
   </td>
   <td style="text-align:left">
-  <p>Camel 18</p>
+  <p>All chapters listed above</p>
   </td>
 </tr>
     <tr>
