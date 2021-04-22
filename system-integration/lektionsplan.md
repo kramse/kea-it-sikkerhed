@@ -235,8 +235,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
 <tr>
   <td style="text-align:left">Day 12 May 17 </br>4 lessons </td>
   <td style="text-align:left">
-    <p>Cloud and Cloud integration
-    </p>
+    <p>Cloud and Cloud integration</p>
   </td>
   <td style="text-align:left">
   <p>Camel 18</p>
@@ -246,8 +245,7 @@ Data Transformation<br>WebServices, SOAP, WSDL<br>Investigate examples
 <tr>
   <td style="text-align:left">Day 13 May 31 </br>4 lessons </td>
   <td style="text-align:left">
-    <p>Cloud and Cloud integration
-    </p>
+    <p>Repetition and summary</p>
   </td>
   <td style="text-align:left">
   <p>Camel 18</p>
