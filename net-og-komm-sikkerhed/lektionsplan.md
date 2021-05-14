@@ -229,7 +229,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">18/5</td>
+      <td style="text-align:left">19/5</td>
       <td style="text-align:left"><b>Network Forensics</b>
       </td>
       <td style="text-align:left">Introduction to network investigations</td>
