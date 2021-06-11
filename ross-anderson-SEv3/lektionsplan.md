@@ -46,8 +46,7 @@ The detailed plan is below with a table summarizing lessons
 <thead>
 <tr>
   <th style="text-align:left">Dato</th>
-  <th style="text-align:left">Theme</th>
-  <th style="text-align:left">Litterature / Preparation</th>
+  <th style="text-align:left">Theme - Litterature / Preparation</th>
 </tr>
 </thead>
 <tbody>
@@ -55,42 +54,28 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">26/2</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</p>
-      </td>
-      <td style="text-align:left">
       <p> Getting to know each other, get started.<br>
       Read Introduction and chapters 1-2</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">26/3 16:00 - 17:00</td>
-      <td style="text-align:left"><p>Psychology and Usability, Protocols</p>
-      </td>
-      <td style="text-align:left">
-      <p>Chapters 3 and 4 </p>
+      <td style="text-align:left"><p>Chapers 3. Psychology and Usability, 4. Protocols</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">16/4 16:00 - 17:00</td>
-      <td style="text-align:left"><p>Cryptography and Access Control</p>
-      </td>
-      <td style="text-align:left">
-      <p>chapters 5 and 6 </p>
+      <td style="text-align:left"><p>Chapters 5. Cryptography and 6. Access Control</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">28/5 16:00 - 17:00</td>
-      <td style="text-align:left"><p>Distributed Systems, Economics, Multi-level security</p>
-      </td>
-      <td style="text-align:left">
-      <p>chapters 7,8 and 9 </p>
+      <td style="text-align:left"><p>Chapters 7. Distributed Systems, 8. Economics, 9. Multi-level security</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">28/5 16:00 - 17:00</td>
-      <td style="text-align:left"><p>Multi-level security, Boundaries, Inference Control</p>
-      </td>
-      <td style="text-align:left">
-      <p>chapters 9 - repeat, adding 10, 11 </p>
+      <td style="text-align:left"><p>Chapters 9. Multi-level security, 10. Boundaries, 11. Inference Control</p>
       </td>
     </tr>
   </tbody>
