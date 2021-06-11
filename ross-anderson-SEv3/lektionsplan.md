@@ -77,5 +77,21 @@ The detailed plan is below with a table summarizing lessons
       <p>chapters 5 and 6 </p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">28/5 16:00 - 17:00</td>
+      <td style="text-align:left"><p>Distributed Systems, Economics, Multi-level security</p>
+      </td>
+      <td style="text-align:left">
+      <p>chapters 7,8 and 9 </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">28/5 16:00 - 17:00</td>
+      <td style="text-align:left"><p>Multi-level security, Boundaries, Inference Control</p>
+      </td>
+      <td style="text-align:left">
+      <p>chapters 9 - repeat, adding 10, 11 </p>
+      </td>
+    </tr>
   </tbody>
 </table>
