@@ -74,8 +74,13 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/5 16:00 - 17:00</td>
+      <td style="text-align:left">28/5 16:00 - 17:30</td>
       <td style="text-align:left"><p>Chapters 9. Multi-level security, 10. Boundaries, 11. Inference Control</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2/7 16:00 - 17:30</td>
+      <td style="text-align:left"><p>Chapters 12. Banking and Bookkeeping and 13. Locks and Alarms</p>
       </td>
     </tr>
   </tbody>
