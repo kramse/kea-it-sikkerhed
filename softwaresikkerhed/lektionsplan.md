@@ -34,10 +34,11 @@ Date 26/10 2021
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates - fall 2021:
+### Teaching dates - fall 2021:
+
 31/8, 2/9, 7/9, 9/9, 14/9, 16/9, 21/9, 23/9, 28/9, 30/10, 5/10, 7/10, 12/10, 14/10
 
-Make sure to mark dates in your calendar - some weeks will have lessons tuesday/thursdays, some weeks will have three days in a row - tuesday, wednesday, thursday.
+Make sure to mark dates in your calendar - some weeks will have lessons tuesday/thursdays.
 
 ### Hardware
 
