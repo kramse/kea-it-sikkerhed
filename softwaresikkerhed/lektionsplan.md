@@ -27,15 +27,15 @@ See more about the course in the official curriculum which can be downloaded fro
 
 ### Exam:
 
-Date 20/10 2020
+Date 26/10 2021
 
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates:
-25/8 2020, 27/8 2020, 1/9 2020, 3/9 2020, 8/9 2020, 10/9 2020, 15/9 2020, 17/9 2020, 22/9 2020, 24/9 2020, 29/10 2020, 1/10 2020, 6/10 2020, 8/10 2020
+Teaching dates - fall 2021:
+31/8, 2/9, 7/9, 9/9, 14/9, 16/9, 21/9, 23/9, 28/9, 30/10, 5/10, 7/10, 12/10, 14/10
 
 Make sure to mark dates in your calendar - some weeks will have lessons tuesday/thursdays, some weeks will have three days in a row - tuesday, wednesday, thursday.
 
