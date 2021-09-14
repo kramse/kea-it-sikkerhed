@@ -134,7 +134,7 @@ The detailed plan is below with a table summarizing lessons.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">22/10</td>
+      <td style="text-align:left">28/10</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Virtual Machines - bring laptop</p>
@@ -151,7 +151,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">27/10</td>
+      <td style="text-align:left">2/11</td>
       <td style="text-align:left"><p><b>Ethics and executing pentest</b></p></td>
       <td style="text-align:left">
       <p></p>
@@ -160,7 +160,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">29/10</td>
+      <td style="text-align:left">4/11</td>
       <td style="text-align:left"><p><b>Programming and basic buffer overflows</b></p></td>
       <td style="text-align:left">
       <p>Curriculum: Grayhat chapters 2-3,11</p>
@@ -170,13 +170,13 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
 
     <tr>
-      <td style="text-align:left">3/11</td>
+      <td style="text-align:left">9/11</td>
       <td style="text-align:left"><p><b>Network spoofing and Cracking Passwords</b></p></td>
       <td style="text-align:left">
       <p>Curriculum: Grayhat chapters 10,15</p></td>
     </tr>
     <tr>
-      <td style="text-align:left">5/11</td>
+      <td style="text-align:left">11/11</td>
       <td style="text-align:left"><p><b>Network Attacks and Advanced Vulnerabilities</b></p></td>
       <td style="text-align:left">
       <p>Curriculum: Grayhat chapters 12-14</p>
@@ -184,14 +184,14 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">10/11</td>
+      <td style="text-align:left">16/11</td>
       <td style="text-align:left"><p><b>Web Application Hacking</b> - and some IoT</p></td>
       <td style="text-align:left">
       <p>Grayhat chapters Skim 22-25</p><p>Familiarize yourself with _Pwning OWASP Juice Shop_</p></td>
     </tr>
 
     <tr>
-      <td style="text-align:left">12/11</td>
+      <td style="text-align:left">18/11</td>
       <td style="text-align:left"><p><b>Managing Pentests and Vulnerabilities</b></p></td>
       <td style="text-align:left">
       <p>Supporting litterature: Familiarize yourself with sources listed above at _Policies, governance and best Practice_. Will also run some Metasploit to to everything together</p>
