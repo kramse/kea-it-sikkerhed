@@ -123,6 +123,7 @@ The detailed plan is below with a table summarizing lessons.
 **Note: might contain lot of pages, learn to skim and skip chapters and parts that don't interest you. In real life we don't have time to read every word!**
 
 Also I have decided to include very few papers in this course. Remember to check references in the books for supplementary reading.
+
 <table>
   <thead>
     <tr>
@@ -171,9 +172,9 @@ Also I have decided to include very few papers in this course. Remember to check
       </td>
       <td style="text-align:left">
       <p>Books: about 61 pages, lots of pictures</p>
-<p>DDS 3. Learning the "Hello World" of Security Data Analysis 31</p>
-<p>DDS 4. Performing Exploratory Security Data Analysis 30</p>
-<p>Do exercises if you feel like it, notice how small valuable programs can be</p>
+   <p>DDS 3. Learning the "Hello World" of Security Data Analysis 31</p>
+   <p>DDS 4. Performing Exploratory Security Data Analysis 30</p>
+   <p>Do exercises if you feel like it, notice how small valuable programs can be</p>
       </td>
     </tr>
     <tr>
@@ -215,12 +216,11 @@ Also I have decided to include very few papers in this course. Remember to check
      <td style="text-align:left">
      <p>Books - approx 68 pages</p>
      <p>SOC 7. vuln management 25,
-     SOC 11. Reacting to events and Incidents 16,
-CIP 6 Operationalize! 27</p>
-<p>
-Papers: Skim table of contents
-Privacy by design in big data: An overview of privacy enhancing technologies in
-the era of big data analytics, ENISA </p>
+     SOC 11. Reacting to events and Incidents 16, CIP 6 Operationalize! 27</p>
+     <p>
+     Papers: Skim table of contents
+   Privacy by design in big data: An overview of privacy enhancing technologies in
+   the era of big data analytics, ENISA </p>
       </td>
     </tr>
   </tbody>
