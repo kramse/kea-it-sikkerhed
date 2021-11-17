@@ -247,15 +247,29 @@ Also I have decided to include very few papers in this course. Remember to check
     </tr>
 
     <tr>
+      <td style="text-align:left">1/12</td>
+      <td style="text-align:left"><b>Initial Overview of SIEM Terms</b>
+      <p>Get an overview of the subject</p></td>
+      <td style="text-align:left">
+      <p>Books: approx 61 pages without the skim part, lots of pictures</p>
+      <p>DDS 1. The Journey to Data-Driven Security 18</p>
+      <p>DDS 2. Building Your Analytics Toolbox: R and Python 17</p>
+      <p>CIP 1 Incident Response Fundamentals 13</p>
+      <p>CIP 2 What Are You Trying to Protect? 13</p>
+      <p>Skim CIP 3 What Are the Threats? 14</p>
+      </td>
+    </tr>
+
+
+    <tr>
       <td style="text-align:left">3/12</td>
       <td style="text-align:left"><b>Hello world of Security Data Analysis</b>
-      <p>Get started with some data types and sources</p>
-      </td>
+      <p>Get started with some data types and sources</p></td>
       <td style="text-align:left">
       <p>Books: about 61 pages, lots of pictures</p>
-<p>DDS 3. Learning the "Hello World" of Security Data Analysis 31</p>
-<p>DDS 4. Performing Exploratory Security Data Analysis 30</p>
-<p>Do exercises if you feel like it, notice how small valuable programs can be</p>
+      <p>DDS 3. Learning the "Hello World" of Security Data Analysis 31</p>
+      <p>DDS 4. Performing Exploratory Security Data Analysis 30</p>
+      <p>Do exercises if you feel like it, notice how small valuable programs can be</p>
       </td>
     </tr>
     <tr>
