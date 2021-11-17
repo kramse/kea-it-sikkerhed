@@ -124,6 +124,23 @@ The detailed plan is below with a table summarizing lessons.
 
 Also I have decided to include very few papers in this course. Remember to check references in the books for supplementary reading.
 
+| Week | Theme / Goals | Litterature / Preparation |
+| -- | -- | -- |
+| `# Some Header` | `<h1>Some Header</h1>` | <h1>Some Header</h1> |
+
+| 26/11 |    <p>Welcome, goals and expectations</br>
+    Prepare Virtual Machines - bring laptop</p>
+    <p>Create a good starting point for learning </br>
+         Introduce lecturer and students </br>
+         Concrete Expectations </br>
+         Prepare tools for the exercises </p>
+|  <p> Reviewing the literature list will occur when we meet. </p>
+         <p> Download resources </p>
+         <p> Identification of chapters from books<br>
+    for reading as home assignment </p>
+    <p>Start lab setup and asses programming knowledge</p>
+|
+
 <table>
   <thead>
     <tr>
