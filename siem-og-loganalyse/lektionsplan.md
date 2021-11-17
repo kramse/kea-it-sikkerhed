@@ -124,23 +124,6 @@ The detailed plan is below with a table summarizing lessons.
 
 Also I have decided to include very few papers in this course. Remember to check references in the books for supplementary reading.
 
-| Week | Theme / Goals | Litterature / Preparation |
-| -- | -- | -- |
-| `# Some Header` | `<h1>Some Header</h1>` | <h1>Some Header</h1> |
-
-| 26/11 |    <p>Welcome, goals and expectations</br>
-    Prepare Virtual Machines - bring laptop</p>
-    <p>Create a good starting point for learning </br>
-         Introduce lecturer and students </br>
-         Concrete Expectations </br>
-         Prepare tools for the exercises </p>
-|  <p> Reviewing the literature list will occur when we meet. </p>
-         <p> Download resources </p>
-         <p> Identification of chapters from books<br>
-    for reading as home assignment </p>
-    <p>Start lab setup and asses programming knowledge</p>
-|
-
 <table>
   <thead>
     <tr>
@@ -156,14 +139,14 @@ Also I have decided to include very few papers in this course. Remember to check
         <p>Welcome, goals and expectations</br>
         Prepare Virtual Machines - bring laptop</p>
         <p>Create a good starting point for learning </br>
-         Introduce lecturer and students </br>
-         Concrete Expectations </br>
-         Prepare tools for the exercises </p>
+         Introduce lecturer and students </br>
+         Concrete Expectations </br>
+         Prepare tools for the exercises </p>
       </td>
       <td style="text-align:left">
       <p> Reviewing the literature list will occur when we meet. </p>
-         <p> Download resources </p>
-         <p> Identification of chapters from books<br>
+         <p> Download resources </p>
+         <p> Identification of chapters from books<br>
         for reading as home assignment </p>
         <p>Start lab setup and asses programming knowledge</p>
       </td>
@@ -189,9 +172,9 @@ Also I have decided to include very few papers in this course. Remember to check
       </td>
       <td style="text-align:left">
       <p>Books: about 61 pages, lots of pictures</p>
-   <p>DDS 3. Learning the "Hello World" of Security Data Analysis 31</p>
-   <p>DDS 4. Performing Exploratory Security Data Analysis 30</p>
-   <p>Do exercises if you feel like it, notice how small valuable programs can be</p>
+<p>DDS 3. Learning the "Hello World" of Security Data Analysis 31</p>
+<p>DDS 4. Performing Exploratory Security Data Analysis 30</p>
+<p>Do exercises if you feel like it, notice how small valuable programs can be</p>
       </td>
     </tr>
     <tr>
@@ -233,11 +216,12 @@ Also I have decided to include very few papers in this course. Remember to check
      <td style="text-align:left">
      <p>Books - approx 68 pages</p>
      <p>SOC 7. vuln management 25,
-     SOC 11. Reacting to events and Incidents 16, CIP 6 Operationalize! 27</p>
-     <p>
-     Papers: Skim table of contents
-   Privacy by design in big data: An overview of privacy enhancing technologies in
-   the era of big data analytics, ENISA </p>
+     SOC 11. Reacting to events and Incidents 16,
+CIP 6 Operationalize! 27</p>
+<p>
+Papers: Skim table of contents
+Privacy by design in big data: An overview of privacy enhancing technologies in
+the era of big data analytics, ENISA </p>
       </td>
     </tr>
   </tbody>
