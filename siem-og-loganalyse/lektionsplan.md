@@ -198,7 +198,6 @@ Also I have decided to include very few papers in this course. Remember to check
           DDS 11. Building Interactive Security Visualizations 26</p>
       </td>
     </tr>
-
     <tr>
       <td style="text-align:left">16/12 2021</td>
       <td style="text-align:left"><b>Baseline Your Data</b></td>
@@ -224,7 +223,6 @@ Also I have decided to include very few papers in this course. Remember to check
           the era of big data analytics, ENISA </p>
       </td>
     </tr>
-
   </tbody>
 </table>
 
