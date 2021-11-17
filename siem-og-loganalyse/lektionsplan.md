@@ -127,6 +127,87 @@ Also I have decided to include very few papers in this course. Remember to check
 <table>
   <thead>
     <tr>
+      <th style="text-align:left;width:10%">Date</th>
+      <th style="width:45%">Theme / Goals</th>
+      <th style="width:45%">Litterature / Preparation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">28/10</td>
+      <td style="text-align:left">
+        <p>Welcome, goals and expectations</br>
+        Prepare Virtual Machines - bring laptop</p>
+        <p>Create a good starting point for learning </br>
+         Introduce lecturer and students </br>
+         Concrete Expectations </br>
+         Prepare tools for the exercises.<b>Lab setup</b> </p>
+      </td>
+      <td style="text-align:left">
+      <p> Reviewing the literature list will occur when we meet. </p>
+         <p> Download Kali Linux Revealed </p>
+         <p> Identification of chapters and sections from KLR and LBfH<br>
+        for reading as home assignment </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2/11</td>
+      <td style="text-align:left"><p><b>Ethics and executing pentest</b></p></td>
+      <td style="text-align:left">
+      <p></p>
+      <p>Curriculum Grayhat chapters 1,6-9</p>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="text-align:left">4/11</td>
+      <td style="text-align:left"><p><b>Programming and basic buffer overflows</b></p></td>
+      <td style="text-align:left">
+      <p>Curriculum: Grayhat chapters 2-3,11</p>
+      <p>Supporting litterature: _Smashing The Stack For Fun And Profit_,
+      _Bypassing non-executable-stack during exploitation using return-to-libc_ and _Basic Integer Overflows_</p>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="text-align:left">9/11</td>
+      <td style="text-align:left"><p><b>Network spoofing and Cracking Passwords</b></p></td>
+      <td style="text-align:left">
+      <p>Curriculum: Grayhat chapters 10,15</p></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11/11</td>
+      <td style="text-align:left"><p><b>Network Attacks and Advanced Vulnerabilities</b></p></td>
+      <td style="text-align:left">
+      <p>Curriculum: Grayhat chapters 12-14</p>
+      <p>Supporting litterature: _Return-Oriented Programming:Systems, Languages, and Applications_</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">16/11</td>
+      <td style="text-align:left"><p><b>Web Application Hacking</b> - and some IoT</p></td>
+      <td style="text-align:left">
+      <p>Grayhat chapters Skim 22-25</p><p>Familiarize yourself with _Pwning OWASP Juice Shop_</p></td>
+    </tr>
+
+    <tr>
+      <td style="text-align:left">18/11</td>
+      <td style="text-align:left"><p><b>Managing Pentests and Vulnerabilities</b></p></td>
+      <td style="text-align:left">
+      <p>Supporting litterature: Familiarize yourself with sources listed above at _Policies, governance and best Practice_. Will also run some Metasploit to to everything together</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+<table>
+  <thead>
+    <tr>
       <th style="text-align:left;width:10%">Week</th>
       <th style="width:45%">Theme / Goals</th>
       <th style="width:45%">Litterature / Preparation</th>
