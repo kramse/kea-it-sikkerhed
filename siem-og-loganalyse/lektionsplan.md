@@ -27,7 +27,7 @@ See more about the course in the official curriculum which can be downloaded fro
 ### Exam:
 
 Date
-6/2 2022
+6/1 2022
 
 ### Teaching Methods:
 
