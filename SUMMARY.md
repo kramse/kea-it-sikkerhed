@@ -27,6 +27,10 @@
 
 * [Lektionsplan](system-integration/lektionsplan.md)
 
+## Security in Web Development
+
+* [Lektionsplan](security-in-web-development/lektionsplan.md)
+
 ## Book Club
 
 * [Ross Anderson, SEv3](ross-anderson-SEv3/lektionsplan.md)
