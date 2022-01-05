@@ -14,7 +14,6 @@ This document is written on Gitbook, and then exported to PDF.
 
 https://zencurity.gitbook.io/kea-it-sikkerhed/security-in-web-development/lektionsplan
 
-**Note: January 5, this plan is unfinished, but inspired by the one from Software Security**
 
 ### Goals
 
