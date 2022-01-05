@@ -38,7 +38,7 @@ The module is centered around security in web development including software qua
 * Spot potential security flaws in web applications
 * Use best practice on some web security challenges
 
-###Content
+### Content
 
 * Hacking in general
 * History, cases, vulnerability info etc
