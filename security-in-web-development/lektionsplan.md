@@ -313,4 +313,4 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
   </tbody>
 </table>
 
-This plan will make us read parts of the books.  Only chapters listed will be part of the exam. The rest is left as an optional reading.
+Only chapters listed will be part of the exam. The rest is left as an optional reading.
