@@ -67,7 +67,7 @@ Date to be entered here 2022
 
 ### Teaching dates - F2022:
 
-To be entered here.
+1/2, 8/2, 15/2, 22/2, 1/3, 8/3, 15/3, 22/3, 29/3, 5/4, 19/4, 26/4, 3/5, 10/5, 17/5
 
 Make sure to mark dates in your calendar.
 
