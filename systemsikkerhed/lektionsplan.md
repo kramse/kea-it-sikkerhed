@@ -146,6 +146,31 @@ The detailed plan is below with a table summarizing lessons
       </p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">10/2</td>
+      <td style="text-align:left"><b>Security Policies / Confidentiality Policies</b>
+      </td>
+      <td style="text-align:left">
+      <p>Bishop ch 4 and skim read ch 5</br>
+      Perhaps skip/skim some policy language examples, skip 4.7, skip 5.2.3 and similar math parts<br>
+      Appendix G,
+      Browse: Campus Network Security: High Level Overview , Network Startup Resource Center
+Campus Operations Best Current Practice, Network Startup Resource Center
+Mutually Agreed Norms for Routing Security (MANRS) </p>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="text-align:left">15/2</td>
+      <td style="text-align:left"><b>Integrity and Availability Policies</b>
+      </td>
+      <td style="text-align:left">
+      <p>Read: Bishop ch 6 and 7, skim math parts</br>
+      TCP Synfloods - an old yet current problem, BSDCan slides
+      </p>
+      <p>DBMS Security</p>
+      </td>
+    </tr>
 
   </tbody>
 </table>
