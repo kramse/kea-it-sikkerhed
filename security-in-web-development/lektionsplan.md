@@ -204,26 +204,27 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">15/2</td>
-      <td style="text-align:left"><b>Initial Overview of Software Security</b>
+      <td style="text-align:left"><b></b>
       <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>Curriculum: AoST chapters 2, 24-deadly introduction before page 1</p>
-      <p>Supporting litterature: _Secure Programming for Linux and Unix HOWTO_ </p>
+      <p>Curriculum: </p>
+      <p>Supporting litterature: _Secure Programming for Linux and Unix HOWTO_</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">22/2</td>
-      <td style="text-align:left"><b>SDLC and risk ranking</b>
-      </td>
+      <td style="text-align:left"><b>Initial Overview of Software Security</b>
+      <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>AoST chapters 3,4,5 - ca 50 pages</p>
+      <p>Curriculum: </p>
+      <p>Supporting litterature: </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">1/3</td>
       <td style="text-align:left"><b>Web Application Security: Recon</b></td>
       <td style="text-align:left">
-      <p>AoST chapters 6,7,8,9 - ca 72 pages.</p>
+      <p></p>
       <p>Look at: Getting started with Burp Suite [https://portswigger.net/support/getting-started-with-burp-suite](https://portswigger.net/support/getting-started-with-burp-suite)</p>
       </td>
     </tr>
@@ -246,7 +247,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">22/3</td>
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
-      <p>Next three evenings Hacking chapters 1-3 and if you have it 24-deadly chapters 5-8 - browse if you need to, many pages.</p>
+      <p></p>
       <p>Browse: Smashing The Stack For Fun And Profit, Aleph One,
 Bypassing non-executable-stack during exploitation using return-to-libc
 by c0ntex, Basic Integer Overflows by blexim.</p>
@@ -256,14 +257,14 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       <td style="text-align:left">29/3</td>
       <td style="text-align:left"><b>Program Building blocks and exploitation</b></td>
      <td style="text-align:left">
-     <p>Hacking chapters 1-3</p>
+     <p></p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">5/4</td>
       <td style="text-align:left"><b>Strings and Pointers</b></td>
       <td style="text-align:left">
-      <p>Hacking chapters 1-3</p>
+      <p></p>
       <p>Browse: _Return-Oriented Programming:Systems, Languages, and Applications_ and _Removing ROP Gadgets from OpenBSD_</p>
       </td>
     </tr>
@@ -280,7 +281,7 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       <td style="text-align:left">19/4</td>
       <td style="text-align:left"><b>Fuzzing intro</b></td>
       <td style="text-align:left">
-      <p>AoST chapters 10,11,12 - ca 65 pages</b></p>
+      <p></p>
       <p>Browse: _Bug Attacks on RSA_, _Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors_ and _Using Memory Errors to Attack a Virtual Machine_ </p></td>
     </tr>
     <tr>
