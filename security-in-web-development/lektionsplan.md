@@ -178,7 +178,7 @@ The detailed plan is below with a table summarizing lessons.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">31/8</td>
+      <td style="text-align:left">1/2</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Virtual Machines - bring laptop</p>
@@ -195,7 +195,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">2/9</td>
+      <td style="text-align:left">8/2</td>
       <td style="text-align:left"><b>Lab setup and Programming Knowledge</b><p>Do some initial programming</p></td>
       <td style="text-align:left">
       <p>Linux introduction and familiarisation </p>
@@ -203,7 +203,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/9</td>
+      <td style="text-align:left">15/2</td>
       <td style="text-align:left"><b>Initial Overview of Software Security</b>
       <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
@@ -212,7 +212,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9/9</td>
+      <td style="text-align:left">22/2</td>
       <td style="text-align:left"><b>SDLC and risk ranking</b>
       </td>
       <td style="text-align:left">
@@ -220,7 +220,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/9</td>
+      <td style="text-align:left">1/3</td>
       <td style="text-align:left"><b>Web Application Security: Recon</b></td>
       <td style="text-align:left">
       <p>AoST chapters 6,7,8,9 - ca 72 pages.</p>
@@ -228,14 +228,14 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">16/9</td>
+      <td style="text-align:left">8/3</td>
       <td style="text-align:left"><b>Web Application Security: Recon and Offensive</b></td>
       <td style="text-align:left">
       <p>WAS chapters 1-8, very short chapters </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">21/9</td>
+      <td style="text-align:left">15/3</td>
       <td style="text-align:left"><b>Hacking Web Applications: Offensive</b></td>
       <td style="text-align:left">
       <p>WAS chapters 9-16, very short chapters</p>
@@ -243,7 +243,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">23/9</td>
+      <td style="text-align:left">22/3</td>
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
       <p>Next three evenings Hacking chapters 1-3 and if you have it 24-deadly chapters 5-8 - browse if you need to, many pages.</p>
@@ -253,14 +253,14 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/9</td>
+      <td style="text-align:left">29/3</td>
       <td style="text-align:left"><b>Program Building blocks and exploitation</b></td>
      <td style="text-align:left">
      <p>Hacking chapters 1-3</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">30/9</td>
+      <td style="text-align:left">5/4</td>
       <td style="text-align:left"><b>Strings and Pointers</b></td>
       <td style="text-align:left">
       <p>Hacking chapters 1-3</p>
@@ -277,14 +277,14 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/10</td>
+      <td style="text-align:left">19/4</td>
       <td style="text-align:left"><b>Fuzzing intro</b></td>
       <td style="text-align:left">
       <p>AoST chapters 10,11,12 - ca 65 pages</b></p>
       <p>Browse: _Bug Attacks on RSA_, _Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors_ and _Using Memory Errors to Attack a Virtual Machine_ </p></td>
     </tr>
     <tr>
-      <td style="text-align:left">12/10</td>
+      <td style="text-align:left">26/4</td>
       <td style="text-align:left"><b>Security Design and Defense</b>
       </td>
       <td style="text-align:left">
@@ -293,7 +293,21 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/10</td>
+      <td style="text-align:left">3/5</td>
+      <td style="text-align:left"><b>   </b></td>
+      <td style="text-align:left">
+      <p>.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10/5</td>
+      <td style="text-align:left"><b></b></td>
+      <td style="text-align:left">
+      <p>.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">17/5</td>
       <td style="text-align:left"><b>General questions and summary</b></td>
       <td style="text-align:left">
       <p>We will do a practice exam and talk about exam subjects.</p>
