@@ -161,6 +161,18 @@ Campus Operations Best Current Practice, Network Startup Resource Center
 Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+  <th style="text-align:left">Dato</th>
+  <th style="text-align:left">Theme</th>
+  <th style="text-align:left">Litterature / Preparation</th>
+</tr>
+</thead>
+<tbody>
     <tr>
       <td style="text-align:left">15/2</td>
       <td style="text-align:left"><b>Integrity and Availability Policies</b>
