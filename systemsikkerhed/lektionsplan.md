@@ -203,6 +203,41 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">1/3</td>
+      <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
+      </td>
+      <td style="text-align:left">
+      <p>Bishop ch 14-16</br>
+
+      Skim, Setuid demystified,
+Some thoughts on security after ten years of qmail 1.0,
+Wedge: Splitting Applications into Reduced-Privilege Compartments
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3/3</td>
+      <td style="text-align:left"><b>Capabilities</b>
+      </td>
+      <td style="text-align:left">
+      <p>Skim: Bishop ch 18 -  skim math parts</br>
+      Skim:Capsicum: practical capabilities for UNIX
+      Removing ROP Gadgets from OpenBSD
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8/3</td>
+      <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
+      </td>
+      <td style="text-align:left">
+      <p>Bishop ch 25 and 26, Skim: FD ch 1-4 and appendix B</p>
+      <p>Read DSH ch 19-20</p>
+      Download and browse the ENISA papers listed under Computer Forensics in the reading list
+      </p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
