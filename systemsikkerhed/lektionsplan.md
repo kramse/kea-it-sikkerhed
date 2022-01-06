@@ -238,6 +238,40 @@ Wedge: Splitting Applications into Reduced-Privilege Compartments
       </p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">10/3</td>
+      <td style="text-align:left"><b>Forensics 2: Incident Response</b>
+      </td>
+      <td style="text-align:left">
+      <p>Read DSH ch 6-7</p>
+      <p>Bishop ch 27</br>
+      Incident Handler's Handbook
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">15/3</td>
+      <td style="text-align:left"><b>System Security in Practice</b>
+      </td>
+      <td style="text-align:left">
+      <p>Skim: Bishop ch 28,29,30</br>
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">17/3</td>
+      <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
+      </td>
+      <td style="text-align:left">
+      <p>Read DSH ch 8, skim ch 10-12</p>
+      <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Prepare for the exam</b></td>
+      <td style="text-align:left">Summary of the course, prepare for exam</td>
+    </tr>
   </tbody>
 </table>
 
