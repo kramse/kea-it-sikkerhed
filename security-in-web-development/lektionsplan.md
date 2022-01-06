@@ -202,17 +202,15 @@ The detailed plan is below with a table summarizing lessons.
       <p>AoST chapters 1</p>
       </td>
     </tr>
-
     <tr>
       <td style="text-align:left">7/9</td>
       <td style="text-align:left"><b>Initial Overview of Software Security</b>
-<p>Get an overview of the subject</p></td>
+      <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
       <p>Curriculum: AoST chapters 2, 24-deadly introduction before page 1</p>
       <p>Supporting litterature: _Secure Programming for Linux and Unix HOWTO_ </p>
       </td>
     </tr>
-
     <tr>
       <td style="text-align:left">9/9</td>
       <td style="text-align:left"><b>SDLC and risk ranking</b>
@@ -236,7 +234,6 @@ The detailed plan is below with a table summarizing lessons.
       <p>WAS chapters 1-8, very short chapters </p>
       </td>
     </tr>
-
     <tr>
       <td style="text-align:left">21/9</td>
       <td style="text-align:left"><b>Hacking Web Applications: Offensive</b></td>
@@ -245,8 +242,6 @@ The detailed plan is below with a table summarizing lessons.
       <p>Browse: _Secure Coding Best Practices Handbook Veracode_</p>
       </td>
     </tr>
-
-
     <tr>
       <td style="text-align:left">23/9</td>
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
@@ -264,7 +259,6 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
      <p>Hacking chapters 1-3</p>
       </td>
     </tr>
-
     <tr>
       <td style="text-align:left">30/9</td>
       <td style="text-align:left"><b>Strings and Pointers</b></td>
@@ -273,7 +267,6 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       <p>Browse: _Return-Oriented Programming:Systems, Languages, and Applications_ and _Removing ROP Gadgets from OpenBSD_</p>
       </td>
     </tr>
-
     <tr>
       <td style="text-align:left">5/10</td>
       <td style="text-align:left"><b>Network Attacks Intro</b></td>
@@ -283,7 +276,6 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       </p>
       </td>
     </tr>
-
     <tr>
       <td style="text-align:left">7/10</td>
       <td style="text-align:left"><b>Fuzzing intro</b></td>
@@ -291,7 +283,6 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       <p>AoST chapters 10,11,12 - ca 65 pages</b></p>
       <p>Browse: _Bug Attacks on RSA_, _Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors_ and _Using Memory Errors to Attack a Virtual Machine_ </p></td>
     </tr>
-
     <tr>
       <td style="text-align:left">12/10</td>
       <td style="text-align:left"><b>Security Design and Defense</b>
@@ -308,7 +299,6 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       <p>We will do a practice exam and talk about exam subjects.</p>
       </td>
     </tr>
-
   </tbody>
 </table>
 
