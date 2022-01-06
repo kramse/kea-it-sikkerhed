@@ -170,6 +170,39 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <p>DBMS Security</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">17/2</td>
+      <td style="text-align:left"><b>Hybrid Policies / Breaking out</b>
+      </td>
+      <td style="text-align:left">
+      <p>Read DSH ch 3-5</p>
+      <p>Bishop ch 8 -  skim math parts</br>
+      Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
+      https://en.wikipedia.org/wiki/Row_hammer
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">22/2</td>
+      <td style="text-align:left"><b>Basic Cryptography</b>
+      </td>
+      <td style="text-align:left">
+      <p>Read Bishop ch 10, 11 until and including 11.4, 12 until and including 12.5.3.10, 13 until and including 13.5<br>
+      Skim: NIST Special Publication 800-63B<br>
+      Enterprise Survival Guide for Ransomware Attacks<br>
+      IT Security Guidelines for Transport Layer Security</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">24/2</td>
+      <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
+      </td>
+      <td style="text-align:left">
+      <p>Read Bishop ch 23 and skim 24, Skim: FD ch 5-6</br>
+      Smashing The Stack For Fun And Profit, Bypassing non-executable-stack during exploitation using return-to-libc, Basic Integer Overflows, Return-Oriented Programming
+      </p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
