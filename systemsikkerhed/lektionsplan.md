@@ -28,7 +28,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: 8/4 2021 exam
+Date: 31/3 2022 exam
 
 ### Teaching Methods:
 
@@ -36,7 +36,7 @@ Date: 8/4 2021 exam
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates: tuesdays and thursdays
-2/2 2021, 4/2 2021, 9/2 2021, 11/2 2021, 16/2 2021, 18/2 2021, 23/2 2021, 25/2 2021, 2/3 2021, 4/3 2021, 9/3 2021, 11/3 2021, 16/3 2021, 18/3 2021
+1/2 2022, 3/2 2022, 8/2 2022, 10/2 2022, 15/2 2022, 17/2 2022, 22/2 2022, 24/2 2022, 1/3 2022, 3/3 2022, 8/3 2022, 10/3 2022, 15/3 2022, 17/3 2022
 
 
 ### Course reading list
@@ -102,7 +102,7 @@ Policies, governance and best Practice
 * [CIS Controls](https://learn.cisecurity.org/cis-controls-download) Requires giving your email
 * [PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019](https://www.pcisecuritystandards.org/documents/PCI_DSS_V2.0_Best_Practices_for_Maintaining_PCI_DSS_Compliance.pdf?agreement=true&time=1555354264656)
 * [NIST Special Publication 800-63B Digital Identity Guidelines: Authentication and Lifecycle Management](https://pages.nist.gov/800-63-3/sp800-63b.html)
-* [IT Security Guidelines for Transport Layer Security (TLS)](https://english.ncsc.nl/publications/publications/2021/january/19/it-security-guidelines-for-transport-layer-security-2.1)
+* [IT Security Guidelines for Transport Layer Security (TLS)](https://english.ncsc.nl/publications/publications/2022/january/19/it-security-guidelines-for-transport-layer-security-2.1)
 
 ## Planning
 
