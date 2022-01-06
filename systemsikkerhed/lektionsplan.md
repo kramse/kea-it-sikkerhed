@@ -136,6 +136,17 @@ The detailed plan is below with a table summarizing lessons
       <p>Bishop ch 1 and 2, DSH ch 1-2</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">8/2</td>
+      <td style="text-align:left"><b>Overview of Enterprise Attacks</b>
+      </td>
+      <td style="text-align:left">
+      <p>Read <a href="https://medium.com/mitre-attack/att-ck-101-17074d3bc62">ATT&CK 101 Blog Post</a> and browse
+      <a href="https://attack.mitre.org/">MITRE ATT&CK</a>
+      </p>
+      </td>
+    </tr>
+
   </tbody>
 </table>
 
