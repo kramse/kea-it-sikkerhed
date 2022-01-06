@@ -208,10 +208,8 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
       </td>
       <td style="text-align:left">
-      <p>Bishop ch 14-16</br>Skim, Setuid demystified,
-Some thoughts on security after ten years of qmail 1.0,
-Wedge: Splitting Applications into Reduced-Privilege Compartments
-      </p>
+      <p>Bishop ch 14-16</br>Skim, Setuid demystified, Some thoughts on security after ten years of qmail 1.0,
+Wedge: Splitting Applications into Reduced-Privilege Compartments </p>
       </td>
     </tr>
     <tr>
