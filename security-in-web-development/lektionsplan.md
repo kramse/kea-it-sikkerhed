@@ -82,7 +82,7 @@ Read more about these at [https://github.com/kramse/kramse-labs](https://github.
 
 ### Course reading list
 
-This course uses three books and a number of supporting resources.
+This course uses one books and a number of supporting resources.
 
 Primary literature:
 
@@ -103,6 +103,11 @@ Supporting literature:
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
 This book introduces the Linux operating system commands, using Kali Linux as example. The tools presented include a lot of generic Unix tools. If you have no experience with Linux or Unix it is recommended to buy this book.
+
+Books about the virtual machines we will run
+
+* The Debian Administrator’s Handbook, Raphaël Hertzog and Roland Mas
+[https://debian-handbook.info/](https://debian-handbook.info/) - shortened DEB
 
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 
