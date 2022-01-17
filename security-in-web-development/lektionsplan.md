@@ -193,7 +193,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left">
       <p> Reviewing the literature list will occur when we meet. </p>
          <p> Download Kali Linux Revealed </p>
-         <p> Identification of chapters and sections from KLR and LBfH<br>
+         <p> Identification of chapters and sections from DEB, KLR and LBfH<br>
         for reading as home assignment </p>
       </td>
     </tr>
