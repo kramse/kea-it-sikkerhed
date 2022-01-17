@@ -199,18 +199,18 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">8/2</td>
-      <td style="text-align:left"><b>Hacking in General</b><p>Do some initial hacking</p></td>
+      <td style="text-align:left"><b>Hacking in General</b><p>Initial Overview of Software Security </p>
+      <p>Do some initial hacking</p></td>
       <td style="text-align:left">
-      <p>Initial Overview of Software Security </p>
-      <p></p>
-      </td>
+      <p>Curriculum: WAS Preface and chapter 1</p>
+      <p>Supporting litterature: </p>      </td>
     </tr>
     <tr>
       <td style="text-align:left">15/2</td>
       <td style="text-align:left"><b></b>
       <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>Curriculum: WAS Preface and Chapter 1</p>
+      <p>Curriculum: WAS chapter </p>
       <p>Supporting litterature: </p>
       </td>
     </tr>
