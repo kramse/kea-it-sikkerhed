@@ -22,11 +22,9 @@ The module is centered around security in web development including software qua
 
 ### Course description
 
-% Security in web development is designed to give the
-% students an idea of some of the challenges that web
-% developers face when implementing web applications. It
-% also gives some suggestions on how to handle these
-% challenges, and what to be especially aware of.
+Security in web development is designed to give the students an idea of some of the challenges that web
+developers face when implementing web applications. It also gives some suggestions on how to handle these
+challenges, and what to be especially aware of.
 
 
 ### Learning Goals
@@ -199,7 +197,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Lab setup and Programming Knowledge</b><p>Do some initial programming</p></td>
       <td style="text-align:left">
       <p>Linux introduction and familiarisation </p>
-      <p>AoST chapters 1</p>
+      <p></p>
       </td>
     </tr>
     <tr>
