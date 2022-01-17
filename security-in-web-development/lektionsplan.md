@@ -199,9 +199,9 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">8/2</td>
-      <td style="text-align:left"><b>Lab setup and Programming Knowledge</b><p>Do some initial programming</p></td>
+      <td style="text-align:left"><b>Hacking in General</b><p>Do some initial hacking</p></td>
       <td style="text-align:left">
-      <p>Linux introduction and familiarisation </p>
+      <p>Initial Overview of Software Security </p>
       <p></p>
       </td>
     </tr>
@@ -210,13 +210,13 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b></b>
       <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>Curriculum: </p>
-      <p>Supporting litterature: _Secure Programming for Linux and Unix HOWTO_</p>
+      <p>Curriculum: WAS Preface and Chapter 1</p>
+      <p>Supporting litterature: </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">22/2</td>
-      <td style="text-align:left"><b>Initial Overview of Software Security</b>
+      <td style="text-align:left"><b></b>
       <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
       <p>Curriculum: </p>
