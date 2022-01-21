@@ -199,7 +199,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">8/2</td>
-      <td style="text-align:left"><b>Hacking in General</b><p>Initial Overview of Software Security </p>
+      <td style="text-align:left"><b>Overview of Computer Security</b>
       <p>Do some initial hacking</p></td>
       <td style="text-align:left">
       <p>Curriculum: WAS Preface and chapter 1</p>
@@ -207,8 +207,7 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">15/2</td>
-      <td style="text-align:left"><b></b>
-      <p>Get an overview of the subject</p></td>
+      <td style="text-align:left"><b>Security Principles, Encryption and Tools</b></td>
       <td style="text-align:left">
       <p>Curriculum: WAS chapter </p>
       <p>Supporting litterature: </p>
@@ -216,15 +215,6 @@ The detailed plan is below with a table summarizing lessons.
     </tr>
     <tr>
       <td style="text-align:left">22/2</td>
-      <td style="text-align:left"><b></b>
-      <p>Get an overview of the subject</p></td>
-      <td style="text-align:left">
-      <p>Curriculum: </p>
-      <p>Supporting litterature: </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">1/3</td>
       <td style="text-align:left"><b>Web Application Security: Recon</b></td>
       <td style="text-align:left">
       <p></p>
@@ -232,14 +222,14 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8/3</td>
+      <td style="text-align:left">1/3</td>
       <td style="text-align:left"><b>Web Application Security: Recon and Offensive</b></td>
       <td style="text-align:left">
       <p>WAS chapters 1-8, very short chapters </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">15/3</td>
+      <td style="text-align:left">8/3</td>
       <td style="text-align:left"><b>Hacking Web Applications: Offensive</b></td>
       <td style="text-align:left">
       <p>WAS chapters 9-16, very short chapters</p>
@@ -247,7 +237,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">22/3</td>
+      <td style="text-align:left">15/3</td>
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
       <p></p>
@@ -257,14 +247,14 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">29/3</td>
+      <td style="text-align:left">22/3</td>
       <td style="text-align:left"><b>Program Building blocks and exploitation</b></td>
      <td style="text-align:left">
      <p></p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">5/4</td>
+      <td style="text-align:left">29/3</td>
       <td style="text-align:left"><b>Strings and Pointers</b></td>
       <td style="text-align:left">
       <p></p>
@@ -272,7 +262,7 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">5/10</td>
+      <td style="text-align:left">5/4</td>
       <td style="text-align:left"><b>Network Attacks Intro</b></td>
       <td style="text-align:left">
       <p>Hacking chapter 4 browse!</p>
