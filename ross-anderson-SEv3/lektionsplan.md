@@ -7,7 +7,7 @@ description: Valgfrie modul  VF1 Systemsikkerhed (10 ECTS) System Security
 ## Book club:  Security Engineering, third edition, Ross Anderson
 
 ### General Information
-Coordinator: Henrik Kramselund  hkj@zencurity.dk +45 2026 6000
+Coordinator: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
 
 
 This document is written on Gitbook.

@@ -8,7 +8,7 @@ description: Obligatoriske modul Ob 1 Netværks- og kommunikationssikkerhed (10 
 
 English: Communication and Network Security
 
-Teacher: Henrik Kramselund  hkj@zencurity.dk +45 2026 6000
+Teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
 
 This document is written on Gitbook, and then exported to PDF.
 https://zencurity.gitbook.io/kea-it-sikkerhed/net-og-komm-sikkerhed/lektionsplan

@@ -10,7 +10,7 @@ description: Modul System integration (10 ECTS)
 
 Teacher: Morten Voetmann Christiansen, morc@kea.dk
 
-Secondary teacher: Henrik Kramselund  hkj@zencurity.dk +45 2026 6000
+Secondary teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
 
 
 This document is written on Gitbook, and then exported to PDF.

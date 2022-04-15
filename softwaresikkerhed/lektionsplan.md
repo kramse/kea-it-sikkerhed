@@ -8,7 +8,7 @@ description: Obligatoriske modul  OB2 Softwaresikkerhed (10 ECTS) Software Secur
 
 English: Software Security
 
-Teacher: Henrik Kramselund  hkj@zencurity.dk +45 2026 6000
+Teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
 
 
 This document is written on Gitbook, and then exported to PDF.
