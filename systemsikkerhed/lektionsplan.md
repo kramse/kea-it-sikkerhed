@@ -12,8 +12,7 @@ English: Computer Systems Security
 Teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
 
 
-This document is written on Gitbook, and then exported to PDF.
-https://zencurity.gitbook.io/kea-it-sikkerhed/systemsikkerhed/lektionsplan
+This document is written using Github.
 
 Teaching material will primarily be English, but the teaching will be in Danish.
 

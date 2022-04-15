@@ -10,8 +10,7 @@ English: Communication and Network Security
 
 Teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
 
-This document is written on Gitbook, and then exported to PDF.
-https://zencurity.gitbook.io/kea-it-sikkerhed/net-og-komm-sikkerhed/lektionsplan
+This document is written using Github.
 
 The PDF export seem to have problems with the big table, please check the Gitbook version if in doubt about reading list.
 

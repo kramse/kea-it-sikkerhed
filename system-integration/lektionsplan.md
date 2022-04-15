@@ -13,8 +13,7 @@ Teacher: Morten Voetmann Christiansen, morc@kea.dk
 Secondary teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
 
 
-This document is written on Gitbook, and then exported to PDF.
-https://zencurity.gitbook.io/kea-it-sikkerhed/system-integration/lektionsplan
+This document is written using Github.
 
 Teaching material will primarily be English, but the teaching will be in Danish.
 
