@@ -8,4 +8,4 @@ Du kan læse på hjemmesiden for KEA Kompetance.
 
 [https://kompetence.kea.dk/uddannelser/it-digitalt/diplom-i-it-sikkerhed](https://kompetence.kea.dk/uddannelser/it-digitalt/diplom-i-it-sikkerhed)  
 
-Denne side på Gitbook er oprettet af underviser Henrik Kramselund Jereminsen for at skrive og samle dokumenter omhandlende lektionsplanerne således at disse kan genbruges.
+Denne side på Gitbook er oprettet af underviser Henrik Kramselund for at skrive og samle dokumenter omhandlende lektionsplanerne således at disse kan genbruges.

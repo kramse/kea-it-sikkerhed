@@ -7,7 +7,7 @@ description: elective Security in Web Development (10 ECTS)
 ## Elective Security in Web Development \(10 ECTS\)
 
 
-Teacher: Henrik Kramselund Jereminsen xhek@kea.dk +45 2026 6000
+Teacher: Henrik Kramselund  xhek@kea.dk +45 2026 6000
 
 
 This document is written on Gitbook, and then exported to PDF.
