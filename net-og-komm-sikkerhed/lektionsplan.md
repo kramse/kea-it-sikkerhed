@@ -12,8 +12,6 @@ Teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
 
 This document is written using Github.
 
-The PDF export seem to have problems with the big table, please check the Gitbook version if in doubt about reading list.
-
 ### Goals
 
 The module is centered around network threats and implementing and configuring equipment in this area.
