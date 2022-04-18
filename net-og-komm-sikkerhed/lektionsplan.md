@@ -26,7 +26,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: 15/6 2021
+Date: 15/6 2022
 
 ### Teaching Methods:
 
@@ -34,7 +34,8 @@ Date: 15/6 2021
 * Group exercises and cases, including practical exercises with laptop
 * 17:00 - 20:30 Online meetup and exercises - planned!
 
-Teaching dates: 13/4 2021, 15/4 2021, 20/4 2021, 22/4 2021, 27/4 2021, 29/4 2021, 4/5 2021, 6/5 2021, 11/5 2021, 18/5 2021, 20/5 2021, 25/5 2021, 27/5 2021, 1/6 2021
+Teaching dates: Teaching dates: tuesdays and thursdays 17:00 - 20:30\\
+19/4 2022, 21/4 2022, 26/4 2022, 28/4 2022, 3/5 2022, \sout{5/5 2022}, 10/5 2022, 12/5 2022, 17/5 2022, 19/5 2022, 24/5 2022, 31/5 2022, 2/6 2022, 7/6 2022
 
 ### Course reading list
 
@@ -100,15 +101,15 @@ The detailed plan is below with a table summarizing lessons
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Dato</th>
-      <th style="text-align:left">Tema</th>
-      <th style="text-align:left">Mål</th>
-      <th style="text-align:left">Litteratur / Forberedelse</th>
+      <th style="text-align:left">Date</th>
+      <th style="text-align:left">Theme</th>
+      <th style="text-align:left">Goals</th>
+      <th style="text-align:left">Litterature / Preparation</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">13/4</td>
+      <td style="text-align:left">19/4</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Kali Linux VM - bring laptop</p>
@@ -127,7 +128,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">15/4</td>
+      <td style="text-align:left">21/4</td>
       <td style="text-align:left"><b>TCP/IP and Security in TCP/IP protocol suite</b>
       </td>
       <td style="text-align:left">Understand basic IP protocols and inherent security problems</td>
@@ -139,7 +140,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">20/4</td>
+      <td style="text-align:left">26/4</td>
       <td style="text-align:left"><b>Network Security Threats</b>
       </td>
       <td style="text-align:left">Know common threats in networks, and solutions</td>
@@ -149,7 +150,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">22/4</td>
+      <td style="text-align:left">28/4</td>
       <td style="text-align:left"><b>Traffic inspection and firewalls</b>
       </td>
       <td style="text-align:left">Understand basic firewall technologies</td>
@@ -164,7 +165,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">27/4</td>
+      <td style="text-align:left">3/5</td>
       <td style="text-align:left"><b>Encrypting the network</b>
       </td>
       <td style="text-align:left">Know how math, algorithms and protocols are used to ensure confidentiality and integrity</td>
@@ -176,7 +177,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">29/4</td>
+      <td style="text-align:left">5/5</td>
       <td style="text-align:left"><b>Virtual Private Networks</b>
       </td>
       <td style="text-align:left">Know methods of connecting securely across insecure networks</td>
@@ -194,7 +195,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">4/5</td>
+      <td style="text-align:left">10/5</td>
       <td style="text-align:left"><b>Wifi Security</b>
       </td>
       <td style="text-align:left">Knowledge of Wireless 802.11 and security methods used</td>
@@ -206,7 +207,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">6/5</td>
+      <td style="text-align:left">12/5</td>
       <td style="text-align:left"><b>Network Management</b>
       </td>
       <td style="text-align:left">Understand why managed networks are more secure</td>
@@ -217,7 +218,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/5</td>
+      <td style="text-align:left">17/5</td>
       <td style="text-align:left"><b>Network Intrusion Detection</b>
       </td>
       <td style="text-align:left">Learn how to sniff and detect network problems using IDS</td>
@@ -237,7 +238,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">20/5</td>
+      <td style="text-align:left">24/5</td>
       <td style="text-align:left"><b>Honeypots</b>
       </td>
       <td style="text-align:left">See how systems can attract attackers and monitor attacks</td>
@@ -246,7 +247,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">25/5</td>
+      <td style="text-align:left">31/5</td>
       <td style="text-align:left"><b>DNS and Email Security</b>
       </td>
       <td style="text-align:left">Learn the role of DNS in securing networks and systems</td>
@@ -259,7 +260,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">27/5</td>
+      <td style="text-align:left">2/6</td>
       <td style="text-align:left"><b>Building Robust Networks</b>
       </td>
       <td style="text-align:left">Learn the process of securing a network using security components</td>
@@ -271,7 +272,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">1/6</td>
+      <td style="text-align:left">7/6</td>
       <td style="text-align:left"><b>Running a Modern Network</b></td>
       <td style="text-align:left">Learn that your network is part of the bigger Internet, your security affects others</td>
       <td style="text-align:left">
