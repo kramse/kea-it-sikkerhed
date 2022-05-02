@@ -223,7 +223,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">Learn how to sniff and detect network problems using IDS</td>
       <td style="text-align:left">
-      <p>Read: ANSM chapter 9,10 - 86 pages</p>
+      <p>Browse -- note a few headlines: ANSM chapter 9,10 - 86 pages - very usefull if you want to implement IDS. Not curriculum, but introduce IDS and are a good reference</p>
       </td>
     </tr>
     <tr>
@@ -243,7 +243,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">See how systems can attract attackers and monitor attacks</td>
       <td style="text-align:left">
-      <p>Read: ANSM chapter 11,12 - 54 pages</p>
+      <p>Read: ANSM chapter 12 Browse: ANSM chapter 11 - uses an older tool package SiLK but the process described is great</p>
       </td>
     </tr>
     <tr>
