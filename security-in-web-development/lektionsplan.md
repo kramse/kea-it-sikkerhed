@@ -65,7 +65,7 @@ Date to be entered here 2022
 
 ### Teaching dates - F2022:
 
-1/2, 8/2, 15/2, 22/2, 1/3, 8/3, 15/3, 22/3, 29/3, 5/4, 19/4, 26/4, 3/5, 10/5, 17/5
+25/8, 1/9, 8/9, 15/9, 22/9, 29/9, 6/10, **13/10 - PROBLEM**, 27/10, 3/11, 10/11, 17/11, 24/11, 1/12, 8/12, 15/12
 
 Make sure to mark dates in your calendar.
 
@@ -97,7 +97,7 @@ It is recommended to buy the _Pwning OWASP Juice Shop_ Official companion guide 
 From [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99
 
 
-Supporting literature:
+### Supporting literature:
 
 
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
@@ -127,7 +127,7 @@ Multiple older resources are also interesting for programmers.
 
 Supporting Internet resources
 
-Also the course will use internet links and pages. These can be downloaded from the internet often for free and may be gathered by the instructor for easy download.
+Also the course will use internet links and pages. These can often be downloaded from the internet for free and may be gathered by the instructor for easy download.
 
 These are not part of the curriculum for this course, but are considered important references. It is recommended to skim, browse them and familiarize yourself with the content.
 
@@ -181,9 +181,9 @@ The detailed plan is below with a table summarizing lessons.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">1/2</td>
+      <td style="text-align:left">25/8</td>
       <td style="text-align:left">
-        <p>Welcome, goals and expectations</br>
+        <b>0. Introduction</b><p>Welcome, goals and expectations</br>
         Prepare Virtual Machines - bring laptop</p>
         <p>Create a good starting point for learning </br>
          Introduce lecturer and students </br>
@@ -192,117 +192,111 @@ The detailed plan is below with a table summarizing lessons.
       </td>
       <td style="text-align:left">
       <p> Reviewing the literature list will occur when we meet. </p>
-         <p> Download Kali Linux Revealed </p>
+         <p>Get the books as PDF, the ones which are free. </p>
          <p> Identification of chapters and sections from DEB, KLR and LBfH<br>
         for reading as home assignment </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8/2</td>
-      <td style="text-align:left"><b>Overview of Computer Security</b>
+      <td style="text-align:left">1/9</td>
+      <td style="text-align:left"><b>1. Overview of Computer Security</b>
       <p>Do some initial hacking</p></td>
       <td style="text-align:left">
       <p>Curriculum: WAS Preface and chapter 1</p>
       <p>Supporting litterature: </p>      </td>
     </tr>
     <tr>
-      <td style="text-align:left">15/2</td>
-      <td style="text-align:left"><b>Security Principles, Encryption and Tools</b></td>
+      <td style="text-align:left">8/9</td>
+      <td style="text-align:left"><b>2. Security Principles, Encryption and Tools</b></td>
       <td style="text-align:left">
       <p>Curriculum: WAS chapter </p>
       <p>Supporting litterature: </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">22/2</td>
-      <td style="text-align:left"><b>Web Application Security: Recon</b></td>
+      <td style="text-align:left">15/9</td>
+      <td style="text-align:left"><b>3. Web Application Hacking Intro</b></td>
       <td style="text-align:left">
-      <p></p>
+      <p>WAS chapters 2-8, very short chapters </p>
       <p>Look at: Getting started with Burp Suite [https://portswigger.net/support/getting-started-with-burp-suite](https://portswigger.net/support/getting-started-with-burp-suite)</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">1/3</td>
-      <td style="text-align:left"><b>Web Application Security: Recon and Offensive</b></td>
+      <td style="text-align:left">22/9</td>
+      <td style="text-align:left"><b>4. Web Application Security: Recon</b></td>
       <td style="text-align:left">
-      <p>WAS chapters 1-8, very short chapters </p>
+      <p>WAS chapters 2-8, very short chapters </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8/3</td>
-      <td style="text-align:left"><b>Hacking Web Applications: Offensive</b></td>
+      <td style="text-align:left">29/9</td>
+      <td style="text-align:left"><b>5. Hacking Web Applications: Offensive</b></td>
       <td style="text-align:left">
       <p>WAS chapters 9-16, very short chapters</p>
       <p>Browse: _Secure Coding Best Practices Handbook Veracode_</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">15/3</td>
-      <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
+      <td style="text-align:left">6/10</td>
+      <td style="text-align:left"><b>6. Web Application Security: Offensive, continued, and Defensive</b></td>
       <td style="text-align:left">
-      <p></p>
-      <p>Browse: Smashing The Stack For Fun And Profit, Aleph One,
-Bypassing non-executable-stack during exploitation using return-to-libc
-by c0ntex, Basic Integer Overflows by blexim.</p>
+      <p>WAS chapters 9-16, very short chapters
+Browse: _Secure Coding Best Practices Handbook Veracode_</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">22/3</td>
-      <td style="text-align:left"><b>Program Building blocks and exploitation</b></td>
+      <td style="text-align:left">27/10</td>
+      <td style="text-align:left"><b>7. Web Application Security: Defensive, Architecture, Authentication</b></td>
+      <td style="text-align:left">
+      <p>WAS chapters 17-18
+Discussion about your architectures for Exam Projects</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3/11</td>
+      <td style="text-align:left"><b>8. Web Application Security: Defensive. Code review, automation, patterns/anti-patterns</b></td>
      <td style="text-align:left">
-     <p></p>
+     <p>WAS Chapters 19-21
+
+Use the secure coding PDF from Veracode</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">29/3</td>
-      <td style="text-align:left"><b>Strings and Pointers</b></td>
+      <td style="text-align:left">10/11</td>
+      <td style="text-align:left"><b>9. Defensive: XSS, CSRF, tokens etc.</b></td>
       <td style="text-align:left">
-      <p></p>
-      <p>Browse: _Return-Oriented Programming:Systems, Languages, and Applications_ and _Removing ROP Gadgets from OpenBSD_</p>
-      </td>
+      <p>WAS 22-24 XSS, CSRF, XEE</p><p>
+Skim The Tangled Web chapter 3 PDF, READ the cheat sheet at the end!</p></td>
     </tr>
     <tr>
-      <td style="text-align:left">5/4</td>
-      <td style="text-align:left"><b>Network Attacks Intro</b></td>
+      <td style="text-align:left">17/11</td>
+      <td style="text-align:left"><b>10. Defensive Injection and DoS</b></td>
       <td style="text-align:left">
-      <p>Hacking chapter 4 browse!</p>
-      <p>_TCP Synfloods - an old yet current problem_
-      </p>
-      </td>
+      <p>WAS 25-26 Injection and DoS</p></td>
     </tr>
     <tr>
-      <td style="text-align:left">19/4</td>
-      <td style="text-align:left"><b>Fuzzing intro</b></td>
+      <td style="text-align:left">24/11</td>
+      <td style="text-align:left"><b>11. Defensive, Dependencies, summary, how to scan</b></td>
       <td style="text-align:left">
-      <p></p>
-      <p>Browse: _Bug Attacks on RSA_, _Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors_ and _Using Memory Errors to Attack a Virtual Machine_ </p></td>
+      <p>WAS 27-29</p></td>
     </tr>
     <tr>
-      <td style="text-align:left">26/4</td>
-      <td style="text-align:left"><b>Security Design and Defense</b>
-      </td>
-      <td style="text-align:left">
-      <p> Security by Design Principles, OWASP https://www.owasp.org/index.php/Security_by_Design_Principles
-      Wikipedia Privacy by Design https://en.wikipedia.org/wiki/Privacy_by_design . WAS chapters chapters 17-21, very short chapters </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">3/5</td>
-      <td style="text-align:left"><b>   </b></td>
+      <td style="text-align:left">1/12</td>
+      <td style="text-align:left"><b>Exam project</b></td>
       <td style="text-align:left">
       <p>.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">10/5</td>
-      <td style="text-align:left"><b></b></td>
+      <td style="text-align:left">8/12</td>
+      <td style="text-align:left"><b>Exam project</b></td>
       <td style="text-align:left">
       <p>.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">17/5</td>
-      <td style="text-align:left"><b>General questions and summary</b></td>
+      <td style="text-align:left">15/12</td>
+      <td style="text-align:left"><b>Exam project</p><p>General questions and summary</b></td>
       <td style="text-align:left">
       <p>We will do a practice exam and talk about exam subjects.</p>
       </td>
