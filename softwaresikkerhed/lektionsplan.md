@@ -69,7 +69,7 @@ Supporting literature:
 **It is highly recommended to get these books listed above.**
 
 
-Supporting Internet resources
+### Supporting Internet resources
 
 Also the course will use internet links and pages. These can often be downloaded from the internet for free and may be gathered by the instructor for easy download.
 
