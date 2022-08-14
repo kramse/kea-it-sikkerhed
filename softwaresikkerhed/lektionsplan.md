@@ -1,5 +1,5 @@
 ---
-description: Obligatoriske modul  OB2 Softwaresikkerhed (10 ECTS) Software Security
+description: Obligatorisk modul OB2 Softwaresikkerhed (10 ECTS) Software Security
 ---
 
 # Lektionsplan
@@ -8,7 +8,7 @@ description: Obligatoriske modul  OB2 Softwaresikkerhed (10 ECTS) Software Secur
 
 English: Software Security
 
-Teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
+Teacher: Henrik Kramselund xhek@kea.dk hlk@zencurity.dk +45 2026 6000
 
 
 This document is written using Github.
@@ -25,18 +25,18 @@ See more about the course in the official curriculum which can be downloaded fro
 
 ### Exam:
 
-Date 26/10 2021
+Date 13/10 2022
 
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-### Teaching dates - fall 2021:
+### Teaching dates - fall 2022:
 
-31/8, 2/9, 7/9, 9/9, 14/9, 16/9, 21/9, 23/9, 28/9, 30/10, 5/10, 7/10, 12/10, 14/10
+16/8, 18/8, 23/8, 25/8, 30/8, 1/9, 6/9, 8/9, 13/9, 15/9, 20/9, 22/9, 27/9, 29/9
 
-Make sure to mark dates in your calendar - some weeks will have lessons tuesday/thursdays.
+Make sure to mark dates in your calendar - most weeks will have lessons tuesday/thursdays.
 
 ### Hardware
 
@@ -57,26 +57,28 @@ Primary literature:
 
 * The Art of Software Security Testing Identifying Software Security Flaws,
 Chris Wysopal, 2006, ISBN: 9780321304865, named AoST or the Green Book
-* Web Application Security, Andrew Hoffman, 2020, ISBN: 9781492053118 called WAS below
-* Hacking, 2nd Edition: The Art of Exploitation, Jon Erickson, February 2008, ISBN-13: 9781593271442, called just hacking below
-
-It is recommended to buy the _Pwning OWASP Juice Shop_
-Official companion guide to the OWASP Juice Shop.
-
-From [https://leanpub.com/juice-shop](https://leanpub.com/juice-shop) - suggested price USD 5.99
-
-It is recommended to buy these books listed above.
-
+* Web Application Security, Andrew Hoffman, 2020, ISBN: 9781492053118 called WAS below. Can be downloaded for free from https://www.nginx.com/resources/library/web-application-security/
+* Pwning OWASP Juice Shop Official companion guide to the OWASP Juice Shop
+Can be found online for free, but recommend buying the PDF from https://leanpub.com/juice-shop - suggested price USD 5.99
 
 Supporting literature:
 
-* 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them, Michael Howard, David LeBlanc, John Viega, ISBN: 9780071626750, 2010 The McGraw-Hill Companies, named 24-deadly below
+* Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, ISBN-13: 978-1-59327-855-7 - shortened LBfH
+* Gray Hat Hacking: The Ethical Hacker's Handbook, fifth edition Allen Harper ISBN: 9781260108415
 
-Additional software security problems, listed language agnostically and with small examples. Highly recommended for programmers.
+**It is highly recommended to get these books listed above.**
 
-* Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
-This book introduces the Linux operating system commands, using Kali Linux as example. The tools presented include a lot of generic Unix tools. If you have no experience with Linux or Unix it is recommended to buy this book.
+Supporting Internet resources
+
+Also the course will use internet links and pages. These can often be downloaded from the internet for free and may be gathered by the instructor for easy download.
+
+These are not part of the curriculum for this course, but are considered important references. It is recommended to skim, browse them and familiarize yourself with the content.
+
+Books about the virtual machines we will run:
+
+* The Debian Administrator’s Handbook, Raphaël Hertzog and Roland Mas
+[https://debian-handbook.info/](https://debian-handbook.info/) - shortened DEB
 
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 
@@ -85,9 +87,6 @@ We will also use the OWASP Juice Shop Tool Project as a running example. This is
 Read more about this project at [https://www.owasp.org/index.php/OWASP_Juice_Shop_Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) and
 [https://github.com/bkimminich/juice-shop](https://github.com/bkimminich/juice-shop)
 
-Supporting Internet resources
-
-Also the course will use internet links and pages. These can be downloaded from the internet often for free and may be gathered by the instructor for easy download.
 
 System Design and Architecture
 * [Security by Design Principles, OWASP](https://www.owasp.org/index.php/Security_by_Design_Principles)
@@ -117,6 +116,8 @@ OS Security and secure coding
 * [Removing ROP Gadgets from OpenBSD](https://www.openbsd.org/papers/asiabsdcon2019-rop-paper.pdf) Todd Mortimer mortimer@openbsd.org
 * [TCP Synfloods - an old yet current problem, and improving pf's response to it](http://quigon.bsws.de/papers/2017/bsdcan/)
 Henning Brauer, BSDCan 2017
+* 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them, Michael Howard, David LeBlanc, John Viega, ISBN: 9780071626750, 2010 The McGraw-Hill Companies, named 24-deadly below
+
 
 
 Exploiting Hardware Bugs and Crypto Related
@@ -145,7 +146,7 @@ The detailed plan is below with a table summarizing lessons.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">31/8</td>
+      <td style="text-align:left">16/8</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Virtual Machines - bring laptop</p>
@@ -162,26 +163,24 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">2/9</td>
+      <td style="text-align:left">18/8</td>
       <td style="text-align:left"><b>Lab setup and Programming Knowledge</b><p>Do some initial programming</p></td>
       <td style="text-align:left">
       <p>Linux introduction and familiarisation </p>
       <p>AoST chapters 1</p>
       </td>
     </tr>
-
     <tr>
-      <td style="text-align:left">7/9</td>
+      <td style="text-align:left">23/8</td>
       <td style="text-align:left"><b>Initial Overview of Software Security</b>
 <p>Get an overview of the subject</p></td>
       <td style="text-align:left">
-      <p>Curriculum: AoST chapters 2, 24-deadly introduction before page 1</p>
-      <p>Supporting litterature: _Secure Programming for Linux and Unix HOWTO_ </p>
+      <p>Curriculum: AoST chapters 2</p>
+      <p>Supporting litterature: 24-deadly introduction before page 1, browse Table of Contents for _Secure Programming for Linux and Unix HOWTO_ </p>
       </td>
     </tr>
-
     <tr>
-      <td style="text-align:left">9/9</td>
+      <td style="text-align:left">25/8</td>
       <td style="text-align:left"><b>SDLC and risk ranking</b>
       </td>
       <td style="text-align:left">
@@ -189,7 +188,7 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/9</td>
+      <td style="text-align:left">30/8</td>
       <td style="text-align:left"><b>Web Application Security: Recon</b></td>
       <td style="text-align:left">
       <p>AoST chapters 6,7,8,9 - ca 72 pages.</p>
@@ -197,70 +196,64 @@ The detailed plan is below with a table summarizing lessons.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">16/9</td>
+      <td style="text-align:left">1/9</td>
       <td style="text-align:left"><b>Web Application Security: Recon and Offensive</b></td>
       <td style="text-align:left">
       <p>WAS chapters 1-8, very short chapters </p>
       </td>
     </tr>
-
     <tr>
-      <td style="text-align:left">21/9</td>
+      <td style="text-align:left">6/9</td>
       <td style="text-align:left"><b>Hacking Web Applications: Offensive</b></td>
       <td style="text-align:left">
       <p>WAS chapters 9-16, very short chapters</p>
       <p>Browse: _Secure Coding Best Practices Handbook Veracode_</p>
       </td>
     </tr>
-
-
     <tr>
-      <td style="text-align:left">23/9</td>
+      <td style="text-align:left">8/9</td>
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
-      <p>Next three evenings Hacking chapters 1-3 and if you have it 24-deadly chapters 5-8 - browse if you need to, many pages.</p>
+      <p>Next three evenings programming and buffer overflow.
+      Grayhat chapters 1-2, 11-13 - browse if you need to, many pages.</p>
       <p>Browse: Smashing The Stack For Fun And Profit, Aleph One,
 Bypassing non-executable-stack during exploitation using return-to-libc
 by c0ntex, Basic Integer Overflows by blexim.</p>
+<p>Supporting litterature: 24-deadly chapters 5-8 - if you have it</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/9</td>
+      <td style="text-align:left">13/9</td>
       <td style="text-align:left"><b>Program Building blocks and exploitation</b></td>
      <td style="text-align:left">
-     <p>Hacking chapters 1-3</p>
+     <p>Grayhat chapters 1-2, 11-13</p>
       </td>
     </tr>
-
     <tr>
-      <td style="text-align:left">30/9</td>
+      <td style="text-align:left">15/9</td>
       <td style="text-align:left"><b>Strings and Pointers</b></td>
       <td style="text-align:left">
-      <p>Hacking chapters 1-3</p>
+      <p>Grayhat chapters 1-2, 11-13</p>
       <p>Browse: _Return-Oriented Programming:Systems, Languages, and Applications_ and _Removing ROP Gadgets from OpenBSD_</p>
       </td>
     </tr>
-
     <tr>
-      <td style="text-align:left">5/10</td>
+      <td style="text-align:left">20/9</td>
       <td style="text-align:left"><b>Network Attacks Intro</b></td>
       <td style="text-align:left">
-      <p>Hacking chapter 4 browse!</p>
       <p>_TCP Synfloods - an old yet current problem_
       </p>
       </td>
     </tr>
-
     <tr>
-      <td style="text-align:left">7/10</td>
+      <td style="text-align:left">22/9</td>
       <td style="text-align:left"><b>Fuzzing intro</b></td>
       <td style="text-align:left">
       <p>AoST chapters 10,11,12 - ca 65 pages</b></p>
       <p>Browse: _Bug Attacks on RSA_, _Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors_ and _Using Memory Errors to Attack a Virtual Machine_ </p></td>
     </tr>
-
     <tr>
-      <td style="text-align:left">12/10</td>
+      <td style="text-align:left">27/9</td>
       <td style="text-align:left"><b>Security Design and Defense</b>
       </td>
       <td style="text-align:left">
@@ -269,13 +262,12 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/10</td>
+      <td style="text-align:left">29/9</td>
       <td style="text-align:left"><b>General questions and summary</b></td>
       <td style="text-align:left">
       <p>We will do a practice exam and talk about exam subjects.</p>
       </td>
     </tr>
-
   </tbody>
 </table>
 
