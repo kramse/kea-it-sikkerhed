@@ -86,7 +86,7 @@ Installing and running the specific Linux distributions used is described in the
 * The Linux Command Line: A Complete Introduction, 2nd Edition, William Shotts
 Download -- internet edition [https://sourceforge.net/projects/linuxcommand](https://sourceforge.net/projects/linuxcommand)
 
-* Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
+* Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org](https://www.kali.org) - shortened KLR
 
 
 In the Network and Communications Security course we use this book:
