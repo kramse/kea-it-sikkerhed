@@ -36,7 +36,7 @@ Teaching dates: tuesdays and thursdays 17:00 - 20:30
 Exam: 5/1 2023
 
 
-Make sure to mark dates in your calendar - some weeks will have lessons tuesday/thursdays, some weeks will have three days in a row - tuesday, wednesday, thursday.
+Make sure to mark dates in your calendar
 
 ### Hardware
 
