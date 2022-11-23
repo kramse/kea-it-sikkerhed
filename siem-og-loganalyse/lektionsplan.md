@@ -83,6 +83,9 @@ Installing and running the specific Linux distributions used is described in the
 * The Debian Administrator’s Handbook, Raphaël Hertzog and Roland Mas
 [https://debian-handbook.info/](https://debian-handbook.info/) - shortened DEB
 
+* The Linux Command Line: A Complete Introduction, 2nd Edition, William Shotts
+
+
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 
 
@@ -135,7 +138,7 @@ The detailed plan is below with a table summarizing lessons.
 
 Also I have decided to include some papers in this course. Remember to check references in the books for supplementary reading.
 
-Note about software: The books may describe installation of software, but those parts often become outdated so don't follow those to closely! 
+Note about software: The books may describe installation of software, but those parts often become outdated so don't follow those to closely!
 
 <table>
   <thead>
