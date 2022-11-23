@@ -114,9 +114,10 @@ Lockheed Martin Corporation
 Analysis with tcpflow, Garfinkel, Simson L.; Shick, Michael,
 Monterey, California. Naval Postgraduate School, 2013-09-02
 
-Other relevant papers and documents can often be found in the NIST publications, Special Publications series 800: https://csrc.nist.gov/publications/sp800 Example the [Guide to Computer Security
-Log Management](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf)
-https://csrc.nist.gov/publications/sp800
+Other relevant papers and documents can often be found in the NIST publications, Special Publications series 800: [https://csrc.nist.gov/publications/sp800](https://csrc.nist.gov/publications/sp800)
+
+Example the [Guide to Computer Security Log Management SP800-92](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf)
+
 
 * Visualizing Network Activity using Parallel Coordinates,
 Sebastien Tricaud, Kara Nancem, Philippe Saadé
