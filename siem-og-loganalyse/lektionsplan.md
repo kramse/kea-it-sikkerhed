@@ -29,8 +29,9 @@ See more about the course in the official curriculum which can be downloaded fro
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates: tuesdays and thursdays 17:00 - 20:30\\
-24/11 2021, 29/11 2021, 1/12 2022, 6/12 2021, 8/12 2021, 13/12 2021, 15/12 2021
+Teaching dates: tuesdays and thursdays 17:00 - 20:30
+
+24/11 2022, 29/11 2022, 1/12 2022, 6/12 2022, 8/12 2022, 13/12 2022, 15/12 2022
 
 Exam: 5/1 2023
 
@@ -144,7 +145,7 @@ Also I have decided to include very few papers in this course. Remember to check
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">30/11 2021</td>
+      <td style="text-align:left">24/11 2022</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</p>
         <p>Prepare Virtual Machines - bring laptop</p>
@@ -162,7 +163,7 @@ Also I have decided to include very few papers in this course. Remember to check
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">2/12 2021</td>
+      <td style="text-align:left">29/11 2022</td>
       <td style="text-align:left"><b>Initial Overview of SIEM Terms</b>
         <p>Get an overview of the subject</p>
       </td>
@@ -176,7 +177,7 @@ Also I have decided to include very few papers in this course. Remember to check
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/12 2021</td>
+      <td style="text-align:left">1/12 2022</td>
       <td style="text-align:left"><b>Hello world of Security Data Analysis</b>
         <p>Get started with some data types and sources</p>
       </td>
@@ -188,7 +189,7 @@ Also I have decided to include very few papers in this course. Remember to check
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9/12 2021</td>
+      <td style="text-align:left">6/12 2022</td>
       <td style="text-align:left"><b>Storing and Processing data</b></td>
       <td style="text-align:left">
         <p>Books: 23 pages, but also parts of CIP 7!</p>
@@ -198,7 +199,7 @@ Also I have decided to include very few papers in this course. Remember to check
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>13/12 2021</b></td>
+      <td style="text-align:left">8/12 2022</td>
       <td style="text-align:left"><b>Visualization and Dashboards</b></td>
       <td style="text-align:left">
         <p>Books - approx 44 pages </p>
@@ -209,7 +210,7 @@ Also I have decided to include very few papers in this course. Remember to check
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">16/12 2021</td>
+      <td style="text-align:left">13/12 2022</td>
       <td style="text-align:left"><b>Baseline Your Data</b></td>
       <td style="text-align:left">
         <p>Books - approx 64 pages</p>
@@ -220,7 +221,7 @@ Also I have decided to include very few papers in this course. Remember to check
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">21/12 2021</td>
+      <td style="text-align:left">15/12 2022</td>
       <td style="text-align:left"><b>Operate, Respond and Forensics</b></td>
       <td style="text-align:left">
         <p>Books - approx 68 pages</p>
