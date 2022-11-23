@@ -8,12 +8,12 @@ description: Valgfrit modul  VF4 SIEM og log-analyse (5 ECTS)
 
 English: SIEM and Log Analysis
 
-Teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
+Teacher: Henrik Kramselund xhek@kea.dk +45 2026 6000
 
-This document is written in markdown, uploadet to GitHub and then processed by Gitbook.
+This document is written in markdown, uploadet to GitHub.
 
 The link for this is:
-https://zencurity.gitbook.io/kea-it-sikkerhed/siem-og-loganalyse/lektionsplan
+https://github.com/kramse/kea-it-sikkerhed/tree/master/siem-og-loganalyse
 
 ### Goals
 
@@ -24,17 +24,15 @@ Teaching material will primarily be English, but the teaching will be in Danish.
 See more about the course in the official curriculum which can be downloaded from the main page [https://kompetence.kea.dk/uddannelser/it-digitalt/diplom-i-it-sikkerhed](https://kompetence.kea.dk/uddannelser/it-digitalt/diplom-i-it-sikkerhed)
 - near the top "Download studieordningen".
 
-### Exam:
-
-Date
-6/1 2022
-
-### Teaching Methods:
+### Dates:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates: 30/11 2021, 2/12 2021, 7/12 2021, 9/12 2021, 13/12 2021, 16/12 2021, 21/12 2021
+Teaching dates: tuesdays and thursdays 17:00 - 20:30\\
+24/11 2021, 29/11 2021, 1/12 2022, 6/12 2021, 8/12 2021, 13/12 2021, 15/12 2021
+
+Exam: 5/1 2022
 
 Note: CHANGE of date 13/12 is a monday, changed from tuesday!
 
@@ -96,8 +94,8 @@ In the Network and Communications Security course we use this book:
 
 Apart from the books a lot of blogs, papers and other resources are available. Often these can be downloaded from the internet.
 
-* The JavaScript Object Notation (JSON) Data Interchange Format RFC7159
-[https://tools.ietf.org/html/rfc7159](https://tools.ietf.org/html/rfc7159)
+* The JavaScript Object Notation (JSON) Data Interchange Format RFC8259
+[https://tools.ietf.org/html/rfc8259](https://tools.ietf.org/html/rfc8259)
 
 * Privacy by design in big data: An overview of privacy enhancing technologies in
 the era of big data analytics, ENISA
@@ -109,10 +107,20 @@ Lockheed Martin Corporation
 
 * The Diamond Model of Intrusion Analysis, Sergio Caltagirone, Andrew Pendergast, Christopher Betz [http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 
+* Development of a virtualized security operations center, Robert de Céspedes, George Dimitoglou [https://dl.acm.org/doi/abs/10.5555/3512489.3512501](https://dl.acm.org/doi/abs/10.5555/3512489.3512501)
+
+* Network Security Visualization, Keith Fligg and Genevieve Max
+
+* Passive TCP Reconstruction and Forensic
+Analysis with tcpflow, Garfinkel, Simson L.; Shick, Michael,
+Monterey, California. Naval Postgraduate School, 2013-09-02
+
 Other relevant papers and documents can often be found in the NIST publications, Special Publications series 800: https://csrc.nist.gov/publications/sp800 Example the [Guide to Computer Security
 Log Management](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf)
 https://csrc.nist.gov/publications/sp800
 
+* Visualizing Network Activity using Parallel Coordinates,
+Sebastien Tricaud, Kara Nancem, Philippe Saadé
 
 
 
