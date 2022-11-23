@@ -133,7 +133,9 @@ The detailed plan is below with a table summarizing lessons.
 
 **Note: might contain lot of pages, learn to skim and skip chapters and parts that don't interest you. In real life we don't have time to read every word!**
 
-Also I have decided to include very few papers in this course. Remember to check references in the books for supplementary reading.
+Also I have decided to include some papers in this course. Remember to check references in the books for supplementary reading.
+
+Note about software: The books may describe installation of software, but those parts often become outdated so don't follow those to closely! 
 
 <table>
   <thead>
