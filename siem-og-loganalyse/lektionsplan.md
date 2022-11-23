@@ -199,7 +199,7 @@ Also I have decided to include very few papers in this course. Remember to check
     </tr>
     <tr>
       <td style="text-align:left"><b>13/12 2021</b></td>
-      <td style="text-align:left"><b>Visualization</b></td>
+      <td style="text-align:left"><b>Visualization and Dashboards</b></td>
       <td style="text-align:left">
         <p>Books - approx 44 pages </p>
         <p>DDS 6. Visualizing Security Data 22,
