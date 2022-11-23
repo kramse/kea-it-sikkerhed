@@ -2,9 +2,9 @@
 description: Valgfrit modul  VF4 SIEM og log-analyse (5 ECTS)
 ---
 
-# Lektionsplan
+# Lecture planning
 
-## Fagets titel: VF4 SIEM og log-analyse \(5 ECTS\)
+## Course title: VF4 SIEM og log-analyse \(5 ECTS\)
 
 English: SIEM and Log Analysis
 
