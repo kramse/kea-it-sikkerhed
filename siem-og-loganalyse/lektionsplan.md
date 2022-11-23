@@ -32,9 +32,8 @@ See more about the course in the official curriculum which can be downloaded fro
 Teaching dates: tuesdays and thursdays 17:00 - 20:30\\
 24/11 2021, 29/11 2021, 1/12 2022, 6/12 2021, 8/12 2021, 13/12 2021, 15/12 2021
 
-Exam: 5/1 2022
+Exam: 5/1 2023
 
-Note: CHANGE of date 13/12 is a monday, changed from tuesday!
 
 Make sure to mark dates in your calendar - some weeks will have lessons tuesday/thursdays, some weeks will have three days in a row - tuesday, wednesday, thursday.
 
