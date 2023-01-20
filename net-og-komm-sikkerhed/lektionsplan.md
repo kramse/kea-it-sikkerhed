@@ -26,7 +26,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: 15/6 2022
+Date: 30/3 2023
 
 ### Teaching Methods:
 
@@ -35,7 +35,7 @@ Date: 15/6 2022
 * 17:00 - 20:30 Online meetup and exercises - planned!
 
 Teaching dates: Teaching dates: tuesdays and thursdays 17:00 - 20:30\\
-19/4 2022, 21/4 2022, 26/4 2022, 28/4 2022, 3/5 2022, \sout{5/5 2022}, 10/5 2022, 12/5 2022, 17/5 2022, 19/5 2022, 24/5 2022, 31/5 2022, 2/6 2022, 7/6 2022
+31/1 2023, 2/2 2023, 7/2 2023, 9/2 2023, 14/2 2023, 16/2 2023, 21/2 2023, 23/2 2023, 28/5 2023, 2/3 2023, 7/3 2023, 9/3 2023, 14/3 2023, 16/3 2023
 
 ### Course reading list
 
