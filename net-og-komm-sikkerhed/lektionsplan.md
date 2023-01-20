@@ -34,7 +34,8 @@ Date: 30/3 2023
 * Group exercises and cases, including practical exercises with laptop
 * 17:00 - 20:30 Online meetup and exercises - planned!
 
-Teaching dates: Teaching dates: tuesdays and thursdays 17:00 - 20:30\\
+Teaching dates: Teaching dates: tuesdays and thursdays 17:00 - 20:30
+
 31/1 2023, 2/2 2023, 7/2 2023, 9/2 2023, 14/2 2023, 16/2 2023, 21/2 2023, 23/2 2023, 28/5 2023, 2/3 2023, 7/3 2023, 9/3 2023, 14/3 2023, 16/3 2023
 
 ### Course reading list
