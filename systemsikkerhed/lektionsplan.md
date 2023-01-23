@@ -110,7 +110,7 @@ The detailed plan is below with a table summarizing lessons
 <table>
 <thead>
 <tr>
-  <th style="text-align:left">Dato</th>
+  <th style="text-align:left">Date</th>
   <th style="text-align:left">Theme</th>
   <th style="text-align:left">Litterature / Preparation</th>
 </tr>
