@@ -50,18 +50,15 @@ Read more about these at [https://github.com/kramse/kramse-labs](https://github.
 This course uses a few books and a number of supporting resources.
 
 Primary literature:
-* _Intelligence-Driven Incident Response_,
-Scott Roberts, Rebekah Brown, ISBN: 9781491934944 - short IDIR
-* _Forensics Discovery_, Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. This book is currently available for ”free” via: http://fish2.com/security/
-but recommend buying it. Referenced below as FD
+* _Intelligence-Driven Incident Response_ (IDIR),
+Scott Roberts, Rebekah Brown, ISBN: 9781491934944
+* _Forensics Discovery_ (FD), Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. This book is currently available for ”free” via: http://fish2.com/security/
+but recommend buying it.
 * _Computer Security Incident Handling Guide_, NIST SP 800-61 Rev. 2, August 2012
 https://doi.org/10.6028/NIST.SP.800-61r2
 
 It is recommended to get these books. Note: we won't read all chapters and pages.
 
-Supporting literature - optional to buy, but recommended:
-
-* Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
 Also the course will use internet links and pages.
 
@@ -69,6 +66,7 @@ Supporting Internet resources
 
 * The Linux Command Line: A Complete Introduction, 2nd Edition, William Shotts
 Download -- internet edition [https://sourceforge.net/projects/linuxcommand](https://sourceforge.net/projects/linuxcommand)
+* Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7
 * The Debian Administrator’s Handbook, Raphaël Hertzog and Roland Mas
 [https://debian-handbook.info/](https://debian-handbook.info/) - shortened DEB
 * Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
@@ -216,6 +214,6 @@ Find some basic logs on your computers, introduce incidents and some statistics<
       </td><td style="text-align:left">
       <p>Chapters IDIR 10-11</p>
      </td>
-    </tr style="text-align:left">
+    </tr>
   </tbody>
 </table>
