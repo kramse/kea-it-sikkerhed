@@ -40,11 +40,8 @@ Note: we need to move one date! 9/3
 
 ### Hardware
 
-Since we are going to be doing exercises, each team will need two virtual machines.
+Since we are going to be doing exercises, each team will need laptops.
 
-The following are two recommended models:
-* One based on Debian, running software servers and web applications
-* One based on Linux, running tools
 
 Read more about these at [https://github.com/kramse/kramse-labs](https://github.com/kramse/kramse-labs)
 
