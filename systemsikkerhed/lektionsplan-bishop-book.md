@@ -9,7 +9,7 @@ description: Valgfrie modul  VF1 Systemsikkerhed (10 ECTS) System Security
 ### General Information
 English: Computer Systems Security
 
-Teacher: Henrik Kramselund  xhek@kea.dk  hlk@zencurity.dk +45 2026 6000
+Teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
 
 
 This document is written using Github.
@@ -27,7 +27,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: date coming for 2023 exam
+Date: 31/3 2022 exam
 
 ### Teaching Methods:
 
@@ -35,29 +35,28 @@ Date: date coming for 2023 exam
 * Group exercises and cases, including practical exercises with laptop
 
 Teaching dates: tuesdays and thursdays
-2023 dates to be added
+1/2 2022, 3/2 2022, 8/2 2022, 10/2 2022, 15/2 2022, 17/2 2022, 22/2 2022, 24/2 2022, 1/3 2022, 3/3 2022, 8/3 2022, 10/3 2022, 15/3 2022, 17/3 2022
+
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
 
 Primary literature:
 
-* Mastering Linux Security and Hardening - Second Edition, Donald A. Tevault, 2020 ISBN: 9781838981778 - short MLSH
+* Computer Security: Art and Science, Matt Bishop ISBN: 9780321712332 1388 pages - referenced as Bishop below
 * Defensive Security Handbook: Best Practices for Securing Infrastructure, Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7 284 pages - short DSH
+* Forensics Discovery, Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it. Referenced below as FD
 
 It is recommended to buy these books. Note: we won't read all chapters and pages.
 
 Supporting literature - optional to buy, but recommended:
 
-* The Linux Command Line: A Complete Introduction, 2nd Edition by William Shotts Print: https://nostarch.com/tlcl2
-Download -- internet edition https://sourceforge.net/projects/linuxcommand
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
 Also the course will use internet links and pages.
 
 Supporting Internet resources
-* The Debian Administrator’s Handbook, Raphaël Hertzog and Roland Mas https://debian-handbook.info/ - shortened DEB
-* Kali Linux Revealed  Mastering the Penetration Testing Distribution - shortened KLR
+* Kali Linux Revealed  Mastering the Penetration Testing Distribution [https://www.kali.org/download-kali-linux-revealed-book/](https://www.kali.org/download-kali-linux-revealed-book/) - shortened KLR
 
 Control Hijacking Attacks
 * [Smashing The Stack For Fun And Profit](http://www.phrack.com/issues.html?issue=49&id=14#article), Aleph One
@@ -125,7 +124,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
       <td style="text-align:left">
       <p> Reviewing the literature list will occur when we meet. </p>
-         <p> Download PDF documents<br>Create VMs</p>
+         <p> Download Kali Linux Revealed <br>Create VMs</p>
       </td>
     </tr>
     <tr>
@@ -133,7 +132,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><b>Overview of Computer Security</b>
       </td>
       <td style="text-align:left">
-      <p>DSH chapters 1-2, MLSH ch 1 </p>
+      <p>Bishop ch 1 and 2, DSH ch 1-2</p>
       </td>
     </tr>
     <tr>
@@ -148,73 +147,78 @@ The detailed plan is below with a table summarizing lessons
     </tr>
     <tr>
       <td style="text-align:left">10/2</td>
-      <td style="text-align:left"><b>User Accounts</b>
+      <td style="text-align:left"><b>Security Policies / Confidentiality Policies</b>
       </td>
       <td style="text-align:left">
-      <p> MLSH 1-2</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">15/2</td>
-      <td style="text-align:left"><b>Security Policies</b>
-      </td>
-      <td style="text-align:left">
-      <p>DSH ch 3-5, MLSH ch 3-4 - NOT firewalld part!<br>
+      <p>Bishop ch 4 and skim read ch 5</br>
+      Perhaps skip/skim some policy language examples, skip 4.7, skip 5.2.3 and similar math parts<br>
+      Appendix G,
       Browse: Campus Network Security: High Level Overview , Network Startup Resource Center
 Campus Operations Best Current Practice, Network Startup Resource Center
 Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">15/2</td>
+      <td style="text-align:left"><b>Integrity and Availability Policies</b>
+      </td>
+      <td style="text-align:left">
+      <p>Read: Bishop ch 6 and 7, skim math parts</br>
+      TCP Synfloods - an old yet current problem, BSDCan slides
+      </p>
+      <p>DBMS Security</p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">17/2</td>
+      <td style="text-align:left"><b>Hybrid Policies / Breaking out</b>
+      </td>
+      <td style="text-align:left">
+      <p>Read DSH ch 3-5</p>
+      <p>Bishop ch 8 -  skim math parts</br>
+      Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
+      https://en.wikipedia.org/wiki/Row_hammer
+      </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">22/2</td>
       <td style="text-align:left"><b>Basic Cryptography</b>
       </td>
       <td style="text-align:left">
-      <p>MLSH ch 5, browse chapter 6<br>
-       TLS1.2 RFC5246 table of contents - but only ToC, not the whole document!<br>
+      <p>Read Bishop ch 10, 11 until and including 11.4, 12 until and including 12.5.3.10, 13 until and including 13.5<br>
       Skim: NIST Special Publication 800-63B<br>
       Enterprise Survival Guide for Ransomware Attacks<br>
       IT Security Guidelines for Transport Layer Security</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">22/2</td>
+      <td style="text-align:left">24/2</td>
       <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
       </td>
       <td style="text-align:left">
-      <p></br>
-      Browse: Smashing The Stack For Fun And Profit, Bypassing non-executable-stack during exploitation using return-to-libc, Basic Integer Overflows, Return-Oriented Programming
+      <p>Read Bishop ch 23 and skim 24, Skim: FD ch 5-6</br>
+      Smashing The Stack For Fun And Profit, Bypassing non-executable-stack during exploitation using return-to-libc, Basic Integer Overflows, Return-Oriented Programming
       </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">24/2</td>
-      <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
-      </td>
-      <td style="text-align:left">
-      <p>MLSH ch 7-8</br>Skim, Setuid demystified, Some thoughts on security after ten years of qmail 1.0,
-      Wedge: Splitting Applications into Reduced-Privilege Compartments </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">1/3</td>
-      <td style="text-align:left"><b>Capabilities</b>
+      <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
       </td>
       <td style="text-align:left">
-      <p> MLSH ch 9-10</br>
-      Skim: Removing ROP Gadgets from OpenBSD
-      </p>
+      <p>Bishop ch 14-16</br>Skim, Setuid demystified, Some thoughts on security after ten years of qmail 1.0,
+      Wedge: Splitting Applications into Reduced-Privilege Compartments </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">3/3</td>
-      <td style="text-align:left"><b>Breaking out</b>
+      <td style="text-align:left"><b>Capabilities</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH ch </p>
-      <p>
-      Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
-      https://en.wikipedia.org/wiki/Row_hammer
+      <p>Skim: Bishop ch 18 -  skim math parts</br>
+      Skim:Capsicum: practical capabilities for UNIX
+      Removing ROP Gadgets from OpenBSD
       </p>
       </td>
     </tr>
@@ -223,7 +227,8 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH ch 19-20, MLSH 12</p>
+      <p>Bishop ch 25 and 26, Skim: FD ch 1-4 and appendix B</p>
+      <p>Read DSH ch 19-20</p>
       Download and browse the ENISA papers listed under Computer Forensics in the reading list
       </p>
       </td>
@@ -234,7 +239,8 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
       <td style="text-align:left">
       <p>Read DSH ch 6-7</p>
-      <p>Browse: Incident Handler's Handbook
+      <p>Bishop ch 27</br>
+      Incident Handler's Handbook
       </p>
       </td>
     </tr>
@@ -243,7 +249,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>System Security in Practice</b>
       </td>
       <td style="text-align:left">
-      <p>DSH ch 21</br>
+      <p>Skim: Bishop ch 28,29,30</br>
       </p>
       </td>
     </tr>
@@ -252,7 +258,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
       </td>
       <td style="text-align:left">
-      <p>Read MLSH 11, DSH ch 8, skim ch 10-12</p>
+      <p>Read DSH ch 8, skim ch 10-12</p>
       <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p>
       </td>
     </tr>
@@ -263,3 +269,189 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
     </tr>
   </tbody>
 </table>
+
+
+## Detailed plan
+
+**Introduction and welcome**
+
+* Create a good starting point for learning
+* Introduce lecturer and students
+* Expectations for this course
+* Literature list walkthrough
+* Prepare tools for the exercises
+* Kali and Debian Linux introduction
+
+Linux is a toolbox we will use and participants will use virtual machines
+
+Exercises
+* Kali Linux installation
+* Debian Linux installation
+
+**Overview of Computer Security**
+
+* Confidentiality, Integrity and Availability
+* Cost-Benefit Analysis
+* Risk Analysis
+* Human Issues
+* Access Control Matrix
+
+Exercises
+* Risk Analysis
+
+**Overview of Enterprise Attacks**
+
+* Get an idea of the MITRE ATT&CK framework
+
+Exercises
+* Run Armitage Hail-Mary against Metasploitable, describe attacks that succeeded in relation to MITRE ATT&CK framework
+
+**Security Policies / Confidentiality Policies**
+
+* Security policy
+* Discretionary Access Control (DAC)
+* Mandatory Access Control (MAC)
+* Example Acceptable Use Policies
+* Example Academic Computer Security Policy from the book
+* Confidentiality Policies Bell-LaPadula Model
+* More examples from the real world
+
+Exercises
+* Find your AUP for the ISPs we use, you use, your company uses
+* A look at SELinux an example Mandatory Access Control system
+
+**Integrity and Availability Policies**
+
+* Accuracy vs disclosure
+* The Biba Model
+* Clark-Wilson Integrity Model
+* Trust models
+* Deadlocks
+* Availability and flooding attacks
+* Protection against TCP Synfloods
+
+Exercises
+* Databases - discussion about Relational Database Management System RDBMS Model and NoSQL
+* SYN flooding exercise
+
+**Hybrid Policies**
+
+* Chinese Wall model - Confidentiality and Integrity
+* Clinical Information Systems security model
+* Originator Controlled Access Control
+* Role-based Access Control (RBAC)
+* Break-the-glass Policies
+* Side Channels and Deducibility
+* Memory Errors and Row hammer
+
+Exercises
+* RBAC Access permissions on GitHub
+
+**Basic Cryptography**
+
+* Basic Cryptography
+* Symmetric Cryptosystems
+* Data Encryption Standard (DES) / Advanced Encryption Standard (AES)
+* Public Key Cryptography
+* Stream and Block Ciphers
+* Example cryptosystems OpenPGP, IPsec, Transport Layer Security (TLS)
+* Authentication and Password security, NIST guidelines
+
+Exercises
+* sslscan scan various sites for TLS settings, Qualys SSLLabs
+* Try Nmap and Ikescan
+* Try ssh scanners, similar to sslscan
+* Crack your own passwords
+
+**Malware, Intrusion, Vulnerabilities**
+
+* Trojan horses, Rootkits, computer viruses
+* Computer worms, from Morris Worm to today
+* Bots and botnets
+* Ransomware
+* Phishing and spear phishing
+* Sandboxing, Java and browsers
+* Penetration testing
+* Common Vulnerabilities and Exposure CVE
+* Common Weakness Enumeration CWE
+
+Exercises
+* Make a non-privileged user, make a system directory writable, create root cronjob without path
+* Discuss when to use Anti-virus and "endpoint security"
+
+
+
+**Secure Systems Design and Implementation**
+
+* Principle of least privilege, fail-safe defaults, separation of privilege etc.
+* Files, objects, users, groups and roles
+* Naming and Certificates
+* Access Control Lists
+* DNSSEC
+
+Exercises
+* DNSSEC, SPF, DMARC - DNS based updates to your email domain security
+
+
+**Confinement and isolation**
+
+* Confinement and isolation
+* Virtual Machines and Sandboxes
+* Covert Channels
+* Firewall Flow Controls
+
+Exercises
+* Research VM escapes
+
+**Forensics 1: Auditing and Intrusion Detection**
+
+* Auditing and logging
+* Volatility and file systems
+* Intrusion Detection
+* Host and Networks Based Intrusion Detection (HIDS/NIDS)
+* Network Security Monitoring
+
+Exercises
+* Centralized syslogging and example system
+* Create Kibana Dashboard
+* Open a file system dump
+
+**Forensics 2: Incident Response**
+
+* Attack and Response
+* Attack graphs
+* Attack surfaces, and reducing them
+* Intrusion Handling, phases
+* Incident Response
+* Digital forensics / Computer Forensics
+* Honeypots
+
+Exercises
+* Clean or rebuild a server, use example Debian with your cron job vuln as example
+* Cloud environments influence on incident response
+
+**System Security in Practice**
+
+* Network security
+* Infrastructure security
+* Implement a small scale enterprise network
+
+Exercises
+Work on our model network, each team has a server and an attacker - reduce attack surface on the server by configuration
+* Configure VLAN on switch for the uplink
+* Enable central logging
+* Configure SSH keys for more secure access
+* Enable firewall
+
+
+
+**Benchmarking and Auditing Recap**
+
+* Benchmarking standards
+* CIS controls Center for Internet Security
+* PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019\\
+Payment Card Industry Data Security Standard
+
+
+Exercises
+* Evaluate our network, write a scope before doing PCI compliance
