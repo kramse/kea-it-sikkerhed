@@ -34,24 +34,26 @@ Date: date coming for 2023 exam
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates: tuesdays and thursdays
-2023 dates to be added
+Teaching dates: tuesdays and thursdays 17:00 - 20:30
+
+18/4, 20/4, 25/4, 27/2, 2/5, 4/5, 9/5, 11/5, 16/5, 30/5, 1/6, 6/6, 8/6, 13/6 2023
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
 
 Primary literature:
 
-* Mastering Linux Security and Hardening - Second Edition, Donald A. Tevault, 2020 ISBN: 9781838981778 - short MLSH
-* Defensive Security Handbook: Best Practices for Securing Infrastructure, Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7 284 pages - short DSH
+* _Mastering Linux Security and Hardening_ - Second Edition, Donald A. Tevault, 2020 ISBN: 9781838981778 - short MLSH
+* _Defensive Security Handbook: Best Practices for Securing Infrastructure_, Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7 284 pages - short DSH
+* _Forensics Discovery_, Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it - short FD
 
 It is recommended to buy these books. Note: we won't read all chapters and pages.
 
 Supporting literature - optional to buy, but recommended:
 
-* The Linux Command Line: A Complete Introduction, 2nd Edition by William Shotts Print: https://nostarch.com/tlcl2
+* _The Linux Command Line: A Complete Introduction_, 2nd Edition by William Shotts Print: https://nostarch.com/tlcl2
 Download -- internet edition https://sourceforge.net/projects/linuxcommand
-* Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
+* _Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali_ by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
 Also the course will use internet links and pages.
 
