@@ -121,7 +121,7 @@ The detailed plan is below with a table summarizing lessons
 </thead>
 <tbody>
     <tr>
-      <td style="text-align:left">1/2</td>
+      <td style="text-align:left">18/4</td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</br>
         Prepare Kali Linux VM - bring laptop</p>
@@ -132,7 +132,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">3/2</td>
+      <td style="text-align:left">20/4</td>
       <td style="text-align:left"><b>Overview of Computer Security</b>
       </td>
       <td style="text-align:left">
@@ -140,7 +140,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8/2</td>
+      <td style="text-align:left">25/4</td>
       <td style="text-align:left"><b>Overview of Enterprise Attacks</b>
       </td>
       <td style="text-align:left">
@@ -150,7 +150,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">10/2</td>
+      <td style="text-align:left">27/4</td>
       <td style="text-align:left"><b>User Accounts</b>
       </td>
       <td style="text-align:left">
@@ -158,7 +158,7 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">15/2</td>
+      <td style="text-align:left">2/5</td>
       <td style="text-align:left"><b>Security Policies</b>
       </td>
       <td style="text-align:left">
@@ -169,7 +169,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">17/2</td>
+      <td style="text-align:left">4/5</td>
       <td style="text-align:left"><b>Basic Cryptography</b>
       </td>
       <td style="text-align:left">
@@ -181,7 +181,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">22/2</td>
+      <td style="text-align:left">9/5</td>
       <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
       </td>
       <td style="text-align:left">
@@ -191,7 +191,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">24/2</td>
+      <td style="text-align:left">11/5</td>
       <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
       </td>
       <td style="text-align:left">
@@ -200,7 +200,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">1/3</td>
+      <td style="text-align:left">16/5</td>
       <td style="text-align:left"><b>Capabilities</b>
       </td>
       <td style="text-align:left">
@@ -210,7 +210,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">3/3</td>
+      <td style="text-align:left">30/5</td>
       <td style="text-align:left"><b>Breaking out</b>
       </td>
       <td style="text-align:left">
@@ -222,7 +222,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8/3</td>
+      <td style="text-align:left">1/6</td>
       <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
       </td>
       <td style="text-align:left">
@@ -232,7 +232,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">10/3</td>
+      <td style="text-align:left">6/6</td>
       <td style="text-align:left"><b>Forensics 2: Incident Response</b>
       </td>
       <td style="text-align:left">
@@ -242,7 +242,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">15/3</td>
+      <td style="text-align:left">8/6</td>
       <td style="text-align:left"><b>System Security in Practice</b>
       </td>
       <td style="text-align:left">
@@ -251,7 +251,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">17/3</td>
+      <td style="text-align:left">13/6</td>
       <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
       </td>
       <td style="text-align:left">
