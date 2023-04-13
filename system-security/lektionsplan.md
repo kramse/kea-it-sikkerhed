@@ -43,9 +43,10 @@ This course uses a few books and a number of supporting resources.
 
 Primary literature:
 
-* _Mastering Linux Security and Hardening_ - Second Edition, Donald A. Tevault, 2020 ISBN: 9781838981778 - short MLSH
-* _Defensive Security Handbook: Best Practices for Securing Infrastructure_, Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7 284 pages - short DSH
-* _Forensics Discovery_, Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it - short FD
+* _Mastering Linux Security and Hardening_ (MLSH), third edition, Donald A. Tevault, 2020 ISBN: 9781837630516
+https://www.packtpub.com/product/mastering-linux-security-and-hardening-third-edition/9781837630516
+* _Defensive Security Handbook: Best Practices for Securing Infrastructure_ (DSH), Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7 284 pages
+* _Forensics Discovery_ (FD), Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it
 
 It is recommended to buy these books. Note: we won't read all chapters and pages.
 
