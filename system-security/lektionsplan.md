@@ -214,7 +214,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Breaking out</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH ch </p>
+      <p>Read DSH ch 16</p>
       <p>
       Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
       https://en.wikipedia.org/wiki/Row_hammer
