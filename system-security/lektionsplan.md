@@ -227,6 +227,8 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
       <td style="text-align:left">
       <p>Read DSH ch 19-20, MLSH 12</p>
+      <p>Skim: Forensics Discovery, ch 1-4 and appendix B</p>
+      <p>
       Download and browse the ENISA papers listed under Computer Forensics in the reading list
       </p>
       </td>
