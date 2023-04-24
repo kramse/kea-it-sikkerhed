@@ -154,7 +154,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><b>User Accounts</b>
       </td>
       <td style="text-align:left">
-      <p> MLSH 1-2</p>
+      <p> MLSH 1-3</p>
       </td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left"><b>Security Policies</b>
       </td>
       <td style="text-align:left">
-      <p>DSH ch 3-5, MLSH ch 3-4 - NOT firewalld part!<br>
+      <p>DSH ch 3-5, MLSH ch 4 - NOT firewalld part!<br>
       Browse: Campus Network Security: High Level Overview , Network Startup Resource Center
 Campus Operations Best Current Practice, Network Startup Resource Center
 Mutually Agreed Norms for Routing Security (MANRS) </p>
