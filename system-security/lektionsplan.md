@@ -185,7 +185,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
       </td>
       <td style="text-align:left">
-      <p></br>
+      <p>Skim: Forensics Discovery, ch 5-6</p><p>
       Browse: Smashing The Stack For Fun And Profit, Bypassing non-executable-stack during exploitation using return-to-libc, Basic Integer Overflows, Return-Oriented Programming
       </p>
       </td>
@@ -201,7 +201,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
     </tr>
     <tr>
       <td style="text-align:left">16/5</td>
-      <td style="text-align:left"><b>Capabilities</b>
+      <td style="text-align:left"><b>Confinement and isolation</b>
       </td>
       <td style="text-align:left">
       <p> MLSH ch 9-10</br>
