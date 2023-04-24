@@ -27,7 +27,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: date coming for 2023 exam
+Date: 20/6 2023
 
 ### Teaching Methods:
 
