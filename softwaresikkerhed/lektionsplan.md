@@ -25,7 +25,7 @@ See more about the course in the official curriculum which can be downloaded fro
 
 ### Exam:
 
-Date 13/10 2022
+Date TBD 2023
 
 ### Teaching Methods:
 
@@ -34,7 +34,7 @@ Date 13/10 2022
 
 ### Teaching dates - fall 2022:
 
-16/8, 18/8, 23/8, 25/8, 30/8, 1/9, 6/9, 8/9, 13/9, 15/9, 20/9, 22/9, 27/9, 29/9
+15/8, 17/8, 22/8, 24/8, 29/8, 31/8, 5/9, 7/9, 12/9, 14/9, 19/9, 21/9, 26/9, 28/9
 
 Make sure to mark dates in your calendar - most weeks will have lessons tuesday/thursdays.
 
