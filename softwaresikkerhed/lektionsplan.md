@@ -34,7 +34,7 @@ Date TBD 2023
 
 ### Teaching dates:
 
-15/8, 17/8, 22/8, 24/8, 29/8, 31/8, 5/9, 7/9, 12/9, 14/9, 19/9, 21/9, 26/9, 28/9
+15/8, 17/8, 22/8, 24/8, 29/8, 31/8, 5/9, 7/9, 12/9, 14/9, 19/9, 21/9, 26/9, 28/9 2023
 
 Make sure to mark dates in your calendar - most weeks will have lessons tuesday/thursdays.
 
