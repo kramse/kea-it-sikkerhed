@@ -32,7 +32,7 @@ Date TBD 2023
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-### Teaching dates - fall 2022:
+### Teaching dates:
 
 15/8, 17/8, 22/8, 24/8, 29/8, 31/8, 5/9, 7/9, 12/9, 14/9, 19/9, 21/9, 26/9, 28/9
 
