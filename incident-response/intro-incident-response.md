@@ -2,7 +2,7 @@
 description: Elective Course Introduction to Incident Response (5 ECTS)
 ---
 
-# Lektionsplan
+# Lecture planning
 
 ## Course: Introduction to Incident Response \(5 ECTS\)
 
@@ -24,19 +24,19 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: TBD 2023 exam
+Date: TBD exam date
 
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-### Teaching dates - Spring 2023:
+### Teaching dates - Fall 2023:
 
 Teaching dates: thursdays 08:30 - 12:30 in GBG.E436
 
-9/2, 16/2, 23/2, 2/3, 9/3, 23/3, 30/3, 13/4, 27/4
-Note: we need to move one date! 9/3
+24/8, 31/8, 7/9, 14/9, 21/9, 28/9, 5/10, 12/10, 26/10
+
 
 ### Hardware
 
