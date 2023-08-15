@@ -25,7 +25,7 @@ See more about the course in the official curriculum which can be downloaded fro
 
 ### Exam:
 
-Date TBD 2023
+Date October 10, 2023
 
 ### Teaching Methods:
 
