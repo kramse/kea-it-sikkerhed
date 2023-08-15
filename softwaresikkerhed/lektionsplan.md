@@ -64,7 +64,7 @@ Can be found online for free, but recommend buying the PDF from https://leanpub.
 Supporting literature:
 
 * Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, ISBN-13: 978-1-59327-855-7 - shortened LBfH
-* Gray Hat Hacking: The Ethical Hacker's Handbook, fifth edition Allen Harper ISBN: 9781260108415
+* Gray Hat Hacking: The Ethical Hacker's Handbook, sixth edition Allen Harper ISBN: 9781264268955
 
 **It is highly recommended to get these books listed above.**
 
