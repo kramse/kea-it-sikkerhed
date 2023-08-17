@@ -33,7 +33,7 @@ Date: TBD exam date
 
 ### Teaching dates - Fall 2023:
 
-Teaching dates: thursdays 08:30 - 12:30 in GBG.E436
+Teaching dates: thursdays 12:45 - 16:00 in GBG.E512
 
 24/8, 31/8, 7/9, 14/9, 21/9, 28/9, 5/10, 12/10, 26/10
 
@@ -51,7 +51,8 @@ This course uses a few books and a number of supporting resources.
 
 Primary literature:
 * _Intelligence-Driven Incident Response_ (IDIR),
-Scott Roberts, Rebekah Brown, ISBN: 9781491934944
+Scott Roberts, Rebekah Brown, ISBN: 9781098120689 **2nd edition 2023** - short IDIR
+
 * _Forensics Discovery_ (FD), Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. This book is currently available for ”free” via: http://fish2.com/security/
 but recommend buying it.
 * _Computer Security Incident Handling Guide_, NIST SP 800-61 Rev. 2, August 2012
