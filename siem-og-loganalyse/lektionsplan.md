@@ -63,7 +63,7 @@ https://datadrivensecurity.info/ - short DDS
 by Jeff Bollinger, Brandon Enright, and Matthew Valites ISBN: 9781491949405 - short CIP
 
 * Intelligence-Driven Incident Response
-Scott Roberts	ISBN: 9781491934944 - short IDI
+Scott Roberts	ISBN: 9781098120689 **2nd edition 2023** - short IDIR
 
 * Security Operations Center: Building, Operating, and Maintaining your SOC
 ISBN: 9780134052014 Joseph Muniz - short SOC
