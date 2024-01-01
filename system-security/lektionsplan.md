@@ -27,16 +27,16 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: 20/6 2023
+Date: 25/3 2024
 
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates: tuesdays and thursdays 17:00 - 20:30
+Teaching dates: mondays 10-:00 - 17:00
 
-18/4, 20/4, 25/4, 27/2, 2/5, 4/5, 9/5, 11/5, 16/5, 30/5, 1/6, 6/6, 8/6, 13/6 2023
+8/1, 15/1, 22/1, 29/1, 26/2, 4/3, 11/3  2024
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
@@ -121,46 +121,47 @@ The detailed plan is below with a table summarizing lessons
 </thead>
 <tbody>
     <tr>
-      <td style="text-align:left">18/4</td>
+      <td style="text-align:left">8/1</td>
+      <td colspan="2"><b> Welcome and getting started</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"> Part 1</td>
       <td style="text-align:left">
-        <p>Welcome, goals and expectations</br>
-        Prepare Kali Linux VM - bring laptop</p>
+        <p>Prepare Kali Linux VM - bring laptop</p>
       </td>
       <td style="text-align:left">
-      <p> Reviewing the literature list will occur when we meet. </p>
-         <p> Download PDF documents<br>Create VMs</p>
+      <p> Reviewing the literature list will occur when we meet.<br>Download PDF documents<br>Create VMs</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">20/4</td>
-      <td style="text-align:left"><b>Overview of Computer Security</b>
-      </td>
-      <td style="text-align:left">
-      <p>DSH chapters 1-2, MLSH ch 1 </p>
+      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left">Overview of Computer Security</td>
+      <td style="text-align:left"><p>DSH chapters 1-2, MLSH ch 1 </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">25/4</td>
-      <td style="text-align:left"><b>Overview of Enterprise Attacks</b>
-      </td>
-      <td style="text-align:left">
-      <p>Read <a href="https://medium.com/mitre-attack/att-ck-101-17074d3bc62">ATT&CK 101 Blog Post</a> and browse
-      <a href="https://attack.mitre.org/">MITRE ATT&CK</a>
-      </p>
+      <td style="text-align:left">15/1</td>
+      <td colspan="2"><b>Overview of Enterprise Attacks</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left">Enterprise Attacks</td>
+      <td style="text-align:left"><p>Read <a href="https://medium.com/mitre-attack/att-ck-101-17074d3bc62">ATT&CK 101 Blog Post</a> and browse
+      <a href="https://attack.mitre.org/">MITRE ATT&CK</a></p></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left">User Accounts</td>
+      <td style="text-align:left">MLSH 1-3
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">27/4</td>
-      <td style="text-align:left"><b>User Accounts</b>
-      </td>
-      <td style="text-align:left">
-      <p> MLSH 1-3</p>
-      </td>
+      <td style="text-align:left">22/1</td>
+      <td  colspan="2"><b>Security Policies and Cryptography</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">2/5</td>
-      <td style="text-align:left"><b>Security Policies</b>
-      </td>
+      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left">Security Policies</td>
       <td style="text-align:left">
       <p>DSH ch 3-5, MLSH ch 4 - NOT firewalld part!<br>
       Browse: Campus Network Security: High Level Overview , Network Startup Resource Center
@@ -169,9 +170,8 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">4/5</td>
-      <td style="text-align:left"><b>Basic Cryptography</b>
-      </td>
+      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left">Basic Cryptography</td>
       <td style="text-align:left">
       <p>MLSH ch 5, browse chapter 6<br>
        TLS1.2 RFC5246 table of contents - but only ToC, not the whole document!<br>
@@ -181,9 +181,12 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9/5</td>
-      <td style="text-align:left"><b>Malware, Intrusion, Vulnerabilities</b>
-      </td>
+      <td style="text-align:left">29/1</td>
+      <td colspan="2"><b> Securing the Architecture</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left">Malware, Intrusion, Vulnerabilities</td>
       <td style="text-align:left">
       <p>Skim: Forensics Discovery, ch 5-6</p><p>
       Browse: Smashing The Stack For Fun And Profit, Bypassing non-executable-stack during exploitation using return-to-libc, Basic Integer Overflows, Return-Oriented Programming
@@ -191,16 +194,19 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/5</td>
-      <td style="text-align:left"><b>Secure Systems Design and Implementation</b>
-      </td>
+      <td style="text-align:left"> Part 2</td>
+      <td style="text-align:left">Secure Systems Design and Implementation</td>
       <td style="text-align:left">
       <p>MLSH ch 7-8</br>Skim, Setuid demystified, Some thoughts on security after ten years of qmail 1.0,
       Wedge: Splitting Applications into Reduced-Privilege Compartments </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">16/5</td>
+      <td style="text-align:left">26/2</td>
+      <td colspan="2"><b>Preventing Attacks</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Part 1</td>
       <td style="text-align:left"><b>Confinement and isolation</b>
       </td>
       <td style="text-align:left">
@@ -210,7 +216,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">30/5</td>
+      <td style="text-align:left">Part 2</td>
       <td style="text-align:left"><b>Breaking out</b>
       </td>
       <td style="text-align:left">
@@ -222,8 +228,12 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">1/6</td>
-      <td style="text-align:left"><b>Forensics 1: Auditing and Intrusion Detection</b>
+      <td style="text-align:left">4/3</td>
+      <td colspan="2"><b>Computer Forensic and Incident Response</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left"><b>Auditing and Intrusion Detection</b>
       </td>
       <td style="text-align:left">
       <p>Read DSH ch 19-20, MLSH 12</p>
@@ -234,8 +244,8 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">6/6</td>
-      <td style="text-align:left"><b>Forensics 2: Incident Response</b>
+      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left"><b>Incident Response</b>
       </td>
       <td style="text-align:left">
       <p>Read DSH ch 6-7</p>
@@ -244,8 +254,12 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8/6</td>
-      <td style="text-align:left"><b>System Security in Practice</b>
+      <td style="text-align:left">11/3</td>
+      <td colspan="2"><b>System Security in Practice</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left">Securing DNS and Email
       </td>
       <td style="text-align:left">
       <p>DSH ch 21</br>
@@ -253,9 +267,8 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">13/6</td>
-      <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
-      </td>
+      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left">Benchmarking and Auditing Recap</td>
       <td style="text-align:left">
       <p>Read DSH ch 8, skim ch 10-12</p>
       <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p>
