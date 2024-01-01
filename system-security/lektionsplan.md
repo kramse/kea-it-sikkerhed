@@ -34,7 +34,7 @@ Date: 25/3 2024
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates: mondays 10-:00 - 17:00
+Teaching dates: mondays 10:00 - 17:00
 
 8/1, 15/1, 22/1, 29/1, 26/2, 4/3, 11/3  2024
 
@@ -207,8 +207,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
     </tr>
     <tr>
       <td style="text-align:left">Part 1</td>
-      <td style="text-align:left"><b>Confinement and isolation</b>
-      </td>
+      <td style="text-align:left">Confinement and isolation</td>
       <td style="text-align:left">
       <p> MLSH ch 9-10</br>
       Skim: Removing ROP Gadgets from OpenBSD
@@ -217,8 +216,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
     </tr>
     <tr>
       <td style="text-align:left">Part 2</td>
-      <td style="text-align:left"><b>Breaking out</b>
-      </td>
+      <td style="text-align:left">Breaking out</td>
       <td style="text-align:left">
       <p>Read MLSH 11, DSH ch 16</p>
       <p>
@@ -233,8 +231,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
     </tr>
     <tr>
       <td style="text-align:left">Part 1</td>
-      <td style="text-align:left"><b>Auditing and Intrusion Detection</b>
-      </td>
+      <td style="text-align:left">Auditing and Intrusion Detection</td>
       <td style="text-align:left">
       <p>Read DSH ch 19-20, MLSH 12</p>
       <p>Skim: Forensics Discovery, ch 1-4 and appendix B</p>
@@ -245,7 +242,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
     </tr>
     <tr>
       <td style="text-align:left">Part 2</td>
-      <td style="text-align:left"><b>Incident Response</b>
+      <td style="text-align:left">Incident Response
       </td>
       <td style="text-align:left">
       <p>Read DSH ch 6-7</p>
