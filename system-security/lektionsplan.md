@@ -214,7 +214,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Breaking out</b>
       </td>
       <td style="text-align:left">
-      <p>Read DSH ch 16</p>
+      <p>Read MLSH 11, DSH ch 16</p>
       <p>
       Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
       https://en.wikipedia.org/wiki/Row_hammer
@@ -257,7 +257,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left"><b>Benchmarking and Auditing Recap</b>
       </td>
       <td style="text-align:left">
-      <p>Read MLSH 11, DSH ch 8, skim ch 10-12</p>
+      <p>Read DSH ch 8, skim ch 10-12</p>
       <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p>
       </td>
     </tr>
