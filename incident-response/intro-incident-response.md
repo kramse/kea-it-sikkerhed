@@ -31,11 +31,11 @@ Date: TBD exam date
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-### Teaching dates - Fall 2023:
+### Teaching dates - Spring 2024:
 
 Teaching dates: thursdays 12:45 - 16:00 in GBG.E512
 
-24/8, 31/8, 7/9, 14/9, 21/9, 28/9, 5/10, 12/10, 26/10
+1/2, 8/2, 9/2, 15/2, 22/2, 29/2, 7/3, 14/3, 21/3, 11/4
 
 
 ### Hardware
@@ -127,7 +127,7 @@ The detailed plan is below with a table summarizing lessons
 </thead>
 <tbody>
     <tr>
-      <td style="text-align:left">24/8</td>
+      <td style="text-align:left">1/2</td>
       <td style="text-align:left"><b>0. Getting Started</b></td>
       <td style="text-align:left">
       <p>Welcome, goals and expectations
@@ -140,7 +140,7 @@ Find some basic logs on your computers, introduce incidents and some statistics<
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">31/8</td>
+      <td style="text-align:left">8/2 AND 9/2</td>
       <td style="text-align:left"><b>1. Basics of Incident Response</b></td>
       <td style="text-align:left">
       <p>Incident Response Cycle, Kill Chain, Mitre ATT&CK</p>
@@ -150,7 +150,7 @@ Find some basic logs on your computers, introduce incidents and some statistics<
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/9</td>
+      <td style="text-align:left">15/2</td>
       <td style="text-align:left"><b>2. Find, Fix, F3EAD started</b></td>
       <td style="text-align:left">
       <p>F3EAD and exploit phases - artifacts found</p>
@@ -160,7 +160,7 @@ Find some basic logs on your computers, introduce incidents and some statistics<
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/9</td>
+      <td style="text-align:left">22/2</td>
       <td style="text-align:left"><b>3. Mitigate and Monitor</b></td>
       <td style="text-align:left">
       <p>Mitigate, Remediate, Monitoring LifeCycle</p>
@@ -170,7 +170,7 @@ Find some basic logs on your computers, introduce incidents and some statistics<
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">21/9</td>
+      <td style="text-align:left">29/2</td>
       <td style="text-align:left"><b>4. Structured Incident Response and IoCs</b></td>
       <td style="text-align:left">
       <p>Going from Indicators of Compromise into escalating and handling incidents</p>
@@ -180,7 +180,7 @@ Find some basic logs on your computers, introduce incidents and some statistics<
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/9</td>
+      <td style="text-align:left">7/3</td>
       <td style="text-align:left"><b>5. Malware and Incident Response</b></td>
       <td style="text-align:left">
       <p>Malware in relation to Incident Response. Ransomware, some basic analysis and tools</p>
@@ -190,7 +190,7 @@ Find some basic logs on your computers, introduce incidents and some statistics<
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">5/10</td>
+      <td style="text-align:left">14/3</td>
       <td style="text-align:left"><b>6. Reporting on Incident Response</b></td>
       <td style="text-align:left">
       <p>Collecting and disseminate results from incidents</p>
@@ -200,7 +200,7 @@ Find some basic logs on your computers, introduce incidents and some statistics<
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">12/10</td>
+      <td style="text-align:left">21/3</td>
       <td style="text-align:left"><b>7. Threat Hunting and Intelligence</b></td>
       <td style="text-align:left">
       <p>Basic Threat Hunting and how to share threat intelligence</p></td>
@@ -208,7 +208,7 @@ Find some basic logs on your computers, introduce incidents and some statistics<
         <p></p></td>
     </tr>
     <tr>
-      <td style="text-align:left">26/10</td>
+      <td style="text-align:left">11/4</td>
       <td style="text-align:left"><b>8. The Way Forward: Building an Intelligence Program</b></td>
       <td style="text-align:left">
       <p>Describe the process for implementing an efficient incident response in an organisation</p>
