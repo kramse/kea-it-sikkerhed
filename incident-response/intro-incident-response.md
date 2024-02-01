@@ -35,7 +35,11 @@ Date: TBD exam date
 
 Teaching dates: thursdays 12:45 - 16:00 in GBG.E512
 
-1/2, 8/2, 9/2, 15/2, 22/2, 29/2, 7/3, 14/3, 21/3, 11/4
+1/2, 8/2, 9/2, 15/2, 22/2, 29/2, 14/3, 11/4
+
+The date 7/3 will need to be changed, I am at a conference. Probably it will be a mandatory assignment this day.
+
+New date will be added, perhaps 26/3 or 26/3 to replace 21/3
 
 
 ### Hardware
@@ -180,7 +184,7 @@ Find some basic logs on your computers, introduce incidents and some statistics<
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/3</td>
+      <td style="text-align:left">7/3 - to be changed</td>
       <td style="text-align:left"><b>5. Malware and Incident Response</b></td>
       <td style="text-align:left">
       <p>Malware in relation to Incident Response. Ransomware, some basic analysis and tools</p>
@@ -200,7 +204,7 @@ Find some basic logs on your computers, introduce incidents and some statistics<
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">21/3</td>
+      <td style="text-align:left"><b>21/3 - to be moved!</b></td>
       <td style="text-align:left"><b>7. Threat Hunting and Intelligence</b></td>
       <td style="text-align:left">
       <p>Basic Threat Hunting and how to share threat intelligence</p></td>
