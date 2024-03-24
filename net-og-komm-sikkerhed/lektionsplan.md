@@ -40,7 +40,7 @@ Teaching dates: Teaching dates: tuesdays and thursdays 17:00 - 20:30
 
 ### Course reading list
 
-This course uses three books and a number of supporting resources.
+This course uses a few books and a number of supporting resources.
 
 Primary literature:
 
@@ -48,9 +48,8 @@ Primary literature:
 
 * Practical Packet Analysis - Using Wireshark to Solve Real-World Network Problems, 3rd edition 2017, Chris Sanders ISBN: 9781593278021 - shortened PPA
 
-* Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
 
-It is recommended to buy these books. The cost for all three will be about 1.000-1.100DKK
+It is recommended to buy these books. The cost for all books will be about 1.000DKK
 
 Curriculum will be chapters from the books, listed below!
 
@@ -65,7 +64,7 @@ _A Look Back at “Security Problems in the TCP/IP Protocol Suite”_ https://ww
 * _An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied_ , Bill Cheswick, AT&T Bell Laboratories http://www.cheswick.com/ches/papers/berferd.pdf
 * _Firewalls and Internet Security: Repelling the Wily Hacker_ , Second Edition, William R. Cheswick, Steven M. Bellovin, and Aviel D. Rubin
 http://www.wilyhacker.com/ - shortened Cheswick
-* _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) Download latest version - currently version 0.5 [https://toc.cryptobook.us/book.pdff](https://toc.cryptobook.us/book.pdf)
+* _A Graduate Course in Applied Cryptography_ By Dan Boneh and Victor Shoup  [https://toc.cryptobook.us/](https://toc.cryptobook.us/) Download latest version - currently version 0.5 [https://toc.cryptobook.us/book.pdf](https://toc.cryptobook.us/book.pdf)
 * _RFC5246 The Transport Layer Security (TLS)_ https://tools.ietf.org/html/rfc5246
 * _Strange Attractors and TCP/IP Sequence Number Analysis_ , Michal Zalewski [http://lcamtuf.coredump.cx/newtcp/](http://lcamtuf.coredump.cx/newtcp/)
 * _WireGuard: Next Generation Kernel Network Tunnel_, https://www.wireguard.com/papers/wireguard.pdf
