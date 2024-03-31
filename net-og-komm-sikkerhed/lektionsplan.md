@@ -8,7 +8,7 @@ description: Obligatoriske modul Ob 1 Netværks- og kommunikationssikkerhed (10 
 
 English: Communication and Network Security
 
-Teacher: Henrik Kramselund  hlk@zencurity.dk +45 2026 6000
+Teacher: Henrik Kramselund  xhek@kea.dk hlk@zencurity.dk +45 2026 6000
 
 This document is written using Github.
 
@@ -26,17 +26,17 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: 30/3 2023
+Date: 10/6 2024
 
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
-* 17:00 - 20:30 Online meetup and exercises - planned!
+* 17:00 - 20:30 Hybrid physical and online meetup with exercises - planned!
 
 Teaching dates: Teaching dates: tuesdays and thursdays 17:00 - 20:30
 
-31/1 2023, 2/2 2023, 7/2 2023, 9/2 2023, 14/2 2023, 16/2 2023, 21/2 2023, 23/2 2023, 28/2 2023, 2/3 2023, 7/3 2023, 9/3 2023, 14/3 2023, 16/3 2023
+2/4 2024, 9/4 2024, 11/4 2024, 16/4 2024, 18/4 2024, 23/4 2024, 25/4 2024, 30/4 2024, 2/5 2024, 7/5 2024, 14/5 2024, 16/5 2024, 21/5 2024, 23/5 2024
 
 ### Course reading list
 
