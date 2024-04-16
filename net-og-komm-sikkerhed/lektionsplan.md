@@ -156,11 +156,10 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">Understand basic firewall technologies</td>
       <td style="text-align:left">
       <p>Read: ANSM chapter 1,2,3 - 73 pages</br>
-      https://en.wikipedia.org/wiki/Firewall_(computing)</br>
-      http://www.wilyhacker.com/ Cheswick chapter 2 og 3 PDF, ca 55 pages</p>
+  https://en.wikipedia.org/wiki/Firewall_(computing)</p>
       <p>Skim: chapters from 1st edition:</br>
-      http://www.wilyhacker.com/1e/chap03.pdf
-      http://www.wilyhacker.com/1e/chap04.pdf
+Skim: chapters from Cheswick:</br>
+http://www.wilyhacker.com/ Cheswick chapter 2, 3, 4 full PDF is available
       </p>
       </td>
     </tr>
