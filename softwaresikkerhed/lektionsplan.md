@@ -32,11 +32,11 @@ See more about the course in the official curriculum which can be downloaded fro
 
 Teaching dates - fall 2024 tuesdays and thursdays 17:00 - 20:30
 
-29/8, 3/9, 10/9, 12/9, 17/9, 19/8, 24/9, 26/9, {\sout1/10}, 3/10, 8/10, 10/10, 22/10, 24/10
+29/8, 3/9, 10/9, 12/9, 17/9, 19/8, 24/9, 26/9, 3/10, 8/10, 10/10, 15/10, 22/10, 24/10
 
 Exam: 5/11 2024
 
-Changed dates: 1/10 moving due to external meeting for Henrik, propose 15/10
+Changed dates: 1/10 moving due to external meeting for Henrik, proposed new date 15/10 -- week 42, so may become exercise day
 
 ### Hardware
 
