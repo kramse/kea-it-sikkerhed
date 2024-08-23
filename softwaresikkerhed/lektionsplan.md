@@ -4,7 +4,7 @@ description: Obligatorisk modul OB2 Softwaresikkerhed (10 ECTS) Software Securit
 
 # Lektionsplan
 
-## Fagets titel: OB2 Softwaresikkerhed \(10 ECTS\)
+## Fagets titel: VF1 Softwaresikkerhed \(10 ECTS\)
 
 English: Software Security
 
@@ -23,18 +23,17 @@ Teaching material will primarily be English, but the teaching will be in Danish.
 See more about the course in the official curriculum which can be downloaded from the main page [https://kompetence.kea.dk/uddannelser/it-digitalt/diplom-i-it-sikkerhed](https://kompetence.kea.dk/uddannelser/it-digitalt/diplom-i-it-sikkerhed)
 - near the top "Download studieordningen".
 
-### Exam:
-
-Date October 10, 2023
-
 ### Teaching Methods:
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-### Teaching dates:
+### Important dates:
 
-15/8, 17/8, 22/8, 24/8, 29/8, 31/8, 5/9, 7/9, 12/9, 14/9, 19/9, 21/9, 26/9, 28/9 2023
+Teaching dates - fall 2024 tuesdays and thursdays 17:00 - 20:30\\
+29/8, 3/9, 10/9, 12/9, 17/9, 19/8, 24/9, 26/9, 1/10, 3/10, 8/10, 10/10, 22/10, 24/10
+
+Exam: 5/11 2024
 
 Make sure to mark dates in your calendar - most weeks will have lessons tuesday/thursdays.
 
