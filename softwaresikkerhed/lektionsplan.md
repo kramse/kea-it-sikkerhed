@@ -1,5 +1,5 @@
 ---
-description: Obligatorisk modul OB2 Softwaresikkerhed (10 ECTS) Software Security
+description: Valgfag modul VF1 Softwaresikkerhed (10 ECTS) Software Security
 ---
 
 # Lektionsplan
