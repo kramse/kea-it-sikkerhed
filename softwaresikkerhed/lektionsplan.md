@@ -215,7 +215,7 @@ The detailed plan is below with a table summarizing lessons.
       <td style="text-align:left"><b>Software Programming & Memory Corruption</b></td>
       <td style="text-align:left">
       <p>Next three evenings programming and buffer overflow.
-      Grayhat chapters 1-2, 11-13 - browse if you need to, many pages.</p>
+      </p>
       <p>Browse: Smashing The Stack For Fun And Profit, Aleph One,
 Bypassing non-executable-stack during exploitation using return-to-libc
 by c0ntex, Basic Integer Overflows by blexim.</p>
@@ -226,14 +226,12 @@ by c0ntex, Basic Integer Overflows by blexim.</p>
       <td style="text-align:left">3/10</td>
       <td style="text-align:left"><b>Program Building blocks and exploitation</b></td>
      <td style="text-align:left">
-     <p>Grayhat chapters 1-2, 11-13</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">8/10</td>
       <td style="text-align:left"><b>Strings and Pointers</b></td>
       <td style="text-align:left">
-      <p>Grayhat chapters 1-2, 11-13</p>
       <p>Browse: _Return-Oriented Programming:Systems, Languages, and Applications_ and _Removing ROP Gadgets from OpenBSD_</p>
       </td>
     </tr>
