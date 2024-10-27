@@ -31,9 +31,12 @@ See more about the course in the official curriculum which can be downloaded fro
 
 Teaching dates: tuesdays and thursdays 17:00 - 20:30
 
-24/10 2023, 31/10 2023, 7/11 2023, 14/11 2023, 21/11 2023, 28/11 2023, 5/12 2023
+Teaching dates: mostly tuesdays and thursdays 17:00 - 20:30
+29/10 , 31/10 - moving to new date! , 5/11 , 7/11 , 12/11 , 14/11, 19/11
 
-Exam: 19/12 2023
+Suggestion for replacement date 26/11
+
+Exam: 2/12 2024
 
 
 Make sure to mark dates in your calendar
@@ -43,7 +46,7 @@ Make sure to mark dates in your calendar
 Since we are going to be doing exercises, each team will need virtual machines.
 
 The following are recommended:
-* One based on Debian 11, running software servers and web applications
+* One based on Debian 12, running software servers and web applications
 
 Read more about these at [https://github.com/kramse/kramse-labs](https://github.com/kramse/kramse-labs)
 
@@ -65,8 +68,8 @@ by Jeff Bollinger, Brandon Enright, and Matthew Valites ISBN: 9781491949405 - sh
 * Intelligence-Driven Incident Response
 Scott Roberts	Rebekah Brown ISBN: 9781098120689 **2nd edition 2023** - short IDIR
 
-* Security Operations Center: Building, Operating, and Maintaining your SOC
-ISBN: 9780134052014 Joseph Muniz - short SOC
+* Modern Security Operations Center, The
+ISBN: 978-0135619858 Joseph Muniz - short SOC
 
 It is recommended to buy these books.
 
@@ -150,7 +153,7 @@ Note about software: The books may describe installation of software, but those 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">24/10 2023</td>
+      <td style="text-align:left">29/10 </td>
       <td style="text-align:left">
         <p>Welcome, goals and expectations</p>
         <p>Prepare Virtual Machines - bring laptop</p>
@@ -168,7 +171,7 @@ Note about software: The books may describe installation of software, but those 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">31/10 2023</td>
+      <td style="text-align:left">5/11 </td>
       <td style="text-align:left"><b>Initial Overview of SIEM Terms</b>
         <p>Get an overview of the subject</p>
       </td>
@@ -182,7 +185,7 @@ Note about software: The books may describe installation of software, but those 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">7/11 2023</td>
+      <td style="text-align:left">7/11 </td>
       <td style="text-align:left"><b>Hello world of Security Data Analysis</b>
         <p>Get started with some data types and sources</p>
       </td>
@@ -194,7 +197,7 @@ Note about software: The books may describe installation of software, but those 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14/11 2023</td>
+      <td style="text-align:left">12/11 </td>
       <td style="text-align:left"><b>Storing and Processing data</b></td>
       <td style="text-align:left">
         <p>Books: 23 pages, but also parts of CIP 7!</p>
@@ -204,7 +207,7 @@ Note about software: The books may describe installation of software, but those 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">21/11 2023</td>
+      <td style="text-align:left">14/11 </td>
       <td style="text-align:left"><b>Visualization and Dashboards</b></td>
       <td style="text-align:left">
         <p>Books - approx 44 pages </p>
@@ -215,7 +218,7 @@ Note about software: The books may describe installation of software, but those 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">28/11 2023</td>
+      <td style="text-align:left">19/11 </td>
       <td style="text-align:left"><b>Baseline Your Data</b></td>
       <td style="text-align:left">
         <p>Books - approx 64 pages</p>
@@ -226,7 +229,7 @@ Note about software: The books may describe installation of software, but those 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">5/12 2023</td>
+      <td style="text-align:left">26/11 </td>
       <td style="text-align:left"><b>Operate, Respond and Forensics</b></td>
       <td style="text-align:left">
         <p>Books - approx 68 pages</p>
