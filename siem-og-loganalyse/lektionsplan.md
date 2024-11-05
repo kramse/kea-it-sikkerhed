@@ -32,9 +32,7 @@ See more about the course in the official curriculum which can be downloaded fro
 Teaching dates: tuesdays and thursdays 17:00 - 20:30
 
 Teaching dates: mostly tuesdays and thursdays 17:00 - 20:30
-29/10 , 31/10 - moving to new date! , 5/11 , 7/11 , 12/11 , 14/11, 19/11
-
-Suggestion for replacement date 26/11
+29/10, 5/11 , 7/11 , 12/11 , 14/11, 19/11, 26/11
 
 Exam: 2/12 2024
 
@@ -127,10 +125,6 @@ Sebastien Tricaud, Kara Nancem, Philippe Saadé
 Other relevant papers and documents can often be found in the NIST publications, Special Publications series 800: [https://csrc.nist.gov/publications/sp800](https://csrc.nist.gov/publications/sp800)
 
 Example the [Guide to Computer Security Log Management SP800-92](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf)
-
-
-
-
 
 
 ## Planning
@@ -232,10 +226,9 @@ Note about software: The books may describe installation of software, but those 
       <td style="text-align:left">26/11 </td>
       <td style="text-align:left"><b>Operate, Respond and Forensics</b></td>
       <td style="text-align:left">
-        <p>Books - approx 68 pages</p>
-        <p>SOC 7. vuln management 25,
-          SOC 11. Reacting to events and Incidents 16,
-          CIP 6 Operationalize! 27</p>
+        <p>Books</p>
+        <p>Read CIP 6 Operationalize!</p>
+          <p>Skim: SOC 9. vuln management and 10. Data Orchestration</p>
         <p>
           Papers: Skim table of contents
           Privacy by design in big data: An overview of privacy enhancing technologies in
@@ -256,13 +249,12 @@ DDS 5. From Maps to Regression 33 pages - skipped, as Elasticsearch provides the
 
 DDS 9. Demystifying Machine Learning 25 pages - skipped, as this is complex subject in itself.
 
-Note: a recent book was published about this subject: Machine Learning and Security
+Note: another book was published about this subject: Machine Learning and Security
 Clarence Chio	ISBN: 9781491979907
 
 We also skipped other chapters, which I would have liked to include:
 
-* SOC 1. Introduction to Security Operations and the SOC 33 pages
-* SOC 2. Overview of SOC Technologies 32 pages
-* SOC 6. Security Event Generation and Collection 66 pages
+* SOC 1. Introducing Security Security Operations and the SOC
+* SOC 5. Centralizing Data
 
 I have tried to include important conclusions from those chapters in the slides.
