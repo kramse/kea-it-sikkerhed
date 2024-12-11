@@ -27,7 +27,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: TBD 2025
+Date: April 3rd, 2025
 
 ### Teaching Methods:
 
@@ -36,7 +36,9 @@ Date: TBD 2025
 
 Teaching dates: mondays 10:00 - 17:00
 
-The dates are coming for 2025
+The dates are for 2025:
+28/1, 30/1, 4/2, 6/2, 11/2, 13/2, 18/2, 20/2, 25/2, 27/2, 4/3, 6/3, 11/3, 13/3
+
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
