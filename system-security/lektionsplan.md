@@ -46,7 +46,7 @@ Primary literature:
 by Lee Brotherston, Amanda Berlin, William F. Reyor, June 2024, O'Reilly Media, Inc.
 ISBN: 978-1-098-127244
 * _Windows 11 Security Book: Powerful security by design, Microsoft 2023, short 80 page PDF
-https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/MSFT-Windows11-Security-book_Sept2023.pdf
+https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/MSFT-Windows11-Security-book_Sept2023.pdf
 * _Mastering Linux Security and Hardening_ (MLSH), third edition, Donald A. Tevault, 2023 ISBN: 9781837630516
 https://www.packtpub.com/product/mastering-linux-security-and-hardening-third-edition/9781837630516
 
