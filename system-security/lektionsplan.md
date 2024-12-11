@@ -12,8 +12,6 @@ English: Computer Systems Security
 Teacher: Henrik Kramselund  xhek@kea.dk  hlk@zencurity.dk +45 2026 6000
 
 
-This document is written using Github.
-
 Teaching material will primarily be English, but the teaching will be in Danish.
 
 ### Goals
