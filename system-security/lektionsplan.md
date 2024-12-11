@@ -125,11 +125,11 @@ The detailed plan is below with a table summarizing lessons
 </thead>
 <tbody>
     <tr>
-      <td style="text-align:left">8/1</td>
+      <td style="text-align:left"></td>
       <td colspan="2"><b> Welcome and getting started</b></td>
     </tr>
     <tr>
-      <td style="text-align:left"> Part 1</td>
+      <td style="text-align:left">28/1</td>
       <td style="text-align:left">
         <p>Prepare Kali Linux VM - bring laptop</p>
       </td>
@@ -138,33 +138,33 @@ The detailed plan is below with a table summarizing lessons
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left"></td>
+      <td colspan="2"><b>Overview of Enterprise Attacks</b></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">30/1</td>
       <td style="text-align:left">Overview of Computer Security</td>
       <td style="text-align:left"><p>DSH chapters 1-2, MLSH ch 1 </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">15/1</td>
-      <td colspan="2"><b>Overview of Enterprise Attacks</b></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left">4/2</td>
       <td style="text-align:left">Enterprise Attacks</td>
       <td style="text-align:left"><p>Read <a href="https://medium.com/mitre-attack/att-ck-101-17074d3bc62">ATT&CK 101 Blog Post</a> and browse
       <a href="https://attack.mitre.org/">MITRE ATT&CK</a></p></td>
     </tr>
     <tr>
-      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left">6/2</td>
       <td style="text-align:left">User Accounts</td>
       <td style="text-align:left">MLSH 1-3
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">22/1</td>
+      <td style="text-align:left"></td>
       <td  colspan="2"><b>Security Policies and Cryptography</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left">11/2</td>
       <td style="text-align:left">Security Policies</td>
       <td style="text-align:left">
       <p>DSH ch 3-5, MLSH ch 4 - NOT firewalld part!<br>
@@ -174,7 +174,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left">13/2</td>
       <td style="text-align:left">Basic Cryptography</td>
       <td style="text-align:left">
       <p>MLSH ch 5, browse chapter 6<br>
@@ -185,11 +185,11 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">29/1</td>
-      <td colspan="2"><b> Securing the Architecture</b></td>
+      <td style="text-align:left"></td>
+      <td colspan="2"><b> Securing the Architecture and Preventing Attacks</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left">18/2</td>
       <td style="text-align:left">Malware, Intrusion, Vulnerabilities</td>
       <td style="text-align:left">
       <p>Skim: Forensics Discovery, ch 5-6</p><p>
@@ -198,7 +198,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"> Part 2</td>
+      <td style="text-align:left">20/2</td>
       <td style="text-align:left">Secure Systems Design and Implementation</td>
       <td style="text-align:left">
       <p>MLSH ch 7-8</br>Skim, Setuid demystified, Some thoughts on security after ten years of qmail 1.0,
@@ -206,11 +206,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">26/2</td>
-      <td colspan="2"><b>Preventing Attacks</b></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left">25/2</td>
       <td style="text-align:left">Confinement and isolation</td>
       <td style="text-align:left">
       <p> MLSH ch 9-10</br>
@@ -219,7 +215,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left">27/2</td>
       <td style="text-align:left">Breaking out</td>
       <td style="text-align:left">
       <p>Read MLSH 11, DSH ch 16</p>
@@ -230,11 +226,11 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">4/3</td>
+      <td style="text-align:left"></td>
       <td colspan="2"><b>Computer Forensic and Incident Response</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left">4/3</td>
       <td style="text-align:left">Auditing and Intrusion Detection</td>
       <td style="text-align:left">
       <p>Read DSH ch 19-20, MLSH 12</p>
@@ -245,7 +241,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left">6/3</td>
       <td style="text-align:left">Incident Response
       </td>
       <td style="text-align:left">
@@ -255,11 +251,11 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/3</td>
+      <td style="text-align:left"></td>
       <td colspan="2"><b>System Security in Practice</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">Part 1</td>
+      <td style="text-align:left">11/3</td>
       <td style="text-align:left">Securing DNS and Email
       </td>
       <td style="text-align:left">
@@ -268,7 +264,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Part 2</td>
+      <td style="text-align:left">13/3</td>
       <td style="text-align:left">Benchmarking and Auditing Recap</td>
       <td style="text-align:left">
       <p>Read DSH ch 8, skim ch 10-12</p>
