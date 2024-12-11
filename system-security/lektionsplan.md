@@ -27,7 +27,7 @@ See more about the course in the official curriculum.
 
 ### Exam:
 
-Date: 25/3 2024
+Date: TBD 2025
 
 ### Teaching Methods:
 
@@ -36,22 +36,24 @@ Date: 25/3 2024
 
 Teaching dates: mondays 10:00 - 17:00
 
-8/1, 15/1, 22/1, 29/1, 26/2, 4/3, 11/3  2024
+The dates are coming for 2025
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
 
 Primary literature:
-
+* _Defensive Security Handbook_ (DSH), 2nd Edition
+by Lee Brotherston, Amanda Berlin, William F. Reyor, June 2024, O'Reilly Media, Inc.
+ISBN: 978-1-098-127244
+* _Windows 11 Security Book: Powerful security by design, Microsoft 2023, short 80 page PDF
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/MSFT-Windows11-Security-book_Sept2023.pdf
 * _Mastering Linux Security and Hardening_ (MLSH), third edition, Donald A. Tevault, 2023 ISBN: 9781837630516
 https://www.packtpub.com/product/mastering-linux-security-and-hardening-third-edition/9781837630516
-* _Defensive Security Handbook: Best Practices for Securing Infrastructure_ (DSH), Lee Brotherston, Amanda Berlin ISBN: 978-1-491-96038-7 284 pages
-* _Forensics Discovery_ (FD), Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it
 
 It is recommended to buy these books. Note: we won't read all chapters and pages.
 
-Supporting literature - optional to buy, but recommended:
-
+Supporting literature - optional, but recommended:
+* _Forensics Discovery_ (FD), Dan Farmer, Wietse Venema 2004, Addison-Wesley 240 pages. Can be found at http://www.porcupine.org/forensics/forensic-discovery/ but recommend buying it
 * _The Linux Command Line: A Complete Introduction_, 2nd Edition by William Shotts Print: https://nostarch.com/tlcl2
 Download -- internet edition https://sourceforge.net/projects/linuxcommand
 * _Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali_ by OccupyTheWeb, December 2018, 248 pp. ISBN-13: 978-1-59327-855-7 - shortened LBfH
