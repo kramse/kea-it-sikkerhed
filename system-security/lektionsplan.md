@@ -34,7 +34,7 @@ Date: April 3rd, 2025
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-Teaching dates: mondays 10:00 - 17:00
+Teaching dates: tuesdays and thursdays 17:00 - 20:30
 
 The dates are for 2025:
 28/1, 30/1, 4/2, 6/2, 11/2, 13/2, 18/2, 20/2, 25/2, 27/2, 4/3, 6/3, 11/3, 13/3
