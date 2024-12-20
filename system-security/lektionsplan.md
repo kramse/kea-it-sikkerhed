@@ -35,8 +35,9 @@ Date: April 3rd, 2025
 Teaching dates: tuesdays and thursdays 17:00 - 20:30
 
 The dates are for 2025:
-28/1, 30/1, 4/2, 6/2, 11/2, 13/2, 18/2, 20/2, 25/2, 27/2, 4/3, 6/3, 11/3, 13/3
+28/1, 30/1, 4/2, 6/2, 11/2, 13/2, 18/2, 20/2, 25/2, 27/2, 4/3, (to be moved 6/3), 11/3, 13/3
 
+The date 6/3 will be moved, suggest 18/3 instead.
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
