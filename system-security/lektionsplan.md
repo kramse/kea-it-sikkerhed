@@ -240,7 +240,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">6/3</td>
+      <td style="text-align:left">11/3</td>
       <td style="text-align:left">Incident Response
       </td>
       <td style="text-align:left">
@@ -254,7 +254,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td colspan="2"><b>System Security in Practice</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">11/3</td>
+      <td style="text-align:left">13/3</td>
       <td style="text-align:left">Securing DNS and Email
       </td>
       <td style="text-align:left">
@@ -263,7 +263,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">13/3</td>
+      <td style="text-align:left">18/3</td>
       <td style="text-align:left">Benchmarking and Auditing Recap</td>
       <td style="text-align:left">
       <p>Read DSH ch 8, skim ch 10-12</p>
