@@ -35,9 +35,9 @@ Date: April 3rd, 2025
 Teaching dates: tuesdays and thursdays 17:00 - 20:30
 
 The dates are for 2025:
-28/1, 30/1, 4/2, 6/2, 11/2, 13/2, 18/2, 20/2, 25/2, 27/2, 4/3, (to be moved 6/3), 11/3, 13/3
+28/1, 30/1, 4/2, 6/2, 11/2, 13/2, 18/2, 20/2, 25/2, 27/2, 4/3, (6/3 moved), 11/3, 13/3, 18/3
 
-The date 6/3 will be moved, suggest 18/3 instead.
+The date 6/3 was moved to 18/3 instead.
 
 ### Course reading list
 This course uses a few books and a number of supporting resources.
@@ -46,7 +46,7 @@ Primary literature:
 * _Defensive Security Handbook_ (DSH), 2nd Edition
 by Lee Brotherston, Amanda Berlin, William F. Reyor, June 2024, O'Reilly Media, Inc.
 ISBN: 978-1-098-127244
-* _Windows 11 Security Book: Powerful security by design, Microsoft 2023, short 80 page PDF
+* _Windows 11 Security Book: Powerful security by design_ (MSFT), Microsoft 2023, short 80 page PDF
 https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/MSFT-Windows11-Security-book_Sept2023.pdf
 * _Mastering Linux Security and Hardening_ (MLSH), third edition, Donald A. Tevault, 2023 ISBN: 9781837630516
 https://www.packtpub.com/product/mastering-linux-security-and-hardening-third-edition/9781837630516
@@ -150,12 +150,12 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">4/2</td>
       <td style="text-align:left">Enterprise Attacks</td>
       <td style="text-align:left"><p>Read <a href="https://medium.com/mitre-attack/att-ck-101-17074d3bc62">ATT&CK 101 Blog Post</a> and browse
-      <a href="https://attack.mitre.org/">MITRE ATT&CK</a></p></td>
+      <a href="https://attack.mitre.org/">MITRE ATT&CK</a> MSFT Hardware Security and Operating System Security</p></td>
     </tr>
     <tr>
       <td style="text-align:left">6/2</td>
       <td style="text-align:left">User Accounts</td>
-      <td style="text-align:left">MLSH 1-3
+      <td style="text-align:left"><p>MLSH 1-3</p><p>MSFT Identity, Privacy and   Cloud Services</p>
       </td>
     </tr>
     <tr>
@@ -193,7 +193,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left">
       <p>Skim: Forensics Discovery, ch 5-6</p><p>
       Browse: Smashing The Stack For Fun And Profit, Bypassing non-executable-stack during exploitation using return-to-libc, Basic Integer Overflows, Return-Oriented Programming
-      </p>
+      </p><p>MSFT Application Security</p>
       </td>
     </tr>
     <tr>
@@ -267,7 +267,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left">Benchmarking and Auditing Recap</td>
       <td style="text-align:left">
       <p>Read DSH ch 8, skim ch 10-12</p>
-      <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p>
+      <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p><p>MSFT Security Foundation and Conclusion, rest of the small book</p>
       </td>
     </tr>
     <tr>
