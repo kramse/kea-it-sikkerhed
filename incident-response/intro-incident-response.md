@@ -22,16 +22,16 @@ The module is an introduction to Incident Response that will describe the basics
 
 See more about the course in the official curriculum.
 
-### Exam:
+### Exam
 
 Exams 6/5, 7/5 and 13/5
 
-### Teaching Methods:
+### Teaching Methods
 
 * Lecture lessons
 * Group exercises and cases, including practical exercises with laptop
 
-### Teaching dates - Spring 2024:
+### Teaching dates
 
 Teaching dates: thursdays 12:45 - 16:45 in GBG.E512
 
