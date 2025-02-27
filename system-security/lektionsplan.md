@@ -143,7 +143,7 @@ The detailed plan is below with a table summarizing lessons
     <tr>
       <td style="text-align:left">30/1</td>
       <td style="text-align:left">Overview of Computer Security</td>
-      <td style="text-align:left"><p>DSH chapters 1-2, MLSH ch 1 </p>
+      <td style="text-align:left"><p>DSH chapters 1. Creating a Security Program, 2. Asset Management and Documentation MLSH ch 1 </p>
       </td>
     </tr>
     <tr>
@@ -166,7 +166,7 @@ The detailed plan is below with a table summarizing lessons
       <td style="text-align:left">11/2</td>
       <td style="text-align:left">Security Policies</td>
       <td style="text-align:left">
-      <p>DSH ch 3-5, MLSH ch 4 - NOT firewalld part!<br>
+      <p>DSH ch 3. Policies, 4. Standards and Procedures, 5. User Education, MLSH ch 4 - NOT firewalld part!<br>
       Browse: Campus Network Security: High Level Overview , Network Startup Resource Center
 Campus Operations Best Current Practice, Network Startup Resource Center
 Mutually Agreed Norms for Routing Security (MANRS) </p>
@@ -217,7 +217,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left">27/2</td>
       <td style="text-align:left">Breaking out</td>
       <td style="text-align:left">
-      <p>Read MLSH 11, DSH ch 16</p>
+      <p>Read MLSH 11, DSH ch 18: Vulnerability Management</p>
       <p>
       Browse: Using Memory Errors to Attack a Virtual Machine paper, An Experimental Study of DRAM Disturbance Errors,  Exploiting the DRAM rowhammer bug to gain kernel privileges
       https://en.wikipedia.org/wiki/Row_hammer
@@ -232,7 +232,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left">4/3</td>
       <td style="text-align:left">Auditing and Intrusion Detection</td>
       <td style="text-align:left">
-      <p>Read DSH ch 19-20, MLSH 12</p>
+      <p>Read DSH ch 21: Understanding IDSs and IPSs, 22. Logging and Monitoring, MLSH 12</p>
       <p>Skim: Forensics Discovery, ch 1-4 and appendix B</p>
       <p>
       Download and browse the ENISA papers listed under Computer Forensics in the reading list
@@ -244,7 +244,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left">Incident Response
       </td>
       <td style="text-align:left">
-      <p>Read DSH ch 6-7</p>
+      <p>Read DSH ch 6. Incident Response, 7. Disaster Recovery </p>
       <p>Browse: Incident Handler's Handbook
       </p>
       </td>
@@ -258,7 +258,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left">Securing DNS and Email
       </td>
       <td style="text-align:left">
-      <p>DSH ch 21</br>
+      <p>DSH ch 23. The Extra Mile</br>
       </p>
       </td>
     </tr>
@@ -266,7 +266,7 @@ Mutually Agreed Norms for Routing Security (MANRS) </p>
       <td style="text-align:left">18/3</td>
       <td style="text-align:left">Benchmarking and Auditing Recap</td>
       <td style="text-align:left">
-      <p>Read DSH ch 8, skim ch 10-12</p>
+      <p>Read DSH ch 8. Industry Compliance Standards and Frameworks, skim ch 10-12: Windows, Unix and Endpoints</p>
       <p>CIS controls and PCI Best Practices for Maintaining PCI DSS Compliance v2.0 Jan 2019</p><p>MSFT Security Foundation and Conclusion, rest of the small book</p>
       </td>
     </tr>
